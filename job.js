@@ -1,17 +1,16 @@
 import fs from "fs";
 
-const WATCH = [
-  { name: "S&P 500", symbol: "^SPX" },
-  { name: "Dow Jones", symbol: "^DJI" },
-  // 필요하면 추가: { name:"Nikkei 225", symbol:"^N225" } 같은 식
-];
+function readJson(path, fallback) {
+  try { return JSON.parse(fs.readFileSync(path, "utf-8")); }
+  catch { return fallback; }
+}
+
+const watch = readJson("watchlist.json", { symbols: [] }).symbols || [];
+const WATCH = watch.map(sym => ({ name: sym, symbol: sym }));
 
 const NEWS_QUERIES = [
-  "S&P 500",
-  "Dow Jones",
-  "Nasdaq",
-  "KOSPI",
-  "KOSDAQ",
+  "미국 증시", "나스닥", "S&P 500", "KOSPI", "KOSDAQ",
+  ...watch.slice(0, 8)
 ];
 
 async function fetchText(url) {
@@ -21,7 +20,6 @@ async function fetchText(url) {
 }
 
 function parseStooqCSV(csv) {
-  // 첫 줄 헤더, 둘째 줄 데이터(보통)
   const lines = csv.trim().split("\n");
   if (lines.length < 2) return null;
   const headers = lines[0].split(",").map(s => s.trim());
@@ -40,7 +38,7 @@ function decodeXmlEntities(s) {
     .replaceAll("&#39;", "'");
 }
 
-function parseGoogleNewsRSS(xml, limit = 10) {
+function parseGoogleNewsRSS(xml, limit = 8) {
   const items = [];
   const parts = xml.split("<item>").slice(1);
   for (const p of parts) {
@@ -49,7 +47,6 @@ function parseGoogleNewsRSS(xml, limit = 10) {
     const pubDate = (p.match(/<pubDate>(.*?)<\/pubDate>/) || [])[1];
     if (!title || !link) continue;
 
-    // Google News는 "제목 - 출처" 형태가 많음
     const cleanTitle = decodeXmlEntities(title);
     const [headline, source] = cleanTitle.split(" - ").map(s => s.trim());
 
@@ -65,10 +62,8 @@ function parseGoogleNewsRSS(xml, limit = 10) {
 }
 
 async function main() {
-  // 1) 가격
   const prices = [];
   for (const w of WATCH) {
-    // Stooq CSV quote endpoint
     const url = `https://stooq.com/q/l/?s=${encodeURIComponent(w.symbol)}&f=sd2t2ohlcvn&h&e=csv`;
     try {
       const csv = await fetchText(url);
@@ -90,7 +85,6 @@ async function main() {
     }
   }
 
-  // 2) 뉴스(RSS)
   const news = [];
   for (const q of NEWS_QUERIES) {
     const url = `https://news.google.com/rss/search?q=${encodeURIComponent(q)}&hl=ko&gl=KR&ceid=KR:ko`;
@@ -104,6 +98,7 @@ async function main() {
 
   const data = {
     updatedAt: new Date().toISOString(),
+    watchlist: watch,
     prices,
     news,
   };
