@@ -1,1 +1,0 @@
-# my-auto-site
