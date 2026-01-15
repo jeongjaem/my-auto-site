@@ -1,251 +1,493 @@
 <!doctype html>
 <html lang="ko">
 <head>
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>my-auto-site</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>my-auto-site</title>
+  <meta name="description" content="주요 증시 가격 + 뉴스 대시보드 (GitHub Pages + Actions + Issue 기반 watchlist)" />
+  <style>
+    :root{
+      --bg: #0b0f1a;
+      --card: rgba(255,255,255,.06);
+      --card2: rgba(255,255,255,.08);
+      --text: rgba(255,255,255,.92);
+      --muted: rgba(255,255,255,.66);
+      --border: rgba(255,255,255,.12);
+      --shadow: 0 18px 60px rgba(0,0,0,.55);
+      --radius: 18px;
+    }
+    *{ box-sizing:border-box; }
+    body{
+      margin:0;
+      color:var(--text);
+      font-family: ui-sans-serif, system-ui, -apple-system, "Apple SD Gothic Neo", "Noto Sans KR", sans-serif;
+      background:
+        radial-gradient(1200px 600px at 10% 0%, rgba(120,119,198,.35), transparent 60%),
+        radial-gradient(900px 500px at 90% 10%, rgba(59,130,246,.28), transparent 55%),
+        radial-gradient(700px 500px at 50% 100%, rgba(16,185,129,.18), transparent 55%),
+        var(--bg);
+      min-height:100vh;
+    }
+    .wrap{ max-width:1000px; margin:0 auto; padding:28px 18px 64px; }
+    header{
+      margin-top:10px;
+      padding:28px;
+      border:1px solid var(--border);
+      border-radius: var(--radius);
+      background: linear-gradient(135deg, var(--card), transparent);
+      box-shadow: var(--shadow);
+      position: relative;
+      overflow:hidden;
+    }
+    header::after{
+      content:"";
+      position:absolute; inset:-2px;
+      background: radial-gradient(600px 240px at 20% 30%, rgba(255,255,255,.12), transparent 60%);
+      pointer-events:none;
+    }
+    .badge{
+      display:inline-flex; align-items:center; gap:8px;
+      padding:8px 12px;
+      border:1px solid var(--border);
+      border-radius:999px;
+      background: rgba(255,255,255,.06);
+      color: var(--muted);
+      font-size:13px;
+      width: fit-content;
+    }
+    .dot{ width:8px; height:8px; border-radius:999px; background:#22c55e; box-shadow:0 0 16px rgba(34,197,94,.65); }
+    h1{ margin:14px 0 10px; font-size:34px; letter-spacing:-.5px; }
+    .sub{ margin:0; color:var(--muted); line-height:1.6; }
 
-<style>
-:root{
-  --bg:#0b0f1a;
-  --card:rgba(255,255,255,.06);
-  --text:rgba(255,255,255,.92);
-  --muted:rgba(255,255,255,.65);
-  --border:rgba(255,255,255,.12);
-  --radius:18px;
-}
-*{box-sizing:border-box}
-body{
-  margin:0;
-  font-family:system-ui,-apple-system,"Apple SD Gothic Neo","Noto Sans KR",sans-serif;
-  color:var(--text);
-  background:
-    radial-gradient(900px 500px at 10% 0%, rgba(99,102,241,.35), transparent 60%),
-    radial-gradient(900px 500px at 90% 10%, rgba(16,185,129,.25), transparent 60%),
-    var(--bg);
-}
-.wrap{max-width:1100px;margin:0 auto;padding:28px 18px 60px}
-header{
-  padding:28px;
-  border:1px solid var(--border);
-  border-radius:var(--radius);
-  background:linear-gradient(135deg,var(--card),transparent);
-}
-.badge{
-  display:inline-flex;
-  gap:8px;
-  align-items:center;
-  font-size:13px;
-  color:var(--muted);
-}
-.dot{
-  width:8px;height:8px;border-radius:50%;
-  background:#22c55e;
-}
-h1{margin:10px 0;font-size:34px}
-.sub{color:var(--muted);line-height:1.6}
+    .grid{
+      display:grid;
+      grid-template-columns: 1.4fr .9fr;
+      gap:16px;
+      margin-top:16px;
+    }
+    @media (max-width: 860px){
+      .grid{ grid-template-columns: 1fr; }
+      h1{ font-size:30px; }
+    }
 
-.grid{
-  display:grid;
-  grid-template-columns:1.4fr .9fr;
-  gap:16px;
-  margin-top:16px;
-}
-@media(max-width:900px){.grid{grid-template-columns:1fr}}
+    .card{
+      border:1px solid var(--border);
+      border-radius: var(--radius);
+      background: rgba(255,255,255,.06);
+      box-shadow: 0 10px 40px rgba(0,0,0,.35);
+      overflow:hidden;
+    }
+    .card .hd{
+      padding:16px 18px;
+      border-bottom:1px solid var(--border);
+      background: rgba(255,255,255,.04);
+      display:flex; align-items:center; justify-content:space-between; gap:12px;
+    }
+    .card .bd{ padding:18px; }
+    .k{ color: var(--muted); font-size:13px; }
+    .v{ font-weight:700; }
+    .pill{
+      display:inline-flex; align-items:center;
+      padding:6px 10px;
+      border-radius:999px;
+      border:1px solid var(--border);
+      background: rgba(255,255,255,.06);
+      font-size:12px;
+      color: var(--muted);
+    }
 
-.card{
-  border:1px solid var(--border);
-  border-radius:var(--radius);
-  background:var(--card);
-  overflow:hidden;
-}
-.hd{
-  padding:14px 18px;
-  border-bottom:1px solid var(--border);
-  display:flex;
-  justify-content:space-between;
-  align-items:center;
-}
-.bd{padding:18px}
-.k{color:var(--muted);font-size:13px}
-.pill{
-  padding:6px 10px;
-  border-radius:999px;
-  border:1px solid var(--border);
-  font-size:12px;
-  color:var(--muted);
-}
-.table{
-  width:100%;
-  border-collapse:collapse;
-  font-size:13px;
-}
-.table th,.table td{
-  padding:8px;
-  border-bottom:1px solid var(--border);
-}
-.right{text-align:right}
-.newsItem{
-  border:1px solid var(--border);
-  border-radius:14px;
-  padding:12px;
-  margin-bottom:10px;
-}
-.newsItem a{color:var(--text);text-decoration:none}
-.newsItem a:hover{text-decoration:underline}
+    .btns{ display:flex; flex-wrap:wrap; gap:10px; margin-top:14px; }
+    a.btn, button.btn{
+      appearance:none;
+      border:1px solid var(--border);
+      background: rgba(255,255,255,.06);
+      color: var(--text);
+      padding:10px 12px;
+      border-radius: 12px;
+      text-decoration:none;
+      font-weight:650;
+      font-size:14px;
+      display:inline-flex; align-items:center; gap:10px;
+      cursor:pointer;
+      transition: transform .12s ease, background .12s ease, border-color .12s ease;
+    }
+    a.btn:hover, button.btn:hover{
+      transform: translateY(-1px);
+      background: rgba(255,255,255,.10);
+      border-color: rgba(255,255,255,.22);
+    }
+    .btn.primary{
+      background: linear-gradient(135deg, rgba(59,130,246,.32), rgba(16,185,129,.18));
+      border-color: rgba(59,130,246,.35);
+    }
 
-.btn{
-  border:1px solid var(--border);
-  background:rgba(255,255,255,.06);
-  color:var(--text);
-  padding:10px 12px;
-  border-radius:12px;
-  cursor:pointer;
-}
-.btn:hover{background:rgba(255,255,255,.12)}
+    /* ---- Dashboard extras ---- */
+    .table {
+      width: 100%;
+      border-collapse: collapse;
+      overflow: hidden;
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      background: rgba(0,0,0,.25);
+    }
+    .table th, .table td {
+      padding: 10px 12px;
+      border-bottom: 1px solid var(--border);
+      font-size: 13px;
+      vertical-align: top;
+    }
+    .table th {
+      text-align: left;
+      color: var(--muted);
+      font-weight: 650;
+      background: rgba(255,255,255,.04);
+    }
+    .table tr:last-child td { border-bottom: 0; }
+    .right { text-align: right; }
+    .good { color: rgba(34,197,94,.95); }
+    .bad { color: rgba(239,68,68,.95); }
+    .muted { color: var(--muted); }
 
-input{
-  width:100%;
-  padding:10px 12px;
-  border-radius:12px;
-  border:1px solid var(--border);
-  background:rgba(0,0,0,.25);
-  color:var(--text);
-}
-</style>
+    .newsList { display: grid; gap: 10px; }
+    .newsItem {
+      border: 1px solid var(--border);
+      background: rgba(255,255,255,.05);
+      border-radius: 14px;
+      padding: 12px;
+    }
+    .newsTop {
+      display: flex;
+      justify-content: space-between;
+      gap: 10px;
+      margin-bottom: 6px;
+    }
+    .newsTitle { font-weight: 700; line-height: 1.35; }
+    .newsMeta {
+      color: var(--muted);
+      font-size: 12px;
+      white-space: nowrap;
+    }
+    .newsItem a {
+      color: rgba(255,255,255,.92);
+      text-decoration: none;
+    }
+    .newsItem a:hover { text-decoration: underline; }
+    .tag {
+      display: inline-flex;
+      align-items: center;
+      padding: 4px 8px;
+      border-radius: 999px;
+      border: 1px solid var(--border);
+      background: rgba(255,255,255,.06);
+      color: var(--muted);
+      font-size: 12px;
+      width: fit-content;
+    }
+
+    /* ---- Watchlist UI ---- */
+    .input {
+      width: 100%;
+      padding: 10px 12px;
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      background: rgba(0,0,0,.25);
+      color: var(--text);
+      outline: none;
+    }
+    .row { display:flex; gap:10px; align-items:center; flex-wrap:wrap; }
+    .hint { font-size:12px; color: var(--muted); line-height:1.6; }
+    .okBox, .errBox{
+      margin-top:10px;
+      padding:10px 12px;
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      background: rgba(0,0,0,.25);
+      font-size:12px;
+      line-height:1.5;
+      color: var(--muted);
+    }
+    .errBox{ border-color: rgba(239,68,68,.35); }
+    .okBox{ border-color: rgba(34,197,94,.30); }
+  </style>
 </head>
 
 <body>
-<div class="wrap">
+  <div class="wrap">
+    <header>
+      <div class="badge"><span class="dot"></span> online • GitHub Pages</div>
+      <h1>my-auto-site</h1>
+      <p class="sub">
+        주요 증시 가격 + 뉴스 대시보드.<br/>
+        (Actions가 <code>data.json</code>을 갱신하면 자동으로 반영됨)
+      </p>
 
-<header>
-  <div class="badge"><span class="dot"></span> online • GitHub Pages</div>
-  <h1>my-auto-site</h1>
-  <p class="sub">
-    주요 증시 가격과 뉴스를 자동으로 모아보는 대시보드.<br>
-    GitHub Actions가 데이터를 주기적으로 업데이트합니다.
-  </p>
-</header>
+      <div class="btns">
+        <a class="btn primary" id="repoLink" href="#" target="_blank" rel="noreferrer">↗ GitHub Repo</a>
+        <button class="btn" id="refreshBtn">⟳ 새로고침</button>
+        <a class="btn" href="data.json" target="_blank" rel="noreferrer">📄 data.json</a>
+      </div>
+    </header>
 
-<section class="grid">
+    <section class="grid">
+      <!-- LEFT: dashboard -->
+      <div class="card">
+        <div class="hd">
+          <div>
+            <div class="k">Status</div>
+            <div class="v" id="statusText">Ready</div>
+          </div>
+          <span class="pill" id="pill">STATIC</span>
+        </div>
 
-<!-- 왼쪽: 데이터 -->
-<div class="card">
-  <div class="hd">
-    <div>
-      <div class="k">Status</div>
-      <strong id="statusText">Ready</strong>
-    </div>
-    <span class="pill" id="pill">STATIC</span>
+        <div class="bd">
+          <div class="k" style="margin-bottom:10px;">주요 지수/종목</div>
+          <div id="prices"></div>
+
+          <div style="height:14px"></div>
+
+          <div class="k" style="margin-bottom:10px;">관련 뉴스</div>
+          <div id="news"></div>
+        </div>
+      </div>
+
+      <!-- RIGHT: controls -->
+      <div class="card">
+        <div class="hd">
+          <div class="k">Control</div>
+          <span class="pill">Issue watchlist</span>
+        </div>
+        <div class="bd">
+          <div class="k">마지막 확인</div>
+          <div class="v" id="lastCheck">-</div>
+
+          <div style="height:10px"></div>
+
+          <div class="k">종목 관리 (B 방식)</div>
+          <div class="hint" style="margin-top:6px;">
+            여기서 추가/삭제 → GitHub Issue가 열림 → 제출하면<br/>
+            Actions가 <code>watchlist.json</code>을 자동으로 바꿔줌.
+          </div>
+
+          <div style="height:10px"></div>
+
+          <input class="input" id="symInput" placeholder="심볼 입력 (예: TSLA, AAPL, 005930.KS)" />
+          <div class="row" style="margin-top:10px;">
+            <button class="btn" id="addBtn">➕ 추가</button>
+            <button class="btn" id="delBtn">➖ 삭제</button>
+            <a class="btn" id="openAllowed" href="allowed_symbols.json" target="_blank" rel="noreferrer">허용목록 보기</a>
+          </div>
+
+          <div id="wlMsg" class="okBox" style="display:none;"></div>
+          <div id="wlErr" class="errBox" style="display:none;"></div>
+
+          <div style="height:12px"></div>
+
+          <div class="k">팁</div>
+          <div class="hint">
+            • 심볼이 허용목록(allowed_symbols.json)에 없으면 “지원 안 함” 처리됨<br/>
+            • Issue 제목은 <code>watchlist</code>로 자동 생성됨<br/>
+            • Action이 실패하면 Actions 탭 로그를 확인하면 됨
+          </div>
+        </div>
+      </div>
+    </section>
   </div>
-  <div class="bd">
-    <div class="k">가격</div>
-    <div id="prices"></div>
 
-    <div style="height:16px"></div>
+  <script>
+    const statusText = document.getElementById("statusText");
+    const pill = document.getElementById("pill");
+    const lastCheck = document.getElementById("lastCheck");
+    const refreshBtn = document.getElementById("refreshBtn");
 
-    <div class="k">뉴스</div>
-    <div id="news"></div>
-  </div>
-</div>
+    const pricesEl = document.getElementById("prices");
+    const newsEl = document.getElementById("news");
 
-<!-- 오른쪽: 관리 -->
-<div class="card">
-  <div class="hd">
-    <div class="k">종목 관리</div>
-    <span class="pill">B 방식</span>
-  </div>
-  <div class="bd">
-    <div class="k">마지막 확인</div>
-    <strong id="lastCheck">-</strong>
+    const symInput = document.getElementById("symInput");
+    const addBtn = document.getElementById("addBtn");
+    const delBtn = document.getElementById("delBtn");
+    const wlMsg = document.getElementById("wlMsg");
+    const wlErr = document.getElementById("wlErr");
 
-    <div style="height:14px"></div>
+    function showMsg(text){
+      wlErr.style.display = "none";
+      wlMsg.style.display = "block";
+      wlMsg.textContent = text;
+    }
+    function showErr(text){
+      wlMsg.style.display = "none";
+      wlErr.style.display = "block";
+      wlErr.textContent = text;
+    }
+    function clearNote(){
+      wlMsg.style.display = "none";
+      wlErr.style.display = "none";
+      wlMsg.textContent = "";
+      wlErr.textContent = "";
+    }
 
-    <input id="symInput" placeholder="심볼 입력 (예: TSLA, 005930.KS)">
-    <div style="display:flex;gap:10px;margin-top:10px">
-      <button class="btn" id="addBtn">➕ 추가</button>
-      <button class="btn" id="delBtn">➖ 삭제</button>
-    </div>
+    // repo 링크 자동 설정
+    let repoUrl = null;
+    try{
+      const host = location.host;
+      const path = location.pathname.split("/").filter(Boolean);
+      if(host.endsWith("github.io") && path.length >= 1){
+        const repo = path[0];
+        const username = host.split(".")[0];
+        repoUrl = `https://github.com/${username}/${repo}`;
+        document.getElementById("repoLink").href = repoUrl;
+      }
+    }catch(e){}
 
-    <p class="k" style="margin-top:8px">
-      버튼을 누르면 GitHub Issue가 열리고<br>
-      제출하면 watchlist가 자동 반영됩니다.
-    </p>
-  </div>
-</div>
+    // 허용 심볼 로드
+    let allowedSet = new Set();
+    async function loadAllowed(){
+      try{
+        const r = await fetch("./allowed_symbols.json?ts=" + Date.now());
+        if(!r.ok) return new Set();
+        const d = await r.json();
+        return new Set((d.symbols || []).map(s => String(s).toUpperCase()));
+      }catch{
+        return new Set();
+      }
+    }
+    loadAllowed().then(s => allowedSet = s);
 
-</section>
-</div>
+    function fmtNum(x){
+      if(x === null || x === undefined) return "-";
+      const n = Number(x);
+      if(Number.isNaN(n)) return String(x);
+      return n.toLocaleString("en-US");
+    }
 
-<script>
-/* repo url */
-let repoUrl=null;
-try{
-  const h=location.host;
-  const p=location.pathname.split("/").filter(Boolean);
-  if(h.endsWith("github.io")&&p.length)
-    repoUrl=`https://github.com/${h.split(".")[0]}/${p[0]}`;
-}catch{}
+    function renderPrices(prices){
+      if(!Array.isArray(prices) || prices.length === 0){
+        pricesEl.innerHTML = `<div class="muted">가격 데이터 없음</div>`;
+        return;
+      }
 
-/* allowed */
-let allowed=new Set();
-fetch("./allowed_symbols.json?ts="+Date.now())
-  .then(r=>r.ok?r.json():null)
-  .then(d=>d?.symbols?.forEach(s=>allowed.add(String(s).toUpperCase())));
+      const rows = prices.map(p => {
+        const ok = !!p.ok;
+        const badge = ok ? `<span class="good">✅</span>` : `<span class="bad">⚠️</span>`;
+        const when = [p.date, p.time].filter(Boolean).join(" ");
+        return `
+          <tr>
+            <td>
+              ${badge} <strong>${p.name ?? "-"}</strong>
+              <div class="muted" style="font-size:12px">${p.symbol ?? ""}</div>
+            </td>
+            <td class="right">${fmtNum(p.close)}</td>
+            <td class="right muted">${when || "-"}</td>
+          </tr>
+        `;
+      }).join("");
 
-/* render */
-function renderPrices(arr){
-  if(!arr?.length){prices.innerHTML='<div class="k">데이터 없음</div>';return;}
-  prices.innerHTML=`
-  <table class="table">
-    <tr><th>종목</th><th class="right">Close</th><th class="right">시간</th></tr>
-    ${arr.map(p=>`
-      <tr>
-        <td>${p.symbol}</td>
-        <td class="right">${p.close??"-"}</td>
-        <td class="right k">${[p.date,p.time].filter(Boolean).join(" ")}</td>
-      </tr>`).join("")}
-  </table>`;
-}
-function renderNews(groups){
-  if(!groups?.length){news.innerHTML='<div class="k">뉴스 없음</div>';return;}
-  const flat=[];
-  groups.forEach(g=>(g.items||[]).forEach(i=>flat.push(i)));
-  news.innerHTML=flat.slice(0,8).map(n=>`
-    <div class="newsItem">
-      <a href="${n.link}" target="_blank">${n.headline}</a>
-      <div class="k">${n.source||""}</div>
-    </div>`).join("");
-}
-async function loadData(){
-  lastCheck.textContent=new Date().toLocaleString("ko-KR");
-  try{
-    const r=await fetch("./data.json?ts="+Date.now());
-    if(!r.ok) throw 1;
-    const d=await r.json();
-    renderPrices(d.prices);
-    renderNews(d.news);
-    statusText.textContent="AUTO";
-    pill.textContent="LIVE";
-  }catch{
-    statusText.textContent="STATIC";
-    pill.textContent="WAIT";
-  }
-}
-loadData();
+      pricesEl.innerHTML = `
+        <table class="table">
+          <thead>
+            <tr>
+              <th>항목</th>
+              <th class="right">Close</th>
+              <th class="right">시각</th>
+            </tr>
+          </thead>
+          <tbody>${rows}</tbody>
+        </table>
+      `;
+    }
 
-/* issue */
-function openIssue(action){
-  const s=symInput.value.trim().toUpperCase();
-  if(!s) return alert("심볼 입력해");
-  if(allowed.size && !allowed.has(s)) return alert(`${s} 는 지원 안 함`);
-  window.open(
-    `${repoUrl}/issues/new?title=watchlist&body=${encodeURIComponent(`action:${action}\nsymbol:${s}`)}`,
-    "_blank"
-  );
-}
-addBtn.onclick=()=>openIssue("add");
-delBtn.onclick=()=>openIssue("remove");
-</script>
+    function renderNews(newsGroups){
+      if(!Array.isArray(newsGroups) || newsGroups.length === 0){
+        newsEl.innerHTML = `<div class="muted">뉴스 데이터 없음</div>`;
+        return;
+      }
+
+      // 그룹을 한 리스트로 합치되, query 태그를 붙임
+      const flat = [];
+      for(const g of newsGroups){
+        const items = Array.isArray(g.items) ? g.items : [];
+        for(const it of items){
+          flat.push({
+            query: g.query,
+            headline: it.headline,
+            source: it.source,
+            link: it.link,
+            pubDate: it.pubDate
+          });
+        }
+      }
+
+      if(flat.length === 0){
+        newsEl.innerHTML = `<div class="muted">뉴스 항목이 아직 없어</div>`;
+        return;
+      }
+
+      const html = flat.slice(0, 15).map(it => `
+        <div class="newsItem">
+          <div class="newsTop">
+            <div class="newsTitle">
+              <a href="${it.link}" target="_blank" rel="noreferrer">${it.headline ?? "(제목 없음)"}</a>
+            </div>
+            <div class="newsMeta">${it.source ?? ""}</div>
+          </div>
+          <div style="display:flex; gap:8px; align-items:center; flex-wrap:wrap;">
+            <span class="tag">${it.query ?? "News"}</span>
+            <span class="muted" style="font-size:12px">${it.pubDate ?? ""}</span>
+          </div>
+        </div>
+      `).join("");
+
+      newsEl.innerHTML = `<div class="newsList">${html}</div>`;
+    }
+
+    async function loadData(){
+      lastCheck.textContent = new Date().toLocaleString("ko-KR");
+      statusText.textContent = "Fetching data.json...";
+      pill.textContent = "LOADING";
+
+      try{
+        const r = await fetch("./data.json?ts=" + Date.now());
+        if(!r.ok) throw new Error("HTTP " + r.status);
+        const d = await r.json();
+
+        renderPrices(d.prices);
+        renderNews(d.news);
+
+        statusText.textContent = "Live data loaded ✅";
+        pill.textContent = "AUTO";
+      }catch(e){
+        pricesEl.innerHTML = `<div class="muted">data.json을 아직 못 불러왔어. (Actions 아직이거나 파일 없음)</div>`;
+        newsEl.innerHTML = `<div class="muted">에러: ${String(e)}</div>`;
+        statusText.textContent = "No data yet";
+        pill.textContent = "STATIC";
+      }
+    }
+
+    function openIssue(action){
+      clearNote();
+      const sym = (symInput.value || "").trim().toUpperCase();
+      if(!sym) return showErr("심볼을 입력해줘. 예: TSLA");
+
+      // 허용 목록이 로드됐으면 검증
+      if(allowedSet.size && !allowedSet.has(sym)){
+        return showErr(`${sym} 는(은) 현재 허용 목록(allowed_symbols.json)에 없어서 지원 안 함.`);
+      }
+
+      if(!repoUrl){
+        return showErr("레포 URL을 찾지 못했어. Pages 주소를 확인해줘.");
+      }
+
+      const title = encodeURIComponent("watchlist");
+      const body = encodeURIComponent(`action:${action}\nsymbol:${sym}`);
+
+      showMsg(`GitHub Issue를 열었어: ${action.toUpperCase()} ${sym}\nIssue 제출(Submit)하면 자동 반영됨.`);
+      window.open(`${repoUrl}/issues/new?title=${title}&body=${body}`, "_blank");
+    }
+
+    refreshBtn.addEventListener("click", loadData);
+    addBtn.addEventListener("click", () => openIssue("add"));
+    delBtn.addEventListener("click", () => openIssue("remove"));
+
+    loadData();
+  </script>
 </body>
 </html>
