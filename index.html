@@ -1,116 +1,135 @@
 <!doctype html>
 <html lang="ko">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>my-auto-site</title>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>my-auto-site</title>
 
-  <style>
-    :root{
-      --bg:#0b0f1a;
-      --card:rgba(255,255,255,.06);
-      --text:rgba(255,255,255,.92);
-      --muted:rgba(255,255,255,.65);
-      --border:rgba(255,255,255,.12);
-      --radius:18px;
-    }
-    *{box-sizing:border-box}
-    body{
-      margin:0;
-      font-family:system-ui,-apple-system,"Apple SD Gothic Neo","Noto Sans KR",sans-serif;
-      color:var(--text);
-      background:
-        radial-gradient(900px 400px at 10% 0%, rgba(99,102,241,.35), transparent 60%),
-        radial-gradient(900px 400px at 90% 10%, rgba(16,185,129,.25), transparent 60%),
-        var(--bg);
-    }
-    .wrap{max-width:1100px;margin:0 auto;padding:28px 18px 60px}
-    header{
-      padding:28px;
-      border:1px solid var(--border);
-      border-radius:var(--radius);
-      background:var(--card);
-    }
-    h1{margin:10px 0;font-size:32px}
-    .sub{color:var(--muted)}
-    .grid{
-      display:grid;
-      grid-template-columns:1.4fr .9fr;
-      gap:16px;
-      margin-top:16px;
-    }
-    @media(max-width:900px){.grid{grid-template-columns:1fr}}
+<style>
+:root{
+  --bg:#0b0f1a;
+  --card:rgba(255,255,255,.06);
+  --text:rgba(255,255,255,.92);
+  --muted:rgba(255,255,255,.65);
+  --border:rgba(255,255,255,.12);
+  --radius:18px;
+}
+*{box-sizing:border-box}
+body{
+  margin:0;
+  font-family:system-ui,-apple-system,"Apple SD Gothic Neo","Noto Sans KR",sans-serif;
+  color:var(--text);
+  background:
+    radial-gradient(900px 500px at 10% 0%, rgba(99,102,241,.35), transparent 60%),
+    radial-gradient(900px 500px at 90% 10%, rgba(16,185,129,.25), transparent 60%),
+    var(--bg);
+}
+.wrap{max-width:1100px;margin:0 auto;padding:28px 18px 60px}
+header{
+  padding:28px;
+  border:1px solid var(--border);
+  border-radius:var(--radius);
+  background:linear-gradient(135deg,var(--card),transparent);
+}
+.badge{
+  display:inline-flex;
+  gap:8px;
+  align-items:center;
+  font-size:13px;
+  color:var(--muted);
+}
+.dot{
+  width:8px;height:8px;border-radius:50%;
+  background:#22c55e;
+}
+h1{margin:10px 0;font-size:34px}
+.sub{color:var(--muted);line-height:1.6}
 
-    .card{
-      border:1px solid var(--border);
-      border-radius:var(--radius);
-      background:var(--card);
-      overflow:hidden;
-    }
-    .hd{
-      padding:14px 18px;
-      border-bottom:1px solid var(--border);
-      display:flex;
-      justify-content:space-between;
-      align-items:center;
-    }
-    .bd{padding:18px}
-    .k{color:var(--muted);font-size:13px}
-    .pill{
-      padding:6px 10px;
-      border-radius:999px;
-      border:1px solid var(--border);
-      font-size:12px;
-      color:var(--muted);
-    }
-    .btn{
-      border:1px solid var(--border);
-      background:rgba(255,255,255,.06);
-      color:var(--text);
-      padding:10px 12px;
-      border-radius:12px;
-      cursor:pointer;
-    }
-    .btn:hover{background:rgba(255,255,255,.1)}
-    .table{
-      width:100%;
-      border-collapse:collapse;
-      font-size:13px;
-    }
-    .table th,.table td{
-      padding:8px;
-      border-bottom:1px solid var(--border);
-    }
-    .right{text-align:right}
-    .muted{color:var(--muted)}
-    .newsItem{
-      border:1px solid var(--border);
-      border-radius:14px;
-      padding:12px;
-      margin-bottom:10px;
-    }
-    input{
-      flex:1;
-      padding:10px 12px;
-      border-radius:12px;
-      border:1px solid var(--border);
-      background:rgba(0,0,0,.25);
-      color:var(--text);
-    }
-  </style>
+.grid{
+  display:grid;
+  grid-template-columns:1.4fr .9fr;
+  gap:16px;
+  margin-top:16px;
+}
+@media(max-width:900px){.grid{grid-template-columns:1fr}}
+
+.card{
+  border:1px solid var(--border);
+  border-radius:var(--radius);
+  background:var(--card);
+  overflow:hidden;
+}
+.hd{
+  padding:14px 18px;
+  border-bottom:1px solid var(--border);
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+}
+.bd{padding:18px}
+.k{color:var(--muted);font-size:13px}
+.pill{
+  padding:6px 10px;
+  border-radius:999px;
+  border:1px solid var(--border);
+  font-size:12px;
+  color:var(--muted);
+}
+.table{
+  width:100%;
+  border-collapse:collapse;
+  font-size:13px;
+}
+.table th,.table td{
+  padding:8px;
+  border-bottom:1px solid var(--border);
+}
+.right{text-align:right}
+.newsItem{
+  border:1px solid var(--border);
+  border-radius:14px;
+  padding:12px;
+  margin-bottom:10px;
+}
+.newsItem a{color:var(--text);text-decoration:none}
+.newsItem a:hover{text-decoration:underline}
+
+.btn{
+  border:1px solid var(--border);
+  background:rgba(255,255,255,.06);
+  color:var(--text);
+  padding:10px 12px;
+  border-radius:12px;
+  cursor:pointer;
+}
+.btn:hover{background:rgba(255,255,255,.12)}
+
+input{
+  width:100%;
+  padding:10px 12px;
+  border-radius:12px;
+  border:1px solid var(--border);
+  background:rgba(0,0,0,.25);
+  color:var(--text);
+}
+</style>
 </head>
 
 <body>
 <div class="wrap">
 
 <header>
-  <h1>📈 my-auto-site</h1>
-  <p class="sub">GitHub Pages + Actions로 만든 증시 가격 & 뉴스 대시보드</p>
+  <div class="badge"><span class="dot"></span> online • GitHub Pages</div>
+  <h1>my-auto-site</h1>
+  <p class="sub">
+    주요 증시 가격과 뉴스를 자동으로 모아보는 대시보드.<br>
+    GitHub Actions가 데이터를 주기적으로 업데이트합니다.
+  </p>
 </header>
 
 <section class="grid">
 
-<!-- 왼쪽: 가격/뉴스 -->
+<!-- 왼쪽: 데이터 -->
 <div class="card">
   <div class="hd">
     <div>
@@ -148,9 +167,9 @@
       <button class="btn" id="delBtn">➖ 삭제</button>
     </div>
 
-    <p class="muted" style="font-size:12px;margin-top:8px">
+    <p class="k" style="margin-top:8px">
       버튼을 누르면 GitHub Issue가 열리고<br>
-      제출하면 자동으로 watchlist가 반영됨
+      제출하면 watchlist가 자동 반영됩니다.
     </p>
   </div>
 </div>
@@ -159,29 +178,24 @@
 </div>
 
 <script>
-/* ---------- repo url 자동 추론 ---------- */
+/* repo url */
 let repoUrl=null;
 try{
-  const host=location.host;
+  const h=location.host;
   const p=location.pathname.split("/").filter(Boolean);
-  if(host.endsWith("github.io")&&p.length){
-    repoUrl=`https://github.com/${host.split(".")[0]}/${p[0]}`;
-  }
+  if(h.endsWith("github.io")&&p.length)
+    repoUrl=`https://github.com/${h.split(".")[0]}/${p[0]}`;
 }catch{}
 
-/* ---------- allowed symbols ---------- */
+/* allowed */
 let allowed=new Set();
 fetch("./allowed_symbols.json?ts="+Date.now())
   .then(r=>r.ok?r.json():null)
-  .then(d=>{
-    if(d?.symbols) d.symbols.forEach(s=>allowed.add(String(s).toUpperCase()));
-  });
+  .then(d=>d?.symbols?.forEach(s=>allowed.add(String(s).toUpperCase())));
 
-/* ---------- dashboard ---------- */
+/* render */
 function renderPrices(arr){
-  if(!arr?.length){
-    prices.innerHTML='<div class="muted">가격 데이터 없음</div>';return;
-  }
+  if(!arr?.length){prices.innerHTML='<div class="k">데이터 없음</div>';return;}
   prices.innerHTML=`
   <table class="table">
     <tr><th>종목</th><th class="right">Close</th><th class="right">시간</th></tr>
@@ -189,50 +203,46 @@ function renderPrices(arr){
       <tr>
         <td>${p.symbol}</td>
         <td class="right">${p.close??"-"}</td>
-        <td class="right muted">${[p.date,p.time].filter(Boolean).join(" ")}</td>
+        <td class="right k">${[p.date,p.time].filter(Boolean).join(" ")}</td>
       </tr>`).join("")}
   </table>`;
 }
-
 function renderNews(groups){
-  if(!groups?.length){news.innerHTML='<div class="muted">뉴스 없음</div>';return;}
+  if(!groups?.length){news.innerHTML='<div class="k">뉴스 없음</div>';return;}
   const flat=[];
   groups.forEach(g=>(g.items||[]).forEach(i=>flat.push(i)));
-  news.innerHTML=flat.slice(0,10).map(n=>`
+  news.innerHTML=flat.slice(0,8).map(n=>`
     <div class="newsItem">
       <a href="${n.link}" target="_blank">${n.headline}</a>
-      <div class="muted" style="font-size:12px">${n.source||""}</div>
+      <div class="k">${n.source||""}</div>
     </div>`).join("");
 }
-
 async function loadData(){
   lastCheck.textContent=new Date().toLocaleString("ko-KR");
-  statusText.textContent="Loading...";
   try{
     const r=await fetch("./data.json?ts="+Date.now());
     if(!r.ok) throw 1;
     const d=await r.json();
     renderPrices(d.prices);
     renderNews(d.news);
-    statusText.textContent="Live";
-    pill.textContent="AUTO";
+    statusText.textContent="AUTO";
+    pill.textContent="LIVE";
   }catch{
-    statusText.textContent="No data yet";
-    pill.textContent="STATIC";
+    statusText.textContent="STATIC";
+    pill.textContent="WAIT";
   }
 }
 loadData();
 
-/* ---------- issue open ---------- */
+/* issue */
 function openIssue(action){
-  const sym=symInput.value.trim().toUpperCase();
-  if(!sym) return alert("심볼 입력해");
-  if(allowed.size && !allowed.has(sym))
-    return alert(`${sym} 는 지원 안 함`);
-  if(!repoUrl) return alert("레포 URL 못 찾음");
-  const url=`${repoUrl}/issues/new?title=watchlist&body=${encodeURIComponent(
-    `action:${action}\nsymbol:${sym}`)}`;
-  window.open(url,"_blank");
+  const s=symInput.value.trim().toUpperCase();
+  if(!s) return alert("심볼 입력해");
+  if(allowed.size && !allowed.has(s)) return alert(`${s} 는 지원 안 함`);
+  window.open(
+    `${repoUrl}/issues/new?title=watchlist&body=${encodeURIComponent(`action:${action}\nsymbol:${s}`)}`,
+    "_blank"
+  );
 }
 addBtn.onclick=()=>openIssue("add");
 delBtn.onclick=()=>openIssue("remove");
