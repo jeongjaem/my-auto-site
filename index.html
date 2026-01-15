@@ -1,11 +1,10 @@
-# my-auto-site
 <!doctype html>
 <html lang="ko">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>my-auto-site</title>
-  <meta name="description" content="GitHub Pages + iPad로 만든 자동 업데이트 사이트" />
+  <meta name="description" content="주요 증시 가격 + 뉴스 대시보드 (GitHub Pages + Actions)" />
   <style>
     :root{
       --bg: #0b0f1a;
@@ -121,26 +120,76 @@
       background: linear-gradient(135deg, rgba(59,130,246,.32), rgba(16,185,129,.18));
       border-color: rgba(59,130,246,.35);
     }
-    code, pre{
-      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Noto Sans Mono", monospace;
-    }
-    pre{
-      margin:0;
-      padding:14px;
-      background: rgba(0,0,0,.35);
-      border:1px solid var(--border);
-      border-radius: 14px;
-      overflow:auto;
-      color: rgba(255,255,255,.84);
-      line-height:1.45;
-      font-size:13px;
-    }
+
     .footer{
       margin-top:18px;
       color: var(--muted);
       font-size:13px;
       text-align:center;
       opacity:.9;
+    }
+
+    /* ---- Dashboard extras ---- */
+    .table {
+      width: 100%;
+      border-collapse: collapse;
+      overflow: hidden;
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      background: rgba(0,0,0,.25);
+    }
+    .table th, .table td {
+      padding: 10px 12px;
+      border-bottom: 1px solid var(--border);
+      font-size: 13px;
+      vertical-align: top;
+    }
+    .table th {
+      text-align: left;
+      color: var(--muted);
+      font-weight: 650;
+      background: rgba(255,255,255,.04);
+    }
+    .table tr:last-child td { border-bottom: 0; }
+    .right { text-align: right; }
+    .good { color: rgba(34,197,94,.95); }
+    .bad { color: rgba(239,68,68,.95); }
+    .muted { color: var(--muted); }
+
+    .newsList { display: grid; gap: 10px; }
+    .newsItem {
+      border: 1px solid var(--border);
+      background: rgba(255,255,255,.05);
+      border-radius: 14px;
+      padding: 12px;
+    }
+    .newsTop {
+      display: flex;
+      justify-content: space-between;
+      gap: 10px;
+      margin-bottom: 6px;
+    }
+    .newsTitle { font-weight: 700; line-height: 1.35; }
+    .newsMeta {
+      color: var(--muted);
+      font-size: 12px;
+      white-space: nowrap;
+    }
+    .newsItem a {
+      color: rgba(255,255,255,.92);
+      text-decoration: none;
+    }
+    .newsItem a:hover { text-decoration: underline; }
+    .tag {
+      display: inline-flex;
+      align-items: center;
+      padding: 4px 8px;
+      border-radius: 999px;
+      border: 1px solid var(--border);
+      background: rgba(255,255,255,.06);
+      color: var(--muted);
+      font-size: 12px;
+      width: fit-content;
     }
   </style>
 </head>
@@ -151,14 +200,14 @@
       <div class="badge"><span class="dot"></span> online • GitHub Pages</div>
       <h1>my-auto-site</h1>
       <p class="sub">
-        iPad로 만든 정적 사이트 + (곧) GitHub Actions로 자동 업데이트.<br/>
-        오늘도 “기록이 곧 실력” 모드로 간다.
+        주요 증시 가격 + 뉴스 대시보드.<br/>
+        (자동 업데이트는 GitHub Actions가 data.json을 갱신하면 활성화됨)
       </p>
 
       <div class="btns">
         <a class="btn primary" id="repoLink" href="#" target="_blank" rel="noreferrer">↗ GitHub Repo</a>
-        <button class="btn" id="refreshBtn">⟳ 데이터 새로고침</button>
-        <a class="btn" href="data.json" target="_blank" rel="noreferrer">📄 data.json 보기</a>
+        <button class="btn" id="refreshBtn">⟳ 새로고침</button>
+        <a class="btn" href="data.json" target="_blank" rel="noreferrer">📄 data.json</a>
       </div>
     </header>
 
@@ -171,9 +220,15 @@
           </div>
           <span class="pill" id="pill">STATIC</span>
         </div>
+
         <div class="bd">
-          <div class="k" style="margin-bottom:10px;">자동 업데이트 데이터 (없으면 아직 Actions 안 붙인 상태)</div>
-          <pre id="out">data.json을 불러오는 중...</pre>
+          <div class="k" style="margin-bottom:10px;">주요 지수/종목</div>
+          <div id="prices"></div>
+
+          <div style="height:14px"></div>
+
+          <div class="k" style="margin-bottom:10px;">관련 뉴스</div>
+          <div id="news"></div>
         </div>
       </div>
 
@@ -188,9 +243,9 @@
           <div style="height:10px"></div>
           <div class="k">팁</div>
           <div style="line-height:1.6; color: var(--muted);">
-            • 아래에 Actions 붙이면 이 박스가 자동으로 바뀜<br/>
-            • github.dev에서 편집하면 거의 PC급<br/>
-            • 커밋 메시지는 짧게 써도 OK
+            • Actions가 data.json을 만들면 가격/뉴스가 표시돼<br/>
+            • 새로고침 버튼으로 캐시 우회 가능<br/>
+            • github.dev에서 편집하면 거의 PC급
           </div>
         </div>
       </div>
@@ -202,27 +257,113 @@
   </div>
 
   <script>
-    const out = document.getElementById("out");
     const statusText = document.getElementById("statusText");
     const pill = document.getElementById("pill");
     const lastCheck = document.getElementById("lastCheck");
     const refreshBtn = document.getElementById("refreshBtn");
     document.getElementById("year").textContent = new Date().getFullYear();
 
+    const pricesEl = document.getElementById("prices");
+    const newsEl = document.getElementById("news");
+
     // repo 링크 자동 설정(대충이라도)
-    // Pages URL이 ...github.io/<repo>/ 형태라면 repo도 유추 가능
     try{
       const host = location.host;
       const path = location.pathname.split("/").filter(Boolean);
       if(host.endsWith("github.io") && path.length >= 1){
         const repo = path[0];
-        // username은 서브도메인(앞부분)에서 얻음
         const username = host.split(".")[0];
         const repoUrl = `https://github.com/${username}/${repo}`;
         const a = document.getElementById("repoLink");
         a.href = repoUrl;
       }
     }catch(e){}
+
+    function fmtNum(x){
+      if(x === null || x === undefined) return "-";
+      const n = Number(x);
+      if(Number.isNaN(n)) return String(x);
+      return n.toLocaleString("en-US");
+    }
+
+    function renderPrices(prices){
+      if(!Array.isArray(prices) || prices.length === 0){
+        pricesEl.innerHTML = `<div class="muted">가격 데이터 없음</div>`;
+        return;
+      }
+
+      const rows = prices.map(p => {
+        const ok = !!p.ok;
+        const badge = ok ? `<span class="good">✅</span>` : `<span class="bad">⚠️</span>`;
+        const when = [p.date, p.time].filter(Boolean).join(" ");
+        return `
+          <tr>
+            <td>
+              ${badge} <strong>${p.name ?? "-"}</strong>
+              <div class="muted" style="font-size:12px">${p.symbol ?? ""}</div>
+            </td>
+            <td class="right">${fmtNum(p.close)}</td>
+            <td class="right muted">${when || "-"}</td>
+          </tr>
+        `;
+      }).join("");
+
+      pricesEl.innerHTML = `
+        <table class="table">
+          <thead>
+            <tr>
+              <th>항목</th>
+              <th class="right">Close</th>
+              <th class="right">시각</th>
+            </tr>
+          </thead>
+          <tbody>${rows}</tbody>
+        </table>
+      `;
+    }
+
+    function renderNews(newsGroups){
+      if(!Array.isArray(newsGroups) || newsGroups.length === 0){
+        newsEl.innerHTML = `<div class="muted">뉴스 데이터 없음</div>`;
+        return;
+      }
+
+      const flat = [];
+      for(const g of newsGroups){
+        const items = Array.isArray(g.items) ? g.items : [];
+        for(const it of items){
+          flat.push({
+            query: g.query,
+            headline: it.headline,
+            source: it.source,
+            link: it.link,
+            pubDate: it.pubDate
+          });
+        }
+      }
+
+      if(flat.length === 0){
+        newsEl.innerHTML = `<div class="muted">뉴스 항목이 아직 없어</div>`;
+        return;
+      }
+
+      const html = flat.slice(0, 15).map(it => `
+        <div class="newsItem">
+          <div class="newsTop">
+            <div class="newsTitle">
+              <a href="${it.link}" target="_blank" rel="noreferrer">${it.headline ?? "(제목 없음)"}</a>
+            </div>
+            <div class="newsMeta">${it.source ?? ""}</div>
+          </div>
+          <div style="display:flex; gap:8px; align-items:center; flex-wrap:wrap;">
+            <span class="tag">${it.query ?? "News"}</span>
+            <span class="muted" style="font-size:12px">${it.pubDate ?? ""}</span>
+          </div>
+        </div>
+      `).join("");
+
+      newsEl.innerHTML = `<div class="newsList">${html}</div>`;
+    }
 
     async function loadData(){
       lastCheck.textContent = new Date().toLocaleString("ko-KR");
@@ -234,17 +375,14 @@
         if(!r.ok) throw new Error("HTTP " + r.status);
         const d = await r.json();
 
-        out.textContent = JSON.stringify(d, null, 2);
+        renderPrices(d.prices);
+        renderNews(d.news);
+
         statusText.textContent = "Live data loaded ✅";
         pill.textContent = "AUTO";
       }catch(e){
-        out.textContent =
-`data.json을 아직 못 불러왔어.
-- 아직 Actions(자동 업데이트)를 안 붙였거나
-- data.json 파일이 없거나
-- 경로가 다를 수 있어.
-
-에러: ${e}`;
+        pricesEl.innerHTML = `<div class="muted">data.json을 아직 못 불러왔어. (Actions 아직이거나 파일 없음)</div>`;
+        newsEl.innerHTML = `<div class="muted">에러: ${String(e)}</div>`;
         statusText.textContent = "No data yet";
         pill.textContent = "STATIC";
       }
