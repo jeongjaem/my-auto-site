@@ -1,0 +1,296 @@
+{
+  "updatedAt": "2026-01-15T02:07:42.229Z",
+  "prices": [
+    {
+      "name": "S&P 500",
+      "symbol": "^SPX",
+      "date": "2026-01-14",
+      "time": "23:00:00",
+      "close": "6926.6",
+      "open": "6937.41",
+      "high": "6941.3",
+      "low": "6885.74",
+      "volume": "3361745169",
+      "ok": true
+    },
+    {
+      "name": "Dow Jones",
+      "symbol": "^DJI",
+      "date": "2026-01-14",
+      "time": "23:00:00",
+      "close": "49149.63",
+      "open": "49088.25",
+      "high": "49195.1",
+      "low": "48851.98",
+      "volume": "498608844",
+      "ok": true
+    }
+  ],
+  "news": [
+    {
+      "query": "S&P 500",
+      "items": [
+        {
+          "headline": "'사상 최고치' S&P 500, 1Q에 7200도 가능…섹터별 순환매 덕",
+          "source": "edaily.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ2w2cmZscy1Eam4zLWItQ2NkdXNLbjN2bWJTX0JTZl9RbTVzMnEzUy1nbGdTTlAwZ1phQWhIbnVXWlpadmZWd0k3RzVaZHI1ZEZmYl8xMDB1OGpDRDE5WVNaMm5fcHE5UWY3NVc3NExOYjdhRTNrNkZzNVMxeWFNdw?oc=5",
+          "pubDate": "Tue, 13 Jan 2026 13:50:30 GMT"
+        },
+        {
+          "headline": "S&P 500, 1분기 상승 여력 전망",
+          "source": "뱅크오브아메리카 By Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vb1hjQ2hYb0tBYVU4eEpXUWpyQll0S251NGFzai1tWVhwVzJIb1NGS3dMOVJOUGo1bWhOWWJ3SjZWS0JKQ1JjdkI1ODhKWTVPT1duTHpTcEhMTkNMUTNiV1JLRFA0VUdWZ2NJUHZPanQ?oc=5",
+          "pubDate": "Tue, 13 Jan 2026 13:26:00 GMT"
+        },
+        {
+          "headline": "[뉴욕개장] 다우·S&P500, 사상 최고치 부근 출발…금리 인하 기대감",
+          "source": "뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5UQWVvcGlIQXVqeFJnMWhZUUNHQ2h1NGV5QlpCenY1YnoyMnZ2UEJHSFJpRHBrV0JrSmFlU1R3SUhhN21yNFl1WW42VlJxWnJMejBkNFg0WmQ?oc=5",
+          "pubDate": "Tue, 13 Jan 2026 14:51:17 GMT"
+        },
+        {
+          "headline": "‘파월 쇼크’에도 뉴욕증시 상승…S&P500·다우 사상 최고 [투자360]",
+          "source": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oazVRZzRPZ09BVGwyREtpV0JTS05nYk9FVTZLTUg4TXN3VlFCMXgzRmJ1aWlWYXo4SVhkOXM2SmlsMlVNZFJtVExVN3BqOFU?oc=5",
+          "pubDate": "Mon, 12 Jan 2026 22:40:00 GMT"
+        },
+        {
+          "headline": "[N2 모닝 경제 브리핑-1월 15일] 美 증시, 3대 지수 일제 하락…기술·은행주 밀리며 낙폭 확대",
+          "source": "뉴스투데이",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE96N0Q5cUxUUFRxUTBXa2tRWGNKTFcwRTZVa2VUVENRa1Z3SnpzcExVcHJJbi1SMG9mRG9Ka3d6djZMWHRzemlUSlhkLTkzbzY4a09SWVA3WC1aZ3hyZ3c?oc=5",
+          "pubDate": "Wed, 14 Jan 2026 21:59:14 GMT"
+        },
+        {
+          "headline": "[속보] 뉴욕증시, 12월 CPI 안도감에 상승 출발... S&P500·나스닥 나란히 강보합",
+          "source": "gukjenews.com",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RamxyYk5PQjNCVlZ1WS1UOERpZm5IanpmaF9WSEpuVWd3N0J3SHR2WWw5cUV6SzBGMkpXWGNxb21BaHBPc3ZMNThVV1hGaVIxTTBEMUx1bG96V3ltcEV5eC1CT0lreWVsZ3FTZHZ3?oc=5",
+          "pubDate": "Tue, 13 Jan 2026 14:32:37 GMT"
+        },
+        {
+          "headline": "[뉴욕증시 마감] 파월 수사에도 저가 매수에 다우·S&P500 사상 최고",
+          "source": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PcWFReS1BNWg3cEFIWHNVWTdvWXg2YVI3U3Q0Qzd5cFBVbUprejBrTTdMUEFYX2hSaFpRN0VHeHh4Yk5XX3otTWVVNWZxRnBSTG1n?oc=5",
+          "pubDate": "Mon, 12 Jan 2026 23:27:00 GMT"
+        },
+        {
+          "headline": "[영상] “미국 증시 상고하저(上高下低), S&P500 7400 전망”",
+          "source": "동아일보",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ycENrVVNOZk1MQXRSaVpmSkV4eG1tZXZfQ0ZycVE5Zm1UR1QzTzRFQ2VnQmVWd2lUek5HVEFzeVdJYURQaWFKd21TRkdLbXZfczhfT2dZcHdjaGRoUjNLQnNmRkY?oc=5",
+          "pubDate": "Wed, 14 Jan 2026 00:00:01 GMT"
+        }
+      ]
+    },
+    {
+      "query": "Dow Jones",
+      "items": [
+        {
+          "headline": "삼성바이오로직스, 다우존스 지속가능경영 월드 지수 4년 연속 편입",
+          "source": "약업신문",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTEJBT253Zk5IbkVmT0VjbTRNZ0dyX2ZieGJ0elUyV0ZVOERIaTRCaWNGbjdqcTlrODcxbTBJU180MUhYMThLOEZHbDliRExCSEtMWjROa013bExUWTVNWkt4LVBxdXp6dTRKSlZEb0Y1ZVFoZjQ2MEFBX1ppRWZYNkVfSmZWMExLMWNoVThDMU5reUlLWDJxV2cyOE9vOGxRaUF4bDNjb2UzejUzYUczb09jS1RCSHFCQm1rdzEtdjhPUFUy?oc=5",
+          "pubDate": "Tue, 13 Jan 2026 17:38:43 GMT"
+        },
+        {
+          "headline": "New York stocks weaken on Trump pressure for a credit card interest-rate cap···Dow 0.8%↓",
+          "source": "경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OR1llU2ppako3SmtOY0poRll3VjZuSFo2Tkw0VUVHS2EzdUZZYXkzSG11dnVGaGticjJoTjRtRjJVN0oxbENSSDYyNk5LOTM3NDZVS3BpR1NTYjZSMXc?oc=5",
+          "pubDate": "Wed, 14 Jan 2026 00:10:00 GMT"
+        },
+        {
+          "headline": "[월배당 ETF]키움투자자산운용, 'KIWOOM 미국S&P500&배당다우존스비중전환'…노후 대비 원스톱 솔루션",
+          "source": "PRESS9",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAtTW5XcUlGVHZiM05zSFJDY0Yzc2N3b3BfbVNEdEtxNnVOMjRxb0RSdEFoRGE3VFhYMDFTZW9hdGlBSnpYOU9GTW41dkZFdG03d1VIUWZOaTMyNTBIYmtycDc4TzRIZw?oc=5",
+          "pubDate": "Tue, 13 Jan 2026 04:58:14 GMT"
+        },
+        {
+          "headline": "BIS 50% 규칙: 기업에 어떤 영향을 미칠까?",
+          "source": "dowjones.com",
+          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPN2VUUHVwaEllTk5razFldjBSamQ0RHdOOURfQWpqUFJzdm5vU0YzSHdTQ2M0VGpTVE9iSkFGMnFrWkNUWUtkMnU2V015UUs5ZDA1STBUWE5hS1BjMWZDakVNeElLbEROdkZCRTc3R2VDMXliLUkzUnRVcm8zN0JiZnAteGIzLTRtRm4xalRHMjlnSUhUbE5zWUFMZFlTUkg0VjJXMGtETHRMaVRyQnViS2M4NVBSR3B1NFVwd1MxN1QxZ2IybHRDRXFxMDF3X1RSeTQySlM5anlCczlIclF3Q1JLSGlVR0taaFBUX2l5WFIyaFRJWWNqRGVSYnhKU2dweHVMbTBUNWVaTXg0ei12VzBR?oc=5",
+          "pubDate": "Thu, 24 Jul 2025 07:00:00 GMT"
+        },
+        {
+          "headline": "폴리마켓, 다우존스 미디어와 독점 파트너십 체결",
+          "source": "블루밍비트",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zaTc1Q2poUlFxUGYwZ3RZZGYwQWRCVEtEYzAtWERaek01TzVXaWlMNk95WlpSNGFKSGpETWlMNHh5enNHbzh6cUU0NGd2bE5H?oc=5",
+          "pubDate": "Wed, 07 Jan 2026 16:49:49 GMT"
+        },
+        {
+          "headline": "월가가 사상 최고치를 경신하며 다우존스 지수가 5만 포인트에 근접했습니다.",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaHViVFQ1RGw0MmFUQ2h3M0Rid3hOQW1WcVdrMS05ckk5emlVS01OZTE5UWpHMlhtUFpmTHlVeU5mMXF1ZjBtTEUwVlYzc2RETUJHVFZXc3lVVUw0Q09CaGNCNHFjd1hUUjg2Z1N4dVQ5alBaTS1FM25pa0RaejRfc3dsM2xEYWpmM0E?oc=5",
+          "pubDate": "Tue, 06 Jan 2026 08:00:00 GMT"
+        },
+        {
+          "headline": "블록체인 예측시장, 월가 심장부 뚫었다… 폴리마켓-다우존스 '데이터 동맹' 결성",
+          "source": "블록체인투데이",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtb0RlTzdqeEpkQnVqdHY0d3Nwdy0xN19NV2hpYmdUb1BHbl9PdmpHbHRJemJtSzF6ZDVCWDJuc0diR1R5NXk1Q0RUZWR5SDg0dG02cDBFdHdEaVN1YW05N3JzMjRlcVIyN1hxU2Z1QTNDYWt3UHc?oc=5",
+          "pubDate": "Thu, 08 Jan 2026 06:51:24 GMT"
+        },
+        {
+          "headline": "팜뉴스, 미국 진출 파트너로 급부상...다우존스에 뉴스 공급",
+          "source": "팜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9TV2tVU2J5TzlGcE1tRWF4ODl6d0JJbkhZa3BxRnplYVlvVFZQb0ZKZHc4NERpSjRLcm9vWFNMcmNzQ1BOckVPUWpQYlRkVVl6bF83LWFBRjRpU3VPQU8tSVNaVm5JSFlPdVVPNQ?oc=5",
+          "pubDate": "Wed, 15 Oct 2025 07:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "query": "Nasdaq",
+      "items": [
+        {
+          "headline": "[뉴욕증시] 금융·기술주 약세에 하락… 나스닥 1.00%↓ By MoneyS",
+          "source": "Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0yMVUyRWdtVlZjbjg0X05VM2JQRTBNelNfUWNFSUpjaWMxd1lNaEdtLVRLcHVGU2FZTWxGWlhPWWVEVC1BN1kzMmlZV3BXOUI4TzAyRXRwellMendFTXJITm9LTkxWVVdQNXpLOEg4cDY?oc=5",
+          "pubDate": "Wed, 14 Jan 2026 23:12:00 GMT"
+        },
+        {
+          "headline": "나스닥 1% 증발, 밤사이 내 주식 계좌도 녹아내렸나",
+          "source": "위키트리",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rb2RDZmZ5RllEckl4c0s3blhIdkFGMU1lS2s5NlZTUW5lQnlzYVZ3OUViazhhVDZjMjFPUklzV3ZJQVlnVXBaTURqem1rNERta090Y0F3?oc=5",
+          "pubDate": "Thu, 15 Jan 2026 01:07:00 GMT"
+        },
+        {
+          "headline": "지우지 홀딩스, 나스닥 최저 입찰가 요건 재충족 By Investing.com",
+          "source": "Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA5RGJnZUJtdFFvcVE1X2lHenM4WHo0b2hwcHh4YWZCNkJacTBRWENoNWE0MzhiRlduZ1p2Rm5IT3lqem9YZ2h2TUtCLWdaeUFILVd5VHdYWGpoeHBJZzBVNFZCWFNFVHowUUFTUEMwRQ?oc=5",
+          "pubDate": "Wed, 14 Jan 2026 22:54:00 GMT"
+        },
+        {
+          "headline": "EquipmentShare.com, Nasdaq IPO에서 최대 7억7,775만 달러 조달 목표 By Investing.com",
+          "source": "Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBVzdob1lGcFZlOFV2eE5pQTRsOFB1UHh1VXJEamZfaWlCZ3RSb2VWaDVreG9jdGY2VHpCU2I5S0RDc1NWRU42TFFIbDlKeVlibnhfSEdiRUtYdHlHbV96WjZGSXhMQnE5RFFqV0ZWZWU?oc=5",
+          "pubDate": "Tue, 13 Jan 2026 12:10:00 GMT"
+        },
+        {
+          "headline": "374Water, 나스닥 최저 입찰가 충족 후 규정 준수 회복 By Investing.com",
+          "source": "Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WamZPMmVvYmg4VmFRcmtRWDh3QmJWd2tNVWFTNGx5VURUR0tXdjZmaXQtRzc4V0NXcEZfdVV1bXpJRXJ6TF80WVl1MEgzTDZGYXZQZy1weXlsVTEyZXdPbUpkNzdvOTlpRVNFUUh1U2g?oc=5",
+          "pubDate": "Wed, 14 Jan 2026 21:07:00 GMT"
+        },
+        {
+          "headline": "Liftoff Mobile, 나스닥 상장 계획으로 IPO 신청 By Investing.com",
+          "source": "Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqbmlQb2kzRXBackEtU0k4WUhsZ1BfYjJOMHYtOUdYRkxTRWdVYjVacTkwR0k4NnR3dnlrenhMVkk4am9obVpjeGdDRVdBcXpZSzF4b1dnLVRyeXY2Um5VYUl3cGlVemlZQm5hckpWLWVvRkdJcXNXMA?oc=5",
+          "pubDate": "Tue, 13 Jan 2026 21:55:00 GMT"
+        },
+        {
+          "headline": "오토지, 나스닥 상장 요건 재충족 By Investing.com",
+          "source": "Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wRVBHZ0pjMEJfclZERnhCbHFMRWozZnJFQzYzUEdtQVFSUnNRQ1ZXLXozQzgzTkQ0cjIxcExFbWprMGlzbVl3LWdzWW5RVzE1bGkwN1UxcEFHc3lycTR3QVo3WjBLNTQyRkNOUmRReHA?oc=5",
+          "pubDate": "Wed, 14 Jan 2026 12:27:00 GMT"
+        },
+        {
+          "headline": "커렌스 그룹, 나스닥 연례 주주총회 미준수 통지 받아 By Investing.com",
+          "source": "Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE91QTFRanBKUy0yVDF5TXM5QVo1X3lTcS1ORnFkb1dMNjhkZ1lhYmRIcHZHRlEyYjZSQnNJS2k4VEs0ZElZSHN1a1A4WWFJZzRuY084YUJjNklDdTg4dHJyMm1mN1pOOV9UYWkzZFZsZw?oc=5",
+          "pubDate": "Tue, 13 Jan 2026 22:06:00 GMT"
+        }
+      ]
+    },
+    {
+      "query": "KOSPI",
+      "items": [
+        {
+          "headline": "역사 새로쓰는 코스피 '4700' 경신…환율은 1480원 코앞",
+          "source": "노컷뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZdjFiRERna3ZZaUZwRzVWSk1LNXBhaGNXeWk3d1NVNXpDcEhJdGgwcXFxdlJEaUZ4T0N6T01qN3FBOHIzSmhzX1JZTU1tckgxOWc?oc=5",
+          "pubDate": "Wed, 14 Jan 2026 07:41:00 GMT"
+        },
+        {
+          "headline": "\"8억원 잃었습니다\" 코스피 곱버스 탄 개미 '충격 잔고' 인증",
+          "source": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA4SXlQUVZCS3NrYkRVY3l6dTJ1NVpGZmhobC1PZ1ZEV2wtZmtUdkYwX1EzSmp6cXFUVTRXNWVDUWpyWWRmMGc?oc=5",
+          "pubDate": "Wed, 14 Jan 2026 09:28:44 GMT"
+        },
+        {
+          "headline": "코스피 0.27% 내린 4710.28 개장...한화에어로·현대重 강세",
+          "source": "오피니언뉴스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3TFJXSjlhN2xGZmxUcmNuRzI1OEhSbGhlRjlhcmQtVm1VVHdGWWs2emFRZjhSOXpLb0Nnbjg5VXFPMEtkMVA3S3FoY3ZPYVFESU5tNzNyTFhyS2VpTUREbUtncVdxOXhtUE02alhwS3g?oc=5",
+          "pubDate": "Thu, 15 Jan 2026 00:36:39 GMT"
+        },
+        {
+          "headline": "코스피, 4700도 뚫었다…원·달러 환율은 1480원 턱밑",
+          "source": "지디넷코리아",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zanZGOGFHUlVNNjdobUV5dWpKNmh6Smd1LU5vSENsTWRiRjZUVVAweXpGOWFNZnNJRW51ZHRzcGdXVUFPelhzMTRjTG5VdmZNRlNWSVln?oc=5",
+          "pubDate": "Wed, 14 Jan 2026 06:40:18 GMT"
+        },
+        {
+          "headline": "코스피 장중 상승전환 4740선 '또 사상 최고치', 원/달러 환율 1465원 출발",
+          "source": "비즈니스포스트",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwbnNqOWVFblV5bXhfZHpINnRNZFVCOHllUDVMWWFlZzVxdl94MkJNM0ROWnNvV3JpLXYwanFvU3NzT1FsRzNwQ0REUUxZNXl2dk5hZFV6RGgwQ1k0a25mU3ZzSUxMWWdiXzVVYkNUZmpXcVU?oc=5",
+          "pubDate": "Thu, 15 Jan 2026 01:43:36 GMT"
+        },
+        {
+          "headline": "코스피, 0.27% 내린 4710.28 출발…코스닥도 약세, 환율 1465원대",
+          "source": "뉴시안",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwalBsWjB5WE8tcnV2WmRxSHFTXzUyYWF4aFlGbi1ORUZ3eEUwTVN0WERkVXVCYlRGVVpiMDdnMjJhcmZfb0d0Q1ZVMXVIeEE1dDZlaE12LVNXemZFeXdpb3V1b1d5MkdibXfSAW5BVV95cUxOUFRtaHhRMnRzeGxPOWg5OWFvU3RnbGdNZDRmMGtnNnhlZTVMTm9OMmR4SjQ3Ync2SkRUMjd3YW5ibERtSFdXM2Y5UkpFanFLdlM0ODRodUk4TGpjcmZ3MkxpQ2xJT3RPNmxzMWVwUQ?oc=5",
+          "pubDate": "Thu, 15 Jan 2026 00:18:39 GMT"
+        },
+        {
+          "headline": "코스피, 4710.28 하락 출발 후 상승 전환…미 기술주 약세 영향",
+          "source": "매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWQ0l5TGZraU92X2pMeUpsUkpIZldwZElscFFsZDM0VFZQRDNwRUZuN3UyVFFaM1BWc1ViSVZnYnBPSnhUQ1k5Y0EtV0hCeFZFQUE?oc=5",
+          "pubDate": "Thu, 15 Jan 2026 00:21:36 GMT"
+        },
+        {
+          "headline": "기관이 끌고 반도체가 밀었다…코스피, 2주 만에 4300서 4700 돌파해",
+          "source": "인더스트리뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZVlBSQ0o2WkN3ekVlSjZmZzVhUUZoeldJMURFUHNoWVpNTENhaXh3VUhFUnRvOFNGZzFQVE9pdEpuY21wQ1pvenhkR0dUS1FFZnB6ZFFLNS1NQUxJbzRqNXJfVG95X1BZMXlyM2d2d1BOdw?oc=5",
+          "pubDate": "Wed, 14 Jan 2026 08:59:59 GMT"
+        }
+      ]
+    },
+    {
+      "query": "KOSDAQ",
+      "items": [
+        {
+          "headline": "Enviromotion to List on KOSDAQ Through SPAC Merger",
+          "source": "벤처스퀘어",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIWFdoaHFucWY2a2JtVExkeUZZLU5DNFVTUEsyUUFjX3pxRk5sYy1UNF9tRENZY2k5NVhZenVjWjAzd3N3cHlvcUZMYUdBODlWVno4?oc=5",
+          "pubDate": "Wed, 14 Jan 2026 04:58:10 GMT"
+        },
+        {
+          "headline": "코스피, 0.27% 내린 4710.28 출발…코스닥도 약세, 환율 1465원대",
+          "source": "뉴시안",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwalBsWjB5WE8tcnV2WmRxSHFTXzUyYWF4aFlGbi1ORUZ3eEUwTVN0WERkVXVCYlRGVVpiMDdnMjJhcmZfb0d0Q1ZVMXVIeEE1dDZlaE12LVNXemZFeXdpb3V1b1d5MkdibXfSAW5BVV95cUxOUFRtaHhRMnRzeGxPOWg5OWFvU3RnbGdNZDRmMGtnNnhlZTVMTm9OMmR4SjQ3Ync2SkRUMjd3YW5ibERtSFdXM2Y5UkpFanFLdlM0ODRodUk4TGpjcmZ3MkxpQ2xJT3RPNmxzMWVwUQ?oc=5",
+          "pubDate": "Thu, 15 Jan 2026 00:18:39 GMT"
+        },
+        {
+          "headline": "코스닥 제약지수, 1만 3000선 위태",
+          "source": "의약뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSZFp4VWtJODdyYTU1V1R3U0d3ckEwYlZsNHB2d3RWSDB2aGNpcjRpNElFT2swb0tPbzI0algtWENiVS1nbS1mZVVZUVRWOEEtMFdyUzVBclZ3dnpYaVJSblpIejdYY2M?oc=5",
+          "pubDate": "Wed, 14 Jan 2026 10:45:00 GMT"
+        },
+        {
+          "headline": "[코스닥] 1.52p(0.16%) 내린 940.66 출발",
+          "source": "뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yR3dyc3huZE1YN1dIMmZJalhVNUtLUTJ1MUZNMHN3cDV6N0ZEemhRN3p4NzRjbHEyaUNEdVRNeHVVRU0yU1Rmc1dVYjQwWVBsSUp3RHo0ZlN2OWs?oc=5",
+          "pubDate": "Thu, 15 Jan 2026 00:01:18 GMT"
+        },
+        {
+          "headline": "숨 고르는 코스피, 4700선 등락…코스닥도 방향 탐색",
+          "source": "아시아경제",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GM3RfeDAtT1pjeWpkSEhWNFBGTTQxSm1yT0Z4U1ZpYjFYeEtoM2Q2Ri1pOUZ6MXBPcFEzcE1obmp1U2hEY2VZZ0lMcFVXY1k2RTFkVzBjSFFodnJxcGQ4?oc=5",
+          "pubDate": "Thu, 15 Jan 2026 00:05:00 GMT"
+        },
+        {
+          "headline": "정보보호 공시 의무, 코스피·코스닥 상장 법인 전체로 확대",
+          "source": "정책브리핑",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DQk1ZZkJPSmFGZHhHMG5PRXNUSHFVWkhJUWZfLXhrbHhOX25WVXprc2YtbkIyM19QN2RsWWg0dTZBYzR2ald3dlJ6STlraUp1TjVJYnpoRzFQbWFITEQxTUlpQ0w0NmgxZDJrYw?oc=5",
+          "pubDate": "Fri, 09 Jan 2026 06:06:16 GMT"
+        },
+        {
+          "headline": "\"코스피 846곳·코스닥 1827곳 보안 공시 의무화\"...시행령 개정안 입법예고",
+          "source": "지디넷코리아",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qTlcxOURpNGExeVdZdzgxMU9TSHAyYk0wUlZCY3hPekhmX2M4Y2RSVmMzOEFWWG8xMklMZlAzTmJnMUtUZ0ozZzZBbHdXdm9xVHBrMGhR?oc=5",
+          "pubDate": "Fri, 09 Jan 2026 03:00:03 GMT"
+        },
+        {
+          "headline": "코스피, 0.65% 오른 4723선 마감·최고치 또 경신···코스닥 0.72%↓",
+          "source": "동양뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XSC1DOWxsT0FFYXFLdDR4TGJxTzdyZkxWRkc4MjZqTGtJWGpFSWdkcGs5ejAxdnRvd0xNalVwd0ZtbC1yMmQycXcwcFBjdGxMRFRKeGlfOTJSQmdQdXlHRA?oc=5",
+          "pubDate": "Wed, 14 Jan 2026 07:37:12 GMT"
+        }
+      ]
+    }
+  ]
+}
