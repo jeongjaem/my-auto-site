@@ -3,10 +3,255 @@
 <html lang="ko">
 <head>
   <meta charset="utf-8" />
-  <title>내 자동 사이트</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>my-auto-site</title>
+  <meta name="description" content="GitHub Pages + iPad로 만든 자동 업데이트 사이트" />
+  <style>
+    :root{
+      --bg: #0b0f1a;
+      --card: rgba(255,255,255,.06);
+      --card2: rgba(255,255,255,.08);
+      --text: rgba(255,255,255,.92);
+      --muted: rgba(255,255,255,.66);
+      --border: rgba(255,255,255,.12);
+      --shadow: 0 18px 60px rgba(0,0,0,.55);
+      --radius: 18px;
+    }
+    *{ box-sizing:border-box; }
+    body{
+      margin:0;
+      color:var(--text);
+      font-family: ui-sans-serif, system-ui, -apple-system, "Apple SD Gothic Neo", "Noto Sans KR", sans-serif;
+      background:
+        radial-gradient(1200px 600px at 10% 0%, rgba(120,119,198,.35), transparent 60%),
+        radial-gradient(900px 500px at 90% 10%, rgba(59,130,246,.28), transparent 55%),
+        radial-gradient(700px 500px at 50% 100%, rgba(16,185,129,.18), transparent 55%),
+        var(--bg);
+      min-height:100vh;
+    }
+    .wrap{ max-width:1000px; margin:0 auto; padding:28px 18px 64px; }
+    header{
+      margin-top:10px;
+      padding:28px;
+      border:1px solid var(--border);
+      border-radius: var(--radius);
+      background: linear-gradient(135deg, var(--card), transparent);
+      box-shadow: var(--shadow);
+      position: relative;
+      overflow:hidden;
+    }
+    header::after{
+      content:"";
+      position:absolute; inset:-2px;
+      background: radial-gradient(600px 240px at 20% 30%, rgba(255,255,255,.12), transparent 60%);
+      pointer-events:none;
+    }
+    .badge{
+      display:inline-flex; align-items:center; gap:8px;
+      padding:8px 12px;
+      border:1px solid var(--border);
+      border-radius:999px;
+      background: rgba(255,255,255,.06);
+      color: var(--muted);
+      font-size:13px;
+      width: fit-content;
+    }
+    .dot{ width:8px; height:8px; border-radius:999px; background:#22c55e; box-shadow:0 0 16px rgba(34,197,94,.65); }
+    h1{ margin:14px 0 10px; font-size:34px; letter-spacing:-.5px; }
+    .sub{ margin:0; color:var(--muted); line-height:1.6; }
+
+    .grid{
+      display:grid;
+      grid-template-columns: 1.4fr .9fr;
+      gap:16px;
+      margin-top:16px;
+    }
+    @media (max-width: 860px){
+      .grid{ grid-template-columns: 1fr; }
+      h1{ font-size:30px; }
+    }
+
+    .card{
+      border:1px solid var(--border);
+      border-radius: var(--radius);
+      background: rgba(255,255,255,.06);
+      box-shadow: 0 10px 40px rgba(0,0,0,.35);
+      overflow:hidden;
+    }
+    .card .hd{
+      padding:16px 18px;
+      border-bottom:1px solid var(--border);
+      background: rgba(255,255,255,.04);
+      display:flex; align-items:center; justify-content:space-between; gap:12px;
+    }
+    .card .bd{ padding:18px; }
+    .k{ color: var(--muted); font-size:13px; }
+    .v{ font-weight:700; }
+    .pill{
+      display:inline-flex; align-items:center;
+      padding:6px 10px;
+      border-radius:999px;
+      border:1px solid var(--border);
+      background: rgba(255,255,255,.06);
+      font-size:12px;
+      color: var(--muted);
+    }
+
+    .btns{ display:flex; flex-wrap:wrap; gap:10px; margin-top:14px; }
+    a.btn, button.btn{
+      appearance:none;
+      border:1px solid var(--border);
+      background: rgba(255,255,255,.06);
+      color: var(--text);
+      padding:10px 12px;
+      border-radius: 12px;
+      text-decoration:none;
+      font-weight:650;
+      font-size:14px;
+      display:inline-flex; align-items:center; gap:10px;
+      cursor:pointer;
+      transition: transform .12s ease, background .12s ease, border-color .12s ease;
+    }
+    a.btn:hover, button.btn:hover{
+      transform: translateY(-1px);
+      background: rgba(255,255,255,.10);
+      border-color: rgba(255,255,255,.22);
+    }
+    .btn.primary{
+      background: linear-gradient(135deg, rgba(59,130,246,.32), rgba(16,185,129,.18));
+      border-color: rgba(59,130,246,.35);
+    }
+    code, pre{
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Noto Sans Mono", monospace;
+    }
+    pre{
+      margin:0;
+      padding:14px;
+      background: rgba(0,0,0,.35);
+      border:1px solid var(--border);
+      border-radius: 14px;
+      overflow:auto;
+      color: rgba(255,255,255,.84);
+      line-height:1.45;
+      font-size:13px;
+    }
+    .footer{
+      margin-top:18px;
+      color: var(--muted);
+      font-size:13px;
+      text-align:center;
+      opacity:.9;
+    }
+  </style>
 </head>
+
 <body>
-  <h1>성공 🎉</h1>
-  <p>GitHub Pages + iPad로 만든 사이트</p>
+  <div class="wrap">
+    <header>
+      <div class="badge"><span class="dot"></span> online • GitHub Pages</div>
+      <h1>my-auto-site</h1>
+      <p class="sub">
+        iPad로 만든 정적 사이트 + (곧) GitHub Actions로 자동 업데이트.<br/>
+        오늘도 “기록이 곧 실력” 모드로 간다.
+      </p>
+
+      <div class="btns">
+        <a class="btn primary" id="repoLink" href="#" target="_blank" rel="noreferrer">↗ GitHub Repo</a>
+        <button class="btn" id="refreshBtn">⟳ 데이터 새로고침</button>
+        <a class="btn" href="data.json" target="_blank" rel="noreferrer">📄 data.json 보기</a>
+      </div>
+    </header>
+
+    <section class="grid">
+      <div class="card">
+        <div class="hd">
+          <div>
+            <div class="k">Status</div>
+            <div class="v" id="statusText">Ready</div>
+          </div>
+          <span class="pill" id="pill">STATIC</span>
+        </div>
+        <div class="bd">
+          <div class="k" style="margin-bottom:10px;">자동 업데이트 데이터 (없으면 아직 Actions 안 붙인 상태)</div>
+          <pre id="out">data.json을 불러오는 중...</pre>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="hd">
+          <div class="k">Quick Info</div>
+          <span class="pill">iPad Friendly</span>
+        </div>
+        <div class="bd">
+          <div class="k">마지막 확인</div>
+          <div class="v" id="lastCheck">-</div>
+          <div style="height:10px"></div>
+          <div class="k">팁</div>
+          <div style="line-height:1.6; color: var(--muted);">
+            • 아래에 Actions 붙이면 이 박스가 자동으로 바뀜<br/>
+            • github.dev에서 편집하면 거의 PC급<br/>
+            • 커밋 메시지는 짧게 써도 OK
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <div class="footer">
+      © <span id="year"></span> my-auto-site • Hosted on GitHub Pages
+    </div>
+  </div>
+
+  <script>
+    const out = document.getElementById("out");
+    const statusText = document.getElementById("statusText");
+    const pill = document.getElementById("pill");
+    const lastCheck = document.getElementById("lastCheck");
+    const refreshBtn = document.getElementById("refreshBtn");
+    document.getElementById("year").textContent = new Date().getFullYear();
+
+    // repo 링크 자동 설정(대충이라도)
+    // Pages URL이 ...github.io/<repo>/ 형태라면 repo도 유추 가능
+    try{
+      const host = location.host;
+      const path = location.pathname.split("/").filter(Boolean);
+      if(host.endsWith("github.io") && path.length >= 1){
+        const repo = path[0];
+        // username은 서브도메인(앞부분)에서 얻음
+        const username = host.split(".")[0];
+        const repoUrl = `https://github.com/${username}/${repo}`;
+        const a = document.getElementById("repoLink");
+        a.href = repoUrl;
+      }
+    }catch(e){}
+
+    async function loadData(){
+      lastCheck.textContent = new Date().toLocaleString("ko-KR");
+      statusText.textContent = "Fetching data.json...";
+      pill.textContent = "LOADING";
+
+      try{
+        const r = await fetch("./data.json?ts=" + Date.now());
+        if(!r.ok) throw new Error("HTTP " + r.status);
+        const d = await r.json();
+
+        out.textContent = JSON.stringify(d, null, 2);
+        statusText.textContent = "Live data loaded ✅";
+        pill.textContent = "AUTO";
+      }catch(e){
+        out.textContent =
+`data.json을 아직 못 불러왔어.
+- 아직 Actions(자동 업데이트)를 안 붙였거나
+- data.json 파일이 없거나
+- 경로가 다를 수 있어.
+
+에러: ${e}`;
+        statusText.textContent = "No data yet";
+        pill.textContent = "STATIC";
+      }
+    }
+
+    refreshBtn.addEventListener("click", loadData);
+    loadData();
+  </script>
 </body>
 </html>
