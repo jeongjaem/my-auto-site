@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-16T03:56:16.598Z",
+  "updatedAt": "2026-01-16T04:06:58.954Z",
   "watchlist": [
     "AAPL",
     "TSLA",
@@ -110,16 +110,16 @@
           "pubDate": "Fri, 16 Jan 2026 03:00:00 GMT"
         },
         {
-          "headline": "토스증권 '또' 미국 주식 거래 오류",
-          "source": "지디넷코리아",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hYXBjTWVHeG9leC1EMENsRkZFcWFsak84QWxqcUFZUnVySVpKMTVVa1V1LURIRWhWQVBqdzZoQjc3RF8zYjJ5TFRLc3gzTVNMVVVGN3JR?oc=5",
-          "pubDate": "Thu, 15 Jan 2026 06:05:13 GMT"
-        },
-        {
           "headline": "올해 미국증시 초대형 상장 이어진다, 오픈AI 앤스로픽 스페이스X 출격 예고",
           "source": "비즈니스포스트",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42Qno2MW5mTXBmRjZzczFMMktGcU45dVM1a3Bad1EzUWRaNWhFQUZnY0VyUC11cEthX3RlT2Jpd1U4elhmLXNZZXlJX3lwXy0yVXJnMzJtN2c0YVdMUUFHT1lLVFJFeFF0QlhuaTFWbTQ5ajQ?oc=5",
           "pubDate": "Thu, 15 Jan 2026 07:40:30 GMT"
+        },
+        {
+          "headline": "토스증권 '또' 미국 주식 거래 오류",
+          "source": "지디넷코리아",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hYXBjTWVHeG9leC1EMENsRkZFcWFsak84QWxqcUFZUnVySVpKMTVVa1V1LURIRWhWQVBqdzZoQjc3RF8zYjJ5TFRLc3gzTVNMVVVGN3JR?oc=5",
+          "pubDate": "Thu, 15 Jan 2026 06:05:13 GMT"
         }
       ]
     },
@@ -180,16 +180,22 @@
       "query": "S&P 500",
       "items": [
         {
-          "headline": "[상보] 뉴욕증시, 반도체ㆍ은행주 강세에 반등⋯S&P500 0.26%↑",
-          "source": "이투데이",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1SQ0VZbUViRzdtczcxa0lBR0pHREtFd29IYVRldkVhQnpnWTJZa2FTTTV6UzdyVHRXMkRGdjRFbXV2TmlUakgwdUFSUng1eUROdXljVg?oc=5",
-          "pubDate": "Thu, 15 Jan 2026 22:21:00 GMT"
+          "headline": "'사상 최고치' S&P 500, 1Q에 7200도 가능…섹터별 순환매 덕",
+          "source": "edaily.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ2w2cmZscy1Eam4zLWItQ2NkdXNLbjN2bWJTX0JTZl9RbTVzMnEzUy1nbGdTTlAwZ1phQWhIbnVXWlpadmZWd0k3RzVaZHI1ZEZmYl8xMDB1OGpDRDE5WVNaMm5fcHE5UWY3NVc3NExOYjdhRTNrNkZzNVMxeWFNdw?oc=5",
+          "pubDate": "Tue, 13 Jan 2026 13:50:30 GMT"
         },
         {
           "headline": "S&P500, 2026년 10% 상승 기대… 이유는? By Investing.com",
           "source": "Investing.com 한국어",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80RHh1UmxlQWtIUlZsZkZtS1ZYYm9wX0U2RmlkNlBaQm9WNzhDbTFJUE5yM1JkcEoxdUNMZ1A1czI2d1FpUnJwSWNwOW1YZkhZUmpxeGZuYUVnVmlQQkdjRVU2Y2tSNlhIcXc?oc=5",
           "pubDate": "Thu, 15 Jan 2026 11:49:00 GMT"
+        },
+        {
+          "headline": "[상보] 뉴욕증시, 반도체ㆍ은행주 강세에 반등⋯S&P500 0.26%↑",
+          "source": "이투데이",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1SQ0VZbUViRzdtczcxa0lBR0pHREtFd29IYVRldkVhQnpnWTJZa2FTTTV6UzdyVHRXMkRGdjRFbXV2TmlUakgwdUFSUng1eUROdXljVg?oc=5",
+          "pubDate": "Thu, 15 Jan 2026 22:21:00 GMT"
         },
         {
           "headline": "키움증권, S&P500·테슬라 기초 ELS 발행…50억 조달",
@@ -220,12 +226,6 @@
           "source": "한국경제",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxQUUzV3FZQXVvamxNdENyZDlaUXpXNXg2VHRqRXlNaG9fdGYtNzFrQnNyYUhNRzM2S3lCakc5NHc1UUdEQkdVSER6MlNuaTdkNm1fTVFtTnlaQdIBVEFVX3lxTE14dVBXTGZ2T0RGaTg5Rk5ZQXhFUWdqdnMwV3dZd3NmNVBQVV96dUlieG51UUdBLVR0TVotUUF0bUlZbmsyOFFyQWhSUll6U0xtTkJveQ?oc=5",
           "pubDate": "Mon, 12 Jan 2026 22:27:48 GMT"
-        },
-        {
-          "headline": "[N2 모닝 경제 브리핑-1월 16일] 美 증시, 3대 지수 일제히 반등…반도체·금융주 강세",
-          "source": "뉴스투데이",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HUU5FVVFvaHFveEYwYnJSRldwU1JNZkU3bEhsbDJjYmZKUUczUXJIZ0NwUjg5UlZWTUhnblJFejhDbUxvWk1OS1U2Vlg5bE44NFBSMm5vM0lfY3NNclE?oc=5",
-          "pubDate": "Thu, 15 Jan 2026 22:09:55 GMT"
         }
       ]
     },
@@ -410,12 +410,6 @@
           "pubDate": "Tue, 13 Jan 2026 21:42:06 GMT"
         },
         {
-          "headline": "다년간의 주가 강세 이후 테슬라(TSLA)를 고려하기에는 너무 늦었나요?",
-          "source": "simplywall.st",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQXpKYm5jNnZPY2dEbWRoRUQ4eDBBeExfZV9sdF9GN3VvR0c3RmVkazRDUTRFT3dRR195X1I3b2xxTmxLc0FhRk9mUm5QZVcxUS1PbzRrY3licndDM2s4aEk2WkRScG84SDBuQmV0Nk55QzIyUF9aZVRqeWJBbjJjSG5XOHZTSUZJRkZMVXdBQ19obUhI0gGUAUFVX3lxTE1BekpibmM2dk9jZ0RtZGhFRDh4MEF4TF9lX2x0X0Y3dW9HRzdGZWRrNENRNEVPd1FHX3lfUjdvbHFObEtzQWFGT2ZSblBlVzFRLU9vNGtjeWJyd0MzazhoSTZaRFJwbzhIMG5CZXQ2TnlDMjJQX1plVGp5YkFuMmNIblc4dlNJRklGRkxVd0FDX2htSEg?oc=5",
-          "pubDate": "Sat, 10 Jan 2026 23:32:08 GMT"
-        },
-        {
           "headline": "서학개미, 새해 들어 매일 순매수 행렬...1위는 테슬라",
           "source": "조선비즈",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcjhTZV9YV0VncXh1Um9HS0FyUlNac0FLR0hmOWtzdWZFdVFBc24xMjgyTlhPYkFHdXpCQ2VoY0VNdnJOUjFFMUdpNG9tSUl4bUdCRWRiYjdWaHE3LTZyd2kwT2ZnUE1PM3ZtN3RxRkVKbU9TVmpCSDJOYUtPNndMcnNfRnRBb2h40gGcAUFVX3lxTE5fdFlYazVPbWhTR1hhOXpPOXRxZlpicXA0Z1NMMmRSbE5uOG9sRlNEcm9FREZPTWZFRHZUeVlJRklabXFSSE9DVFNrZ0trc0psUnN1aUtPQ3Y0TmUyZFNIOEdRZk5aMFF3RWt5TEVrbVViS3hybF9pVXkyU1pCb1hGdlpTdFd3MlJtRlVRbUpFSXkyYU5VR2U2QlRDMQ?oc=5",
@@ -432,6 +426,12 @@
           "source": "Investing.com 한국어",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ta0wtQl8zLWJNakRVUFBNNGJOWEpEcHZzcTJqdEpvOVpFM1BhVUVtVWsyM00welZ6TGRubGcyT05nSzZDMER4aWQ2YUZqTzI2YzlKaUJHQ2RUT2lsR0wzeUdMZWhMNkx2NzI0XzhYOXA?oc=5",
           "pubDate": "Wed, 14 Jan 2026 06:53:00 GMT"
+        },
+        {
+          "headline": "테슬라(TSLA.O), 2년 연속 판매 부진…′전기차 왕좌′ BYD에 내줬다",
+          "source": "알파경제",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YOV9QUlNHM3RVX19WQV9DcXItNEQ5V0J2NjVhZjRrcTd2T0xkLU10N3VTVVF3SjBwTzVVTUJYZUY5MHhjakZGNjB4dkhMQmZ1Sk1WVDd5andjNDBmQXfSAW5BVV95cUxOTGhISXBNYXpvYnhONnp6aUtYVUJoUGNJZUZyNmh2UGs4ei0xR1hXeVprS2x0a0RkTFFMdkN6RDJzSk5RajJDdkhsa0RYV1RHV1A2cC1LU3BQNi1YSFZUZ18tZ09IVHhheXJNWFNKQQ?oc=5",
+          "pubDate": "Sun, 04 Jan 2026 17:25:40 GMT"
         },
         {
           "headline": "\"웨이모에 뒤처져\" 평가에도…서학개미, 테슬라 반등에 베팅",
@@ -463,16 +463,16 @@
           "pubDate": "Tue, 13 Jan 2026 07:58:00 GMT"
         },
         {
-          "headline": "[美특징주]엔비디아, \"AI 투자 이어진다…30% 상승 가능\"",
-          "source": "edaily.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeFZ2eS04SG1XbDRVYkdFN1lZUUxSRkhUNXpwUFdZRUZhWTFoWVkzM0dsaDdFY0FVTzhGMmMydTFTNEU5RGdqVllMb0hENmpucldPS2pra2lUZmppU2EwUlI4aFRLSlNtV29uWFM0N0ZsMnFzS2kxRWhQd0xQWXp6eQ?oc=5",
-          "pubDate": "Thu, 15 Jan 2026 19:58:20 GMT"
-        },
-        {
           "headline": "중국, 엔비디아 칩 구매 특별한 경우로 제한",
           "source": "더 인포메이션 보도",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpenhjTDFfQzVBTUJWTkpBZldhS2tYOEo0eERfWHJPeW05UTBFT053WUtqVDFQeU5rRW1HMTU5NnhMVjE5aHhWUW1YRFpiaHhFRTZzNnEtM0U4MmpFZzUtY2tMV08tUTFQS1NXOUFQUGRUWTJlRUI0?oc=5",
           "pubDate": "Tue, 13 Jan 2026 22:11:06 GMT"
+        },
+        {
+          "headline": "[美특징주]엔비디아, \"AI 투자 이어진다…30% 상승 가능\"",
+          "source": "edaily.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeFZ2eS04SG1XbDRVYkdFN1lZUUxSRkhUNXpwUFdZRUZhWTFoWVkzM0dsaDdFY0FVTzhGMmMydTFTNEU5RGdqVllMb0hENmpucldPS2pra2lUZmppU2EwUlI4aFRLSlNtV29uWFM0N0ZsMnFzS2kxRWhQd0xQWXp6eQ?oc=5",
+          "pubDate": "Thu, 15 Jan 2026 19:58:20 GMT"
         },
         {
           "headline": "다년간의 대규모 주가 급등 이후에도 엔비디아(NVDA)의 주가는 여전히 합리적일까요?",
@@ -587,16 +587,16 @@
           "pubDate": "Wed, 14 Jan 2026 08:34:02 GMT"
         },
         {
+          "headline": "구글 모회사 알파벳, 시총 4조달러 돌파…빅테크 ‘톱2’ 굳히기",
+          "source": "메트로신문",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55TUw4SUx2eFlpS2gzVG9rUkVqT25KSm5iWDlqYi1jUF9ZdHlJMkJ6cmh1VFdMN0U1UUE1UF9ybUM1cWxKZ1dzbmRVVVVzYllTXzRLNXNBNlZTZHVqTkJ5Wg?oc=5",
+          "pubDate": "Mon, 12 Jan 2026 17:05:57 GMT"
+        },
+        {
           "headline": "Why Alphabet (GOOGL) Stock Is Up 62% in 2025",
           "source": "TIKR.com",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAyZzQ0eVlpSjhESktNdklVcVVuRk5HazFvVm8zdENOcUhsU0o3SmcxN25Oc2YyNEUzQWpveXJNMDBHUE5jZTVIWnBpYjg3ajZoWWxaenJFcG91Q2FlYlJtT2FUN2xoYXlnRzRLSUN6djkxeTVfbmF5cnFn?oc=5",
           "pubDate": "Mon, 22 Dec 2025 08:00:00 GMT"
-        },
-        {
-          "headline": "제미니 클라우드 통합으로 애플의 차세대 AI를 강화한 후 알파벳(GOOGL)이 6.9% 상승한 이유",
-          "source": "simplywall.st",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSV9GQzk5OWROb192emhjMHVlZ3dQRGJnalZPMGNpTFdUTWV3d2QxQTFhNVFRVENBOXJkb1lMTnVLaUItODFrckFmOU1ySzJ0cnpkcmxZZV9JdHRSSnZPaXZmVzZnZlNBRHdRbUlKY0dlUHh1aF8tX1daQkZtTWtWcjRDOGJqNnFZOGRqRdIBkgFBVV95cUxPcm9Oa0xzZ195TWhkLVRwODlxdXFsdFF5dzNoU1JkY01LZEhiZFVSaTI4b3dId1BsMk0wSlpWMUE5YktTZlFjNTZ2TTJLMzFGUTBQQWFHc1AyNC1nYVNoTVVCZHdCY2QyMmpGUUlpU2tpaXhnbzRsamM4UUUxVEdGeVVuRTdXRHNUWkZlTlFYRnp4dw?oc=5",
-          "pubDate": "Wed, 14 Jan 2026 14:31:58 GMT"
         }
       ]
     }
