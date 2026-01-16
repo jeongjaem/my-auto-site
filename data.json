@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-16T20:40:43.907Z",
+  "updatedAt": "2026-01-16T20:56:28.954Z",
   "watchlist": [
     "005930.KS",
     "AAPL",
@@ -28,12 +28,12 @@
       "symbol": "AAPL",
       "resolvedSymbol": "AAPL.US",
       "date": "2026-01-16",
-      "time": "21:25:35",
-      "close": "256.235",
+      "time": "21:41:20",
+      "close": "255.96",
       "open": "257.9",
       "high": "258.9",
       "low": "254.93",
-      "volume": "24092044",
+      "volume": "24968719",
       "ok": true,
       "error": null
     },
@@ -42,12 +42,12 @@
       "symbol": "GOOGL",
       "resolvedSymbol": "GOOGL.US",
       "date": "2026-01-16",
-      "time": "21:25:34",
-      "close": "329.69",
+      "time": "21:41:18",
+      "close": "329.47",
       "open": "334.41",
       "high": "334.61",
       "low": "327.7",
-      "volume": "11317872",
+      "volume": "11897979",
       "ok": true,
       "error": null
     },
@@ -56,12 +56,12 @@
       "symbol": "MSFT",
       "resolvedSymbol": "MSFT.US",
       "date": "2026-01-16",
-      "time": "21:25:36",
-      "close": "461.32",
+      "time": "21:41:19",
+      "close": "461.34",
       "open": "457.83",
       "high": "463.19",
       "low": "456.48",
-      "volume": "12448182",
+      "volume": "12786843",
       "ok": true,
       "error": null
     },
@@ -70,12 +70,12 @@
       "symbol": "NVDA",
       "resolvedSymbol": "NVDA.US",
       "date": "2026-01-16",
-      "time": "21:25:37",
-      "close": "187.93",
+      "time": "21:41:21",
+      "close": "187.775",
       "open": "189.075",
       "high": "190.44",
       "low": "187.09",
-      "volume": "91510264",
+      "volume": "94636499",
       "ok": true,
       "error": null
     },
@@ -84,12 +84,12 @@
       "symbol": "TSLA",
       "resolvedSymbol": "TSLA.US",
       "date": "2026-01-16",
-      "time": "21:25:36",
-      "close": "440.06",
+      "time": "21:41:21",
+      "close": "439.505",
       "open": "439.5",
       "high": "447.25",
       "low": "435.2601",
-      "volume": "39391877",
+      "volume": "40495783",
       "ok": true,
       "error": null
     }
@@ -194,9 +194,9 @@
           "pubDate": "Fri, 16 Jan 2026 14:55:24 GMT"
         },
         {
-          "headline": "나스닥 게걸음 치는데 코스피는 15% 뛰어…더 뚜렷해진 디커플링",
+          "headline": "나스닥 게걸음 치는데 코스피는 15% 뛰어···더 뚜렷해진 디커플링",
           "source": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0dVNISFpIQzFpMzloUjZiRnU0WU1oRVk5bE1lT3ROaTBFSjdGOVg1Mk1odVVORlR6TDREb1MybGpwdE9VMGNmMzYyaVNyX0NCYy1nNWpuS0E5WFJvTHpWdENpZUZaWmtmQ2c?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CNFFrN2NhUjdpdmhKSDloNVFJNGtGczZ1dUJqYlBLLWU0UlY5RV80TG0xTExpc0xUeHY0TS1vZkFwYmJHMWpOcmRmNzBHRzRyUENB?oc=5",
           "pubDate": "Fri, 16 Jan 2026 08:49:00 GMT"
         }
       ]
@@ -506,10 +506,10 @@
           "pubDate": "Wed, 14 Jan 2026 08:34:02 GMT"
         },
         {
-          "headline": "구글 모회사 알파벳, 시총 4조달러 돌파…빅테크 ‘톱2’ 굳히기",
-          "source": "메트로신문",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55TUw4SUx2eFlpS2gzVG9rUkVqT25KSm5iWDlqYi1jUF9ZdHlJMkJ6cmh1VFdMN0U1UUE1UF9ybUM1cWxKZ1dzbmRVVVVzYllTXzRLNXNBNlZTZHVqTkJ5Wg?oc=5",
-          "pubDate": "Mon, 12 Jan 2026 17:05:57 GMT"
+          "headline": "Why Alphabet (GOOGL) Stock Is Up 62% in 2025",
+          "source": "TIKR.com",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAyZzQ0eVlpSjhESktNdklVcVVuRk5HazFvVm8zdENOcUhsU0o3SmcxN25Oc2YyNEUzQWpveXJNMDBHUE5jZTVIWnBpYjg3ajZoWWxaenJFcG91Q2FlYlJtT2FUN2xoYXlnRzRLSUN6djkxeTVfbmF5cnFn?oc=5",
+          "pubDate": "Mon, 22 Dec 2025 08:00:00 GMT"
         },
         {
           "headline": "최근 AI 및 클라우드 업데이트 이후 알파벳(GOOGL)의 주가가 너무 많이 상승하고 있나요?",
@@ -553,21 +553,21 @@
           "pubDate": "Tue, 13 Jan 2026 17:00:00 GMT"
         },
         {
-          "headline": "“AI 수익화의 증거 터진다”···MS·알파벳·아마존, 4분기 실적 ‘매우 강력’ 전망",
-          "source": "Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOQnVneW9Kc2owSlN1UlhNZkpfSHJxVGZ0N2RjN0pfaXZMbmZWcXFWM1h3Z3JDQ2F3bnRxYUZvZXh5eEtTTk95amVDQmEyMWtyN2tKeDJtdWNQdGVYbml6czlraEY3bF9MTlBRWlNVdjdfSVJsbjd4OEdkZDMtVnFaUzNGVGNvMEdDUk5JUWVHekhlc1FlT3cwb04zeVlzenN6LXdSRURHNDhNcmIzd1M1MjN6MWJVWm5wYkFUMlhzOENZdnZRam9aUWlaVTh3Mll5SWZHb3pmT3NMbEZyZ09objczcjFHZ0ZKWHFCMzlqcTh3cC16MnU4VmxYd29fNnFiczJMZjNGVkVKU25lRTV1NVYwaw?oc=5",
-          "pubDate": "Fri, 16 Jan 2026 14:27:15 GMT"
-        },
-        {
           "headline": "Up 120% Over 5 Years: Can Microsoft Stock Keep Climbing Through 2029?",
           "source": "TIKR.com",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTFFqR1ZBUnpOaWhOQ3NlU3dEYmNPQkRiU293ekk4a2tlcVZTYTVucWhDR3VkcGp3WHhRVVdMVUZHU2s0endWMFF4XzhpOGNQbXloOUFKUlpxYzRIZEJJUmFiY2xLSG5lZ0hOdnlzNjJjck5SNFpvRG5kSTJtVm9JekZaZ2FqYU1xUnFEUlExYnozdjJtZEtpdVozaC1vNzBZLVg1RlA1MTRlM2c?oc=5",
           "pubDate": "Sat, 10 Jan 2026 17:15:33 GMT"
         },
         {
+          "headline": "“AI 수익화의 증거 터진다”···MS·알파벳·아마존, 4분기 실적 ‘매우 강력’ 전망",
+          "source": "Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOQnVneW9Kc2owSlN1UlhNZkpfSHJxVGZ0N2RjN0pfaXZMbmZWcXFWM1h3Z3JDQ2F3bnRxYUZvZXh5eEtTTk95amVDQmEyMWtyN2tKeDJtdWNQdGVYbml6czlraEY3bF9MTlBRWlNVdjdfSVJsbjd4OEdkZDMtVnFaUzNGVGNvMEdDUk5JUWVHekhlc1FlT3cwb04zeVlzenN6LXdSRURHNDhNcmIzd1M1MjN6MWJVWm5wYkFUMlhzOENZdnZRam9aUWlaVTh3Mll5SWZHb3pmT3NMbEZyZ09objczcjFHZ0ZKWHFCMzlqcTh3cC16MnU4VmxYd29fNnFiczJMZjNGVkVKU25lRTV1NVYwaw?oc=5",
+          "pubDate": "Fri, 16 Jan 2026 14:27:15 GMT"
+        },
+        {
           "headline": "데이터 센터 급증에 따라 역대 최대 토양 탄소 배출권 계약을 체결한 마이크로소프트",
-          "source": "TradingView: siga todos los mercados",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlTlVoX2U1MjVIMFFnUU9lWWZCV015U1VWR0duZjhhcXhCcGMzOEJqN2kzNWVieDFndlZRb0YyQWNsTk0waWQyYmdXZG01WGxpOTdyWjVmZUNiYTlKdDdJa29abkZSSUlFODNRTklwR2tTczJoM2taN0pCd3R2S0k?oc=5",
+          "source": "TradingView – Tüm Piyasaları Takip Edin",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wYjBBWDNuejJvbE42UXF3ZHYwOFh5U1JDR005LWdKNF9femJuLVZxTUFFT2tLaTMxOXpKVlFnTEpOMHJKX293YXVDRm5Mb01hLTJ6NllNX3N5NUlhNVVNbW1lYzhQRVNQV0FjeDhjdGMxMXhUSmVuQUZiMTlXNkE?oc=5",
           "pubDate": "Thu, 15 Jan 2026 05:00:54 GMT"
         }
       ]
