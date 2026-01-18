@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-18T23:35:26.909Z",
+  "updatedAt": "2026-01-18T23:50:51.277Z",
   "watchlist": [
     "005930.KS",
     "AAPL",
@@ -152,6 +152,12 @@
       "query": "나스닥",
       "items": [
         {
+          "headline": "그린란드 사태로 지수 선물 일제↓ 나스닥 1% 이상 급락(상보)",
+          "source": "뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1UQzFqQXptejdyNk56TW85RWFLNUc2OXlFLTV1UGpKam5IM3FHcGRGa1VCYXkxczVxRW00am9wajREeW43cGVBejZVcngyY1RGLUxONEpQeXI?oc=5",
+          "pubDate": "Sun, 18 Jan 2026 23:37:22 GMT"
+        },
+        {
           "headline": "[Biz&Law] ‘나스닥 상장’ OSR홀딩스, IPO 수수료 놓고 법적 갈등",
           "source": "서울와이어",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zVnp1RzlROC1fbzRYSUpkUzdXcEZxLVF2cld6bUJnc3JobWhWeC15cEk2RjN0RlFLYnh1bG5LNW9tbUtaNTRWTmRBRTVLTWlnVGdmX1E2d0VIenU0akhSMkFEZFVBdGZpdGU0?oc=5",
@@ -182,22 +188,16 @@
           "pubDate": "Thu, 15 Jan 2026 21:20:25 GMT"
         },
         {
-          "headline": "[뉴욕개장] 반도체주 강세에 상승 출발…나스닥 0.47%↑",
-          "source": "뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1TS0JkSDZiME5nLVBaZzcwclZ3b1JYYUZsdzhBNHp4dG53NTU5eUJMZXVHT0Q0ODBjbWNDM0FZS3Zod01BZXNEcVJDOXl1RnFac1U0NWxtb3o?oc=5",
-          "pubDate": "Fri, 16 Jan 2026 14:55:24 GMT"
-        },
-        {
           "headline": "Agomab, 나스닥 IPO 추진 위한 신청서 제출 By Investing.com",
           "source": "Investing.com 한국어",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxUG1CdWw0bDRhOXRhZGd1Wmt6c0ZHQkRLM2k3Tl9NVEd5bndPWG84N1FHTVoxTzZfT2Q0MTVMT0xrMmlZS0RFRkN3YjdYUm5kTFlDalZ5VWN2dXpMUHp1SGlueThUdm5KNFJFclRYUDdXcjBzT29QeA?oc=5",
           "pubDate": "Fri, 16 Jan 2026 21:26:00 GMT"
         },
         {
-          "headline": "GRI 바이오, 나스닥 상장 유지 조건 충족 By Investing.com",
-          "source": "Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0ek95OGxPRGtoMFVuM0ppZU9sTmRwSUQ3YzhuTnM3UnFDVTRCeVhuTzlsckZRd0RlWV9RY1JlU0xsb3p3ZGFsWkdMU3VRQ2NxUkt0UGIwVm4zYjFXQVJYQ01ET2lWR3l4VU0yaWtscw?oc=5",
-          "pubDate": "Fri, 16 Jan 2026 13:14:00 GMT"
+          "headline": "[뉴욕개장] 반도체주 강세에 상승 출발…나스닥 0.47%↑",
+          "source": "뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1TS0JkSDZiME5nLVBaZzcwclZ3b1JYYUZsdzhBNHp4dG53NTU5eUJMZXVHT0Q0ODBjbWNDM0FZS3Zod01BZXNEcVJDOXl1RnFac1U0NWxtb3o?oc=5",
+          "pubDate": "Fri, 16 Jan 2026 14:55:24 GMT"
         }
       ]
     },
@@ -212,9 +212,9 @@
         },
         {
           "headline": "“미장 탈출 안 했어?” 올해 코스피, S&P500 대비 10배 더 올랐다 [투자360]",
-          "source": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QNDdER3RUSENEX19ZQUNKOURkZjBQRFpiZVE4a3YzNjk3Y3BPOGU0M00xb3NmQm84d1B5SnJiZElJRmxrNEMxSDFyYnMwdDQ?oc=5",
-          "pubDate": "Fri, 16 Jan 2026 21:41:47 GMT"
+          "source": "헤럴드경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zd21fNzVDeW1WdG5ReGJQeTNGODJPNkVxWmFjV29KblU4cy1QOHpiYTFRSGRJVmJwUmVoWVZJelFfemlCN3JHOGx5b1hXUzNTVjZiZTVn?oc=5",
+          "pubDate": "Fri, 16 Jan 2026 21:40:00 GMT"
         },
         {
           "headline": "S&P500, 7천선 앞두고 지지부진…지정학 불안·기술주 약세",
@@ -394,7 +394,7 @@
           "pubDate": "Sun, 14 Sep 2025 07:00:00 GMT"
         },
         {
-          "headline": "제퍼리스, 삼성전자 ’매수’ 등급 유지…2026년 이익 급증 전망",
+          "headline": "제퍼리스, 삼성전자 ’매수’ 등급 유지…2026년 이익 급증 전망 By Investing.com",
           "source": "Investing.com 한국어",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ZdHVGZkNFWjBVR09qTWpDbWlnUzNCVlV1S0RBSVlJUzNtOWNkS0pGOTlXaXpUMHBncXFMNEE3M1RDVmEwSk9CZVQ5cHcxSmZZWUF2MkxoZGlVcmw3eUNWbThtWHhSUjQxb0tyc181TjJqWGtt?oc=5",
           "pubDate": "Thu, 13 Nov 2025 08:00:00 GMT"
@@ -431,7 +431,7 @@
         {
           "headline": "애플(AAPL.O), 구글(GOOGL.O)과 다년 파트너십 공식화…새로운 버전 '시리' AI 지원",
           "source": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BU21zQ3hidlhyd3JQcVdrRFBfSm9vNjFkWVh3M1J3Q0l4RlVVUFJ4RGJVVWlncGI3MXNOMDRCSE9NWjVVZERHLTB0MFBiLTI4VVQ0akNNaG5tZmZ0NTJJWm92R0ZWVGVGX0lFUFpTM0lBbFlvTlF1dA?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WYWI5WGp1MENCR19LNkdxaGdjZ24zb29UajljTjlvRkdaVE5HTkxEUnVUZG1iRXpRVGlhQWJZOHhoQ3lid0ZCbHlTUUFDdjBuQ01F?oc=5",
           "pubDate": "Mon, 12 Jan 2026 22:55:00 GMT"
         },
         {
@@ -600,12 +600,6 @@
           "pubDate": "Mon, 12 Jan 2026 00:59:22 GMT"
         },
         {
-          "headline": "RAG와 안전 가드레일을 적용한 음성 에이전트 구축 가이드",
-          "source": "NVIDIA Developer",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeDYycVY4RmNHSjlkQUxIdVBobzFNRnVHblg5enIyNmJJY21IbUs1YXQwbm9PWjdaamxZQ29OYmJKUXZTYXJJT183Mm44UHpaSFdXaUswTTF3RGpyZzZpTTA5YUdoUHB0RlUxQzd3Mlc1LV92SXZPR1ZtRDVnSUp6bmZDMHNHa3l2VV9YSzFGdmViRlFsUDUxMWlfeFNJUGs?oc=5",
-          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT"
-        },
-        {
           "headline": "RBC Initiates Nvidia Stock with Outperform Rating, Citing 31% Potential Upside",
           "source": "TIKR.com",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSzgxeTVMREIzTktBTXNKM3htN2FsX0I3b1FWWW1aY3o2emEzNG9qa1ZZTlR6eEd2RXZwZUVVQmpYenU1aERuNjc4Vk1xV2t1VGdpVXlwelVhTlA2S2pUVWNWU2d3OVpscXZrVFQ0ZEhoRjNnN3o5a2NaUklYdTVST1RucEc2Z2cxMzV4Yi02NHNJRzFOaDU2ZGx1bHlNY2ZQNUdfZHVrdW5YSXBiM2tGWjZOMjNrVkkx?oc=5",
@@ -616,6 +610,12 @@
           "source": "마켓인",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5JcjhqTHp1MjdQWkItWkthLXhtbU9FS3N3M0pqRGp3X0p5V0RSa1AzTXB2RER5NGZqZFhocnNfM1drZ0ZQRGR3bUZFQWJjZjlqOVFGUXFqYWd2dEl1U19qcEFTcGpxQXdMdl9Cb2ZMcDR3Z0k?oc=5",
           "pubDate": "Fri, 16 Jan 2026 17:10:07 GMT"
+        },
+        {
+          "headline": "DLSS 4는 현재 250개 이상의 게임에서 지원되고 있으며, 패스 트레이싱을 적용한 007 First Light, Phantom Blade Zero, PRAGMATA™ 등 다양한 타이틀에도 적용될 예정입니다.",
+          "source": "NVIDIA",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSlluNHluNG5zTXZPeVhSa3hZcEJwNmhlM1d5d1FfX0g2MUZJcEQ1dDhhSWFpU3NDODlEckxyV2FtMzB4ZnRKNGx0Zl9PUnlxNmxYUFhxTmhpam85WnI2bG1ERkdqd1VyT0p1SEZ4X2E1QllSMll5TDQ2RENYcVlIdVlMdGJhUHJ2YkEwZVVCWWlVd2h3V2I1aDB3?oc=5",
+          "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT"
         },
         {
           "headline": "중국, 엔비디아 칩 구매 특별한 경우로 제한",
