@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-19T19:47:55.489Z",
+  "updatedAt": "2026-01-19T19:58:15.271Z",
   "watchlist": [
     "005930.KS",
     "AAPL",
@@ -188,16 +188,16 @@
           "pubDate": "Fri, 16 Jan 2026 22:04:00 GMT"
         },
         {
-          "headline": "나스닥 게걸음 치는데 코스피는 15% 뛰어…더 뚜렷해진 디커플링",
-          "source": "sedaily.com",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nVHltWHgxeDM2V1I5TldYS1FYQ3pzTVBSNW55VWxMU3Uxb1ZWQ1A3SnJGQlFVWEhxdjkySzhva3RLM0JiTHM0V21SUk1OcUFIQlJvUm1B?oc=5",
-          "pubDate": "Fri, 16 Jan 2026 08:48:10 GMT"
-        },
-        {
           "headline": "중국 기술주, 반년 새 50% 급등…코스닥·나스닥 수익률 앞질러",
           "source": "뉴스타운",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yRVZQSHI0NEVaY19mUjRJb2JkZEZMZEd5bnU4bVp2VEdLQnE1R1VOWkdhMUNMcDRSNjhSTGFWZDgtZnFybmY4bm9zMkpGM0VHdE8ta2lOU3R6YVF4QmRaQW5kRUFCbmZnLWxEdEZB?oc=5",
           "pubDate": "Mon, 19 Jan 2026 00:58:08 GMT"
+        },
+        {
+          "headline": "[속보] 그린란드 사태 여파, 지수 선물 일제 하락 … 나스닥 0.98%↓",
+          "source": "뉴데일리",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0wWkR1eks5dTIxTy1JbHVjTnlybjdkTUU0OExBc2UtX05ua2Mzemk5N1RScDZiN0ZmMk5QLUpHZmtvc2NEYi02T0dRMl9ZRnFUZDZwSXhSdmdQNGFlaUFCcHcwQ1VCTGNUT2RGVmU0MFpvd1pUb05PV01OOA?oc=5",
+          "pubDate": "Sun, 18 Jan 2026 23:28:36 GMT"
         }
       ]
     },
@@ -235,12 +235,6 @@
           "pubDate": "Fri, 26 Dec 2025 08:00:00 GMT"
         },
         {
-          "headline": "'사상 최고치' S&P 500, 1Q에 7200도 가능…섹터별 순환매 덕",
-          "source": "마켓인",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1vQkNjbjhHVF90VFh5SVIxMlhHVkRHSFg0ODRqRGhDZ1JsWjlfc0FmVmduVTZQS3hzZlRGZXhwSWNkejNveHFRX2VGaC1nODZjbGJILWNWYmZLUzQ4bFNwMlktRzU3MF8yamdaSE45OFhUaWM?oc=5",
-          "pubDate": "Tue, 13 Jan 2026 13:50:30 GMT"
-        },
-        {
           "headline": "고작 60포인트 남았는데...월가 \"S&P500, 7000선 돌파 쉽지 않다\"",
           "source": "오피니언뉴스",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EbVp2UFJ6WmttOGh3SVB4WGlpTExiUndIbXVKUjBaeGRoUERDWjFNaTJUQTN6N0hvOUZGaE1jTmlldEd2MHVVcHY0aGR1RDY3TEU0Z2ZjSWpURC11dEhsUlpKUWhpTEFuUjA1dVhKY205dw?oc=5",
@@ -251,6 +245,12 @@
           "source": "헤럴드경제",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NYnJ2bEo5d2FtZ0tFeHFLVUdRLXJFRXpydXN0eHhRRVVRWXplS2c4ZkRPNVI2dTZYbUFtT0U1OHczcTd3UzhhSldBbEZ6dnh5allqOE9B?oc=5",
           "pubDate": "Mon, 19 Jan 2026 06:16:25 GMT"
+        },
+        {
+          "headline": "씨티, S&P 500 2026년 전망 분석 By Investing.com",
+          "source": "Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE50RmlXRnVuX2NkWFBWMXJia3FDdkhySmo3djhqVi1RQUVEX01EV0FtRDJyT05aS21qLU05azJJakJ3cndFWXZXRHpscjdvSENfVjJwTFlydU80bzc1VFQ3V01XMGJYVG1HejhzNHhKXzg?oc=5",
+          "pubDate": "Thu, 01 Jan 2026 08:00:00 GMT"
         }
       ]
     },
@@ -258,22 +258,28 @@
       "query": "KOSPI",
       "items": [
         {
-          "headline": "코스피, 장중 첫 4900선 돌파…‘오천피’ 눈앞",
-          "source": "인천일보",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxdFpnUlp6TWxSeW4wOU5UY1JrUkhFb1ZCaWJlMktnNnhJeVVtc1V1dFlhR0JYV05PaDM1TVFacVByb3M2T1lrMVAxY0QybHhILVN0ZGd3RVhfZENNOUZ2WEF3WUFGWmU4SF9LN2hKR2E?oc=5",
-          "pubDate": "Mon, 19 Jan 2026 06:01:00 GMT"
+          "headline": "코스피, 4900선도 뚫었다…12거래일 연속 최고가 행진[장중시황]",
+          "source": "뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5aSjFvaUtzTHIwamhqTS0wVzhMMUhsSHptRURBbzA1aGRqMVZjbVp0cC1KdmVmclE3VFlleURBNTUybWxncm9LRHZsRmQ3WlJ3VnZKTVg2UVdJdVd3VllB?oc=5",
+          "pubDate": "Mon, 19 Jan 2026 05:11:21 GMT"
         },
         {
-          "headline": "\"삼전닉스 더 간다\" 코스피 5650 전망에도...하락 베팅 몰린 개미들",
-          "source": "머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1iTXNwYnNrUzJSdDVCUmlwVS1MeDYtaGdaM2NrZVNJWVNkY1o1dENpd2hQLXppOHlidzh0REZSMjA5Nl9Ga3pSQXFfT3YzNFRzX01ERXBuYmlIand0ZkxpUGtya1A3dWh3?oc=5",
-          "pubDate": "Sun, 18 Jan 2026 19:11:00 GMT"
+          "headline": "진격의 코스피, 11거래일 연속 상승…다음 주 ‘5천’ 찍나",
+          "source": "JTBC",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBoWDVfUDNXTjdid3lQUHNrNGp0bHhIR210NVhjS2RaNlNpSjBQWkhqUnNqakVoSmliY3p4T1lRQTVhNzNpTUE1TERfRHpaSUR1c1pBUQ?oc=5",
+          "pubDate": "Fri, 16 Jan 2026 11:08:00 GMT"
         },
         {
           "headline": "코스피, 4900 첫 돌파…12 거래일 연속 상승 신기록",
           "source": "지디넷코리아",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoU0Y2a0ZLczNoT2c0SkJSWDVpSXNHVHBzRFRqZXhTUTJoaTl5WWkyUjZ0dnRqLUhOcEp5M2NKZUtGRDljZGFSeW9JRTMzNjdtZ2l4N293?oc=5",
           "pubDate": "Mon, 19 Jan 2026 06:38:59 GMT"
+        },
+        {
+          "headline": "꿈의 5000피 눈앞인데 \"지수만 풍년\"…'K자형' 코스피의 민낯",
+          "source": "중앙일보",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6XzhoYjlSUURlbm9wdG1QMzVNODcyMFIwZHZhU3ZCUW9xV0ZNZ2J1VUtsMDlQcnpfc0RWQmx0SW03eFZ0d3JGajNiWEhhNUNWamhnZUxB?oc=5",
+          "pubDate": "Mon, 19 Jan 2026 09:08:37 GMT"
         },
         {
           "headline": "“기아, 중장기 우상향 흐름 지속…KOSPI 대비 상대 성과 주목”-미래에셋증권",
@@ -288,16 +294,10 @@
           "pubDate": "Mon, 19 Jan 2026 08:37:53 GMT"
         },
         {
-          "headline": "‘진격의 자동차’ 내세운 코스피 4,900선도 훌쩍",
-          "source": "KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JNHdTWFM4cG13WFJLaEswcGR1dzh4SkhNV2UzNFVUYjkzLUMyTzlPQkFGMV9yS1RrYnpzVS13Y3JKMjBWWDFlcGJiZ0ZCbHRPNFNnTUJNSkR5ZW8?oc=5",
-          "pubDate": "Mon, 19 Jan 2026 14:19:00 GMT"
-        },
-        {
-          "headline": "꿈의 5000피 눈앞인데 \"지수만 풍년\"…'K자형' 코스피의 민낯",
-          "source": "중앙일보",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6XzhoYjlSUURlbm9wdG1QMzVNODcyMFIwZHZhU3ZCUW9xV0ZNZ2J1VUtsMDlQcnpfc0RWQmx0SW03eFZ0d3JGajNiWEhhNUNWamhnZUxB?oc=5",
-          "pubDate": "Mon, 19 Jan 2026 09:08:37 GMT"
+          "headline": "(토마토칼럼)코스피 5000 너머에는",
+          "source": "뉴스토마토",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYWGJ1c2ZkSGV0V0tXYjdkWG94XzZ2TzlIY2M0NXdkSGN2T3BYZ3Z0ZUNPenU1UGF6MzRBUU1Qc3A5QkJSd0tCb3JKQ0ZXX0J4X2Z4OG5McEw4clBUczFILQ?oc=5",
+          "pubDate": "Mon, 19 Jan 2026 07:32:28 GMT"
         },
         {
           "headline": "코스피, 4900선 돌파...5000 시대'까지 1.94% 남아",
@@ -323,16 +323,16 @@
           "pubDate": "Mon, 19 Jan 2026 07:41:15 GMT"
         },
         {
-          "headline": "코스닥 상승 마감",
-          "source": "뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfdi1jb1BNbmFPa3Q5c2E0OGFsT2tJcnlaSlRPR3VYOFlZX3JQOFVjNjl5TGxNUDNURl9VSVp4dHNNd0ZBVHUxUHNHM01IQzF4YkpMNG9KMnBkVmp5WW1XSEpDdk5Ddw?oc=5",
-          "pubDate": "Mon, 19 Jan 2026 06:52:05 GMT"
-        },
-        {
           "headline": "[코스닥 마감] 13.77P(1.44%) 오른 968.36",
           "source": "서울파이낸스",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUQnJLcU05eDAyeXlTejF3R2J1WTNBZ3dSTWFwMjkzYTFyZ2RFX3NuUFhJOU9TMVB1eFQzeGlscW9LNGlwNFh3d0s1M0N3LUFPRXc4dzl0ZzlpMVNIYUE2MnFtLXBEeEJfVVE?oc=5",
           "pubDate": "Mon, 19 Jan 2026 06:34:07 GMT"
+        },
+        {
+          "headline": "코스닥 상승 마감",
+          "source": "뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfdi1jb1BNbmFPa3Q5c2E0OGFsT2tJcnlaSlRPR3VYOFlZX3JQOFVjNjl5TGxNUDNURl9VSVp4dHNNd0ZBVHUxUHNHM01IQzF4YkpMNG9KMnBkVmp5WW1XSEpDdk5Ddw?oc=5",
+          "pubDate": "Mon, 19 Jan 2026 06:52:05 GMT"
         },
         {
           "headline": "코스피, 4829.40 소폭 하락 출발…코스닥 0.17%↓·환율 1474원",
@@ -429,16 +429,16 @@
           "pubDate": "Mon, 12 Jan 2026 13:01:21 GMT"
         },
         {
+          "headline": "애플(AAPL.O), 구글(GOOGL.O)과 다년 파트너십 공식화…새로운 버전 '시리' AI 지원",
+          "source": "msn.com",
+          "link": "https://news.google.com/rss/articles/CBMirARBVV95cUxPdTZfcVBrYWRXQlk5d2dmVnhZSHREaTRpYUZvVGxkR3F6WWhpSlRhbnNFU3VBbmloNVUwT3ZwOV9EdGZaNGw5ajNlRG1xUkVaSEt3cEFlejB1YUhzMk9oSzlON3ZRaWhZOWp2X2hLUFFBcEZ5dFF5NkJSYjlhaUFyeWxNN2VWclFtRTZFTVc4U2NTSXV5WHZTbERMUk5WLUNSNEU2d2cxR3VkaFFoak1UcGl6cTJJNWZEMzRURHppUGwwTnh2eDVwU3BzOW9pWkZJTWV1UTVZSmczWS0zSUZrZGphNTVrWnN0ckt2TFN1aTgwWE56THJzYnV4TUFHdV9xeDNDeHljYTNRWjZNcHZLUDAxVW00eGRoVFowMEVuWGxqVmVqUTM0bmlBN25DQUNESVVqdEZRaFpiNmtPbUZ2XzUyd080blZNeGhyckQwWG5aWVJCbVRYZnhMYjNvM09xUVZRWmRrQU5yNWl3Y1dsU2hSWnBaZzZTQ2lBVVBoV1pvdjQ1aUMwRFRjS2xrUHJIMFZEdzAxNHJqYkdlZWN0cXk5M05vNFMtNWZ3dEd0ZjZZaVBOYXdsWkZ1Wnd0Ynd1SXo3cnl1akNud2o4TmJnU0NnbTRIN0kwRjVHRXhoSmh5TlIwdE5tWFc5dGNlOHNyWWdDb2JPZ3Y4OHptNUZraWh2M0RXdFRjRk45UUNRUGtwSnp0QmY3bnl6RUtYQmVtNDJFN0lWSmZEMTM1?oc=5",
+          "pubDate": "Sun, 18 Jan 2026 11:01:50 GMT"
+        },
+        {
           "headline": "애플(AAPL.N) 주주환원 여력 낮아져..운용 비중 축소 By 알파경제 alphabiz",
           "source": "Investing.com 한국어",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jVkkxbUJMQ0xaQUI2YUhQQi1ud1IwUkw2NUhkRzdpZlhabFNtOGFiUkFQZVhwMjlMSVBMVlJ4dlVDamZmaWY1N0cwVnZ0TVgyZ0loZU5nTGZiSVBTNDl1UlNtRlMxTWdCN2J1NzJMWFo?oc=5",
           "pubDate": "Wed, 07 Jan 2026 00:44:00 GMT"
-        },
-        {
-          "headline": "[미주말]애플 종목코드는 왜 AAPL일까",
-          "source": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1IaklLMi14djRfQThwU09PZGg5T0toTXJseVdxUXpnQzFkcEFTRExXczZaa2NMaERRU01xSkhkelMwNzZmNFE?oc=5",
-          "pubDate": "Sun, 13 Jul 2025 07:00:00 GMT"
         },
         {
           "headline": "이번 주 애플(AAPL 미국) 전략적 매수 기회",
@@ -447,22 +447,22 @@
           "pubDate": "Tue, 06 Jan 2026 23:29:00 GMT"
         },
         {
-          "headline": "애플(AAPL.N), AI 핵심 인재 영입. 본격적인 AI 전략 가속 신호",
-          "source": "MSN",
-          "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOZVd6QXVYRjhNOUVGMFRRTWJkaUJJM2NTNDRxOW14Z3p3MUNUOEFWTU1xQURnNVF2UkdyYWtFU1dpTjVheHdXS1hYdGdvUUNvX2gzemZrU0lVaXVSRnJ6cHp3aVdQaWJ4U0V5bUE3QUE0Q05zVmgzWWRCQnRDb2dUcmF1SzA4TXEtNDBfNzZmLVp2NXk5UmFUb0p0WVpCTWM4ZV9LbExLeG5IdmpmRENmUW1xV0FhcjVHeENkd3laMFZSNkg4NV9wLUtucFlGMHhDSXNmUzAzUnN5dlFud1Q1U3Q5RHN6UmZwMG0tWkR4bDRNb29Ld19YdjktVDFQTlNoVFFZVXBRZ241Y2RwZERKbnpUX0FEV1pXVXlEdkJjNzJ1XzdYZDRldWFyRTRiWGJVaWZuSlV3M1d1b3VzOFBfcEhXdFBrN0djdlhDRDZ2Z0c?oc=5",
-          "pubDate": "Wed, 14 Jan 2026 16:33:32 GMT"
-        },
-        {
-          "headline": "애플(AAPL.O), 구글(GOOGL.O)과 다년 파트너십 공식화…새로운 버전 '시리' AI 지원",
-          "source": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BU21zQ3hidlhyd3JQcVdrRFBfSm9vNjFkWVh3M1J3Q0l4RlVVUFJ4RGJVVWlncGI3MXNOMDRCSE9NWjVVZERHLTB0MFBiLTI4VVQ0akNNaG5tZmZ0NTJJWm92R0ZWVGVGX0lFUFpTM0lBbFlvTlF1dA?oc=5",
-          "pubDate": "Mon, 12 Jan 2026 22:55:00 GMT"
-        },
-        {
           "headline": "애플 ② FY26 첫 실적 발표 앞두고 월가의 엇갈린 전망",
           "source": "네이버 프리미엄콘텐츠",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8tYXJTU3FqMEhtMkdxTlk3Z1Q1eERaY0hMUEJaR1JleDNTT1VDTkd0aUxTWkU1d3o1TzRZNFMxdWFSZHVvRmlvTWhaRjFlajZxV3c0Y1JXTjJIOEhMOG1BWnRvejl5c2lhbzhicG9VWkpsaVZwXzc5cW9mUQ?oc=5",
           "pubDate": "Tue, 13 Jan 2026 03:30:00 GMT"
+        },
+        {
+          "headline": "'크리에이터 스튜디오' 구독 출시로 콘텐츠 공략…주가 강보합",
+          "source": "마켓인",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwSWlWVVlDMUNyNHlVcC1fLTZDaF9HOUlqdVdZek9mVTlHV2NTemNxbENMeWhyc2lYNElLbmRyay1udUtweThkMGhhSGRWN3BrTTdTeEk2TXUxRUlYTklLd1RTdTdvMkhuTWc1ZndsUVE1QlU?oc=5",
+          "pubDate": "Tue, 13 Jan 2026 17:27:24 GMT"
+        },
+        {
+          "headline": "아이폰 17의 모멘텀과 비전 프로가 애플(AAPL)의 장기적인 성장 스토리를 바꿀까요?",
+          "source": "simplywall.st",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeU16X1lrbUNRVkpmR1pFdUNQR3RvWXpWRmh5djVkX0JSS3J2Tl9uT1VpX2VQRWxUQWhiV2thQUppclJJOFJMTUxLZzRvZXN3ajUxZ0VpOENTazZvRjhDQThLdVZHRDdOdjZQZGQxWEhOYVJOd0ctLW1mQVJ3dG43M3hOLVl1UdIBiwFBVV95cUxOcUJ0M3VhQWhXaFpQa25qaXRUUFN6dGVOV25pR0VuV3oxa3RDOUhWNWNpaUl0cE1RNHJWWi16UExRRC1LQWJUQkhfZ0tMcWRidWVxcTVtYUduWFJlZmRrcF9ORVdfYjMwNkpiTFI2Rm1iT1h4YWxiN1NkaF9GaGRtR25zNmJNeGVKUVhR?oc=5",
+          "pubDate": "Sun, 04 Jan 2026 08:00:00 GMT"
         }
       ]
     },
