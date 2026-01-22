@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-22T19:03:01.593Z",
+  "updatedAt": "2026-01-22T19:46:37.542Z",
   "watchlist": [
     "005930.KS",
     "AAPL",
@@ -28,12 +28,12 @@
       "symbol": "AAPL",
       "resolvedSymbol": "AAPL.US",
       "date": "2026-01-22",
-      "time": "19:47:50",
-      "close": "250.1999",
+      "time": "20:31:26",
+      "close": "250.57",
       "open": "249.2",
-      "high": "250.82",
+      "high": "251",
       "low": "248.385",
-      "volume": "14252233",
+      "volume": "15817249",
       "ok": true,
       "error": null
     },
@@ -42,12 +42,12 @@
       "symbol": "GOOGL",
       "resolvedSymbol": "GOOGL.US",
       "date": "2026-01-22",
-      "time": "19:47:48",
-      "close": "331.47",
+      "time": "20:31:26",
+      "close": "331.9",
       "open": "334.45",
       "high": "335.15",
       "low": "329.65",
-      "volume": "8555495",
+      "volume": "9191467",
       "ok": true,
       "error": null
     },
@@ -56,12 +56,12 @@
       "symbol": "MSFT",
       "resolvedSymbol": "MSFT.US",
       "date": "2026-01-22",
-      "time": "19:47:50",
-      "close": "451.61",
+      "time": "20:31:29",
+      "close": "451.6402",
       "open": "447.62",
       "high": "452.84",
       "low": "444.7",
-      "volume": "10615869",
+      "volume": "11555316",
       "ok": true,
       "error": null
     },
@@ -70,12 +70,12 @@
       "symbol": "NVDA",
       "resolvedSymbol": "NVDA.US",
       "date": "2026-01-22",
-      "time": "19:47:51",
-      "close": "184.725",
+      "time": "20:31:29",
+      "close": "184.625",
       "open": "184.75",
       "high": "186.17",
       "low": "183.93",
-      "volume": "71356723",
+      "volume": "77614417",
       "ok": true,
       "error": null
     },
@@ -84,12 +84,12 @@
       "symbol": "TSLA",
       "resolvedSymbol": "TSLA.US",
       "date": "2026-01-22",
-      "time": "19:47:51",
-      "close": "447.035",
+      "time": "20:31:29",
+      "close": "448.875",
       "open": "435.16",
-      "high": "448.26",
+      "high": "448.8999",
       "low": "432.6293",
-      "volume": "37999891",
+      "volume": "43498879",
       "ok": true,
       "error": null
     }
@@ -135,16 +135,16 @@
           "pubDate": "Tue, 20 Jan 2026 09:05:00 GMT"
         },
         {
+          "headline": "오늘 미국 주식 시장 열리나? ‘마틴 루터 킹의 날’ 휴무 및 운영 안내",
+          "source": "Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQcElLV2lXM01obE4tOUtrVEFoSUIycFZyQ3JPVlRtdzV1dHZHbGdkRElYUUQ5UEloeGZ5aFBURnB5bWY3VHlYaDB5ekUybFN2djlTTFZyOHFQYk43OWFzVVdMSEsxSnlJR19NNEQ3SzJKWk84VjZrQUh0aW5neFJ4ak12NERVSGc3VFF2c0FGLU5hYnhEeFBoMmlITml3b2NWWjFtTVEycjRjdi1MM0tMQTZiRlp4b2R3MmRmSjlNYk9VdmZFdncxOXhUQ2twdHdlZ2VXbnhNbXk0THQ2cUJRZEhnbWtZa1ZRYVpuLUQ0QmJYcnhGcG83UEVqb3pYYnp3ZUd2dXE2OEVnOFY0eUI3YThqdEpfN0ZKT3RscmxyaF9OTHZIazR2Q0g4R2lzckRzbk9WMndmZHBja3JUUnY1ME9adG1VYWYzYXZnMUNiQ18?oc=5",
+          "pubDate": "Mon, 19 Jan 2026 07:48:59 GMT"
+        },
+        {
           "headline": "위험자산 회복?...미국증시 '급반등', 비트코인 '장중 9만달러 회복'",
           "source": "초이스경제",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vc3VHSV85c1NSbERBaThEQ0NUMVlLUzdaVDdDWFgxR2RocWlvZC1kZC1LbTJhdHVTcEpmVFFkMFB1N21CVGpwd1NCcm1vNldualphNTJsNDc3OWhRcExwbXJPbGxCODNZN21uc2hPYkPSAXNBVV95cUxQSjU3REF2UzQtOHBpR2gwN1g3MW5QS3kzNFFwZkh0a3FwZGJrbDhaakxaYXY2RjNIUngzdDBBUjBJM3I3MjZvMTFYa2JHMjlQOG44STZoS1dEY2pYdXQzX3YzQ196UDJ2WlZsakVmMzU3U0ln?oc=5",
           "pubDate": "Wed, 21 Jan 2026 21:35:42 GMT"
-        },
-        {
-          "headline": "[서울데이터랩]미국 증시 지수 종합",
-          "source": "서울신문",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBMNEJtTEZibV9idnh6eE9BcURqay14bDE5T3lKT1Nlbk5RMW9VRjNHekdFWFNCWGpGWkZIVnRZYU41NEp5dW9qeWk4VE1ZdTFIRjhiVjhOa3hXSll1c0lnSHFhS2ZMbWdBaENNc014cmRCdzNqcDlhSTV3S3BPUQ?oc=5",
-          "pubDate": "Wed, 21 Jan 2026 23:37:30 GMT"
         }
       ]
     },
@@ -264,10 +264,10 @@
           "pubDate": "Thu, 22 Jan 2026 00:03:30 GMT"
         },
         {
-          "headline": "'코스피 과열' 의견 냈다가 결국 퇴사…여의도 증권맨 '속앓이' [여의도발]",
-          "source": "한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fSDdsanF2WkRxNUFPQjlONUJoLWdCYW1YTUsyTDNqWVM1WUZyNGROWXZBaXRydGxxcWNSbFpOWW1VUVA4MS10RF9ZUy0yNzItak01QS1DN3pXUdIBVEFVX3lxTE13ZmVpc1NCMXVoejZsUzNRY3FOeDdPNTFhMlBOX3N0eVg3MGJWSlNJT1lKdE1xckl6bEYyVWRQWVppc08zUEhjbF96ZHQySGdrdzVhLQ?oc=5",
-          "pubDate": "Wed, 21 Jan 2026 00:41:18 GMT"
+          "headline": "환율↓·코스피↑ 춤추게 한 대통령의 말말말 [이런뉴스]",
+          "source": "KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwUkd1bnMwNW5qMnhTQjNYYURIMzhhVndDenlUVWkxbXpRRFpRckd6Z0IwRWZyaW13aTJQWGFhclZlclZrNWZ5V3FUQ0MtSWE2UjZzNUNNblM1WDA?oc=5",
+          "pubDate": "Wed, 21 Jan 2026 20:57:57 GMT"
         },
         {
           "headline": "KOSPI Tops 5000 on Policy, Semiconductor Momentum",
@@ -277,7 +277,7 @@
         },
         {
           "headline": "[카드뉴스] 코스피, 사상 처음 '꿈의 지수' 5천 돌파 | KOSPI 5,000",
-          "source": "kihoilbo.co.kr",
+          "source": "기호일보",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA5WFBicW1pUTNXb29aYVF1WDdqN2d6b1ZmUC00aVZhYXFSTWo5RER6QklqcDV4TWNuVE1iYVB2WEUzVHlSbTludXUwUVIyb1VzaGI5cUVRcGg0VFBLUEJWYWZTWXZ6SEtmU3FhTld3aw?oc=5",
           "pubDate": "Thu, 22 Jan 2026 01:58:30 GMT"
         },
@@ -547,16 +547,16 @@
           "pubDate": "Thu, 27 Nov 2025 08:00:00 GMT"
         },
         {
-          "headline": "[美특징주]마이크로소프트, 메르세데스 F1 팀과 스폰서 계약…개장전 ↑",
-          "source": "edaily.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUFZvLXl4a082cHhJUENvU05sRk1vNVd6VW5FcENWb2tnUmwxOTVoamt5TDZUM2xSWGpJdmozVWJHVFJYaXNiaFMtQ203UzJyd0lOWlg0X1ZPdjdweTg3YVdmRHpzUFRGdGpZazE3ZThwbmwzTFFZcHVWdFV3dFo2dQ?oc=5",
-          "pubDate": "Thu, 22 Jan 2026 11:30:53 GMT"
-        },
-        {
           "headline": "[AI의 종목 이야기] BMY, MSFT와 손잡고 AI 기반 폐암 진단 기술 도입",
           "source": "뉴스핌",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE84cnVNRnpRS3QtSVp5eGg4OVdKUkZRSWNGazJQSDBId2xnbG9Wa0FseGkwbDFlRzJpb2IwcHhMd3pFNi1TNk1iRmFEWTFSMm96OG84WWxFLUZxZnYx?oc=5",
           "pubDate": "Tue, 20 Jan 2026 14:07:00 GMT"
+        },
+        {
+          "headline": "[美특징주]마이크로소프트, 메르세데스 F1 팀과 스폰서 계약…개장전 ↑",
+          "source": "edaily.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUFZvLXl4a082cHhJUENvU05sRk1vNVd6VW5FcENWb2tnUmwxOTVoamt5TDZUM2xSWGpJdmozVWJHVFJYaXNiaFMtQ203UzJyd0lOWlg0X1ZPdjdweTg3YVdmRHpzUFRGdGpZazE3ZThwbmwzTFFZcHVWdFV3dFo2dQ?oc=5",
+          "pubDate": "Thu, 22 Jan 2026 11:30:53 GMT"
         },
         {
           "headline": "[AI의 종목 이야기] 오픈AI·MSFT, 머스크와 재판 피할 마지막 기회 잃어",
@@ -578,8 +578,8 @@
         {
           "headline": "엔비디아(NVDA)의 H200 AI 칩에 대한 중국 세관 차단이 주주에게 의미하는 것",
           "source": "simplywall.st",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdkNrLTRsMVhycEhlaVV2Z1hLWnhzbUV2WVlwcG5zbXNja0c1TDkyMFVfWElEa0lxSG5xQXU4emxaTmFnOGp5U3RRRU5EVldBYlJadlpLeXFhY09BYnpMY2QwV0xfdzNmQjNVRldVbmhlQWdnWmdBTjlOdzcyUHBVakpnZ1BfQXp0QUNGTGRJb3k0SFAt0gGaAUFVX3lxTE9wUV90di1LQ1hhWFhjSjBydlhBWG5XXzRXbVhxYzhqWVY2ZWRqenV3N0RvTXpsalJnX0dUYmJXYjJMMjdRNktMSno1eUc3Q3l6SnJzQVR1bnU1MkNDVTN0ZE1ZQXlmdU9ETzhQRXJUcTc0aUwxZXFwakJOdy1teXdHekVmVTFMWGluUkxmbjlmdnlacVIyR0lKU0E?oc=5",
-          "pubDate": "Sat, 17 Jan 2026 13:25:09 GMT"
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcFFfdHYtS0NYYVhYY0owcnZYQVhuV180V21YcWM4allWNmVkanp1dzdEb016bGpSZ19HVGJiV2IyTDI3UTZLTEp6NXlHN0N5ekpyc0FUdW51NTJDQ1UzdGRNWUF5ZnVPRE84UEVyVHE3NGlMMWVxcGpCTnctbXl3R3pFZlUxTFhpblJMZm45ZnZ5WnFSMkdJSlNB0gGaAUFVX3lxTE9wUV90di1LQ1hhWFhjSjBydlhBWG5XXzRXbVhxYzhqWVY2ZWRqenV3N0RvTXpsalJnX0dUYmJXYjJMMjdRNktMSno1eUc3Q3l6SnJzQVR1bnU1MkNDVTN0ZE1ZQXlmdU9ETzhQRXJUcTc0aUwxZXFwakJOdy1teXdHekVmVTFMWGluUkxmbjlmdnlacVIyR0lKU0E?oc=5",
+          "pubDate": "Sat, 17 Jan 2026 13:25:11 GMT"
         },
         {
           "headline": "AI가 분석해주는 엔비디아(NVDA) 상승확률은?",
@@ -606,16 +606,16 @@
           "pubDate": "Fri, 16 Jan 2026 17:31:51 GMT"
         },
         {
-          "headline": "엔비디아(NVDA.O)·일라이 릴리(LLY.N), 10억 달러 공동 투자…AI 신약 개발 연구소 설립 By 알파경제 alphabiz",
-          "source": "Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sZGQteVJyeXY3RG9SZVNDRmk3MTdJODBQV1VxcE03cGh0Nkd2T1B1UXQ4RE0yQndwaEdUYjBrSmVtdlZubE1OTGdjZ0xlLVZIb1k1aUtiVUFNMFJqZ0VxRVdFb05JU0djWVpFWFYwems?oc=5",
-          "pubDate": "Mon, 12 Jan 2026 23:23:00 GMT"
-        },
-        {
           "headline": "AI 슈퍼 팩토리의 구동, 그리고 추론, 사이버 보안, 피지컬 AI를 위한 최신 기술을 통합하는 NVIDIA와 Microsoft",
           "source": "NVIDIA Blog Korea",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pandveHJMbGJqMWRuMnpHVXQ4dHlDb0ZkYmpBQ0VhTXpPRlVsYkZjUGVMY0IwLWltUkNxdXp4YkxtWlRnMklPOF8tMjlSMDZrSllWYlJ0Y0dfenFTRm4yUzFiTmE5cmp0c0RSV3BSWW41MXFqWmc?oc=5",
           "pubDate": "Mon, 01 Dec 2025 04:19:50 GMT"
+        },
+        {
+          "headline": "엔비디아(NVDA.O)·일라이 릴리(LLY.N), 10억 달러 공동 투자…AI 신약 개발 연구소 설립 By 알파경제 alphabiz",
+          "source": "Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sZGQteVJyeXY3RG9SZVNDRmk3MTdJODBQV1VxcE03cGh0Nkd2T1B1UXQ4RE0yQndwaEdUYjBrSmVtdlZubE1OTGdjZ0xlLVZIb1k1aUtiVUFNMFJqZ0VxRVdFb05JU0djWVpFWFYwems?oc=5",
+          "pubDate": "Mon, 12 Jan 2026 23:23:00 GMT"
         },
         {
           "headline": "매파적 인하도 괜찮아?…중국 효과 못 본 NVDA [김현석의 월스트리트나우]",
@@ -635,16 +635,16 @@
           "pubDate": "Thu, 22 Jan 2026 09:43:21 GMT"
         },
         {
+          "headline": "[美특징주]머스크 \"로보택시, 올해 말까지 美 전역서 운영\"…테슬라 상승",
+          "source": "edaily.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUEFlbnRoUVVIaU45TzdIXzNRclB6TENWUHlsMzg0c21BMFY5VzVyN09la21BelJPRF9ibW4xQ3duYVQ3ZDc3UmxUakdScldRQnF3Y0x2R0g1YkxCcnBpR1hDSzZadGtYcGhpU2tHaGtWWm5GcnUxMGt1d2lwVF9nYg?oc=5",
+          "pubDate": "Thu, 22 Jan 2026 18:00:36 GMT"
+        },
+        {
           "headline": "최근 5년간 55% 주가 상승 이후 테슬라(TSLA)는 너무 멀리 달려왔나?",
           "source": "simplywall.st",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSUVsa241U05Jc2FzWHh2dnZ6dF82dEdaWHhPSHpXb3M1ZlhTOEI5bHRkQ2RtejNDV2ZTN01STGkyZWtSUVJZRTRqREFla29OX0Iwa2VfeklxMnJ1N3k1UXY5aGN6b2I3QVFiZFNmUXB1MXdDX0JrTGc1azNnazNFZFNtUkJfUHh3YlFkX0wxb9IBlAFBVV95cUxPQUMyVUthckRvSUprUms3TXhaaXJRUGJyeFE0cThSaEhjeXZDREFtbTVWdXAxbGNTamtCREVmTFNfOHJKOTl6X1pGRmp3Z3ZQcl84aEc1LWdmc3VNU1NhUkRTcmxiSWUtZkwxcXpFbDdSbkZ3ajFSVzBGa2xsV2VXYU1jRlM2d3cxX2RGdGZVWWp1Qmpy?oc=5",
           "pubDate": "Sun, 18 Jan 2026 04:20:30 GMT"
-        },
-        {
-          "headline": "“테슬라·BYD, 2026년 메모리 칩 부족 직면” 경고-웰스파고",
-          "source": "마켓인",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5IcWVMc2U4UTlBazNKWFNCOHI1aUFMdEJUT083V1ZMUlNEWjJPV2NNVmRmTmRXS194V1FzNTJvS3VVQk8waGJoeERJUDZWcEFaRDV2Nm9hbjNvODdpMDAxZFE2R3hST3habXVwcDFKdVVrdkk?oc=5",
-          "pubDate": "Wed, 21 Jan 2026 15:12:27 GMT"
         },
         {
           "headline": "[속보]5000피 코앞인데 하필…그린란드 사태에 뉴욕증시 급락, 테슬라 -4.18%",
