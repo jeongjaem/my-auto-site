@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-25T10:58:01.385Z",
+  "updatedAt": "2026-01-25T11:33:16.797Z",
   "watchlist": [
     "005930.KS",
     "AAPL",
@@ -21,77 +21,77 @@
       "low": null,
       "volume": null,
       "ok": false,
-      "error": "No data (N/D)"
+      "error": "TypeError: fetch failed"
     },
     {
       "name": "AAPL",
       "symbol": "AAPL",
-      "resolvedSymbol": "AAPL.US",
-      "date": "2026-01-23",
-      "time": "22:00:18",
-      "close": "248.04",
-      "open": "247.32",
-      "high": "249.41",
-      "low": "244.68",
-      "volume": "41688982",
-      "ok": true,
-      "error": null
+      "resolvedSymbol": "AAPL",
+      "date": null,
+      "time": null,
+      "close": null,
+      "open": null,
+      "high": null,
+      "low": null,
+      "volume": null,
+      "ok": false,
+      "error": "TypeError: fetch failed"
     },
     {
       "name": "GOOGL",
       "symbol": "GOOGL",
-      "resolvedSymbol": "GOOGL.US",
-      "date": "2026-01-23",
-      "time": "22:00:20",
-      "close": "327.93",
-      "open": "332.485",
-      "high": "333.6889",
-      "low": "327.45",
-      "volume": "27279974",
-      "ok": true,
-      "error": null
+      "resolvedSymbol": "GOOGL",
+      "date": null,
+      "time": null,
+      "close": null,
+      "open": null,
+      "high": null,
+      "low": null,
+      "volume": null,
+      "ok": false,
+      "error": "TypeError: fetch failed"
     },
     {
       "name": "MSFT",
       "symbol": "MSFT",
-      "resolvedSymbol": "MSFT.US",
-      "date": "2026-01-23",
-      "time": "22:00:17",
-      "close": "465.95",
-      "open": "451.87",
-      "high": "471.1",
-      "low": "450.53",
-      "volume": "38000159",
-      "ok": true,
-      "error": null
+      "resolvedSymbol": "MSFT",
+      "date": null,
+      "time": null,
+      "close": null,
+      "open": null,
+      "high": null,
+      "low": null,
+      "volume": null,
+      "ok": false,
+      "error": "TypeError: fetch failed"
     },
     {
       "name": "NVDA",
       "symbol": "NVDA",
-      "resolvedSymbol": "NVDA.US",
-      "date": "2026-01-23",
-      "time": "22:00:20",
-      "close": "187.67",
-      "open": "187.5",
-      "high": "189.6",
-      "low": "186.8233",
-      "volume": "142748076",
-      "ok": true,
-      "error": null
+      "resolvedSymbol": "NVDA",
+      "date": null,
+      "time": null,
+      "close": null,
+      "open": null,
+      "high": null,
+      "low": null,
+      "volume": null,
+      "ok": false,
+      "error": "TypeError: fetch failed"
     },
     {
       "name": "TSLA",
       "symbol": "TSLA",
-      "resolvedSymbol": "TSLA.US",
-      "date": "2026-01-23",
-      "time": "22:00:17",
-      "close": "449.06",
-      "open": "447.425",
-      "high": "452.43",
-      "low": "444.04",
-      "volume": "56771364",
-      "ok": true,
-      "error": null
+      "resolvedSymbol": "TSLA",
+      "date": null,
+      "time": null,
+      "close": null,
+      "open": null,
+      "high": null,
+      "low": null,
+      "volume": null,
+      "ok": false,
+      "error": "No data (N/D)"
     }
   ],
   "news": [
@@ -130,21 +130,21 @@
         },
         {
           "headline": "[서울데이터랩]미국 증시 지수 종합",
-          "source": "seoul.co.kr",
+          "source": "서울신문",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xSGllcGFiQjQ3RWF4cDM2UDc0UXhRZGdBbEN3YW9vcnJZeFAyMWNTM2piSHZ1dGJCTGpsMERRR3E5cDEzVE9FODFDaDNreGcyNG15MjU5U0VCT2p6d1ZGY0laUll6Q1ZKTUhPVWNLSGRGZGtWandBaUF0ZnNBdw?oc=5",
           "pubDate": "Fri, 23 Jan 2026 01:10:43 GMT"
+        },
+        {
+          "headline": "서학개미 날았다..해외주식 양도세 신고자 52만명 돌파",
+          "source": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVkJKTUxjcWFOZEZ0RFdCYmlidDNveFVQbXhzQW03X2s4TjhnYjdiQTlGRE1uWGtDRWtBMlNkWFBZVlFvWXR4b0RKZzRoRGdBZnRXaXRuZEx1QkR0OGxnNS1aYUNJbC0xUFBFa3pja3J3Q1Y4eHc1a0JuWm1kOU1PVmY4MzhYazNTSUxlN0JB0gGiAUFVX3lxTE1ReWgybXNKMlU3UzhMUkV3aXhTVzV6bFFPdUdEdllNRmVXS3NJRFlLYWhEbzRBM2NwaEhNRWRGMXRPSzNzbjVtYUJPaDg3M1lhakVjMU5zcGtpQWF6eWpFcVF5ZUhVckE1YWprcEs3ZGNmNnl6cTMtbE1nZHAzNjBOeDZCclF6WXBTSVdVQ1JWaUliczNfYWxGLVdCOTUzNlZNZw?oc=5",
+          "pubDate": "Thu, 22 Jan 2026 00:13:15 GMT"
         },
         {
           "headline": "그린란드 갈등 불구, 미 증시는 매수 기회 전망 분석",
           "source": "헬로티",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Ya1ViOFFyTkh6cTQtUU1XOXMxdGNDZXhVQzBxY2NrcmxZUlRsZXl3TjBXamxRaUgtNExOVGF1dlo0WnA4clliY3FWUk1LT0NPM1hLa3hHWGxneXVOUmdz?oc=5",
           "pubDate": "Thu, 22 Jan 2026 08:46:37 GMT"
-        },
-        {
-          "headline": "미국 증시는 지정학적 긴장으로 인해 변동성이 큰 한 주를 보냈습니다.",
-          "source": "vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOanBGWTJmX1IteUJqRFg2UXlZRmRib0RpYXNuekxZRFAyREY1LXlIZkRSLXhFN2p0dWFKYmZrU2VndVE4dktYLUd5bjNVci1oQ1RjMTB0RVZXVjZjV0tPZ0UwSTJtYXJSdEdkMGppSmo1OFFTVGc4c3VIcnJlTEo1eXhsZ3JyWE9tVGI2eC1ONmJnWk4wRnc?oc=5",
-          "pubDate": "Sat, 24 Jan 2026 06:15:36 GMT"
         }
       ]
     },
@@ -183,7 +183,7 @@
         },
         {
           "headline": "미국 증시 엇갈렸다…다우 0.58%↓·나스닥 0.28%↑",
-          "source": "경기신문",
+          "source": "kgnews.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtME00RjlodDdxWV9GMlVzYm1fS3F4b1dQdURYdUdlWmdGekRVOVROdV9wZTd6Sl8yRE5kUkJ1Vnc5dmp4UjEzX0E0TjdWVHVPY09GemNoanpuclFkS1ZTNUhn?oc=5",
           "pubDate": "Sat, 24 Jan 2026 11:19:15 GMT"
         },
@@ -258,16 +258,16 @@
       "query": "KOSPI",
       "items": [
         {
-          "headline": "코스피 5000 찍자 ‘이것’도 날았다…한달만에 반등",
-          "source": "문화일보",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5QVjM2enNLOVVrUmpnZlh2RVRQendVZUh1Uk00RkR1b3l1bmFobjB2X3dmY2lLcDBJekt6ZlgzQWREcFpsNlV0cjBTckg3RXBF?oc=5",
-          "pubDate": "Sat, 24 Jan 2026 12:21:48 GMT"
-        },
-        {
           "headline": "5000선 돌파했는데…코스피 주가 하락 베팅 ‘공매도 투자자’ 손실 눈덩이",
           "source": "문화일보",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8zRmpvRW9JWGN0SFlpM2dJcWxOWWtZdktFOUl0M2RuamREMlkydzRaTTBQdDROaXBkWHFvdVctSXFPbFJ2YTNKczlLQmpmVVY3?oc=5",
           "pubDate": "Sat, 24 Jan 2026 01:18:15 GMT"
+        },
+        {
+          "headline": "코스피 5000 찍자 ‘이것’도 날았다…한달만에 반등",
+          "source": "문화일보",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5QVjM2enNLOVVrUmpnZlh2RVRQendVZUh1Uk00RkR1b3l1bmFobjB2X3dmY2lLcDBJekt6ZlgzQWREcFpsNlV0cjBTckg3RXBF?oc=5",
+          "pubDate": "Sat, 24 Jan 2026 12:21:48 GMT"
         },
         {
           "headline": "이 대통령 “정치테마 된 코스피, 안타깝다”",
@@ -288,16 +288,16 @@
           "pubDate": "Fri, 23 Jan 2026 06:50:00 GMT"
         },
         {
-          "headline": "나경원 “연기금으로 코스피 올려”…민주 “국민 부자되는 게 배아픈가”",
-          "source": "매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFNnZfbFVTcTl3SGlTSExqUzR5dkZqTGYzdVFVSGh6V1A0R3p1VVNOSDBzLVdjR0hqSkMtbEx5NVNIN1hXUlNWaGlvdWpLb2xJNUlxN3d3?oc=5",
-          "pubDate": "Sat, 24 Jan 2026 23:56:40 GMT"
-        },
-        {
           "headline": "\"가격 올라도 기분 좋죠\"…'5000피'에 두 배 뛴 '코스피 커피'",
           "source": "뉴스1",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBEczA2ektsU3lTcEM4NWNuQXkyMkdsZkFMREhWLWVXVlhuNXBTQnFacGVGcmp1aXI3Zk5pUWY3YTFWbVY5eHdJeG9saUx2LVgtVWN0UkJHX2RXLXN5bmp5dU0yczM?oc=5",
           "pubDate": "Sat, 24 Jan 2026 21:30:00 GMT"
+        },
+        {
+          "headline": "나경원 “연기금으로 코스피 올려”…민주 “국민 부자되는 게 배아픈가”",
+          "source": "매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFNnZfbFVTcTl3SGlTSExqUzR5dkZqTGYzdVFVSGh6V1A0R3p1VVNOSDBzLVdjR0hqSkMtbEx5NVNIN1hXUlNWaGlvdWpLb2xJNUlxN3d3?oc=5",
+          "pubDate": "Sat, 24 Jan 2026 23:56:40 GMT"
         },
         {
           "headline": "오천피 눈앞서 '전강후약' 코스피…\"실적시즌 삼전·SK하닉 관건\"",
@@ -431,7 +431,7 @@
         {
           "headline": "애플(AAPL.O), 시리 AI 챗봇 전면 개편…'캄포스' 연내 도입",
           "source": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LV3RvaXZFWlBkS2VybVhsWU41NGh1bXFlaktPRmRtYjROTFRld1U4c205QlBPRUt2U1k0V0UwXzhHUlY4QzV0dDZOWW1hdXRIQUpn?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5VOE1HaXc0dVkzVDJjOHpCc19VamRNRWk4V2pCQjg1aEFOQ0xDellpb0xtTm43TWtKVVRxRHNNQXJHY1M1WVhXNzBZS01EZGR3V2MtamptczBSNngydFRMd2ZOdUxsTW1vZXdoWnZsNi1FM21ROEx2RA?oc=5",
           "pubDate": "Wed, 21 Jan 2026 22:45:00 GMT"
         },
         {
@@ -525,7 +525,7 @@
         {
           "headline": "미국증시 장중..4대지수 '혼조', 인텔 '추락', MSFT·메타·아마존 '활짝'",
           "source": "초이스경제",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9iMXJ3ekFpTzlCX0JMZDZvRm9QVkZSUEpiT2hzMkp5akQwSTBJYWpTVnBtc3lrWlpWaDlQUTFCd3VfVE0wOVVCc0tURi1GaUZJZWZfZzRhemt3Z1VoNEY0M1ExZGk2cjM1dmZJak5zWdIBc0FVX3lxTE1LTGt6UEVGVEVMelA4NTJWZ0g2ZUFuOUp1UDI4cUEtT3A5bV9NaUJvWmtvWXdxdHg2NkVfdUR1akJYVFQzc1lVTTVmQUlwVHYzYXNlemJJMDNBd3ZRU1VDNXFEZjZoaHZXQjNKemhOaGdjQ0k?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wR05Kb2ktWnljdktLX3lVS3RuWjFlbXJ6SkVMMXVZa2ZmTnk5R1N0aHlaa2JkRHZvNzhJaWZZcGZzdENsckZiX2dGbG9xZnZselU1Q0poTlA3RDVrS3l0T282eW9ObUFvREQ5eFR6UGzSAXNBVV95cUxNS0xrelBFRlRFTHpQODUyVmdINmVBbjlKdVAyOHFBLU9wOW1fTWlCb1prb1l3cXR4NjZFX3VEdWpCWFRUM3NZVU01ZkFJcFR2M2FzZXpiSTAzQXd2UVNVQzVxRGY2aGh2V0IzSnpoTmhnY0NJ?oc=5",
           "pubDate": "Fri, 23 Jan 2026 20:35:40 GMT"
         },
         {
@@ -612,16 +612,16 @@
           "pubDate": "Wed, 10 Dec 2025 08:00:00 GMT"
         },
         {
-          "headline": "APEC CEO Summit: NVIDIA 젠슨 황, 한국 AI 산업 혁명 이끌 역사적 파트너십 발표",
-          "source": "NVIDIA Blog Korea",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oay1aVEdRVklsSG1Kc25XXzQ5d1lzRE1Ya2Q4QmpFR05iaWF3Nl96QXlGM08tUWx3UkNVaWNyT1NIbFBwUGFyOG1hRVVoQzR5NVozbHRlVllOcHFBU2ZMZGJmdmFISmFi?oc=5",
-          "pubDate": "Mon, 03 Nov 2025 01:54:17 GMT"
-        },
-        {
           "headline": "엔비디아(NVDA)의 H200 AI 칩에 대한 중국 세관 차단이 주주에게 의미하는 것",
           "source": "simplywall.st",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdkNrLTRsMVhycEhlaVV2Z1hLWnhzbUV2WVlwcG5zbXNja0c1TDkyMFVfWElEa0lxSG5xQXU4emxaTmFnOGp5U3RRRU5EVldBYlJadlpLeXFhY09BYnpMY2QwV0xfdzNmQjNVRldVbmhlQWdnWmdBTjlOdzcyUHBVakpnZ1BfQXp0QUNGTGRJb3k0SFAt0gGaAUFVX3lxTE9wUV90di1LQ1hhWFhjSjBydlhBWG5XXzRXbVhxYzhqWVY2ZWRqenV3N0RvTXpsalJnX0dUYmJXYjJMMjdRNktMSno1eUc3Q3l6SnJzQVR1bnU1MkNDVTN0ZE1ZQXlmdU9ETzhQRXJUcTc0aUwxZXFwakJOdy1teXdHekVmVTFMWGluUkxmbjlmdnlacVIyR0lKU0E?oc=5",
           "pubDate": "Sat, 17 Jan 2026 13:25:09 GMT"
+        },
+        {
+          "headline": "美, 엔비디아(NVDA.O) H200 칩 등 25% 관세 부과",
+          "source": "알파경제",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkM0VGQVZ0U2F0Z016WDFhcWJ6SjQySVpRQmo1clBXekQtWjJKOHhPLUloQ0VDUjA0OGRkUi1LbmZIVXNYWUhVc3gwNDNVR1VjVlJfc3J2a2NvR0FyZUHSAW5BVV95cUxQSnJfZHJqcUFpZjdEYnpIaC14ZURDLXpxWWhJZnZFSnNqOFR1MlltMWZHeHVoOHE2R3RjbURzQVZOZUNNMmozRlpjU25zRDgzRzhUTVNtY1FVRjExQzNJd3VJQ3RkcXdRa3B6and1QQ?oc=5",
+          "pubDate": "Thu, 15 Jan 2026 22:57:12 GMT"
         }
       ]
     },
