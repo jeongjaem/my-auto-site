@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-25T11:33:16.797Z",
+  "updatedAt": "2026-01-25T11:47:47.993Z",
   "watchlist": [
     "005930.KS",
     "AAPL",
@@ -21,77 +21,77 @@
       "low": null,
       "volume": null,
       "ok": false,
-      "error": "TypeError: fetch failed"
+      "error": "No data (N/D)"
     },
     {
       "name": "AAPL",
       "symbol": "AAPL",
-      "resolvedSymbol": "AAPL",
-      "date": null,
-      "time": null,
-      "close": null,
-      "open": null,
-      "high": null,
-      "low": null,
-      "volume": null,
-      "ok": false,
-      "error": "TypeError: fetch failed"
+      "resolvedSymbol": "AAPL.US",
+      "date": "2026-01-23",
+      "time": "22:00:18",
+      "close": "248.04",
+      "open": "247.32",
+      "high": "249.41",
+      "low": "244.68",
+      "volume": "41688982",
+      "ok": true,
+      "error": null
     },
     {
       "name": "GOOGL",
       "symbol": "GOOGL",
-      "resolvedSymbol": "GOOGL",
-      "date": null,
-      "time": null,
-      "close": null,
-      "open": null,
-      "high": null,
-      "low": null,
-      "volume": null,
-      "ok": false,
-      "error": "TypeError: fetch failed"
+      "resolvedSymbol": "GOOGL.US",
+      "date": "2026-01-23",
+      "time": "22:00:20",
+      "close": "327.93",
+      "open": "332.485",
+      "high": "333.6889",
+      "low": "327.45",
+      "volume": "27279974",
+      "ok": true,
+      "error": null
     },
     {
       "name": "MSFT",
       "symbol": "MSFT",
-      "resolvedSymbol": "MSFT",
-      "date": null,
-      "time": null,
-      "close": null,
-      "open": null,
-      "high": null,
-      "low": null,
-      "volume": null,
-      "ok": false,
-      "error": "TypeError: fetch failed"
+      "resolvedSymbol": "MSFT.US",
+      "date": "2026-01-23",
+      "time": "22:00:17",
+      "close": "465.95",
+      "open": "451.87",
+      "high": "471.1",
+      "low": "450.53",
+      "volume": "38000159",
+      "ok": true,
+      "error": null
     },
     {
       "name": "NVDA",
       "symbol": "NVDA",
-      "resolvedSymbol": "NVDA",
-      "date": null,
-      "time": null,
-      "close": null,
-      "open": null,
-      "high": null,
-      "low": null,
-      "volume": null,
-      "ok": false,
-      "error": "TypeError: fetch failed"
+      "resolvedSymbol": "NVDA.US",
+      "date": "2026-01-23",
+      "time": "22:00:20",
+      "close": "187.67",
+      "open": "187.5",
+      "high": "189.6",
+      "low": "186.8233",
+      "volume": "142748076",
+      "ok": true,
+      "error": null
     },
     {
       "name": "TSLA",
       "symbol": "TSLA",
-      "resolvedSymbol": "TSLA",
-      "date": null,
-      "time": null,
-      "close": null,
-      "open": null,
-      "high": null,
-      "low": null,
-      "volume": null,
-      "ok": false,
-      "error": "No data (N/D)"
+      "resolvedSymbol": "TSLA.US",
+      "date": "2026-01-23",
+      "time": "22:00:17",
+      "close": "449.06",
+      "open": "447.425",
+      "high": "452.43",
+      "low": "444.04",
+      "volume": "56771364",
+      "ok": true,
+      "error": null
     }
   ],
   "news": [
@@ -135,16 +135,16 @@
           "pubDate": "Fri, 23 Jan 2026 01:10:43 GMT"
         },
         {
-          "headline": "서학개미 날았다..해외주식 양도세 신고자 52만명 돌파",
-          "source": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVkJKTUxjcWFOZEZ0RFdCYmlidDNveFVQbXhzQW03X2s4TjhnYjdiQTlGRE1uWGtDRWtBMlNkWFBZVlFvWXR4b0RKZzRoRGdBZnRXaXRuZEx1QkR0OGxnNS1aYUNJbC0xUFBFa3pja3J3Q1Y4eHc1a0JuWm1kOU1PVmY4MzhYazNTSUxlN0JB0gGiAUFVX3lxTE1ReWgybXNKMlU3UzhMUkV3aXhTVzV6bFFPdUdEdllNRmVXS3NJRFlLYWhEbzRBM2NwaEhNRWRGMXRPSzNzbjVtYUJPaDg3M1lhakVjMU5zcGtpQWF6eWpFcVF5ZUhVckE1YWprcEs3ZGNmNnl6cTMtbE1nZHAzNjBOeDZCclF6WXBTSVdVQ1JWaUliczNfYWxGLVdCOTUzNlZNZw?oc=5",
-          "pubDate": "Thu, 22 Jan 2026 00:13:15 GMT"
-        },
-        {
           "headline": "그린란드 갈등 불구, 미 증시는 매수 기회 전망 분석",
           "source": "헬로티",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Ya1ViOFFyTkh6cTQtUU1XOXMxdGNDZXhVQzBxY2NrcmxZUlRsZXl3TjBXamxRaUgtNExOVGF1dlo0WnA4clliY3FWUk1LT0NPM1hLa3hHWGxneXVOUmdz?oc=5",
           "pubDate": "Thu, 22 Jan 2026 08:46:37 GMT"
+        },
+        {
+          "headline": "미국 증시는 지정학적 긴장으로 인해 변동성이 큰 한 주를 보냈습니다.",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOanBGWTJmX1IteUJqRFg2UXlZRmRib0RpYXNuekxZRFAyREY1LXlIZkRSLXhFN2p0dWFKYmZrU2VndVE4dktYLUd5bjNVci1oQ1RjMTB0RVZXVjZjV0tPZ0UwSTJtYXJSdEdkMGppSmo1OFFTVGc4c3VIcnJlTEo1eXhsZ3JyWE9tVGI2eC1ONmJnWk4wRnc?oc=5",
+          "pubDate": "Sat, 24 Jan 2026 06:15:36 GMT"
         }
       ]
     },
@@ -264,10 +264,10 @@
           "pubDate": "Sat, 24 Jan 2026 01:18:15 GMT"
         },
         {
-          "headline": "코스피 5000 찍자 ‘이것’도 날았다…한달만에 반등",
-          "source": "문화일보",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5QVjM2enNLOVVrUmpnZlh2RVRQendVZUh1Uk00RkR1b3l1bmFobjB2X3dmY2lLcDBJekt6ZlgzQWREcFpsNlV0cjBTckg3RXBF?oc=5",
-          "pubDate": "Sat, 24 Jan 2026 12:21:48 GMT"
+          "headline": "코스피 5000 간다고 소비 늘어나나···‘부의 효과’ 있을까?",
+          "source": "경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12ek8wd2ZodDNoZ3R5R0tVMnVqOThrbml3dWRKMS16M3JGR0x5T3p1NGRVMmhXREpDVXp2NFU5ejduanRmTk9UYnJLeXJRQzhKVzlPZ2hickRIQdIBX0FVX3lxTE96RUs1U0tNaW03a00wcTgtdHplQzB6RHAtbUUxdlk1Wm03djFDZEN3T24yVU0yNDBZeS1tVzNmcTZQNDhPLXIzZFBKNnlYZ3F0OTg3cThPUjNoTEJsMVZj?oc=5",
+          "pubDate": "Thu, 22 Jan 2026 21:00:00 GMT"
         },
         {
           "headline": "이 대통령 “정치테마 된 코스피, 안타깝다”",
@@ -323,10 +323,22 @@
           "pubDate": "Fri, 23 Jan 2026 06:49:30 GMT"
         },
         {
-          "headline": "Asian markets end week upbeat as KOSPI, KOSDAQ hover near milestones",
+          "headline": "\"이번엔 코스닥 3000\"…기관 '사상 최대' 순매수에 '천스닥' 코앞",
+          "source": "뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RWEw3TVM2ekNSMTc5clR3S0tKdFF3Tnc3R29iY05vVlkwQmlnSXBBQ0hvVGNSWVFHQzR5eEdFVTVycU9yeWNRZWk0NUVrdHZnT0dSNVNQZHEtQUQxcEFz?oc=5",
+          "pubDate": "Fri, 23 Jan 2026 08:32:15 GMT"
+        },
+        {
+          "headline": "'천스닥' 바짝 다가선 코스닥…이천피 가려면 체질개선·신뢰 회복이 관건",
           "source": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yWktlT1FBaVBEckZrTE5OS3BiLXk4dk5IZlQtMjNlZURVbkMxNGZCZjR3X3k3Nk5KdlBzejlWUHdoWnBkWUZlbFNhQXRSWUVkbFNF?oc=5",
-          "pubDate": "Fri, 23 Jan 2026 08:50:00 GMT"
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSVGdzLVhoM1ZaQWJxTnlOR1NacUFYM1N6YmFacE1tNVZVQmdfZE1IckszbTBRejlNdFE3N1I5ZUNnbDNMS0N6NHBFQkl1N0ZXNWlB?oc=5",
+          "pubDate": "Sun, 25 Jan 2026 06:52:00 GMT"
+        },
+        {
+          "headline": "[마켓뷰] 코스닥도 ‘축포’ 준비… 제약·바이오 강세에 ‘천스닥’ 눈 앞",
+          "source": "조선비즈",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQ3FNOTQ5TTk5a1ZyVkFpdGlhbVhqUjNrQnFoMWQ3SVlkc1pQeEJQRU1mdVh2OVEybDRJX2l4U0NXYlcxb1Y5LTlwcEd0MzdPY290Z1lodnJDRXVOYmJiUWtDRUs3TC1mMXBxcHZTWWh3S1E4c0pSYTM3STRvdG40bjBaV3JuNDBW0gGcAUFVX3lxTE0tODFpbXlfbmlXcVFsN2VXdF9odjV5bDhqajNmNmxIeWs2MlNzeUowcEdJaVpGdUJQdUpsalQzM3Y3YUhjS2hhS1NWamJhTjlKS1ZTU0hzeXJwQ2R4RnptNkRMYldOWm1Kal9uek45ZG9JeUdwdjZ3UDkyVFNVWWZkSUlYdnFSUnJDTFdOalFfTGFkX2FwNTlvS3NqQg?oc=5",
+          "pubDate": "Fri, 23 Jan 2026 07:22:00 GMT"
         },
         {
           "headline": "\"이번엔 코스닥 3000\"…기관 '사상 최대' 순매수에 '천스닥' 코앞",
@@ -341,22 +353,10 @@
           "pubDate": "Fri, 23 Jan 2026 07:02:03 GMT"
         },
         {
-          "headline": "코스닥 '급등'...알테오젠 · 삼천당제약 · HLB · 다날 '껑충'",
-          "source": "초이스경제",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hOFE0eGRRZ3g1YVducnRPQWY2OXN3eHBjXzdqQy1CeExNdzFnMmoxWWFiUy0xUFVNZmV0UGxUQzJ1a1VQNW9nRmxqV2pPa2JobzFqS1dLVjR6aTZjWnBiX1BYbUVYUDhsNzRtMDJhVdIBc0FVX3lxTE1UbFJYNHNvMVBlcUJxOWk4T2YyNDQzcHAtS1d1em5za21BU0FyMmk0YzJiSF8tZG5wNmJJNHQ2WjJta0JRdi1DU09MN2VqV2k0QWg4bVljbklwM0FlUjVQZUczVXhma25GQUdLcnR1R3U0dEE?oc=5",
-          "pubDate": "Fri, 23 Jan 2026 07:34:29 GMT"
-        },
-        {
-          "headline": "[마켓뷰] 코스닥도 ‘축포’ 준비… 제약·바이오 강세에 ‘천스닥’ 눈 앞",
-          "source": "조선비즈",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQ3FNOTQ5TTk5a1ZyVkFpdGlhbVhqUjNrQnFoMWQ3SVlkc1pQeEJQRU1mdVh2OVEybDRJX2l4U0NXYlcxb1Y5LTlwcEd0MzdPY290Z1lodnJDRXVOYmJiUWtDRUs3TC1mMXBxcHZTWWh3S1E4c0pSYTM3STRvdG40bjBaV3JuNDBW0gGcAUFVX3lxTE0tODFpbXlfbmlXcVFsN2VXdF9odjV5bDhqajNmNmxIeWs2MlNzeUowcEdJaVpGdUJQdUpsalQzM3Y3YUhjS2hhS1NWamJhTjlKS1ZTU0hzeXJwQ2R4RnptNkRMYldOWm1Kal9uek45ZG9JeUdwdjZ3UDkyVFNVWWZkSUlYdnFSUnJDTFdOalFfTGFkX2FwNTlvS3NqQg?oc=5",
-          "pubDate": "Fri, 23 Jan 2026 07:22:00 GMT"
-        },
-        {
-          "headline": "오천피 다음은 '천스닥'… 체질 개선 시동 거는 코스닥",
-          "source": "한국일보",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1JamlaWFQ3amxTbmd4c2FIanp2bjhvc2ZVWTNJREx3VGhlaWxuVks3alJKWEFIWUtHOTRuVFdCbUszeEhvdEFIa1pMLTVIVzFuWVFTNGREODZ0WGluMFNtVWZ1TkM5SG1Md0E?oc=5",
-          "pubDate": "Fri, 23 Jan 2026 01:00:00 GMT"
+          "headline": "\"코스피 오르는데 코스닥은 왜이래\"…'천스닥' 시대는 언제",
+          "source": "머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5rWXgtMU5tU3R2UnNBbzVsbkdwelZJYThpZ2RPOGVHVkxIVGVkT3d0VGJqbjlTZE04NHdDMmlQbFVULURJb1l1NXFnQ1BBODV2YzdaRmdNalNUMnVERTNJM2pTdVVhZnJS?oc=5",
+          "pubDate": "Thu, 22 Jan 2026 04:46:27 GMT"
         }
       ]
     },
