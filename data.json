@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-26T19:45:52.750Z",
+  "updatedAt": "2026-01-26T19:57:44.264Z",
   "watchlist": [
     "005930.KS",
     "AAPL",
@@ -28,12 +28,12 @@
       "symbol": "AAPL",
       "resolvedSymbol": "AAPL.US",
       "date": "2026-01-26",
-      "time": "20:30:43",
-      "close": "255.94",
+      "time": "20:42:34",
+      "close": "256.14",
       "open": "251.48",
-      "high": "256.01",
+      "high": "256.26",
       "low": "249.8",
-      "volume": "21812689",
+      "volume": "22439204",
       "ok": true,
       "error": null
     },
@@ -42,12 +42,12 @@
       "symbol": "GOOGL",
       "resolvedSymbol": "GOOGL.US",
       "date": "2026-01-26",
-      "time": "20:30:41",
-      "close": "334.72",
+      "time": "20:42:32",
+      "close": "334.05",
       "open": "327.805",
       "high": "335.84",
       "low": "327",
-      "volume": "10162527",
+      "volume": "10343987",
       "ok": true,
       "error": null
     },
@@ -56,12 +56,12 @@
       "symbol": "MSFT",
       "resolvedSymbol": "MSFT.US",
       "date": "2026-01-26",
-      "time": "20:30:43",
-      "close": "472.68",
+      "time": "20:42:34",
+      "close": "473.095",
       "open": "465.305",
       "high": "474.25",
       "low": "462",
-      "volume": "12304748",
+      "volume": "12596814",
       "ok": true,
       "error": null
     },
@@ -70,12 +70,12 @@
       "symbol": "NVDA",
       "resolvedSymbol": "NVDA.US",
       "date": "2026-01-26",
-      "time": "20:30:43",
-      "close": "186.57",
+      "time": "20:42:34",
+      "close": "186.6",
       "open": "187.16",
       "high": "189.12",
       "low": "185.99",
-      "volume": "67709910",
+      "volume": "69084743",
       "ok": true,
       "error": null
     },
@@ -84,12 +84,12 @@
       "symbol": "TSLA",
       "resolvedSymbol": "TSLA.US",
       "date": "2026-01-26",
-      "time": "20:30:43",
-      "close": "437.7199",
+      "time": "20:42:34",
+      "close": "437.61",
       "open": "445",
       "high": "445.04",
       "low": "436.71",
-      "volume": "27460009",
+      "volume": "28039401",
       "ok": true,
       "error": null
     }
@@ -205,6 +205,12 @@
       "query": "S&P 500",
       "items": [
         {
+          "headline": "S&P 500 목표가 8,100 완전 분석",
+          "source": "네이버 프리미엄콘텐츠",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVHFMVHY2akRhTHFaLTFpS21mNTA1d3A4WVkwMU9sejRtWjUtN3lpYlo5RlBzN0VXSHJjR3lseS1RQXZBcWFWMTJWaVo1ejhyRDEyWWVrUF9mbDZ4aU1RNjBad3BUR0thS1hZcHFpSnlnSFRJT21iQXNGYmZ6TGdfMUNTNWpTeEg1ZDNRcg?oc=5",
+          "pubDate": "Mon, 26 Jan 2026 01:40:00 GMT"
+        },
+        {
           "headline": "[뉴욕개장] 연준 통화정책 결정 앞두고…다우·S&P500, 소폭 상승 출발",
           "source": "v.daum.net",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1EWl9xNnZxWEdtamJQZ1lkMTlXbXR2bkpyUmRBRGh1WXR1NkdJRFZwTmRzd19wNlRSQUFMMXllRzFyMnpJd2RMZkFsd2IyRFk?oc=5",
@@ -223,24 +229,6 @@
           "pubDate": "Mon, 26 Jan 2026 12:37:00 GMT"
         },
         {
-          "headline": "S&P500 선물, 亞시장서 실적발표·FOMC 경계감에 하락…美국채금리 혼조",
-          "source": "연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWYi1hWDQ4N3hyazJob1p3M3IxYzMtamdvX09Lc3AwTnE2bkdETXZ1M3A0b3RXcUtiYUtHWlR6YUEwTURyWEJXaUZJcllNN0V6b0h4alZERHRlZGtTU0Z1QjF3eWVMbjJTM0V1Y20wSm4?oc=5",
-          "pubDate": "Mon, 26 Jan 2026 03:01:19 GMT"
-        },
-        {
-          "headline": "빅테크 실적 발표, 주가 반등시 S&P500 7000 시도…올해 첫 FOMC[이번주 美 증시는]",
-          "source": "머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yTjBadUNpa2ttU1hyaG5kLVg3OGR6Y29KelEtVms2Y1RIb0FlLVl0T0lObXRIVjFnTVB5MFBVOGl4eGVmUzlGSUdXUWpzUjgtZjU4R0F1R2gwa3hwbmZ4aDFqOEVRaHoz?oc=5",
-          "pubDate": "Sun, 25 Jan 2026 20:35:00 GMT"
-        },
-        {
-          "headline": "S&P 500 목표가 8,100 완전 분석",
-          "source": "네이버 프리미엄콘텐츠",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVHFMVHY2akRhTHFaLTFpS21mNTA1d3A4WVkwMU9sejRtWjUtN3lpYlo5RlBzN0VXSHJjR3lseS1RQXZBcWFWMTJWaVo1ejhyRDEyWWVrUF9mbDZ4aU1RNjBad3BUR0thS1hZcHFpSnlnSFRJT21iQXNGYmZ6TGdfMUNTNWpTeEg1ZDNRcg?oc=5",
-          "pubDate": "Mon, 26 Jan 2026 01:40:00 GMT"
-        },
-        {
           "headline": "S&P500, 트럼프 2기 첫해 13.3% 상승에 그쳐… 20년來 ‘최저 수익률’ 쇼크",
           "source": "글로벌이코노믹",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM1pVTVlTTTBDdEhWSDc4SXBOdWkwcWdWSkV6WEx1WjBSSGRCZUJicHVwVWNHaG1UNklROU8xWDBnVXRaM1RYNnFKclVqMWF3WndZSUJkVUFLTzFqZkJyVUhJQ3g4cm5IU0Z4SGRPWEV5cHRIVF8tUEN6ZHYxNTRQa0Z2MUNfLTNR?oc=5",
@@ -251,6 +239,18 @@
           "source": "뉴시스",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01MmtPTUtIbVMxUHFzTUJER0hqY2RjVTNpTXJRVVZSbDA1ZU1aODFDMHFiNUczWTNQTEI4QmV3NkVWOUxBeGxqQy1GSm9OVHVGUjZTRkVKYUo2S2U5UjJSYdIBeEFVX3lxTE1LeFBnSXNhbWVmcTJDWGNwc2tlV2ctM2FXVTVrSWtYeFFoa0N1Y2hjM2hLU1lZaE9yV1pmOGwtZlZPbVZHeGNhcFpEZ3F1eWpYcnZSOTl1YTk2YU9EN3pPenNhMHZFYkt1V2tUSTBOWE85NTRVU2F5Tg?oc=5",
           "pubDate": "Fri, 23 Jan 2026 21:18:42 GMT"
+        },
+        {
+          "headline": "트럼프 재집권 첫해 美 증시 13% 상승…20년래 최저 성과",
+          "source": "디지털투데이",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtcmVLOUc2cTNjQ0xSWWhRYUR0by14dndIOEYwN0Q2em9VQkh2SVRrODh6WVZZdzZtOXRaRTQ3QWpiY1dPRVo1T3BCRTg4UFVUTURWS1pxYklZWTBQVzNwZUtkS1VaZHhKdWUwVTZHWnh4UFk?oc=5",
+          "pubDate": "Mon, 26 Jan 2026 01:16:00 GMT"
+        },
+        {
+          "headline": "[뉴욕증시] S&P500·나스닥만 사흘 연속 상승…인텔, 17% 폭락",
+          "source": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ON18wYW9XaVgzUlZUVklzcTJadmFDNFlfOHVxLWc3V2NVZlpoZk5OSEp3MGVLRjExYmk2cGp3RDVnaV9wR3hCbjVtWDRIekk?oc=5",
+          "pubDate": "Fri, 23 Jan 2026 21:48:20 GMT"
         }
       ]
     },
@@ -402,7 +402,7 @@
         {
           "headline": "AI가 실시간 영어 번역…전세계와 통하는 서경",
           "source": "서울경제",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5udzZmd01YYlJPdEZNaHd3ZjNjSXpVdTk4VWxtaVM5TWhQdzNDOVd6T0phQWpIWlVyb3B4OXdOYl92ekRRR0hVMjJ6MFZXOUNHUmdBem4yVllSbUxLUUE?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YYTVacHVtX2RwQnc4Vi1kVVJDMTZrUHFDbEVCbUg0LUVLclpJTmZOSlgxRzdneGtvYnJnVnlEWFZUOS1ISHBSa1dDRUVlZmMwOEwzV3ptdHZjRjJuRkxZeHI0a3RoQQ?oc=5",
           "pubDate": "Sun, 25 Jan 2026 04:38:59 GMT"
         },
         {
@@ -459,10 +459,10 @@
           "pubDate": "Wed, 14 Jan 2026 08:00:00 GMT"
         },
         {
-          "headline": "Apple, 서비스 푸시 강화를 위해 크리에이터 스튜디오 출시, AI 기능 추가",
-          "source": "TradingView",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OdDBOejNPVGxSdXpESGJXQkhvU0tUQ0w2b0hxc0FISW5OZE1lRGpfMXhyeVhITjlXa3kycXM1anktbGNwUmxBQUhRdnNuQm9EOGx3TUVnaU9rOWpNYk90NkhkZG9pd1o3Z1JqSTMwZzJhbUtuSC1jc2l6ZXI5XzA?oc=5",
-          "pubDate": "Tue, 13 Jan 2026 08:00:00 GMT"
+          "headline": "[AI의 종목 이야기] 애플, 업그레이드된 신형 에어태그 발표",
+          "source": "ZUM 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9PQk15SWNuX3lIcEMzQkhPZHZHQ1FHSFpmQzgzWU01OWxYLXpTUmhwbVNHQnpmeG5LQnI3NkdISU5PRTl4MUJQcVFJR3NpVmVi?oc=5",
+          "pubDate": "Mon, 26 Jan 2026 17:00:19 GMT"
         }
       ]
     },
