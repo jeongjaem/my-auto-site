@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-27T19:17:35.491Z",
+  "updatedAt": "2026-01-27T19:54:30.929Z",
   "watchlist": [
     "005930.KS",
     "AAPL",
@@ -28,12 +28,12 @@
       "symbol": "AAPL",
       "resolvedSymbol": "AAPL.US",
       "date": "2026-01-27",
-      "time": "20:02:26",
-      "close": "259.94",
+      "time": "20:39:22",
+      "close": "259.665",
       "open": "259.14",
       "high": "261.95",
       "low": "258.66",
-      "volume": "19912083",
+      "volume": "21191666",
       "ok": true,
       "error": null
     },
@@ -42,12 +42,12 @@
       "symbol": "GOOGL",
       "resolvedSymbol": "GOOGL.US",
       "date": "2026-01-27",
-      "time": "20:02:24",
-      "close": "335.27",
+      "time": "20:39:21",
+      "close": "335.5338",
       "open": "335.365",
       "high": "337.91",
       "low": "333.48",
-      "volume": "6701003",
+      "volume": "7129089",
       "ok": true,
       "error": null
     },
@@ -56,12 +56,12 @@
       "symbol": "MSFT",
       "resolvedSymbol": "MSFT.US",
       "date": "2026-01-27",
-      "time": "20:02:25",
-      "close": "482.28",
+      "time": "20:39:23",
+      "close": "481.49",
       "open": "473.7",
       "high": "482.87",
       "low": "473.16",
-      "volume": "12758344",
+      "volume": "13664611",
       "ok": true,
       "error": null
     },
@@ -70,12 +70,12 @@
       "symbol": "NVDA",
       "resolvedSymbol": "NVDA.US",
       "date": "2026-01-27",
-      "time": "20:02:27",
-      "close": "189.2701",
+      "time": "20:39:22",
+      "close": "189.025",
       "open": "187.24",
       "high": "190",
       "low": "185.7",
-      "volume": "73662901",
+      "volume": "80959646",
       "ok": true,
       "error": null
     },
@@ -84,12 +84,12 @@
       "symbol": "TSLA",
       "resolvedSymbol": "TSLA.US",
       "date": "2026-01-27",
-      "time": "20:02:27",
-      "close": "431.316",
+      "time": "20:39:22",
+      "close": "431.09",
       "open": "437.41",
       "high": "437.52",
-      "low": "431.27",
-      "volume": "19729722",
+      "low": "430.69",
+      "volume": "22187522",
       "ok": true,
       "error": null
     }
@@ -106,7 +106,7 @@
         },
         {
           "headline": "미국 증시가 상승했다.",
-          "source": "Vietnam.vn",
+          "source": "vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1CR1pTLWZwY0pjR053VXdfN2FrUVBrNHdHWHY1cU91M0V5OEV4TzlpYUROM3hyVGtQY2VRTzRuWlVKMC1mdEMzY3djSHFXbHlJNXRaNnJmNWpFRkRydExKTTVIbzBiUERubXE5UHR3?oc=5",
           "pubDate": "Tue, 27 Jan 2026 09:03:05 GMT"
         },
@@ -276,16 +276,16 @@
           "pubDate": "Tue, 27 Jan 2026 06:52:44 GMT"
         },
         {
-          "headline": "[속보] 코스피, 미 상호관세에도 장중 최고치…5048.91 터치",
-          "source": "JTBC",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DNmFXYnYzOHBRU0pUV21wOF8xTjhrMmEzN3I3NkxKUU94Z09ESUVNMkE4XzNERm5aTGpYUmlfN1BRaVlycjZxak1ySG02S3dyZFdOdA?oc=5",
-          "pubDate": "Tue, 27 Jan 2026 02:55:00 GMT"
-        },
-        {
           "headline": "Now ‘800k-nix’ ‘160k Electronics’···Riding semiconductors, the KOSPI closing level also breaks ‘5000p’",
           "source": "경향신문",
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDY094N094ekdBUUNWcFNsZ3dLUTIzcmg0WUwxajdCeHpMeVcwZTdpVEdjMmg5X1VYVFZuQTVFQl9tUnF5U3pKaWdtQTk4aFJRaWdfQlpQcnJwcF9kaFE?oc=5",
           "pubDate": "Tue, 27 Jan 2026 09:01:00 GMT"
+        },
+        {
+          "headline": "[속보] 코스피, 미 상호관세에도 장중 최고치…5048.91 터치",
+          "source": "JTBC",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DNmFXYnYzOHBRU0pUV21wOF8xTjhrMmEzN3I3NkxKUU94Z09ESUVNMkE4XzNERm5aTGpYUmlfN1BRaVlycjZxak1ySG02S3dyZFdOdA?oc=5",
+          "pubDate": "Tue, 27 Jan 2026 02:55:00 GMT"
         },
         {
           "headline": "코스피, 트럼프발 쇼크에도 사상 처음 종가 기준 5,000 돌파",
@@ -341,12 +341,6 @@
           "pubDate": "Mon, 26 Jan 2026 01:09:00 GMT"
         },
         {
-          "headline": "KOSDAQ steals the day in subdued Asian markets",
-          "source": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LaWtZLU00bk5wNHgyWktLSEtJLTVCTi1STVY1akpadTdXUEZRLVMxdHg2YnY1SEtNNEZGN2tkRkJmX01Lc053OVY3MVRqSElJM2dUZjhHaFlBbkdBRVdZeA?oc=5",
-          "pubDate": "Mon, 26 Jan 2026 08:20:00 GMT"
-        },
-        {
           "headline": "코스피, 장초반 0.90% 하락한 4905.03…코스닥 1.08%↑(2보)",
           "source": "뉴스1",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6eGgwVFQ3TEJnSEFTT1F6cHloSVZ0N2JtT29sTThJSFJ2U3lQZEJqMnZ6WXh6MXlwaTJNb3hNeHNwQm1ZclY3dUVtYV9lOUZRWmgtcWNwVGdrOGN0UVF3?oc=5",
@@ -357,6 +351,12 @@
           "source": "한겨레",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qZWdnUEZZbGRYSUVYNFRMNEVxS21CUmszZ0NOdEtLWXNoeTlZbHJOSlZLTTlPRE1iLUF2RjM5NElwcEpvamhhZ3VfM0JHRE1iWDBXajAxX1Y4MThQNjRCN181OVZDMm8?oc=5",
           "pubDate": "Tue, 27 Jan 2026 02:29:00 GMT"
+        },
+        {
+          "headline": "트럼프발 관세 위협에도 ‘오천피’ 넘어…코스닥도 연속 상승",
+          "source": "KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95OHluaDZqeWNxNXdObWhEZHVVeXl0eU4tQThobUlldGZ3emxnbGtrdzdSUFBDXzBhZzZpcS1HVnQ0bjNhWU13anV0aUdRdW9NZDdNMFBHRjUwMVk?oc=5",
+          "pubDate": "Tue, 27 Jan 2026 06:55:00 GMT"
         }
       ]
     },
@@ -537,7 +537,7 @@
         {
           "headline": "미국증시 장중..4대지수 '혼조', 인텔 '추락', MSFT·메타·아마존 '활짝'",
           "source": "초이스경제",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9iMXJ3ekFpTzlCX0JMZDZvRm9QVkZSUEpiT2hzMkp5akQwSTBJYWpTVnBtc3lrWlpWaDlQUTFCd3VfVE0wOVVCc0tURi1GaUZJZWZfZzRhemt3Z1VoNEY0M1ExZGk2cjM1dmZJak5zWdIBc0FVX3lxTE1LTGt6UEVGVEVMelA4NTJWZ0g2ZUFuOUp1UDI4cUEtT3A5bV9NaUJvWmtvWXdxdHg2NkVfdUR1akJYVFQzc1lVTTVmQUlwVHYzYXNlemJJMDNBd3ZRU1VDNXFEZjZoaHZXQjNKemhOaGdjQ0k?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wR05Kb2ktWnljdktLX3lVS3RuWjFlbXJ6SkVMMXVZa2ZmTnk5R1N0aHlaa2JkRHZvNzhJaWZZcGZzdENsckZiX2dGbG9xZnZselU1Q0poTlA3RDVrS3l0T282eW9ObUFvREQ5eFR6UGzSAXNBVV95cUxNS0xrelBFRlRFTHpQODUyVmdINmVBbjlKdVAyOHFBLU9wOW1fTWlCb1prb1l3cXR4NjZFX3VEdWpCWFRUM3NZVU01ZkFJcFR2M2FzZXpiSTAzQXd2UVNVQzVxRGY2aGh2V0IzSnpoTmhnY0NJ?oc=5",
           "pubDate": "Fri, 23 Jan 2026 20:35:40 GMT"
         },
         {
@@ -635,16 +635,16 @@
           "pubDate": "Tue, 27 Jan 2026 16:42:22 GMT"
         },
         {
-          "headline": "'주말 테슬라 숏' 된다...바이낸스, 주식 파생상품도 지원",
-          "source": "데일리안",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nTmZ5UWdYUkJlUG1EMGdiRHdxOFNsYWdJVkZLMC0yWlZTZ1hod19wbU9wZ2hqTmh3S242dmx0b01fMVpEbG9waDRDbkZPTnp0Rk11dnlB0gFYQVVfeXFMTjBYaGp1WVZLb0thSXpzZW9KTmdlMFZmaWoxSW5yMm9kd3UwZWJQQ3pvUTd5ekJzX1hIQ1FfRktXcVpDdGlYNUdFcDJDQkVrNi1vTkw2R0NaVw?oc=5",
-          "pubDate": "Tue, 27 Jan 2026 02:47:00 GMT"
-        },
-        {
           "headline": "테슬라의 로보택시 푸시 및 FSD 구독이 테슬라(TSLA)의 투자 사례를 바꾸고 있나요?",
           "source": "simplywall.st",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdWNBRjhkTlY3N21sbHdpX3BkcVBxYjBCU3B3YmhBZVlYdGRhVTN1a3dadlZkWGlzNUNLUmdMT0NtMXFCa01fSTIzT0o0N2k5OGJXVDFXZzZEY2wwSlNEWDZMb19nd2FPSkhJQmVXQ1VNYWNKby1NRHQ1N0xDaEVkY2JCQTN4MkZxQkRSeUZhMNIBlAFBVV95cUxNaFUzNHhaakRKdzdKT3p0RnoxMGM4X18yazR5QnJ2OHhzTWpLTjNIMGdJdl9qYmRNdGZma1NSODJuZ2hwdkRCcjV1c1BFWHJ6eUNvRnMzLW9LZl9tTUEtS0RzMTBoTU1MWFNqMTZjVGoteVlQamVvWFJrMW02M2NadDktMjFlejhBZEtfZXhNWERoZVFI?oc=5",
           "pubDate": "Sun, 25 Jan 2026 20:17:49 GMT"
+        },
+        {
+          "headline": "'주말 테슬라 숏' 된다...바이낸스, 주식 파생상품도 지원",
+          "source": "데일리안",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nTmZ5UWdYUkJlUG1EMGdiRHdxOFNsYWdJVkZLMC0yWlZTZ1hod19wbU9wZ2hqTmh3S242dmx0b01fMVpEbG9waDRDbkZPTnp0Rk11dnlB0gFYQVVfeXFMTjBYaGp1WVZLb0thSXpzZW9KTmdlMFZmaWoxSW5yMm9kd3UwZWJQQ3pvUTd5ekJzX1hIQ1FfRktXcVpDdGlYNUdFcDJDQkVrNi1vTkw2R0NaVw?oc=5",
+          "pubDate": "Tue, 27 Jan 2026 02:47:00 GMT"
         },
         {
           "headline": "모건스탠리 \"테슬라, 자율주행 실현할 결정적 열쇠 확보\"",
