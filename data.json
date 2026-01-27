@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-27T20:48:59.477Z",
+  "updatedAt": "2026-01-27T21:00:19.188Z",
   "watchlist": [
     "005930.KS",
     "AAPL",
@@ -28,12 +28,12 @@
       "symbol": "AAPL",
       "resolvedSymbol": "AAPL.US",
       "date": "2026-01-27",
-      "time": "21:33:50",
-      "close": "259.3335",
+      "time": "21:45:10",
+      "close": "259.29",
       "open": "259.14",
       "high": "261.95",
       "low": "258.66",
-      "volume": "23768709",
+      "volume": "24307966",
       "ok": true,
       "error": null
     },
@@ -42,12 +42,12 @@
       "symbol": "GOOGL",
       "resolvedSymbol": "GOOGL.US",
       "date": "2026-01-27",
-      "time": "21:33:49",
-      "close": "335.2684",
+      "time": "21:45:10",
+      "close": "334.96",
       "open": "335.365",
       "high": "337.91",
       "low": "333.48",
-      "volume": "8010923",
+      "volume": "8299801",
       "ok": true,
       "error": null
     },
@@ -56,12 +56,12 @@
       "symbol": "MSFT",
       "resolvedSymbol": "MSFT.US",
       "date": "2026-01-27",
-      "time": "21:33:50",
-      "close": "480.96",
+      "time": "21:45:10",
+      "close": "480.825",
       "open": "473.7",
       "high": "482.87",
       "low": "473.16",
-      "volume": "15498022",
+      "volume": "15876912",
       "ok": true,
       "error": null
     },
@@ -70,12 +70,12 @@
       "symbol": "NVDA",
       "resolvedSymbol": "NVDA.US",
       "date": "2026-01-27",
-      "time": "21:33:50",
-      "close": "189.29",
+      "time": "21:45:10",
+      "close": "189.205",
       "open": "187.24",
       "high": "190",
       "low": "185.7",
-      "volume": "91895998",
+      "volume": "94474728",
       "ok": true,
       "error": null
     },
@@ -84,12 +84,12 @@
       "symbol": "TSLA",
       "resolvedSymbol": "TSLA.US",
       "date": "2026-01-27",
-      "time": "21:33:51",
-      "close": "432.7311",
+      "time": "21:45:10",
+      "close": "432.54",
       "open": "437.41",
       "high": "437.52",
       "low": "430.69",
-      "volume": "25651038",
+      "volume": "26491058",
       "ok": true,
       "error": null
     }
@@ -106,7 +106,7 @@
         },
         {
           "headline": "미국 증시가 상승했다.",
-          "source": "vietnam.vn",
+          "source": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1CR1pTLWZwY0pjR053VXdfN2FrUVBrNHdHWHY1cU91M0V5OEV4TzlpYUROM3hyVGtQY2VRTzRuWlVKMC1mdEMzY3djSHFXbHlJNXRaNnJmNWpFRkRydExKTTVIbzBiUERubXE5UHR3?oc=5",
           "pubDate": "Tue, 27 Jan 2026 09:03:05 GMT"
         },
@@ -211,10 +211,16 @@
           "pubDate": "Mon, 26 Jan 2026 21:59:31 GMT"
         },
         {
-          "headline": "S&P500·나스닥 나흘째 랠리…대형 기술주 실적 기대감[뉴욕마감]",
-          "source": "뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qSTBzczNVWDdJc1NEcGNIc05BUkl6b3A1Zmh2eFl0end3YTgteTlrS09uZElrTks5SXVFZTVCWGl0dUI5SDJJQ1dGejdGeURhdW1IS0JHSGVpb0VrcmljZ2d6SDBUZFk?oc=5",
-          "pubDate": "Mon, 26 Jan 2026 22:02:09 GMT"
+          "headline": "뉴욕증시, 혼조 출발…7000 코 앞 S&P500, 0.2%↑",
+          "source": "뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SMk9odDNrUVdKYlNEUWpHWXhzamZnRDJzT09hR2RqcjVPbVd6TTBSb2E2WGg5elY1eHA4OG9lcWpFSmZ4RlVKejVySEEtQ0J0VWJ6QUtpcC1KZ2U0SC1ITdIBeEFVX3lxTFB6MWhvY0xZc1J4R1dtUEE4VFAzOEpkRkZmSkxWR25pYXRQMlJYa1FuTGg4M2d1TjdyYlhYVlQ4UDZqWVE0Xy1CRmE5OHdBaldTUWw5VV9ieGdCSkNrUzlXODQ0eFM4NWlZcWxBUHFUTkZRUVo4SVB3OA?oc=5",
+          "pubDate": "Tue, 27 Jan 2026 15:17:01 GMT"
+        },
+        {
+          "headline": "S&P 500 목표가 8,100 완전 분석",
+          "source": "네이버 프리미엄콘텐츠",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVHFMVHY2akRhTHFaLTFpS21mNTA1d3A4WVkwMU9sejRtWjUtN3lpYlo5RlBzN0VXSHJjR3lseS1RQXZBcWFWMTJWaVo1ejhyRDEyWWVrUF9mbDZ4aU1RNjBad3BUR0thS1hZcHFpSnlnSFRJT21iQXNGYmZ6TGdfMUNTNWpTeEg1ZDNRcg?oc=5",
+          "pubDate": "Mon, 26 Jan 2026 01:40:00 GMT"
         },
         {
           "headline": "‘S&P500’ 1.0% 오를때 ‘러셀2000’은 7.5%… 美증시 받치는 중소株[박석현의 미장 돋보기]",
@@ -229,28 +235,22 @@
           "pubDate": "Mon, 26 Jan 2026 14:45:25 GMT"
         },
         {
-          "headline": "S&P 500 목표가 8,100 완전 분석",
-          "source": "네이버 프리미엄콘텐츠",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVHFMVHY2akRhTHFaLTFpS21mNTA1d3A4WVkwMU9sejRtWjUtN3lpYlo5RlBzN0VXSHJjR3lseS1RQXZBcWFWMTJWaVo1ejhyRDEyWWVrUF9mbDZ4aU1RNjBad3BUR0thS1hZcHFpSnlnSFRJT21iQXNGYmZ6TGdfMUNTNWpTeEg1ZDNRcg?oc=5",
-          "pubDate": "Mon, 26 Jan 2026 01:40:00 GMT"
-        },
-        {
           "headline": "S&P500 선물, 亞시장서 실적발표 대기 속 보합권…美국채금리↑",
           "source": "연합인포맥스",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aMnY4NVJLZTRSMWN1V1RyUDBsLUZnRHowUVJlUkFqaV9RUm9MZGUxcmczY1lZallXenJkSHA3emEwd0tjZzBRREw4NWpKQVZaWDBKXzFRbWc0aTFrakMtTEUwUTAxaklvWExXcUxoUm0?oc=5",
           "pubDate": "Tue, 27 Jan 2026 02:52:40 GMT"
         },
         {
-          "headline": "다우존스, 나스닥, S&P 500 주간 전망: 대형 기술주 실적이 주목받을 전망 By Investing.com",
-          "source": "Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqbHp4VDF3QVp3Zk80WWFkMFdsNGdIVUo4YXlFc1ZidEFzZmlySExKRHVoU0dfN24wSnlWVmtLNVdXRXdBUkRaamRuWmVMWUFpMk0tVmZwcWM3amZ5Q0pxNlB0WjFrZXZjWTk5Y1BxbFk?oc=5",
-          "pubDate": "Mon, 26 Jan 2026 12:37:00 GMT"
-        },
-        {
           "headline": "[뉴욕개장] S&P500·나스닥 상승 출발…건강보험 관련주 하락",
           "source": "네이트",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1GSHlMa3Qxc1gtaXFkSG1WWnNuR040U21rbmxSeXkyTDJBYnJjRV9Uc3RaWV9YeXhkamFBYUFVaU5qbE5Vb1hVV3dqQThzSjd0RW1V?oc=5",
           "pubDate": "Tue, 27 Jan 2026 15:00:00 GMT"
+        },
+        {
+          "headline": "다우존스, 나스닥, S&P 500 주간 전망: 대형 기술주 실적이 주목받을 전망 By Investing.com",
+          "source": "Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqbHp4VDF3QVp3Zk80WWFkMFdsNGdIVUo4YXlFc1ZidEFzZmlySExKRHVoU0dfN24wSnlWVmtLNVdXRXdBUkRaamRuWmVMWUFpMk0tVmZwcWM3amZ5Q0pxNlB0WjFrZXZjWTk5Y1BxbFk?oc=5",
+          "pubDate": "Mon, 26 Jan 2026 12:37:00 GMT"
         }
       ]
     },
@@ -276,10 +276,10 @@
           "pubDate": "Tue, 27 Jan 2026 02:55:00 GMT"
         },
         {
-          "headline": "[뉴스1 PICK]코스피 5000·코스닥 1000 안착…국내 증시 '레벨업'",
-          "source": "뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aYnN6X0dZdkgydEs2dGQxZkZLdXdrZlZTMDBhRzdtaUxJM2l6VFVxcHM2ZU8tXy1ZRWZJYzVCUXFfLVk0dzBKaUk0a2lyRlNuSnc4Tzh4N0lfbzg?oc=5",
-          "pubDate": "Tue, 27 Jan 2026 07:18:55 GMT"
+          "headline": "\"실적 뒷받침 땐 코스피 5700 가능…반·조·방·원 분할매수하라\"",
+          "source": "한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92YnQxTW92c3VrOWJiWE03ZU1Lb1pBMkFQN1BZR1I0RWJJa2dwdXczbEtRaFlLV3o5a0c5Y0tnYXFGOHFwZ000YUhwOWh5bWdxMmZvNWpnemdvQdIBVEFVX3lxTE9JV2ozbm5YWnJEMVlqM2RsS01SblRUTlBDOVBBNE55clo4dnZnSGpTejdJMkNkc2k3M0xRcHRiMGxNNTFRS25oYWtTTFJSY2RRM0g0bQ?oc=5",
+          "pubDate": "Tue, 27 Jan 2026 09:00:19 GMT"
         },
         {
           "headline": "이젠 ‘80만닉스’ ‘16만전자’···반도체 타고 코스피 종가도 ‘5000피’ 돌파",
@@ -347,16 +347,16 @@
           "pubDate": "Tue, 27 Jan 2026 00:06:54 GMT"
         },
         {
+          "headline": "코스피 5000 회복…트럼프발 관세 쇼크에 주춤 뒤 반등, 코스닥도↑",
+          "source": "한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qZWdnUEZZbGRYSUVYNFRMNEVxS21CUmszZ0NOdEtLWXNoeTlZbHJOSlZLTTlPRE1iLUF2RjM5NElwcEpvamhhZ3VfM0JHRE1iWDBXajAxX1Y4MThQNjRCN181OVZDMm8?oc=5",
+          "pubDate": "Tue, 27 Jan 2026 02:29:00 GMT"
+        },
+        {
           "headline": "트럼프발 관세 위협에도 ‘오천피’ 넘어…코스닥도 연속 상승",
           "source": "KBS 뉴스",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95OHluaDZqeWNxNXdObWhEZHVVeXl0eU4tQThobUlldGZ3emxnbGtrdzdSUFBDXzBhZzZpcS1HVnQ0bjNhWU13anV0aUdRdW9NZDdNMFBHRjUwMVk?oc=5",
           "pubDate": "Tue, 27 Jan 2026 06:55:00 GMT"
-        },
-        {
-          "headline": "코스닥 3000 ‘유니콘’ 기업 키운다는데…특례상장기업 80%가 영업손실",
-          "source": "koreadaily.com",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5EZ2VobHRoSzNFNW45QzhtY3dUV0I2Y0Qyem16SVpxNThYdDZTTFU0aHpxOE5Ob0piR09iR21iWnJ4eFRNc2RlRUNVSUFnWk5YQnlGWC1ZLTByUVlZREpadVFR?oc=5",
-          "pubDate": "Tue, 27 Jan 2026 08:53:00 GMT"
         }
       ]
     },
@@ -500,16 +500,16 @@
           "pubDate": "Sat, 24 Jan 2026 00:57:00 GMT"
         },
         {
-          "headline": "월가 \"구글發 증시 강세에 투자자들 겁먹고 있다\"",
-          "source": "연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBraTRlM0h4Q3djeHlNQ2lQLVdnMVZ4SEhLeTltTDJ0LUUxY1hEUnFyWGRxdm5JWkQ5VGxYT1djZUxQdDFDbldudUtfdkZVdlFrZWpidFAwZVF6UWtCcnJlYVhGS204dzc2cnRjTU9YdTM?oc=5",
-          "pubDate": "Tue, 25 Nov 2025 08:00:00 GMT"
-        },
-        {
           "headline": "투자자들은 제미니 AI로 애플의 차세대 시리를 지원하는 알파벳(GOOGL)에 어떻게 반응하고 있는가?",
           "source": "simplywall.st",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcENYbm5sWmJKR2YwSVoyZ2RMaThGRGpOaE9hTFlsNzJVTFU2bFFuTGtscFRMU3BHeWNJS2FGbnQ5cTNMUHJad1FoQ0I0bmc2N042bHRRdFVxaVljaGhiMjROT0pwaGZNalExY2RJSS1MQWhaQjViTzZwX091QTlBN2ExWDJmUkF2Wmp1T0owZ2t2QdIBkgFBVV95cUxQcENYbm5sWmJKR2YwSVoyZ2RMaThGRGpOaE9hTFlsNzJVTFU2bFFuTGtscFRMU3BHeWNJS2FGbnQ5cTNMUHJad1FoQ0I0bmc2N042bHRRdFVxaVljaGhiMjROT0pwaGZNalExY2RJSS1MQWhaQjViTzZwX091QTlBN2ExWDJmUkF2Wmp1T0owZ2t2QQ?oc=5",
           "pubDate": "Sun, 25 Jan 2026 19:00:59 GMT"
+        },
+        {
+          "headline": "월가 \"구글發 증시 강세에 투자자들 겁먹고 있다\"",
+          "source": "연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBraTRlM0h4Q3djeHlNQ2lQLVdnMVZ4SEhLeTltTDJ0LUUxY1hEUnFyWGRxdm5JWkQ5VGxYT1djZUxQdDFDbldudUtfdkZVdlFrZWpidFAwZVF6UWtCcnJlYVhGS204dzc2cnRjTU9YdTM?oc=5",
+          "pubDate": "Tue, 25 Nov 2025 08:00:00 GMT"
         },
         {
           "headline": "Why Alphabet (GOOGL) Stock Is Up 62% in 2025",
