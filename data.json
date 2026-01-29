@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-29T19:44:18.860Z",
+  "updatedAt": "2026-01-29T20:55:55.570Z",
   "watchlist": [
     "005930.KS",
     "AAPL",
@@ -28,12 +28,12 @@
       "symbol": "AAPL",
       "resolvedSymbol": "AAPL.US",
       "date": "2026-01-29",
-      "time": "20:29:09",
-      "close": "258.095",
+      "time": "21:40:46",
+      "close": "258.38",
       "open": "258",
       "high": "259.65",
       "low": "254.41",
-      "volume": "20106584",
+      "volume": "25139021",
       "ok": true,
       "error": null
     },
@@ -42,12 +42,12 @@
       "symbol": "GOOGL",
       "resolvedSymbol": "GOOGL.US",
       "date": "2026-01-29",
-      "time": "20:29:08",
-      "close": "336.62",
+      "time": "21:40:46",
+      "close": "335.45",
       "open": "340.3",
       "high": "342.29",
       "low": "326.54",
-      "volume": "14509034",
+      "volume": "16243056",
       "ok": true,
       "error": null
     },
@@ -56,12 +56,12 @@
       "symbol": "MSFT",
       "resolvedSymbol": "MSFT.US",
       "date": "2026-01-29",
-      "time": "20:29:09",
-      "close": "423.85",
+      "time": "21:40:46",
+      "close": "430.0399",
       "open": "439.99",
       "high": "442.5",
       "low": "421.02",
-      "volume": "71306344",
+      "volume": "81281230",
       "ok": true,
       "error": null
     },
@@ -70,12 +70,12 @@
       "symbol": "NVDA",
       "resolvedSymbol": "NVDA.US",
       "date": "2026-01-29",
-      "time": "20:29:10",
-      "close": "190.345",
+      "time": "21:40:47",
+      "close": "191.4",
       "open": "191.34",
       "high": "193.48",
       "low": "186.06",
-      "volume": "92126267",
+      "volume": "107446820",
       "ok": true,
       "error": null
     },
@@ -84,12 +84,12 @@
       "symbol": "TSLA",
       "resolvedSymbol": "TSLA.US",
       "date": "2026-01-29",
-      "time": "20:29:10",
-      "close": "420.3815",
+      "time": "21:40:47",
+      "close": "416.56",
       "open": "437.8",
       "high": "440.2299",
       "low": "414.62",
-      "volume": "48792685",
+      "volume": "56369013",
       "ok": true,
       "error": null
     }
@@ -123,10 +123,10 @@
           "pubDate": "Thu, 29 Jan 2026 07:47:46 GMT"
         },
         {
-          "headline": "[서울데이터랩]미국 증시 지수 종합",
-          "source": "서울신문",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1oTHpXU3hmMjFmVGVweDVVSzJWWkZvNGRuSGwzUldfUXNMSEg4T2tIRDU4X0RpZnp2ZjdPWDY4NDFRbENldkZESm5qWV91WnVobWRHc19vaEtzczVQeFZBajFOMXdXNnh2SjEwcVdHNGE1X2N0VkN0cGdmV01IZw?oc=5",
-          "pubDate": "Wed, 28 Jan 2026 23:37:30 GMT"
+          "headline": "미국 주식 투자, 수익률보다 먼저 따져야 할 것",
+          "source": "시사저널e",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XZG9fUVRma0pMTGtQTHRmMzVxbGNZMGRGU3hTMGtkN2xzNk5rVVpFcVNUUEc0RExkZW0xU3pEcnlRV1RqS0M0c0VjcW9IUzV1aG5ReW5tZkp2YlVNTEVscUJKWTNHdHVJLXFNUVFZbDgtd9IBdkFVX3lxTE5pMkhzUEpsdjFNRzB3RDdTMnBObGtxQzdpVVZYM1ZPS290NGpSN0ZrZF9VbHhrVUl2dzFodE9KTS1FbDd1TEQzQVl2ZU5RbFB0Y0FOaldfRDZHQngxQjg2aGN6YzJuNGxSZ3JvOC1ud0RPdzF3UGc?oc=5",
+          "pubDate": "Tue, 27 Jan 2026 01:38:48 GMT"
         },
         {
           "headline": "서학개미 올들어 더 샀다...RIA 계좌 도입 ‘역부족'?",
@@ -135,16 +135,16 @@
           "pubDate": "Thu, 29 Jan 2026 08:33:50 GMT"
         },
         {
+          "headline": "[서울데이터랩]미국 증시 지수 종합",
+          "source": "서울신문",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1oTHpXU3hmMjFmVGVweDVVSzJWWkZvNGRuSGwzUldfUXNMSEg4T2tIRDU4X0RpZnp2ZjdPWDY4NDFRbENldkZESm5qWV91WnVobWRHc19vaEtzczVQeFZBajFOMXdXNnh2SjEwcVdHNGE1X2N0VkN0cGdmV01IZw?oc=5",
+          "pubDate": "Wed, 28 Jan 2026 23:37:30 GMT"
+        },
+        {
           "headline": "美 금리동결에도..미국증시 반도체주 '껑충', SMH·마이크론·인텔 '급등'",
           "source": "초이스경제",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4tU0tKT3kzeTFiUHpNNk9zVE5EWFh4ZG9NbnA1OHNBWFRjWTN0Rkkwa1dUNFB4VHU1ZE40eExvOUtka1Y1c0ZnS1UwYktOTDVnb2JweWIyODR5eTVBNDh3N3Y0dzR3SjUwVFZidUx4a9IBc0FVX3lxTE1XVUItbDJjQ1pEZEVkX2J6ck5sR3BRdkxSSGxoVUR0U1lBcGRiZkotQWVpLU5lbUhUbnNIZWZ1cXh2QV9sV3VSa3V3ZXpDQS1wLUF6dW9sNmltdlg3YTRBRENaSkQ0azNmQ3RlRHRxeVhCbXc?oc=5",
           "pubDate": "Wed, 28 Jan 2026 21:23:42 GMT"
-        },
-        {
-          "headline": "미국 주식 투자, 수익률보다 먼저 따져야 할 것",
-          "source": "시사저널e",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XZG9fUVRma0pMTGtQTHRmMzVxbGNZMGRGU3hTMGtkN2xzNk5rVVpFcVNUUEc0RExkZW0xU3pEcnlRV1RqS0M0c0VjcW9IUzV1aG5ReW5tZkp2YlVNTEVscUJKWTNHdHVJLXFNUVFZbDgtd9IBdkFVX3lxTE5pMkhzUEpsdjFNRzB3RDdTMnBObGtxQzdpVVZYM1ZPS290NGpSN0ZrZF9VbHhrVUl2dzFodE9KTS1FbDd1TEQzQVl2ZU5RbFB0Y0FOaldfRDZHQngxQjg2aGN6YzJuNGxSZ3JvOC1ud0RPdzF3UGc?oc=5",
-          "pubDate": "Tue, 27 Jan 2026 01:38:48 GMT"
         }
       ]
     },
@@ -194,10 +194,10 @@
           "pubDate": "Thu, 29 Jan 2026 12:41:22 GMT"
         },
         {
-          "headline": "\"1억 넣었으면 3억 됐다\"…은값 폭등에 '잭팟' 터진 회사 [양지윤의 니가가라 나스닥]",
-          "source": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsYVgzcW9UaVN5VzFSU2RzR1gtVks0QnRqaXh4bkJ5NjVQTC1nTk1VS0FsWlN3aXc0eWNndnJkMjNLbHFocUI5Y3JWcGc3Z28?oc=5",
-          "pubDate": "Thu, 29 Jan 2026 04:02:39 GMT"
+          "headline": "[속보] 뉴욕증시, 기준금리 동결에 혼조 마감…나스닥 0.17%↑",
+          "source": "데일리안",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5hZkY2QkFHa0VTWUNtX3FyOWRCMUM4ZGlNcGczLVdYSjR5V01GM0p4cWlfUEpLRjJFRzNiY2pMSDB6VG5JNXBObzY4Y1NOejVDMUNFSk5tTdIBWEFVX3lxTE5RZ0Fpb3VlekwteFBucGlzX0VLMGVZaEZNSllYcURZZE5fWVctSjVUYTVwRWxzaFZOa1ZYV00xOFFFX2psSy0zREhKREdlWElaVHhGbG5EWDU?oc=5",
+          "pubDate": "Wed, 28 Jan 2026 21:22:00 GMT"
         }
       ]
     },
@@ -223,16 +223,16 @@
           "pubDate": "Wed, 28 Jan 2026 22:27:15 GMT"
         },
         {
-          "headline": "연준이 금리를 동결하자 S&P 500 지수가 사상 처음으로 7,000포인트를 돌파했다.",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMjRLdkV2czRyRjRtN3dLd0xzZVB4LTY3UnZNZ19ObkM0MTExLUdhYVFpR2xSMUg5b3VTUk5tZGY4UlFkeFlaeEhWbHJPdXpWNW03VDBIVk9lZlhNMXVXcUpxMS1NMUNOWkEydnlkbkx0cTdRb0FmbjFOTl84NGJVOGxLUDFFaVpoN1R2T092UGVmRnVjeWpnaA?oc=5",
-          "pubDate": "Thu, 29 Jan 2026 04:06:05 GMT"
-        },
-        {
           "headline": "뉴욕증시, 혼조 출발…S&P 500 사상 첫 7,000 돌파",
           "source": "연합뉴스",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOUV9XVTRUTFhjbmp1Z0lUYi1fb2ZtM3F6ZWR6Wmt3WnB5dVlJcXlsczRxQ054MGJnczZXc2dMaF9mNnNLdy1rMmhNTy1JeS1pSkxwQVlpSjRrQ03SAWBBVV95cUxNX2JzaEhGVkR3dkszT0xFRmpaQmZUNFI2clY3dHd6OEI4SF82dHltMmN3bmg5bkUtMTlqbWJWaEt6QkJGdm5IVmVDbG9ZLUJXYkVaWFFpVGJEaXEtTlJESWk?oc=5",
           "pubDate": "Wed, 28 Jan 2026 15:05:40 GMT"
+        },
+        {
+          "headline": "연준이 금리를 동결하자 S&P 500 지수가 사상 처음으로 7,000포인트를 돌파했다.",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMjRLdkV2czRyRjRtN3dLd0xzZVB4LTY3UnZNZ19ObkM0MTExLUdhYVFpR2xSMUg5b3VTUk5tZGY4UlFkeFlaeEhWbHJPdXpWNW03VDBIVk9lZlhNMXVXcUpxMS1NMUNOWkEydnlkbkx0cTdRb0FmbjFOTl84NGJVOGxLUDFFaVpoN1R2T092UGVmRnVjeWpnaA?oc=5",
+          "pubDate": "Thu, 29 Jan 2026 04:06:05 GMT"
         },
         {
           "headline": "억만장자도 못 맞힌 2025년 주식시장",
@@ -282,28 +282,28 @@
           "pubDate": "Thu, 29 Jan 2026 02:02:00 GMT"
         },
         {
-          "headline": "미장서 국장으로… 코스피, ‘ETF 부동의 1위’ S&P500 제쳤다",
-          "source": "국민일보",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yaGtNeHBoUzdrQVdzUmNjb0o0Zy1FQ3J6THVRYUhUQmYtRDhEdmYzYXpuVzV5cmFJQzkwQ1F5UUMxVm9MSkNKemFaUnpnMTFPUl8wQ01jVG1rREppTzg0aEd4RkhBQzjSAWxBVV95cUxOT0V2R2IwZWpOVEhSVXNaOENTMUNIVE5Kd2FZd05RbDh6OVRKOGRhcFVFUm1WN19lbk9NQ3FoeFpOVW9WWnFqMlBELWo3dXZDWFhVU1ZyUnNNaHM1emF6YXFIc29scDJFcVg3SVc?oc=5",
-          "pubDate": "Wed, 28 Jan 2026 17:05:00 GMT"
-        },
-        {
-          "headline": "주식도 역직구 시대?…코스피 추종 미국ETF 올해 70% 뛰었다",
-          "source": "매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MVUpZMDNTNjFJQlEzNkR3UE04OXkwWmM5UmRuQ2RIb0V0aWFFUTdMbUh6YzdoUWJQamR5NzM4RFFMWU8tbWFva183TVdkaWlfM2c?oc=5",
-          "pubDate": "Wed, 28 Jan 2026 13:40:39 GMT"
-        },
-        {
-          "headline": "코스피 랠리 다음 타자는 코스닥? 하루에 6천억 쓸어담았다",
-          "source": "mbn.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9PVE9QQmtlTG5kRlpFQks3MzREZ3NkZjJGai1TRzI5b0R5VGJkZ011WWdyM0FhWmd4aTVJY3lwQ3FKRzgxSWVoSEJpblY2WHFxYy1GWdIBTEFVX3lxTFBrQlJ5ak9DYVNjb1B2UHFOc0M5SnNlMGNhWVdyUmRHQ2dEbTNYdkl5bk5lZUkzbEVyVzJWMTFtTXhNQTRJdXVEUzNXd1g?oc=5",
-          "pubDate": "Tue, 27 Jan 2026 22:37:58 GMT"
-        },
-        {
           "headline": "\"코스피 5000? 대선 테마주냐\" 비웃던 슈카, 과거 발언 재조명",
           "source": "아시아경제",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uZzJaZmdqaEQxZ2Rseks2OG9HcG55WkZiQmdRY3ZkME4tM2N0ZHFra01HMUxjcXFOWkhyUjNJcXE1RGJqVkFjRTREaFRZbDdGRE9XS3NzY3NadmNUWnJJ?oc=5",
           "pubDate": "Wed, 28 Jan 2026 22:54:00 GMT"
+        },
+        {
+          "headline": "“코스피는 정치테마주”라던 슈카…5000 돌파하자 보인 반응",
+          "source": "서울신문",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OeS1FRzJ1RWd2R3I3c3FnQ0FscVhNRTJMdExxUEMtTllLZV96MW02UE83Ny1SV3FnSWY1cmd5WGN1R1VmQjF0WW5YYzZpcF9pb1dXczIzN05mWGZ1ZlNqVEVLQmMwVlBCcEd2M2xjWQ?oc=5",
+          "pubDate": "Thu, 29 Jan 2026 02:00:23 GMT"
+        },
+        {
+          "headline": "“코스피 5000? 말이 되나” 조롱하다 역풍…체면 구긴 스타 유튜버",
+          "source": "국민일보",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjakI1RHVzeEtGanhfUURkUWNPUTVUeDhtX3RtN1EtdkRRRldOSzRMQnN2Skw0WFA5S1FWVjNtUXJ0MFRKMEEzRkVWRG5maU1Vc0FnQTBIRkgzSWFvNUZ4M3ZKdFFtXzTSAWxBVV95cUxONEJpb1RGMTNYXzZKdFp2SUhYMVU4cmNqX3dIckJJQ2dmd3JCOTZSay1EdExueWg5bGFzWDZyeXFWNlVwUjVnY200LTdIa2VqYWZXNzJMbGZzQkNZZl9qTml2QTNtbVdabjQxc08?oc=5",
+          "pubDate": "Thu, 29 Jan 2026 00:59:00 GMT"
+        },
+        {
+          "headline": "미장서 국장으로… 코스피, ‘ETF 부동의 1위’ S&P500 제쳤다",
+          "source": "국민일보",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yaGtNeHBoUzdrQVdzUmNjb0o0Zy1FQ3J6THVRYUhUQmYtRDhEdmYzYXpuVzV5cmFJQzkwQ1F5UUMxVm9MSkNKemFaUnpnMTFPUl8wQ01jVG1rREppTzg0aEd4RkhBQzjSAWxBVV95cUxOT0V2R2IwZWpOVEhSVXNaOENTMUNIVE5Kd2FZd05RbDh6OVRKOGRhcFVFUm1WN19lbk9NQ3FoeFpOVW9WWnFqMlBELWo3dXZDWFhVU1ZyUnNNaHM1emF6YXFIc29scDJFcVg3SVc?oc=5",
+          "pubDate": "Wed, 28 Jan 2026 17:05:00 GMT"
         }
       ]
     },
@@ -317,6 +317,12 @@
           "pubDate": "Mon, 26 Jan 2026 22:04:57 GMT"
         },
         {
+          "headline": "코스피, ‘빅3’ 역대급 실적에 5200도 돌파…코스닥도 6거래일째 상승 랠리",
+          "source": "한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NS3pIYWZOQkdkeFZyQ3EwR3FIQ2g0ZXpGRXBick9UTW1jVWlFdjdHQ3M0ZnlSenhIdElhWFdfOGgxNDIzODlkQ3hicnppWThUOTZfcG1wZUtxdzNWZGRnX0l0QWFST2NHazJhVVJWREtyUQ?oc=5",
+          "pubDate": "Thu, 29 Jan 2026 09:22:00 GMT"
+        },
+        {
           "headline": "Gold per don tops 1 million won·KOSDAQ surge ignites the fearsome ‘investment sentiment’ of retail investors",
           "source": "경향신문",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY2ZWa3d2OW9mV0IyTEZabzZuaEJuaDlrOHNTUnR3eDJpNndvamlXYVVCTGlDZEpqT0dWcVc5cjlwMlBvSnlmSjFXMGgyYnQya29YZjdCQTItbGh2V0lQS2JZVURUS0t3dDF6ZFpNYVlNaVJodW55UzVGV185czRMRTFVZVRZSFV5ZGNIWnhfMzVwRWdCczlSTDlDZFVlQnBuUFFEalhJejlXTkM4YjNibA?oc=5",
@@ -327,12 +333,6 @@
           "source": "KBS 뉴스",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nek9TbTM2amlSWDcxQUxZbm91OVdlYUhFOGdsUF9vQVNUSXhCa0Zrb1NkZmdhUG9EQTg5VVdiZE1oaHdWU3RNX3VWcWhhYlZ0VFNaZ1BJS2gteW8?oc=5",
           "pubDate": "Wed, 28 Jan 2026 16:13:00 GMT"
-        },
-        {
-          "headline": "코스피, ‘빅3’ 역대급 실적에 5200도 돌파…코스닥도 6거래일째 상승 랠리",
-          "source": "한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NS3pIYWZOQkdkeFZyQ3EwR3FIQ2g0ZXpGRXBick9UTW1jVWlFdjdHQ3M0ZnlSenhIdElhWFdfOGgxNDIzODlkQ3hicnppWThUOTZfcG1wZUtxdzNWZGRnX0l0QWFST2NHazJhVVJWREtyUQ?oc=5",
-          "pubDate": "Thu, 29 Jan 2026 09:22:00 GMT"
         },
         {
           "headline": "정부, 1천400조 연기금 코스닥으로 물길 튼다…'삼천닥' 뒷받침",
@@ -429,10 +429,10 @@
           "pubDate": "Tue, 27 Jan 2026 04:53:51 GMT"
         },
         {
-          "headline": "메모리값 급등에도 아이폰 가격 동결 전망…마진 부담에 주가 약세",
-          "source": "마켓인",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zN3R6MS1TRm0zb0xGNlVTWnl2M2ZvbWl6d2NFUGxFOUR6d2h2VzNObUp1cTJyYzJfVUtCcmxOTW1qMDhyN3NXUHZKenZyaDlSX2FCY0tVcHdOeWF5eVVmRElPLXJFZnA4Zzlvb01yUE1vNnM?oc=5",
-          "pubDate": "Wed, 28 Jan 2026 20:01:21 GMT"
+          "headline": "애플, 이스라엘 AI 스타트업 Q.ai 인수",
+          "source": "이데일리",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNk81ZUxYSzRaTUVac2xCS01ZSi13am5XNVpBRzhSNnNvcXBOaFRwRTI0ekFuaXN5cTNYRW5LbUlGYW40YVYzbmVCb0w3QWFqc3NoblhEV2lnUE9rRUdlTEpPNVdsUHdac2IwMDRmM3pYT2RFMmJMOU5oRFlWRjhhdg?oc=5",
+          "pubDate": "Thu, 29 Jan 2026 19:52:01 GMT"
         },
         {
           "headline": "애플(AAPL.O), 시리 AI 챗봇 전면 개편…′캄포스′ 연내 도입",
@@ -459,16 +459,22 @@
           "pubDate": "Sun, 13 Jul 2025 07:00:00 GMT"
         },
         {
-          "headline": "Apple, 서비스 푸시 강화를 위해 크리에이터 스튜디오 출시, AI 기능 추가",
-          "source": "TradingView",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OdDBOejNPVGxSdXpESGJXQkhvU0tUQ0w2b0hxc0FISW5OZE1lRGpfMXhyeVhITjlXa3kycXM1anktbGNwUmxBQUhRdnNuQm9EOGx3TUVnaU9rOWpNYk90NkhkZG9pd1o3Z1JqSTMwZzJhbUtuSC1jc2l6ZXI5XzA?oc=5",
-          "pubDate": "Tue, 13 Jan 2026 08:00:00 GMT"
+          "headline": "메모리값 급등에도 아이폰 가격 동결 전망…마진 부담에 주가 약세",
+          "source": "마켓인",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zN3R6MS1TRm0zb0xGNlVTWnl2M2ZvbWl6d2NFUGxFOUR6d2h2VzNObUp1cTJyYzJfVUtCcmxOTW1qMDhyN3NXUHZKenZyaDlSX2FCY0tVcHdOeWF5eVVmRElPLXJFZnA4Zzlvb01yUE1vNnM?oc=5",
+          "pubDate": "Wed, 28 Jan 2026 20:01:21 GMT"
         }
       ]
     },
     {
       "query": "GOOGL",
       "items": [
+        {
+          "headline": "구글, 사이버 무기 우려로 중국 Ipidea 겨냥",
+          "source": "WSJ By Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1VUU11V0JMN3d6a2YzbmFUa1czOF9HQ21GOWpCQVNOdVN1LUdpSGJRNHR6ZVRkNHJmYW40MlctN1BEN25BenZqZkdaeTloUWpOSUdDYl8wU3ZJWTdRWEs4aUZnTUdKY0p2aFIxUWNkbmJXaFpsSnJn?oc=5",
+          "pubDate": "Thu, 29 Jan 2026 19:40:00 GMT"
+        },
         {
           "headline": "구글(GOOGL.O), 안드로이드 데이터 소송 마무리…이용자당 최대 100달러",
           "source": "알파경제",
@@ -482,12 +488,6 @@
           "pubDate": "Wed, 28 Jan 2026 22:55:00 GMT"
         },
         {
-          "headline": "구글, 오픈AI 이어 저가형 AI 요금제 출시···대중화 경쟁 가속 By 투데이코리아",
-          "source": "Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NQWhSWVdzTzh6Q1BOcllDbkUyNl9ZRE9hUU41SThwNzM2R3pIc1ktMldvcll2dlB4QmMtSFQzUWlFZ09jV1RTRkZWc1VFZmdIUWFrdzR1cGxLcW9zMElhX1Q0NG9qdll2eEVmTzBNa1Y?oc=5",
-          "pubDate": "Thu, 29 Jan 2026 07:56:00 GMT"
-        },
-        {
           "headline": "1년 주가가 72% 급등한 후에도 알파벳(GOOGL)은 여전히 매력적일까요?",
           "source": "simplywall.st",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPck1teHNVUXdXeXNXeXI1azVXalc5eW5oUkp5ZXh1ai1LbWM5ZlZOdm1xS01yRTUwX3hkdW9PdjhYalJkcHFCODl0WFJsT2JSVXcxWXc0aTA5Y0pmZDZHV29XYWRNTXUzZXg4aUFhcHpNYnh6SDBxYmNIUWJfMEFVdERFaGJwcllCNEtMSdIBkgFBVV95cUxNbnpSeUlKb0RXdTZKYXJrbnFlMldGQ1JFRktadnctUzZEdHo2dEdnamVJdkVhS1AxOGxNN1RUOGlWckZEU2p6UHZSZjRaN2JaaTRROGM3dnBhMTdqOFJ1bGhjMEkxYXBDUXhLRFNxZ3RRUlNFTXNaWGcydlN6TkJQUjc4Z2ZQblY4cTQzcjhSMGhYZw?oc=5",
@@ -496,7 +496,7 @@
         {
           "headline": "구글, 저가 AI요금제 전세계 확대",
           "source": "미주한국일보",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XZm5OZTFQdVdfeHRCMzFiTHl2VHdDdmo3TUhpTVVKNGdiOTJYLXZQTkhDOU4tRVI1UXpIRE40SmQ1cWJxYmxXcHVyYk1zS04xUmxYTTNoSWdpYktiaFhr?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96MGt3alVEUFhpS1JSTThkb2s4cHZZQUpiMkV3SzFQVjhqZElmb2NEZXhKUF9vaUdpNTdBM2JsblJxRjVPMnBldUZaYTROOVdMVGhn?oc=5",
           "pubDate": "Thu, 29 Jan 2026 03:00:00 GMT"
         },
         {
@@ -512,10 +512,10 @@
           "pubDate": "Wed, 28 Jan 2026 22:51:11 GMT"
         },
         {
-          "headline": "구글(GOOGL.O) 웨이모, '완전 무인 로보택시' 2026년 런던 상용화 목표",
-          "source": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NOVRWODRRZXpqQ3RXYWt0cEtYVTB1NmtNOVM2MmlwaFcydVlOLThHTW1mWE41UEJSR0ZlSnZzNjFVZlFUZ1FhU2xTb0txQTFBTkFn?oc=5",
-          "pubDate": "Wed, 28 Jan 2026 22:55:00 GMT"
+          "headline": "구글, 오픈AI 이어 저가형 AI 요금제 출시···대중화 경쟁 가속 By 투데이코리아",
+          "source": "Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NQWhSWVdzTzh6Q1BOcllDbkUyNl9ZRE9hUU41SThwNzM2R3pIc1ktMldvcll2dlB4QmMtSFQzUWlFZ09jV1RTRkZWc1VFZmdIUWFrdzR1cGxLcW9zMElhX1Q0NG9qdll2eEVmTzBNa1Y?oc=5",
+          "pubDate": "Thu, 29 Jan 2026 07:56:00 GMT"
         }
       ]
     },
@@ -525,8 +525,8 @@
         {
           "headline": "Microsoft Stock Falls 6% as Record AI Spending Overshadows Earnings Beat",
           "source": "TIKR.com",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTW9aUl9NSFpWeldzUU1ydF85RnJVOWNzN09ZX2RpLUdXeUFlaU1VcHk2d011cWVOZ1dDVHRVZ2toMXdPb1Y5X1JTWlZvUjNFQlF4Ml9DekJuSkNhR1ZiWnB6TEtOV2RHTmJOV3NNSFFQb25kY2MwUjlDckE3WlRVazg5c2ZLei0xOGx0ZjB4dWdfdUZnNkQ3UFBpdw?oc=5",
-          "pubDate": "Thu, 29 Jan 2026 17:15:00 GMT"
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLWpDV3JaMTI5UF8wQWpyVnhwdU54ZDhrb3BmQi0xZ0kxWXo4bURHZ1lfNFpLVnBKRzBEN0dDSlBmdGxEZUxHa282WlpaeHJHWkY4czJZcHNvR21Fc21mdjRrTDlkLUxwZ0k4Uk1BT1JBYnBQdHBQem83UE93NWNrcjZoVDBxakxDc0pVNlFuUnN4V1VQOElaVk51TmhqRHZSRUFzdjBXZHo4TWUz?oc=5",
+          "pubDate": "Thu, 29 Jan 2026 14:48:39 GMT"
         },
         {
           "headline": "골드만삭스, MSFT 목표 주가 600달러로 하향 조정 By Investing.com",
@@ -565,10 +565,10 @@
           "pubDate": "Thu, 29 Jan 2026 08:37:23 GMT"
         },
         {
-          "headline": "[미주컨콜] 마이크로소프트 어닝 비트에도 시간외 6% 하락...AI 거품론 다시 고개 드나",
-          "source": "인포스탁데일리",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQdjVBaTR3b1hXSmFpMFZBVXkxcVZBOGJWVlpidFRfYlZMb25TS2ZENGdwRnE3V1lFWk44TXVuYlZjaGw3Qi1yemdZaHNmdjFiQmxod2lqa280Sm9NZTlvbmx0YXJaRC1aRDFYN0Q3ZHRsSDE1bVE?oc=5",
-          "pubDate": "Thu, 29 Jan 2026 02:04:22 GMT"
+          "headline": "Microsoft Up 3% Last Week. Here’s the $786 Upside Case",
+          "source": "TIKR.com",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWFVYV1JMT2hSOS1BTDd2LUNwQmM5c05GUWdIZWpCV1JYQUFKZl9ZQTFocFFUTm03ZEI5UUJETGdpaUR0SlhjNlVGNlFWOC10aVBFM0VQY0ZGVWFLYlJEQkk2Y3RsM0pGVVlhcElTeHRWYzNnd09RQ2JwVENFMk5zeEVsLUpHUE0?oc=5",
+          "pubDate": "Thu, 29 Jan 2026 16:31:53 GMT"
         }
       ]
     },
@@ -612,16 +612,16 @@
           "pubDate": "Fri, 16 Jan 2026 00:54:36 GMT"
         },
         {
-          "headline": "인텔, 앰페놀, 스트라이드",
-          "source": "마켓인",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9wLU95ckFveWFwbTVvbUNDcS1yU2VzWnpxWjNfRDhZZGNUdDhkQ0lJNTBqM3JYQWFNcmp5RFg5S0kzR3Z2d05GdEc3TmRqQm9PeUY4LThKMkprdmhCVFBCaGhRWjduREFrb1dzUTFtQzBKUkk?oc=5",
-          "pubDate": "Wed, 28 Jan 2026 19:52:22 GMT"
-        },
-        {
           "headline": "엔비디아, 코어위브에 20억 달러 지분 투자… ‘AI 팩토리’ 구축 동맹 강화",
           "source": "인포스탁데일리",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GWHd6Tk9nUENReTlpajBYalRTR0pmUl9HTUJUbUttY09MYVVyNzlHbW1Oek45bzZadDNWZlFEanZEWnBsRDZKZEtzZjlKQlRLNzNjWmdMeDMyN2w2VWVmQjd2anhoMGhxaHR2emhoUEstMkl0Z1E?oc=5",
           "pubDate": "Tue, 27 Jan 2026 08:23:00 GMT"
+        },
+        {
+          "headline": "인텔, 앰페놀, 스트라이드",
+          "source": "마켓인",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9wLU95ckFveWFwbTVvbUNDcS1yU2VzWnpxWjNfRDhZZGNUdDhkQ0lJNTBqM3JYQWFNcmp5RFg5S0kzR3Z2d05GdEc3TmRqQm9PeUY4LThKMkprdmhCVFBCaGhRWjduREFrb1dzUTFtQzBKUkk?oc=5",
+          "pubDate": "Wed, 28 Jan 2026 19:52:22 GMT"
         }
       ]
     },
