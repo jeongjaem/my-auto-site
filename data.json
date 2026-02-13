@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T19:08:25.691Z",
+  "updatedAt": "2026-02-13T19:52:36.586Z",
   "watchlist": [
     "005930.KS",
     "AAPL",
@@ -28,12 +28,12 @@
       "symbol": "AAPL",
       "resolvedSymbol": "AAPL.US",
       "date": "2026-02-13",
-      "time": "19:53:17",
-      "close": "258.63",
+      "time": "20:37:28",
+      "close": "258.3867",
       "open": "262.01",
       "high": "262.17",
-      "low": "258.37",
-      "volume": "15352479",
+      "low": "258.22",
+      "volume": "16906533",
       "ok": true,
       "error": null
     },
@@ -42,12 +42,12 @@
       "symbol": "GOOGL",
       "resolvedSymbol": "GOOGL.US",
       "date": "2026-02-13",
-      "time": "19:53:15",
-      "close": "306.94",
+      "time": "20:37:26",
+      "close": "307.73",
       "open": "307.725",
       "high": "308.63",
       "low": "303.71",
-      "volume": "12769836",
+      "volume": "13879960",
       "ok": true,
       "error": null
     },
@@ -56,12 +56,12 @@
       "symbol": "MSFT",
       "resolvedSymbol": "MSFT.US",
       "date": "2026-02-13",
-      "time": "19:53:15",
-      "close": "403.5",
+      "time": "20:37:29",
+      "close": "403.35",
       "open": "404.45",
       "high": "405.54",
       "low": "398.05",
-      "volume": "16062306",
+      "volume": "16993857",
       "ok": true,
       "error": null
     },
@@ -70,12 +70,12 @@
       "symbol": "NVDA",
       "resolvedSymbol": "NVDA.US",
       "date": "2026-02-13",
-      "time": "19:53:18",
-      "close": "184.245",
+      "time": "20:37:29",
+      "close": "183.94",
       "open": "187.475",
       "high": "187.5",
       "low": "182.18",
-      "volume": "71250533",
+      "volume": "76683088",
       "ok": true,
       "error": null
     },
@@ -84,12 +84,12 @@
       "symbol": "TSLA",
       "resolvedSymbol": "TSLA.US",
       "date": "2026-02-13",
-      "time": "19:53:19",
-      "close": "422.205",
+      "time": "20:37:29",
+      "close": "421.5307",
       "open": "414.305",
       "high": "424.06",
       "low": "410.88",
-      "volume": "28158488",
+      "volume": "31166048",
       "ok": true,
       "error": null
     }
@@ -218,7 +218,7 @@
         },
         {
           "headline": "AI 공포 + 고용 서프라이즈 + 금리 재계산 : 세 개가 동시에",
-          "source": "네이버 프리미엄콘텐츠",
+          "source": "프리미엄콘텐츠",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOME1SUzF0WkxXcHduV1J5SF91SXloTFNndEJmVVZLbVVsYTdxQldQY2YtVWhvdVdMdzI0OTZ6M0xiaEtXdmxTc3ZiMGNpOXRhbTFzQ3I3a3V3MEZyUXNhZXhRLXFoUWVCUkhsVW5yNGhHOGloR3Q2WDVlcFBxeUFNMFl3?oc=5",
           "pubDate": "Thu, 12 Feb 2026 23:34:00 GMT"
         },
@@ -282,6 +282,12 @@
           "pubDate": "Fri, 13 Feb 2026 06:00:00 GMT"
         },
         {
+          "headline": "코스피 소폭 하락해 5,500대 마감…코스닥 지수도 하락",
+          "source": "KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wWFB3RzFhT0pCR0NSWDl5a2tLLWsyMmNqR2xVRHF6M09rUXJMRFdpWnUxSDNpTXlHWE5OdzdXM296VHJYWWVoVlk4c2E3enVnUlRaUFY0OE8xN00?oc=5",
+          "pubDate": "Fri, 13 Feb 2026 07:23:00 GMT"
+        },
+        {
           "headline": "코스피, 설 연휴 앞 '숨고르기'…5,500선은 방어",
           "source": "연합뉴스 한민족센터",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qMXU3bV90TFJ2THBjWFlmbUFXRGNCeWtwRy1EdlNYQ2FDaEdhYkhkN25tQ2hWVkRtY2N1Wlc3dGg2RmxQeG9zRGlyVW1BcnlEMEFObmtrbVVHYk9wVlJTY0hQOU5ucU42MW9QaDVpOTlhNGdz?oc=5",
@@ -298,12 +304,6 @@
           "source": "한겨레",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9YNXUxNkdtWEh3aWZMUTRoalZZWjlSazhvVnNHdjJGUTFPQlpQVWRId2IxN0gwN3l5SGhBZUJHM1VKYmsyTGlDQTJ0VU8wX3VaczZzZUx2TEgxNjZmZUZrd25NV2YtZFdPLTFJcDRIOFdhZw?oc=5",
           "pubDate": "Fri, 13 Feb 2026 07:16:00 GMT"
-        },
-        {
-          "headline": "[증시-마감] 연휴 앞둔 코스피 5,583 찍고 약보합…증권株 급등",
-          "source": "연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iQnYxd2RNSWNmbmtWTkhOb3NQemEwQkF5MWpTbWQ4Zmk3WVhCOVVSY29ma1FEcjNUQTFtWE1SblpGcmRhbDJmUEZMdlpCaXk1aUJzdWNySU0ydjRrdE9FYVBsbm9Qd09GTlozaVdZQ3LSAXRBVV95cUxQOGhGUUZaZldIRUZPa3AzcXRxRi00d1YzODRYbTFlbWQ2bVA0bHNnaXhESE8zcmM1a3BtdnZKeHRiVUthcUNZaVdHTDdFa1FGRV8xQWpwZllNcmNyQ3UxeE03c2x6QV93R0lxUjU1M0hjbzJFag?oc=5",
-          "pubDate": "Fri, 13 Feb 2026 06:45:00 GMT"
         }
       ]
     },
@@ -436,7 +436,7 @@
         },
         {
           "headline": "AI가 분석해주는 애플(AAPL) 상승확률은?",
-          "source": "네이버 프리미엄콘텐츠",
+          "source": "프리미엄콘텐츠",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdkhpU2tsM1QzdHAxNnVST28yN0Q1NG83c2NFMEFFbEZ3bC1MTm1ub3lqMkt6T3ZCZmdpclk4bG5SOW4wNmtoSGlzY3RmNkRpdzhQZkRmLWpJUlFJQk5BRjZhQ0Jmb0tIb0pCM1QzQmcwOEhvXzRwbVFRWFdTSkhJYmtvWC1WUQ?oc=5",
           "pubDate": "Thu, 29 Jan 2026 08:00:00 GMT"
         },
@@ -583,7 +583,7 @@
         },
         {
           "headline": "AI가 분석해주는 엔비디아(NVDA) 상승확률은?",
-          "source": "네이버 프리미엄콘텐츠",
+          "source": "프리미엄콘텐츠",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdTNvcnpNbW5KZEYwb3phQ01iZ2ZDdTREY1Vld3NJa0ZwUVFsR3Z1QmFfYWxnTko2cjlwNGRwMWZURDYwb282eE5qcTczMUhQS24xR3VyQjhCSTNRWkNwcWlsd3FJVDlBXzllYjZYUGlIUXk2V0RYd0ZqUHVmVTE4dGJmRzhmdw?oc=5",
           "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT"
         },
