@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-18T14:12:05.736Z",
+  "updatedAt": "2026-02-18T15:08:00.282Z",
   "watchlist": [
     "005930.KS",
     "AAPL",
@@ -27,13 +27,13 @@
       "name": "AAPL",
       "symbol": "AAPL",
       "resolvedSymbol": "AAPL.US",
-      "date": "2026-02-17",
-      "time": "22:00:19",
-      "close": "263.88",
-      "open": "258.05",
-      "high": "266.29",
-      "low": "255.54",
-      "volume": "58469094",
+      "date": "2026-02-18",
+      "time": "15:52:52",
+      "close": "263.46",
+      "open": "263.6",
+      "high": "264.92",
+      "low": "262.45",
+      "volume": "2185191",
       "ok": true,
       "error": null
     },
@@ -41,13 +41,13 @@
       "name": "GOOGL",
       "symbol": "GOOGL",
       "resolvedSymbol": "GOOGL.US",
-      "date": "2026-02-17",
-      "time": "22:00:19",
-      "close": "302.02",
-      "open": "300.04",
-      "high": "304.435",
-      "low": "296.25",
-      "volume": "39247556",
+      "date": "2026-02-18",
+      "time": "15:52:51",
+      "close": "302.33",
+      "open": "302.09",
+      "high": "304.96",
+      "low": "301.3489",
+      "volume": "2074678",
       "ok": true,
       "error": null
     },
@@ -55,13 +55,13 @@
       "name": "MSFT",
       "symbol": "MSFT",
       "resolvedSymbol": "MSFT.US",
-      "date": "2026-02-17",
-      "time": "22:00:19",
-      "close": "396.86",
-      "open": "399.22",
-      "high": "400.52",
-      "low": "394.525",
-      "volume": "32078794",
+      "date": "2026-02-18",
+      "time": "15:52:51",
+      "close": "397.95",
+      "open": "398.13",
+      "high": "399.44",
+      "low": "396.35",
+      "volume": "1936634",
       "ok": true,
       "error": null
     },
@@ -69,13 +69,13 @@
       "name": "NVDA",
       "symbol": "NVDA",
       "resolvedSymbol": "NVDA.US",
-      "date": "2026-02-17",
-      "time": "22:00:19",
-      "close": "184.97",
-      "open": "181.75",
-      "high": "187.15",
-      "low": "179.18",
-      "volume": "162276860",
+      "date": "2026-02-18",
+      "time": "15:52:52",
+      "close": "188.0465",
+      "open": "188.75",
+      "high": "189.19",
+      "low": "187.35",
+      "volume": "13717216",
       "ok": true,
       "error": null
     },
@@ -83,13 +83,13 @@
       "name": "TSLA",
       "symbol": "TSLA",
       "resolvedSymbol": "TSLA.US",
-      "date": "2026-02-17",
-      "time": "22:00:19",
-      "close": "410.63",
-      "open": "412.36",
-      "high": "413.72",
-      "low": "400.51",
-      "volume": "59678789",
+      "date": "2026-02-18",
+      "time": "15:52:53",
+      "close": "411.42",
+      "open": "411.11",
+      "high": "414.0972",
+      "low": "409.58",
+      "volume": "3960634",
       "ok": true,
       "error": null
     }
@@ -158,18 +158,6 @@
           "pubDate": "Tue, 17 Feb 2026 08:52:00 GMT"
         },
         {
-          "headline": "Advanced Biomed, 나스닥 유지를 위해 20대 1 주식 병합 결정",
-          "source": "Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JbmdGdEs3ZmRZSVV5OEZxekVCckZ1b1N6THQwVmN4TW5JaUFnbE9IMkxYc1lWM1EzelNrV1hfVW1XRWxvYWlVQmhCMWszelFxeUlxVW9vWnZOT3V5SDRtUFJfeWVTZUpwSFR1S1dBcV8?oc=5",
-          "pubDate": "Wed, 18 Feb 2026 12:15:00 GMT"
-        },
-        {
-          "headline": "Sharon AI, 나스닥에서 주당 30달러로 1억 2,500만 달러 규모 IPO 가격 책정",
-          "source": "Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MTnYxUHVuZW43M3pmUHN0XzFKZEE5bW1yYURsOU9KUGlxU2N6RlZQNjFzaVhDUlRKUEY1TUJfZDZRb2gtR3R2UGQ1ekdYZ1BkMTV5VEVKaGJGc2tMelpOUElrQkdwTUd3VUNwWUh1TThnczFxMlV4aQ?oc=5",
-          "pubDate": "Wed, 18 Feb 2026 12:31:00 GMT"
-        },
-        {
           "headline": "뉴욕증시, 'AI 혁신 히스테리'에 나스닥 1.2%↓",
           "source": "한국경제",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBUjM4NWFZN3o0S1VzTVVyWG1DUkNyeDBoaGhycWZNNURhbGVZRWxlRGJ5THFUYS1kODlXc0RQM04yMVBmYjRCT1RBQ2lZRDdCM2lYTk5jNHhEd9IBVEFVX3lxTE51dHFUeW9Jb0dBNHhrWVhJcmMwSDljZVdWNGVxVk80Y0x1Ri1OVURNN0c0SFZ0Q0diMlJmbE0xTUZ1a21LVGVVakRnZ1ZzVTNpc3htZA?oc=5",
@@ -198,6 +186,18 @@
           "source": "디지털투데이",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5qLXpJcnQ5cFlTTjM3RlZqWUUyYVZPYUdnQWxPbWtrVmJ4WVpfZ09OMlhCWkE0clhoUnZwUE9NNFdJZ003Z1NMY2NTR050ME9kXy15OW1pQndwY0pfU1M2eWxCbmNzRVVSSFRUOFJ3eWJqX0U?oc=5",
           "pubDate": "Wed, 18 Feb 2026 02:16:38 GMT"
+        },
+        {
+          "headline": "코스닥150 ETF 보수율, 나스닥100의 12배⋯해외상품 중심 보수인하 경쟁 영향",
+          "source": "브릿지경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42bFR5RDV2azRrYlp0RmppQ2dpUlFQcmcwTGFEYWN5ZXQ0X00wMmZmcmFQMlhlWDNuVTZWWWpzSVpldUlZMTkzR0s0SVY5ZjRJaHFneWdxS3A4Zw?oc=5",
+          "pubDate": "Tue, 17 Feb 2026 23:47:00 GMT"
+        },
+        {
+          "headline": "나스닥 다우 선물 지수 상승세...1월 FOMC 회의록 주목",
+          "source": "gukjenews.com",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RcUdMbVdwNjBhT2t3Qy1Nc3RrRWl1MnJ3bHV0eTJMSDNuTXlfRGhOTHNhNTc5MDJ6RXRtNGZuZkpfQXdQMVp6dU1wMVFWWERJQWhNV3JFT1VGOHRIRWpKYjFoLXFiZkQzYzZxMGt3?oc=5",
+          "pubDate": "Wed, 18 Feb 2026 13:39:11 GMT"
         }
       ]
     },
@@ -258,22 +258,16 @@
       "query": "KOSPI",
       "items": [
         {
-          "headline": "코스피 '명절 효과' 볼까…10년 통계 보니 상승·하락 '반반'",
-          "source": "뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qa0I5ZW9VQk9NRXIzNkhrOEZsanA5VVg5V3dRTWZFck4yd0tKMEdaakNPUWdxRjBSREhZYldiUy01bklxdU9xLVFFYm1BU2tOVnhMRDRxX1U3UTFoamZlMNIBeEFVX3lxTE1MTno5TlVWS21aRTZGOFZ0aTFUQ21BRlNPdDNJdHNQTWFDdWZ0OFJ1c1NhUTExTHRQSmlSUWd3bVp3VkRYX2VNSHFvY0hXdmRkSjkwZE5ULVF3MEFJUXN4QldzZVh4Y1dkRS1xSi1PM1lOS2Jsc0FNYg?oc=5",
-          "pubDate": "Wed, 18 Feb 2026 06:09:49 GMT"
+          "headline": "“설 끝나면 오른다?” 코스피 10년 성적표는 ‘반반’",
+          "source": "조선비즈",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUTMyTHJ6ZExQMWo2dm55NW1LWFZoYlZWa19LRlRjdXREMm9KODNCMVJTYmV2NkUycnlQMVJkVjRmMVlsSXg2a1BaNXdxRkJ3T0lfNldwYlp1ZFdiWVJZM1Q0NHItYmlzcWJkdFYzUi1KUmRxM25adzlFQ0I1NklRSmFTcXJtT3BG0gGcAUFVX3lxTE5mV3podVF5WTFhcWk1bkpUMjZiSExOM0pCNVBkbEFUX0xiX29mUWRKMGRSUDdWTWF6dXdhQU9oUHZkUnVVVWNPQnJoVFlJZjlqUWZocUdXSkhJUlh0bWI3Z3ZMMDVPdFYxLU5FUlJYRHEzRlBQaV9OSXpmNFdqa2E5REdubnBSWUZwY3pEUlo5R1J2QkhqdE0xZjltYg?oc=5",
+          "pubDate": "Wed, 18 Feb 2026 02:26:00 GMT"
         },
         {
-          "headline": "미국발 변동성 앞둔 코스피…반도체 돌파력에 초점",
-          "source": "mt.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzeDJCLTBUckNVSUYxeEpvNjdUWV9FaUZxbHp2bENiUkRtSVJaNGVscG5YN1lfcVgtTFNzaTNuR0duaVpaMmU2enltQjV0TTZfakNGaWhUU0dJS1FLdkE5NGFGSnU1aHNJ?oc=5",
-          "pubDate": "Wed, 18 Feb 2026 06:30:00 GMT"
-        },
-        {
-          "headline": "설 지나면 코스피 빨간불?...10년 통계 봤더니",
-          "source": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1MbmxMeUh6UEU2TXNuT1g0eVM2Q1RWSHNIeV9vNW5PUFJucHZrZkFHeDczc1FrckI4VUw5V0szamhBb2VkNFJpaUZldWJMOFk?oc=5",
-          "pubDate": "Tue, 17 Feb 2026 22:35:25 GMT"
+          "headline": "‘명절 효과’로 코스피 오른다?…10년 기록 살펴보니 ‘반반’",
+          "source": "문화일보",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBJUGZTVkgyY1NoMHB2c3U5QWVqME1WdkJCQ0V1V2RiY0M0THNyUk9kRUxfZjhHNjVNQl9kelVrakZhYWVRRDRjdERDaWRQNElF?oc=5",
+          "pubDate": "Wed, 18 Feb 2026 14:15:53 GMT"
         },
         {
           "headline": "코스피 불장에 외국인 한국 주식 보유액 두 배 급증",
@@ -282,22 +276,28 @@
           "pubDate": "Wed, 18 Feb 2026 02:16:00 GMT"
         },
         {
-          "headline": "'육천피' 성큼…붉은 말의 질주 이어질까? 코스피가 쏟아낸 신기록",
-          "source": "노컷뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9WYVh1ZHNwcWFScUh4Q1l4ZzFLMnFhYjhfcVI2QVdmRkZVRGlNOEs1T1FvazRFdm1VQm9HdG9va1k1M0xqYV92M0YyYWsycUdVdFE?oc=5",
-          "pubDate": "Tue, 17 Feb 2026 20:00:00 GMT"
-        },
-        {
           "headline": "\"그때 살걸\"... 코스피 능가한 대전의 성장 엔진",
           "source": "v.daum.net",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yakhBUnpqWlZ2djYzU1RZM0g3d29PUjdLR01HMXp5b253NDJ5dW1KVDJuU1N5ZTlRY3FhUmFTVUNsS21CRFpLUEtlcHZFd3c?oc=5",
           "pubDate": "Wed, 18 Feb 2026 08:58:00 GMT"
         },
         {
+          "headline": "'육천피' 성큼…붉은 말의 질주 이어질까? 코스피가 쏟아낸 신기록",
+          "source": "노컷뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9WYVh1ZHNwcWFScUh4Q1l4ZzFLMnFhYjhfcVI2QVdmRkZVRGlNOEs1T1FvazRFdm1VQm9HdG9va1k1M0xqYV92M0YyYWsycUdVdFE?oc=5",
+          "pubDate": "Tue, 17 Feb 2026 20:00:00 GMT"
+        },
+        {
           "headline": "코스피 확 바꾼 배당 분리과세…코리아 디스카운트 해소 역할",
           "source": "매일경제",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3Y2xCNGl3TUI2Mmhtc1FVSW1hbWxCRXZBcmFwbGw4TDdFaTBaV2RvNVQwYU1jcmwwNm5vWW9vNUpicVBTdmlLSExYZWY1UTlTZXc?oc=5",
           "pubDate": "Wed, 18 Feb 2026 09:05:57 GMT"
+        },
+        {
+          "headline": "미국발 변동성 앞둔 코스피…반도체 돌파력에 초점",
+          "source": "mt.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzeDJCLTBUckNVSUYxeEpvNjdUWV9FaUZxbHp2bENiUkRtSVJaNGVscG5YN1lfcVgtTFNzaTNuR0duaVpaMmU2enltQjV0TTZfakNGaWhUU0dJS1FLdkE5NGFGSnU1aHNJ?oc=5",
+          "pubDate": "Wed, 18 Feb 2026 06:30:00 GMT"
         },
         {
           "headline": "코스피 5천, 돈 얼마 벌었냐고? 2000년생 동창들의 대화",
@@ -529,16 +529,16 @@
           "pubDate": "Thu, 12 Feb 2026 15:53:21 GMT"
         },
         {
-          "headline": "올해 빅테크 시총 일제히 ‘하락’···AI 지출이 심판대에 오르다",
-          "source": "Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOMVdWMnd0TVBScHhtVkJZeGZvTkRuMm5ucFRnajJSX0ZLTk14Q29jNjVTRnVKcnZJd2t1M3B2NWpja2kzWEI0MmZyRGNOcEJRQUVEeEdqOUxMcXowMDl2aWFlRkxYaFl2WExMVXBtTTItU05RYXVXRHEwNE9xcmRiUTV0MHRzSmZnQ3ppRlNBYXM5UUtvTE9HS1hVZ1RsWXBfZW5uajd2cmp4ZzVienVjdW81cDdJblZ4TjAwcUdOMTJOQmJkdjI4TWliUHJxM0YxNlV6SXdub3dQSDdUWnNWc0lYRTl4Vy1UWnVZNEZFR0lsMFgxVlpnTEZpU3FLM3ZtNTVmbEwyRnJ5V1dHcGpDVThqazR6RnREWmZ6dHFmcGxNeHY1QlpuSFBiWQ?oc=5",
-          "pubDate": "Wed, 18 Feb 2026 02:32:02 GMT"
-        },
-        {
           "headline": "뉴욕증시 장중...나스닥·MSFT·엔비디아·테슬라·메타 '껑충'",
           "source": "초이스경제",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vU2htNG5hQjdPZnBlRUM4SVZiaXdqWXh6UXpRUU9qWC04WnRsV1VIam1BZkY2NnhSWURtMzYzQ21GSVBwNU5qV09JLVFwNnVmOWJpSGZtT01XZVNUUGpXbHhWMzQyQTR5RDRiSmo1NNIBc0FVX3lxTE1yMElYRGgtS0xwb2ZUNDZZTVAwNTZPVVBKMmxDLXJYUXk0dUtTblpZbEFiREZob0pRenl6eF9keUxUV2xKdnZobXhUMVNPWkxhRlNTYlFNMjlydkpkRVlmcXE1b0dFczVoWWl5ZHM2bTdCdkU?oc=5",
           "pubDate": "Mon, 09 Feb 2026 19:34:14 GMT"
+        },
+        {
+          "headline": "올해 빅테크 시총 일제히 ‘하락’···AI 지출이 심판대에 오르다",
+          "source": "Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOMVdWMnd0TVBScHhtVkJZeGZvTkRuMm5ucFRnajJSX0ZLTk14Q29jNjVTRnVKcnZJd2t1M3B2NWpja2kzWEI0MmZyRGNOcEJRQUVEeEdqOUxMcXowMDl2aWFlRkxYaFl2WExMVXBtTTItU05RYXVXRHEwNE9xcmRiUTV0MHRzSmZnQ3ppRlNBYXM5UUtvTE9HS1hVZ1RsWXBfZW5uajd2cmp4ZzVienVjdW81cDdJblZ4TjAwcUdOMTJOQmJkdjI4TWliUHJxM0YxNlV6SXdub3dQSDdUWnNWc0lYRTl4Vy1UWnVZNEZFR0lsMFgxVlpnTEZpU3FLM3ZtNTVmbEwyRnJ5V1dHcGpDVThqazR6RnREWmZ6dHFmcGxNeHY1QlpuSFBiWQ?oc=5",
+          "pubDate": "Wed, 18 Feb 2026 02:32:02 GMT"
         },
         {
           "headline": "어도비 시스템즈, 매도 등급 유지, MSFT 하향 By Investing.com",
