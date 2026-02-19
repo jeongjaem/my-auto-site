@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-19T17:10:05.406Z",
+  "updatedAt": "2026-02-19T18:05:14.016Z",
   "watchlist": [
     "005930.KS",
     "AAPL",
@@ -28,12 +28,12 @@
       "symbol": "AAPL",
       "resolvedSymbol": "AAPL.US",
       "date": "2026-02-19",
-      "time": "17:54:55",
-      "close": "263.405",
+      "time": "18:50:05",
+      "close": "262.33",
       "open": "262.395",
       "high": "264.48",
-      "low": "262.29",
-      "volume": "6006202",
+      "low": "262.01",
+      "volume": "7369191",
       "ok": true,
       "error": null
     },
@@ -42,12 +42,12 @@
       "symbol": "GOOGL",
       "resolvedSymbol": "GOOGL.US",
       "date": "2026-02-19",
-      "time": "17:54:55",
-      "close": "303.61",
+      "time": "18:50:05",
+      "close": "304.31",
       "open": "301.82",
       "high": "305.47",
       "low": "300.04",
-      "volume": "6096162",
+      "volume": "7555389",
       "ok": true,
       "error": null
     },
@@ -56,12 +56,12 @@
       "symbol": "MSFT",
       "resolvedSymbol": "MSFT.US",
       "date": "2026-02-19",
-      "time": "17:54:56",
-      "close": "399.336",
+      "time": "18:50:05",
+      "close": "398.05",
       "open": "400.69",
       "high": "404.43",
-      "low": "397.88",
-      "volume": "8531652",
+      "low": "397.83",
+      "volume": "10272312",
       "ok": true,
       "error": null
     },
@@ -70,12 +70,12 @@
       "symbol": "NVDA",
       "resolvedSymbol": "NVDA.US",
       "date": "2026-02-19",
-      "time": "17:54:57",
-      "close": "187.0501",
+      "time": "18:50:05",
+      "close": "185.95",
       "open": "187.055",
       "high": "188.43",
       "low": "185.66",
-      "volume": "41174792",
+      "volume": "50715916",
       "ok": true,
       "error": null
     },
@@ -84,12 +84,12 @@
       "symbol": "TSLA",
       "resolvedSymbol": "TSLA.US",
       "date": "2026-02-19",
-      "time": "17:54:56",
-      "close": "413.31",
+      "time": "18:50:07",
+      "close": "410.86",
       "open": "407.25",
-      "high": "414.98",
+      "high": "415.2499",
       "low": "404.11",
-      "volume": "19685763",
+      "volume": "24460000",
       "ok": true,
       "error": null
     }
@@ -123,16 +123,16 @@
           "pubDate": "Thu, 19 Feb 2026 00:12:21 GMT"
         },
         {
-          "headline": "코스피, 설 연휴 뒤 다시 ‘불장’ …한미 증시 ‘디커플링’ 뚜렷",
-          "source": "한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBuOFhyU0t4OTVYenFMSzQ3UWRXNGRqQUh3V1FkcnJTUXhBa283bW52VUFvT3RRWW1CSndkYmtZcUlBWEdNVThtdU41aWJmVEhJTFZkMWZFUXR6UnhpODJWak5Qb3ZNZnpCNG5nMDFMSDVydw?oc=5",
-          "pubDate": "Thu, 19 Feb 2026 10:19:00 GMT"
-        },
-        {
           "headline": "“美 주식 선호 여전”⋯ 개인투자자, 국장보다 5배 더 사들였다",
           "source": "브릿지경제",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yNUJ2WndfcmJqUTdmMy14bUVuOGpZRHBLTTJMYkxwUnVnM0ZYVnRKQnExSUdpbHhPelpyeG5ydVFoZk5Lb1ZmYkViOUdYSXlMdnNSMy1QSGtCdw?oc=5",
           "pubDate": "Thu, 19 Feb 2026 05:57:00 GMT"
+        },
+        {
+          "headline": "코스피, 설 연휴 뒤 다시 ‘불장’ …한미 증시 ‘디커플링’ 뚜렷",
+          "source": "한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBuOFhyU0t4OTVYenFMSzQ3UWRXNGRqQUh3V1FkcnJTUXhBa283bW52VUFvT3RRWW1CSndkYmtZcUlBWEdNVThtdU41aWJmVEhJTFZkMWZFUXR6UnhpODJWak5Qb3ZNZnpCNG5nMDFMSDVydw?oc=5",
+          "pubDate": "Thu, 19 Feb 2026 10:19:00 GMT"
         },
         {
           "headline": "금리 불확실성 지속되는 가운데 미국 증시 선물 보합세, 월마트 실적 주목",
@@ -152,28 +152,16 @@
       "query": "나스닥",
       "items": [
         {
-          "headline": "[속보] 뉴욕증시, 상승...나스닥 0.78%↑",
-          "source": "이투데이",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aak5CT2t6R0ZvRnhKMmllMzFJYmtrd1M4RFN3QkdTVEZUblV0ZUUwMjNvNmt4aXBaTHlXOXhOcl8tcG1EOC1mNHJkVHd0dk53ZFA5MA?oc=5",
-          "pubDate": "Wed, 18 Feb 2026 21:14:00 GMT"
-        },
-        {
-          "headline": "日 페이페이 나스닥行…기업가치 200억달러",
-          "source": "한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92eEdnQ0FzQ0t6N1pIcWRPSFM2VnpodWdEYTU1b2V3S1doVTNlSmUxTVh2ZXZ5ZTNicmNqU2s4aUtxa1FtTUtMOUlTRDRwZl9jTEhfb0wyUkJaZ9IBVEFVX3lxTE41Mmg5SW5wNjV4MDZMLThkVU5FUzlDSl9YNlJaN0wyZ3ZwWDJNRkdiUmVHTUhGaV9aSEdhU0p5bUd2TXdmNTRjMjM0dGhqcDgtSjRFUQ?oc=5",
-          "pubDate": "Wed, 18 Feb 2026 08:27:58 GMT"
+          "headline": "[속보]뉴욕증시, 기술주 주도로 상승 마감…나스닥 0.78%↑",
+          "source": "뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGWnlvN1NVS0NfaFFvMWxwR0xneUFjbS1hLURtTGtvRVdXZUpjQVh2VktncVkwaWJSTVlYZzBNaWpXb1c3Y2hEejBmYVdjSVdrVjlIRUZQZzA4bXNVaTFrONIBeEFVX3lxTE5TZVJ4bHZnTXhfVmZWTG8yR0tEYW9tME5HVXBNNUY0Wm9MbFhKWFFrOHh6djNVWU9zSHE1NHpTS0pzY3hObE1QSXFlRDk4ZTBzb291V2Izbkp6cjFFMG9TcmVZeEFHRlhxTDJRUmh4NDFqVHhibXJBVg?oc=5",
+          "pubDate": "Wed, 18 Feb 2026 21:07:19 GMT"
         },
         {
           "headline": "“비트코인과 나스닥 간 디커플링, 달러 신용경색 경고등“",
-          "source": "edaily.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPREltZEhjN0xWMnRkR2pDTTZQQmo0V2Z2QjJWakNkWU1RLUtPZ2g1TnptQmhnc0RiYU5VXzROSFktZlQ2X0VhMTY5bVd6SWViTF9VQkJHdWstS0hYaVp1aE5Yd1JjWlhiMHh1aUtCX09EMFZvYnNobkRYcTB2R19IRA?oc=5",
+          "source": "마켓인",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5FSENjQko0aURaTXg3NmJpTGhHclRnVzRjek5kLWI1VUFjdHJjV0ZjbUl2ODdGS1dPbFpPUGxnZElDUWhDQ0xxT21mRGhEVldpZndmNEFzWG54eTdfVWt3R2hfSHFmeGQzOVcwZjF0cHV1aGs?oc=5",
           "pubDate": "Wed, 18 Feb 2026 04:42:23 GMT"
-        },
-        {
-          "headline": "암호화폐·기술주·금 동반 하락…비트코인-나스닥 상관관계 회복",
-          "source": "디지털투데이",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5qLXpJcnQ5cFlTTjM3RlZqWUUyYVZPYUdnQWxPbWtrVmJ4WVpfZ09OMlhCWkE0clhoUnZwUE9NNFdJZ003Z1NMY2NTR050ME9kXy15OW1pQndwY0pfU1M2eWxCbmNzRVVSSFRUOFJ3eWJqX0U?oc=5",
-          "pubDate": "Wed, 18 Feb 2026 02:16:38 GMT"
         },
         {
           "headline": "젠비아, 나스닥 최소 입찰 가격 미달 통지 받아 By Investing.com",
@@ -188,16 +176,28 @@
           "pubDate": "Wed, 18 Feb 2026 11:10:29 GMT"
         },
         {
-          "headline": "나스닥 다우 선물 지수 하락세...FOMC 의사록 '금리인상' 언급",
-          "source": "gukjenews.com",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TTVJPWmxYUGdWclk0MDZsWTVISUJRcWdpb3VFclFqVEZNZzdPS3N5QTI1VTlJWVhTcnlwa1hZRmJFcnA1SGtNdTl3bEZLX1F3M01ZSmZZZC1iV2wtZ1MyaGpaSGdNYlc0ZURKcXVB?oc=5",
-          "pubDate": "Thu, 19 Feb 2026 12:43:30 GMT"
+          "headline": "日 페이페이 나스닥行…기업가치 200억달러",
+          "source": "한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92eEdnQ0FzQ0t6N1pIcWRPSFM2VnpodWdEYTU1b2V3S1doVTNlSmUxTVh2ZXZ5ZTNicmNqU2s4aUtxa1FtTUtMOUlTRDRwZl9jTEhfb0wyUkJaZ9IBVEFVX3lxTE41Mmg5SW5wNjV4MDZMLThkVU5FUzlDSl9YNlJaN0wyZ3ZwWDJNRkdiUmVHTUhGaV9aSEdhU0p5bUd2TXdmNTRjMjM0dGhqcDgtSjRFUQ?oc=5",
+          "pubDate": "Wed, 18 Feb 2026 08:27:58 GMT"
+        },
+        {
+          "headline": "암호화폐·기술주·금 동반 하락…비트코인-나스닥 상관관계 회복",
+          "source": "디지털투데이",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5qLXpJcnQ5cFlTTjM3RlZqWUUyYVZPYUdnQWxPbWtrVmJ4WVpfZ09OMlhCWkE0clhoUnZwUE9NNFdJZ003Z1NMY2NTR050ME9kXy15OW1pQndwY0pfU1M2eWxCbmNzRVVSSFRUOFJ3eWJqX0U?oc=5",
+          "pubDate": "Wed, 18 Feb 2026 02:16:38 GMT"
         },
         {
           "headline": "지금 이 순간, 나스닥에서 조용히 폭발을 준비하고 있는 종목 3개가 있습니다.",
           "source": "프리미엄콘텐츠",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdllhX2d5dVJpRkRNcXN3QVktZjQtQW93bjh3eXVvS1FmMXhOZ0l0TFdscHY3SWcwOTdOVXU4eHYyZzU0cUZJM0xMZ3l5enY5cnN0eWNuVzBpLWJPRHdHaFU0ZUdHdzMtc1VySnhWUG5RWGFlM3lJRXZpNGthN1dCc0lJd0dFTGFjeTgwVA?oc=5",
           "pubDate": "Thu, 19 Feb 2026 01:27:00 GMT"
+        },
+        {
+          "headline": "[해외시황] 뉴욕증시, FOMC 추가 긴축 경계에도 반등…나스닥 0.78%↑",
+          "source": "프라임경제",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00bmctbnJIa3Z6Vjhrc1pXejl4UTJPdG5SaGt6N3BqajBsRVdGYzBTZWYwRXNZWlZKcTJUakJGa19rLVpmbEswUUJVcWxSZG9fRjN3WDQzdlV2SnUweXJCazNWSm9UTzcyWll3TQ?oc=5",
+          "pubDate": "Wed, 18 Feb 2026 23:32:32 GMT"
         }
       ]
     },
@@ -208,7 +208,7 @@
           "headline": "‘S&P 500′에 30년… ‘복리의 마법’이 천만원을 4억원으로",
           "source": "조선일보",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTUdnTWNSd1pxWVFqRHFxUVVrR05OdjZvWFJydkw2Z3lTV09OYzhQUHkxcEg5UEJLSkVvWFY1eXZnMFBIU3g1NGtXb2hlRkpLLWlIeE5rc1FiTVFtV0VzZUI5M0x3MHFGcUUyRFVEWEhpUzFkVUxiOUVSN1VTQmxLRQ?oc=5",
-          "pubDate": "Thu, 19 Feb 2026 14:30:06 GMT"
+          "pubDate": "Thu, 19 Feb 2026 17:32:45 GMT"
         },
         {
           "headline": "야데니 \"美성장세 이어질 것…S&P500지수, 2030년까지 8천 전망\"",
@@ -300,10 +300,10 @@
           "pubDate": "Thu, 19 Feb 2026 07:33:00 GMT"
         },
         {
-          "headline": "연휴 끝나자 코스피 5600 돌파…美 상장 '한국ETF' 거래도 급증",
-          "source": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1wemIzd01xTEFXNExBQ0kzVU1XZUZZTWR4VVJIMWhEeFRkUE1ONDdkamxjNjlPQktxLXdfN3BUNWJudjFxa0hTRWpHS3FqOFk?oc=5",
-          "pubDate": "Thu, 19 Feb 2026 07:15:42 GMT"
+          "headline": "5,600선 올라선 코스피, 장중 강세 지속…코스닥은 매수사이드카",
+          "source": "연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qOHoxcDgtbGdVM3FubVJxelcxUmZyWVlTT09NSDlMb2tqbWFhSnVTQmdmemoySXgtNVFzc0thbmhpd3VVSGJuNklSa3B2NGI4bVprU0gydk1WRThhblo3dtIBYEFVX3lxTE9qOHoxcDgtbGdVM3FubVJxelcxUmZyWVlTT09NSDlMb2tqbWFhSnVTQmdmemoySXgtNVFzc0thbmhpd3VVSGJuNklSa3B2NGI4bVprU0gydk1WRThhblo3dg?oc=5",
+          "pubDate": "Thu, 19 Feb 2026 02:18:51 GMT"
         }
       ]
     },
@@ -311,10 +311,10 @@
       "query": "KOSDAQ",
       "items": [
         {
-          "headline": "코스닥 '매수 사이드카' 발동…바이오·2차전지·로봇주 일제히 강세",
-          "source": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RUW56N2kzU1pUV0c3c2gwMm1vWUg1eHczd1ZGcEFfN1RHaEFpcHZCdjI0UnMxVWNMUUhkNlhxTTVIRUV3TVJ1LXFxVEtCYmM?oc=5",
-          "pubDate": "Thu, 19 Feb 2026 01:57:03 GMT"
+          "headline": "연휴 끝나니 코스닥 급등…올해 두번째 '매수 사이드카'",
+          "source": "뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJU0N4NTZTY0xoU05vVHBNTjNFOFBVTVEyQ3NWV2Z6WGdOYkJ2UXRtYTFnaEt2bjNNWFZWeS1VQ3ozcGJPX3hUelBmOVFEYVExTWhnU05wS2F1SjZqZUxqbdIBeEFVX3lxTE5leU1SZE05SmhvR1VVQTAtV1lvUURjRk8xMFpEMTMycGV1U05OeVpGdUZ4VkpvN1ZtZUhPYVZ4VUVPT0l1T0ZIdU5EdmlEWk1tYVA0X2ZJcFJ6WG9CY3NKakxUenlMRHN2alZJaHE4OG94MkdlNElkdQ?oc=5",
+          "pubDate": "Thu, 19 Feb 2026 02:25:20 GMT"
         },
         {
           "headline": "거래소, '코스닥 집중관리단' 가동…퇴출 속도 높인다",
@@ -576,16 +576,16 @@
       "query": "NVDA",
       "items": [
         {
-          "headline": "대규모 AI 데이터 센터 모멘텀 이후 엔비디아(NVDA)를 고려하기에는 너무 늦은 것일까요?",
-          "source": "simplywall.st",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMmRCZndPc1htbUZTYld3Q3c0SHI4NWQwOW0wMWdnbjNHNFk0YWlrNWwwR1NIRjk5dDA2eldEaHBBS0xFUGVrbDM1S19jdnctUjB2eS1Nektjb21qb3ZacHVSWkdUa245dlRTTUwxZnRicDdSX3I4VEp0MU5OeWJDUUxXRkFaenhkZVR6RkMtQkhVRVhYZGNrd1Rn?oc=5",
-          "pubDate": "Wed, 18 Feb 2026 12:14:37 GMT"
-        },
-        {
           "headline": "엔비디아(NVDA.O), 요타와 4년 협력…아시아 최대 AI 컴퓨팅 허브 구축",
           "source": "알파경제",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8wMnFoVWJqWDhFWWZreG5pYTY2UzlBb2tLNGRZNEVtYzZqSDlDcFVXZ1Q2cGZIbzA4SGl6bDNHQkZReE1yQzJlZnJZcGZpSUoxUFdKNVVIWV9rWnhmRy1KUlN6dWVmdUhoWUFELW1R0gFuQVVfeXFMTzAycWhVYmpYOEVZZmt4bmlhNjZTOUFva0s0ZFk0RW1jNmpIOUNwVVdnVDZwZkhvMDhIaXpsM0dCRlF4TXJDMmVmcllwZmlJSjFQV0o1VUhZX2taeGZHLUpSU3p1ZWZ1SGhZQUQtbVE?oc=5",
           "pubDate": "Wed, 18 Feb 2026 22:47:19 GMT"
+        },
+        {
+          "headline": "대규모 AI 데이터 센터 모멘텀 이후 엔비디아(NVDA)를 고려하기에는 너무 늦은 것일까요?",
+          "source": "simplywall.st",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMmRCZndPc1htbUZTYld3Q3c0SHI4NWQwOW0wMWdnbjNHNFk0YWlrNWwwR1NIRjk5dDA2eldEaHBBS0xFUGVrbDM1S19jdnctUjB2eS1Nektjb21qb3ZacHVSWkdUa245dlRTTUwxZnRicDdSX3I4VEp0MU5OeWJDUUxXRkFaenhkZVR6RkMtQkhVRVhYZGNrd1Rn?oc=5",
+          "pubDate": "Wed, 18 Feb 2026 12:14:37 GMT"
         },
         {
           "headline": "[2026년 '황금 알' AI 주식 TOP5…엔비디아·알파벳·MS, 성장 동력은?] 2026년 고성장 AI 주식으로 엔비디아(NVDA), 알파벳(GOOGL), 마이크로소프트(MSFT), 코어위브(CRWV), 메타(META)가 주목받고 있다.",
@@ -618,10 +618,10 @@
           "pubDate": "Wed, 21 Jan 2026 08:00:00 GMT"
         },
         {
-          "headline": "매파적 인하도 괜찮아?…중국 효과 못 본 NVDA [김현석의 월스트리트나우]",
-          "source": "한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZQ3JEVVNnb1RTZGhEYVhCdmVYWTh3T0hqSlhqd3FlRWRoU3hoblhPc2JUVkVHemFPYURFYWk1enZjZ1Y1ZHBIcy1tWHJTM3NRUFVObm5WdGRRZ9IBVEFVX3lxTE5qSHdjeXU2YVZQM0o5LTZTVV9hQzJSWUFrWE9vY1hqS1BZZ3VRaEpoUGNPTm10azFic2hFaW5KV0NXRVliU2FtcndUNnZnWERlUWtPSw?oc=5",
-          "pubDate": "Wed, 10 Dec 2025 08:00:00 GMT"
+          "headline": "엔비디아 Shoquist Debora, NVDA 주식 1470만 달러 매각 By Investing.com",
+          "source": "Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1td3NSV0dfNGFtbldCU3Ayakp5THJfcl9KU3MwUl8takh0SVlUWHhodzltUFJleFdvaGpLV1hHU0wxLXA0NnI5S1BYallGbmFObWRGbTJsazJKaVA1VjgxbzhMNV9IZ05qSHpGaUNacHpFRXpxdGs0MlJrcw?oc=5",
+          "pubDate": "Thu, 11 Dec 2025 08:00:00 GMT"
         }
       ]
     },
