@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-24T19:36:42.410Z",
+  "updatedAt": "2026-02-24T20:02:52.436Z",
   "watchlist": [
     "005930.KS",
     "AAPL",
@@ -28,12 +28,12 @@
       "symbol": "AAPL",
       "resolvedSymbol": "AAPL.US",
       "date": "2026-02-24",
-      "time": "20:21:34",
-      "close": "272.22",
+      "time": "20:47:43",
+      "close": "272.3699",
       "open": "267.86",
       "high": "274.89",
       "low": "267.71",
-      "volume": "17077948",
+      "volume": "17800348",
       "ok": true,
       "error": null
     },
@@ -42,12 +42,12 @@
       "symbol": "GOOGL",
       "resolvedSymbol": "GOOGL.US",
       "date": "2026-02-24",
-      "time": "20:21:33",
-      "close": "309.875",
+      "time": "20:47:41",
+      "close": "310.86",
       "open": "310.515",
       "high": "312.085",
       "low": "305.93",
-      "volume": "8018412",
+      "volume": "8514818",
       "ok": true,
       "error": null
     },
@@ -56,12 +56,12 @@
       "symbol": "MSFT",
       "resolvedSymbol": "MSFT.US",
       "date": "2026-02-24",
-      "time": "20:21:34",
-      "close": "387.25",
+      "time": "20:47:44",
+      "close": "387.7",
       "open": "384.14",
       "high": "389.36",
       "low": "381.71",
-      "volume": "13675143",
+      "volume": "14271042",
       "ok": true,
       "error": null
     },
@@ -70,12 +70,12 @@
       "symbol": "NVDA",
       "resolvedSymbol": "NVDA.US",
       "date": "2026-02-24",
-      "time": "20:21:34",
-      "close": "192.3901",
+      "time": "20:47:45",
+      "close": "192.745",
       "open": "191.46",
       "high": "193.75",
       "low": "187.4",
-      "volume": "77786312",
+      "volume": "82144394",
       "ok": true,
       "error": null
     },
@@ -84,12 +84,12 @@
       "symbol": "TSLA",
       "resolvedSymbol": "TSLA.US",
       "date": "2026-02-24",
-      "time": "20:21:34",
-      "close": "408.63",
+      "time": "20:47:45",
+      "close": "408.815",
       "open": "399.5",
-      "high": "409.44",
+      "high": "409.55",
       "low": "397.64",
-      "volume": "30149233",
+      "volume": "32394696",
       "ok": true,
       "error": null
     }
@@ -152,6 +152,12 @@
       "query": "나스닥",
       "items": [
         {
+          "headline": "미국 뉴욕증시, 글로벌 관세 15% 인상에 다우 나스닥 하락",
+          "source": "gukjenews.com",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ORktmWFJuVFNTVE41aW1HZllhMGR5X0w4WlRobWJ3cDNHYTVaYjlKUHRDeWk0WkpWd1FhU3RUYXBCTzhIT1dQblpvRk1GV2FGRW15QnhnVjlRdmVOS2dUMnRjRUFhckR1bW96a2dn?oc=5",
+          "pubDate": "Mon, 23 Feb 2026 14:52:38 GMT"
+        },
+        {
           "headline": "연금개미도 \"공격 투자\"… 나스닥 대신 코스닥 쓸어담아",
           "source": "v.daum.net",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jMTZScHhlbUxrdE9JaUhCWjZybTJfOE05OVNxNllHQ1NjeUNKeG1vYzNyQklVVWxESmNra01mWWpUVW1QUllpNGVjbU1kSXM?oc=5",
@@ -164,10 +170,10 @@
           "pubDate": "Mon, 23 Feb 2026 08:59:00 GMT"
         },
         {
-          "headline": "나스닥 1% 하락…AI 구조조정 우려·관세 불확실성 겹쳐[뉴욕마감]",
+          "headline": "엔비디아 실적 기대, 지수 선물 일제 상승…나스닥 0.20%↑",
           "source": "뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ERlJJYktGQVNfM0xlZmRCUS12NU1HNGZlVXBDa2VicXp5N0tQWDRISGNqd2V4UndpcnhQSU1mOS14amxGcUNETHlmY2k1WDVTWGdUdUcxZGxmODhoRHJMcERIcTgzM00?oc=5",
-          "pubDate": "Mon, 23 Feb 2026 21:47:36 GMT"
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ySHdCNTA5TWtTbjFYakpjWVZqTGc1eFR3WFlsX0U0SVdfV3BFemJtc19NcEtHTTlTXzR6dWthbVNQT2xqZWVCSDktNXc1Z3JwZE1xeVdaeG4?oc=5",
+          "pubDate": "Mon, 23 Feb 2026 23:23:50 GMT"
         },
         {
           "headline": "QMMM, 연례 보고서 지연으로 나스닥 규정 준수 경고 By Investing.com",
@@ -176,22 +182,16 @@
           "pubDate": "Mon, 23 Feb 2026 21:22:00 GMT"
         },
         {
-          "headline": "엔비디아 실적 기대, 지수 선물 일제 상승…나스닥 0.20%↑",
+          "headline": "나스닥 1% 하락…AI 구조조정 우려·관세 불확실성 겹쳐[뉴욕마감]",
           "source": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NZGl4NVJaNS0xR0dDODNZcHFlVUx1Q3RFcEJNbXgtcVE1MUNqZWlHMFdXbW5sa1pZbGE0OXNCbU5UalN0RXNlQkk0ZW5pcUxaRW9z?oc=5",
-          "pubDate": "Mon, 23 Feb 2026 23:24:00 GMT"
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BVVYxbGpWMWRjQ2hpaVMzNms3UmNwSHlKVlRzUS1JekJWWVdjSE9ncGI1WEZkLUI0ZkR1M1MzdktpWWljampGRlk0SjZHWXV2eEdxUFhDSG5NTzRfa0d3U3NyQUFLcEJLTlUyT2lKSXY3YTdyNlNfUg?oc=5",
+          "pubDate": "Mon, 23 Feb 2026 21:48:00 GMT"
         },
         {
           "headline": "美증시 하락 마감…다우 -1.66%, S&P500 -1.04%, 나스닥 -1.13%",
           "source": "SBS Biz",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04N3JkTVF2VVVGRE5aZlBmbUx6dDBJTFpPaWxnU0JHYjlUV3prTW9vVHRoelVfZGQ2V0tpMGFrWlBIWHFXVGpqaE80dXgtT21UQ2pn?oc=5",
           "pubDate": "Mon, 23 Feb 2026 21:03:00 GMT"
-        },
-        {
-          "headline": "나스닥 다우 선물 지수 혼조세...트럼프 글로벌 관세 15% 인상",
-          "source": "gukjenews.com",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqdkpFelYzZnVNUGJTTFhtdzhfX2JDWklVbDRyY3RVdmJoX1lIcFpvNlpWaE5GOG81WUxycmxYUm5BYmp6RWZPb0c1R0ZUa2thRU1Na05sZ2VHNGVYbm5kMG5EZzVhU1ROQmZpanlR?oc=5",
-          "pubDate": "Mon, 23 Feb 2026 14:03:54 GMT"
         },
         {
           "headline": "A증시 나스닥된다, 연봉2억 中중산층 '투자귀재'가 꼽은 6대 기술주",
@@ -288,12 +288,6 @@
           "pubDate": "Tue, 24 Feb 2026 02:30:00 GMT"
         },
         {
-          "headline": "'100만 닉스·20만 전자' 도달‥1년 전 2400 코스피는 이제 6천 눈앞",
-          "source": "MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqc1J2YURmWUpySnV2SXE0M2Nia0ppZDlPZEVXeGRQOENuSG82T090M201YVVBSE1GMEl5c0FveFpKanY2V3RMOVdsMlp3a3VSeVp5eGJTU1lFbHcyTzBsbFRQRUNsSDFteV9kN0dzUWpydU9UbVMwT9IBeEFVX3lxTE1YR3djc2pnZVhSVVI0SFQzMXNSVjFEbUY5RVBoMy1pUGlPaVlwdnE0RXR0WEp0OU5FalR1aWtsNUpMRm5xdjVTNEJEMHlxWmdvb0I3STEwTGJORDZtNkpyWUtQSHhqOTdRMjBBcTVyRXpBNXlGeHg3UA?oc=5",
-          "pubDate": "Tue, 24 Feb 2026 10:46:57 GMT"
-        },
-        {
           "headline": "與, 3차 상법 처리 '드라이브'…\"주당순이익 개선\" 코스피 기대감",
           "source": "뉴스1",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lSGNLNjJ5QXhFTE9sMmNYTkVYZDdPdS1QaWJxT19JZ2laWkNQZFkxbVllaDQ5bjFjVTBGUkRLX1pTWWIwR0wxMkJhV3lPSDQ3UVJZamEzUURHaUQ5U3Bz?oc=5",
@@ -304,6 +298,12 @@
           "source": "조선일보",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcW1ib0RMWVhuc0pWRDlnQjlNT29kVmFTT1g1TnNVNEJORHFMVS1xVGg1dHg0QUVGRTlIamMycU9pQjY2S3B6RlhYUDhVMnI2aUkwakYxWWNNWklKdlFrNEc0RGlBVGt0YVVlUm9vLVdZVTlJYV9pVjdGRkxWdjlHUNIBlAFBVV95cUxPNHJvMmxwNmE0MlFWOTViNVZnMUlTTDFxOUYwejRINFlTVVNNM1RNRjVXZGR4ejBObkxtNzNWZ1NsclcxczExTkFIUjZtRVJ6V0RmWjZpVUdiVEJfdlVXbmcyNUREanV5bWYyVldJWGd2c1l6YjBCenp3UnU0T0JNd3E3VERRdk9wSkM2aVFUaG1FakdX?oc=5",
           "pubDate": "Tue, 24 Feb 2026 08:02:29 GMT"
+        },
+        {
+          "headline": "“이러다 크게 물리는 거 아냐”…코스피 역대급 불장에도 외국인 9조 매도, 왜?",
+          "source": "매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBNMER3NUE1T0FBbm1CTWNGMDJUaFNZN0V5SkJER01relUxS1lIcVcwLVJjRlhTVG9DZTVRelZuR0w4QXNCR0lqQmNjczhraU9mYzRUWQ?oc=5",
+          "pubDate": "Mon, 23 Feb 2026 02:41:05 GMT"
         }
       ]
     },
@@ -429,6 +429,12 @@
           "pubDate": "Thu, 19 Feb 2026 21:13:33 GMT"
         },
         {
+          "headline": "애플, 임원 보수서 ESG 삭제…S&P500 ‘환경 연계 보상’ 후퇴 가속",
+          "source": "임팩트온",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DQWlYc1M2TFdZdHk3NlRUS0gtcnUtVlVueG5RN191NFJNR2tGdEJRU2lFRnNwbFRtb0t5c0RoWElycnBqX2R5Zl9LUXNuSGN3WF8xSDFNZURRejlCWS1ybHNjYS1JSm5Q0gFsQVVfeXFMT3VJOWZkU3BKWHFid2t1MzE4MDFqOHVkcTZJc2pvS3FPR1FsSkNma2RjeTBoZlI3X0c4YzZiM05uODZxRVR0Z25NVTdUaVk1WTl4UHFFemVOeWVfRjBVcXUyU2o1UGlmcE1LMzRP?oc=5",
+          "pubDate": "Fri, 20 Feb 2026 00:21:29 GMT"
+        },
+        {
           "headline": "애플(AAPL.O), 안전자산 부각…기술주 하락장서 ′나 홀로 상승′",
           "source": "알파경제",
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Fak9ibUYwMXUtLWtTTEd4SzhBcGNzZ1hGdGo1S0JXZ3ViWWxDcUtoQXRpTTl2dEJ5emJTNnlQZXkxRkZnV1VFcjdLZ3cxVVJtNHJLRGlhNG45akYwTXfSAW5BVV95cUxQYXYxbE10RUFsU09qdlRmVGJVODQzRUE2b3R5NWF0TDlFWU5qb19vMHJIQ1VQMGFjVFZZSG04N1ZucE5uUEdjbzRkWldYT2lMQ0lodUctYmJDRG5HSFR3YWFuV2J1Z3NqZHdZU0tUdw?oc=5",
@@ -457,12 +463,6 @@
           "source": "v.daum.net",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1IaklLMi14djRfQThwU09PZGg5T0toTXJseVdxUXpnQzFkcEFTRExXczZaa2NMaERRU01xSkhkelMwNzZmNFE?oc=5",
           "pubDate": "Sun, 13 Jul 2025 07:00:00 GMT"
-        },
-        {
-          "headline": "애플(AAPL) 주가는 최근의 빅 테크 센티먼트 변화 이후 성장을 반영하고 있는가?",
-          "source": "simplywall.st",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRzRncWRRaHNEeGxyV01fUDVEOGRnYkc1V19BTUJnbmNtUW9kSnpLV3huWXlOV2lXd01JaWxPRnM1OXpndkFLVG9ieVlQX09CNlJvMzhwVll5OUVKR3NUaGlKUkc2QnpqYjhOSkRIVzhkcTFieDFBc1RVU1phYXoxX2JfcHBiRDg1X0U4?oc=5",
-          "pubDate": "Thu, 12 Feb 2026 16:12:45 GMT"
         }
       ]
     },
@@ -565,10 +565,10 @@
           "pubDate": "Fri, 20 Feb 2026 21:43:04 GMT"
         },
         {
-          "headline": "마이크로소프트 주가, ‘챗GPT 이전’ 수준으로 회귀···지금이 매수 적기?",
-          "source": "Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQdjdCVHNPMVVhRHA3OVJQdEhvV2Qyb2ppY3p4V2g1TE5yR2k0djVDRmRVdHQ5SzVvakVZdXdIUUpkU2U5TGJleTE1eXVKYTZpRlYwY25EMjhMUHdnTU1PU1ZQWjNiaFJ0RnhDZ3h3NDRodVFOcTVnaHRTSWlSQTd0T0I1Z0xxaVIxV2tLaXFwSG9ZWElVMEJzaG5FaVpmdFVkNGliRFExTDBlNndqVnVQTUlpVFhSWlVLRlZPbkxDcnhtT2xvM1N3cko4SkN2TGpnOGZzOTQzTE5sZGVlZXdlTzhtRlB5MVp5STZhcVFPejd1V3pvODRpOFFCWXRyNTRVRklnU3R2X29Jc1k3dXE2NUxZbjVvU0NoTTNzb3E0OXZUTlJFTUtCZTFYWGV1QWZ4aWV0bmNWUQ?oc=5",
-          "pubDate": "Thu, 19 Feb 2026 14:50:07 GMT"
+          "headline": "뉴욕증시 장중...나스닥·MSFT·엔비디아·테슬라·메타 '껑충'",
+          "source": "초이스경제",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vU2htNG5hQjdPZnBlRUM4SVZiaXdqWXh6UXpRUU9qWC04WnRsV1VIam1BZkY2NnhSWURtMzYzQ21GSVBwNU5qV09JLVFwNnVmOWJpSGZtT01XZVNUUGpXbHhWMzQyQTR5RDRiSmo1NNIBc0FVX3lxTE1yMElYRGgtS0xwb2ZUNDZZTVAwNTZPVVBKMmxDLXJYUXk0dUtTblpZbEFiREZob0pRenl6eF9keUxUV2xKdnZobXhUMVNPWkxhRlNTYlFNMjlydkpkRVlmcXE1b0dFczVoWWl5ZHM2bTdCdkU?oc=5",
+          "pubDate": "Mon, 09 Feb 2026 19:34:14 GMT"
         }
       ]
     },
