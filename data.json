@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-25T19:41:32.637Z",
+  "updatedAt": "2026-02-25T20:21:27.365Z",
   "watchlist": [
     "005930.KS",
     "AAPL",
@@ -28,12 +28,12 @@
       "symbol": "AAPL",
       "resolvedSymbol": "AAPL.US",
       "date": "2026-02-25",
-      "time": "20:26:24",
-      "close": "274.705",
+      "time": "21:06:18",
+      "close": "273.5603",
       "open": "271.78",
       "high": "274.94",
       "low": "271.05",
-      "volume": "11228846",
+      "volume": "12302713",
       "ok": true,
       "error": null
     },
@@ -42,12 +42,12 @@
       "symbol": "GOOGL",
       "resolvedSymbol": "GOOGL.US",
       "date": "2026-02-25",
-      "time": "20:26:23",
-      "close": "311.13",
+      "time": "21:06:17",
+      "close": "311.46",
       "open": "312.06",
       "high": "313.64",
       "low": "309.44",
-      "volume": "9227771",
+      "volume": "10259743",
       "ok": true,
       "error": null
     },
@@ -56,12 +56,12 @@
       "symbol": "MSFT",
       "resolvedSymbol": "MSFT.US",
       "date": "2026-02-25",
-      "time": "20:26:24",
-      "close": "399.03",
+      "time": "21:06:19",
+      "close": "398.69",
       "open": "390.5",
       "high": "400.25",
       "low": "390.16",
-      "volume": "18113546",
+      "volume": "19498671",
       "ok": true,
       "error": null
     },
@@ -70,12 +70,12 @@
       "symbol": "NVDA",
       "resolvedSymbol": "NVDA.US",
       "date": "2026-02-25",
-      "time": "20:26:25",
-      "close": "197.245",
+      "time": "21:06:19",
+      "close": "197.105",
       "open": "194.45",
       "high": "197.6299",
       "low": "193.79",
-      "volume": "100364147",
+      "volume": "110114639",
       "ok": true,
       "error": null
     },
@@ -84,12 +84,12 @@
       "symbol": "TSLA",
       "resolvedSymbol": "TSLA.US",
       "date": "2026-02-25",
-      "time": "20:26:25",
-      "close": "416.2551",
+      "time": "21:06:19",
+      "close": "416.2",
       "open": "412.15",
       "high": "420.34",
       "low": "412.15",
-      "volume": "33109681",
+      "volume": "35388100",
       "ok": true,
       "error": null
     }
@@ -135,16 +135,16 @@
           "pubDate": "Wed, 25 Feb 2026 00:41:35 GMT"
         },
         {
-          "headline": "우량 기업 IPO 심사는 30일만에…中기업 조달 기지로 변모한 홍콩증시",
-          "source": "인베스트조선",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVldlXy11RDZ5RDF2d3JvdkZacEdPYlIyQ2toSzc4UkhuajBJTG5zU2hrVHVLTlVxTVktenE1aEtJcTNLd3cxaGVBdi1NMFlwSm9nVGlOb2gtWTF0dEJfcjM3WXBZRTF5RFZTTGs5eGFrTGtVbXM5SlZxOW1SV2txVWUtTQ?oc=5",
-          "pubDate": "Tue, 24 Feb 2026 22:01:08 GMT"
-        },
-        {
           "headline": "일본 개미, 지난해 35조원 순매도…엔화 약세 불렀다",
           "source": "한국경제",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KQm1LV1lTWWtfOGhNS0w2UWtzeHFEOHJETnV4bVlCckc1WUZoZmJTNlUweTRoNTIyWmpVZGRmaGs0NXI2ZU1QS19ydzhURUdnUWNVNzBPamJQUdIBVEFVX3lxTE82cEk4NElFODJUci1kd2F5OGJDc0NtcVJwdnJGY2RlQ241OElIZ2E4NGZqTnYyYjNNYktHaUhZOG1NMFFzdnNVM2UxQU9xdGJKRGJ1eA?oc=5",
           "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT"
+        },
+        {
+          "headline": "미국 증시 뒤흔드는 '이것'…AI공포도 이긴다[주末머니]",
+          "source": "아시아경제",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hblFCeE5JcUNMdXpBSDhKcFY2emxNenRPN2pVbGxtQm1iS0RJeFE2MWk3dEhNRWpkOEI3UjBVSFdmUktwNzEtVkVEbVpWa2pMMlcyOU9VQ2pTanhrU2tiRw?oc=5",
+          "pubDate": "Sat, 21 Feb 2026 02:17:00 GMT"
         }
       ]
     },
@@ -288,22 +288,22 @@
           "pubDate": "Wed, 25 Feb 2026 00:27:00 GMT"
         },
         {
-          "headline": "코스피, 사상 최초 6000 뚫었다…20만전자·100만닉스도 강세",
-          "source": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1hTW9jelJSaXk1SDhBMGxtY1dPZHpHcWVkOWI2RmNUZ1RXNks5bnZaUHFESDRNS1V1ZmYwdlllWWw1MkZUdWhiX1NIMlE4RXM?oc=5",
-          "pubDate": "Wed, 25 Feb 2026 00:38:15 GMT"
-        },
-        {
-          "headline": "20만전자·100만닉스 현실로... 코스피 6000 코앞에 왔다",
-          "source": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcW1ib0RMWVhuc0pWRDlnQjlNT29kVmFTT1g1TnNVNEJORHFMVS1xVGg1dHg0QUVGRTlIamMycU9pQjY2S3B6RlhYUDhVMnI2aUkwakYxWWNNWklKdlFrNEc0RGlBVGt0YVVlUm9vLVdZVTlJYV9pVjdGRkxWdjlHUNIBlAFBVV95cUxPNHJvMmxwNmE0MlFWOTViNVZnMUlTTDFxOUYwejRINFlTVVNNM1RNRjVXZGR4ejBObkxtNzNWZ1NsclcxczExTkFIUjZtRVJ6V0RmWjZpVUdiVEJfdlVXbmcyNUREanV5bWYyVldJWGd2c1l6YjBCenp3UnU0T0JNd3E3VERRdk9wSkM2aVFUaG1FakdX?oc=5",
-          "pubDate": "Tue, 24 Feb 2026 08:02:29 GMT"
-        },
-        {
           "headline": "‘Double in four months’ 200,000 Samsung·1,000,000 Nix… KOSPI 6,000 just ahead",
           "source": "경향신문",
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6VkZLWFBsMEtab2ZNekFjand6dXY2N0Fjb0J5bVF3eWxjX1czMi1ob2hOZWFWc3N5SlJ6WGItQTJvdnRya29tOHBaUHJLUmd5NU9NaGw0eHlZVFNXbFE?oc=5",
           "pubDate": "Wed, 25 Feb 2026 05:45:00 GMT"
+        },
+        {
+          "headline": "코스피 '초고속 랠리'…시총 5000조 돌파",
+          "source": "한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfT3g4YzNOMTN4dG1kTkhqTVpRVGVqOWhqcHp6aU5KOXUxWndOZGZtak11LUxXWVNiRkM5N3VYcDhZMEY5a1dnV0tKNDFaYWZsR3BrTUp5TjVjd9IBVEFVX3lxTFB5a2xpVHFhaHd6QllrOXg1V3FGelJLTmY5YXdicmhISkdGd3ktSE1XdFUzN0M2ZGIyeGJVanJoN0NpNndleXByTDZWVkpFRThzRVNXWQ?oc=5",
+          "pubDate": "Wed, 25 Feb 2026 08:50:00 GMT"
+        },
+        {
+          "headline": "코스피 8000간다는데 \"삼전, 지금 살까요?\" 하이닉스, 언제 팔죠?\"",
+          "source": "아시아경제",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrLWNMSC1RQUg3d2VMQ3BMV1pSR3JBVVNaalBGa1gtVWM0SVlJa0wzVWU1NzRWc1dKN1UyY3pFaWoyVWpiVW9TbEVGWm5BTXVvMVZRVEFWNlQ3bllhRDlLYi1kbU1oeWQxQ1hqbzZkRFc?oc=5",
+          "pubDate": "Wed, 25 Feb 2026 05:27:07 GMT"
         }
       ]
     },
