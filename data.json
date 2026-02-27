@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-27T19:45:31.218Z",
+  "updatedAt": "2026-02-27T20:02:30.338Z",
   "watchlist": [
     "005930.KS",
     "AAPL",
@@ -28,12 +28,12 @@
       "symbol": "AAPL",
       "resolvedSymbol": "AAPL.US",
       "date": "2026-02-27",
-      "time": "20:30:23",
-      "close": "265.615",
+      "time": "20:47:17",
+      "close": "265.54",
       "open": "272.63",
       "high": "272.81",
-      "low": "265.4801",
-      "volume": "12884971",
+      "low": "265.27",
+      "volume": "13658723",
       "ok": true,
       "error": null
     },
@@ -42,12 +42,12 @@
       "symbol": "GOOGL",
       "resolvedSymbol": "GOOGL.US",
       "date": "2026-02-27",
-      "time": "20:30:22",
-      "close": "307.24",
+      "time": "20:47:21",
+      "close": "306.93",
       "open": "304.135",
       "high": "309.88",
       "low": "303.8",
-      "volume": "9391917",
+      "volume": "9836382",
       "ok": true,
       "error": null
     },
@@ -56,12 +56,12 @@
       "symbol": "MSFT",
       "resolvedSymbol": "MSFT.US",
       "date": "2026-02-27",
-      "time": "20:30:22",
-      "close": "392.85",
+      "time": "20:47:22",
+      "close": "392.84",
       "open": "390.88",
       "high": "396.82",
       "low": "389.88",
-      "volume": "14448597",
+      "volume": "14977534",
       "ok": true,
       "error": null
     },
@@ -70,12 +70,12 @@
       "symbol": "NVDA",
       "resolvedSymbol": "NVDA.US",
       "date": "2026-02-27",
-      "time": "20:30:23",
-      "close": "178.51",
+      "time": "20:47:22",
+      "close": "178.8299",
       "open": "181.23",
       "high": "182.59",
       "low": "178.1",
-      "volume": "129077256",
+      "volume": "133719853",
       "ok": true,
       "error": null
     },
@@ -84,12 +84,12 @@
       "symbol": "TSLA",
       "resolvedSymbol": "TSLA.US",
       "date": "2026-02-27",
-      "time": "20:30:23",
-      "close": "399.6178",
+      "time": "20:47:22",
+      "close": "399.33",
       "open": "402.995",
       "high": "407.12",
       "low": "398.11",
-      "volume": "30251903",
+      "volume": "31267334",
       "ok": true,
       "error": null
     }
@@ -103,6 +103,12 @@
           "source": "초이스경제",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBZ0NpNjF6OExfQmdkZ0twaHRxQzFfeUdpY1ZsX3JTbWdLUVRMdFRiVjEwNHBDM2w0NGZIVUFqOW5fb18xRWY1b0xoa1ozUmNPR3pOeW14LWdMaVZiYVNRUmo2R2lETFd0amdUajFPRGPSAXNBVV95cUxPQmRrR281dXIyNEtWTXNpR1psUFpsQUt5Zl9ncmpRNTlvMHg1dVh6MnNsSXVkbzFaQ0tTNDVpUmxhMjY2eTFqY19rS1ctdHhuOUxwY19ic0VxS1E1NDNRYV9CajRmNXZlUHVLWWpNVkphb3E0?oc=5",
           "pubDate": "Thu, 26 Feb 2026 19:38:21 GMT"
+        },
+        {
+          "headline": "엔비디아 충격, 미증시 다우 제외 일제 하락…나스닥 1.18%↓(상보)",
+          "source": "뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9OZXJjajI4d2tfdG1YM3Z5Yy0wUWlSWEVTa1U2XzEzZ29UUlVQNmdwN2Nwc0JlTkNXR3cyQmhWZWpqVklaRWs1RmN4RVpkSFI1TDlpSlVrbzQ?oc=5",
+          "pubDate": "Thu, 26 Feb 2026 21:11:02 GMT"
         },
         {
           "headline": "AI 균열에 美증시 출렁…나스닥 급락 위기",
@@ -129,22 +135,16 @@
           "pubDate": "Fri, 27 Feb 2026 00:48:01 GMT"
         },
         {
-          "headline": "코스피, 미국 증시 약세에 하락 출발",
-          "source": "뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9EOXlxeUE3UDFmR01vRDRtZ2RUXzhzWTZ6ZXpEY3hSQnB0TkE4R1AtNXV6YnF0SngtNUVtQjhTSkVVczctSzBqS3FvTQ?oc=5",
-          "pubDate": "Fri, 27 Feb 2026 00:21:29 GMT"
-        },
-        {
-          "headline": "일본 개미, 지난해 35조원 순매도…엔화 약세 불렀다",
-          "source": "한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KQm1LV1lTWWtfOGhNS0w2UWtzeHFEOHJETnV4bVlCckc1WUZoZmJTNlUweTRoNTIyWmpVZGRmaGs0NXI2ZU1QS19ydzhURUdnUWNVNzBPamJQUdIBVEFVX3lxTE82cEk4NElFODJUci1kd2F5OGJDc0NtcVJwdnJGY2RlQ241OElIZ2E4NGZqTnYyYjNNYktHaUhZOG1NMFFzdnNVM2UxQU9xdGJKRGJ1eA?oc=5",
-          "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT"
-        },
-        {
           "headline": "[단독] “불장에 더 먹어야 해”…아침 7시 증시개장에 증권사 27곳 ‘찬성’",
           "source": "매일경제 마켓",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oY2Y4WlQtQ0Y5MnRxZEdERWpWbEZLRTZzTFpvdXNEZVpBcnlIY1M1N19JLUk5Yks3YW04MlNMSU1GZWhfYzBCeTQ1aXgtbUlaQUE?oc=5",
           "pubDate": "Fri, 27 Feb 2026 08:59:51 GMT"
+        },
+        {
+          "headline": "[서울데이터랩]미국 증시 지수 종합",
+          "source": "서울신문",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9HaF91THVScEhmTkh1am9sdUZ4TWFSNENnZ0JsQTBaQkVWM0FxRTZtODlkZnE1NVQtekFEcXNlc3YwTmZPYTJOeXc2cFVRRFlLOEx0RjZsNmtrVmFqb2Q2WlRxMnBFdy1jRnBtemdndWpsVlhVY2N0ZnVxN1ZWZw?oc=5",
+          "pubDate": "Wed, 25 Feb 2026 23:56:12 GMT"
         }
       ]
     },
@@ -188,16 +188,16 @@
           "pubDate": "Fri, 27 Feb 2026 05:42:34 GMT"
         },
         {
-          "headline": "21셰어즈, 나스닥에 SUI 스팟 ETF 출시…수이 연동 펀드 확산",
-          "source": "디지털투데이",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBHWi1UVUtKOVI0YjZxT3NlZ3pxazNQMjlhMElBTG1UbDlEWjM3cTh4SzR2OFdPZU1LOUtvN25UaXM2N2VVWHd2T1NMNkJwT3ZtcWFvc3cwbUpsRy1TQnpwYi1sWERfWTVzT0FYZFVkT3VVWVE?oc=5",
-          "pubDate": "Wed, 25 Feb 2026 06:15:26 GMT"
-        },
-        {
           "headline": "연합인포맥스, 글로벌 데이터 박차…뉴욕 타임스퀘어 광고",
           "source": "연합인포맥스",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrZG55NTVxYmtmY0swc2IzQXBCQkQxUV85NDd0WGJBMjBuNlVpYmZXcXAzZDZvaEZ3VUg5LXpucGVZSHEwZFB2ak1hU2RvMUtmdWJRUHQzd3ZId1ZndDFmR3VGQ2c2UjdZc0xDdkl4ZDQ?oc=5",
           "pubDate": "Wed, 25 Feb 2026 01:52:52 GMT"
+        },
+        {
+          "headline": "21셰어즈, 나스닥에 SUI 스팟 ETF 출시…수이 연동 펀드 확산",
+          "source": "디지털투데이",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBHWi1UVUtKOVI0YjZxT3NlZ3pxazNQMjlhMElBTG1UbDlEWjM3cTh4SzR2OFdPZU1LOUtvN25UaXM2N2VVWHd2T1NMNkJwT3ZtcWFvc3cwbUpsRy1TQnpwYi1sWERfWTVzT0FYZFVkT3VVWVE?oc=5",
+          "pubDate": "Wed, 25 Feb 2026 06:15:26 GMT"
         }
       ]
     },
@@ -264,22 +264,22 @@
           "pubDate": "Fri, 27 Feb 2026 02:52:31 GMT"
         },
         {
-          "headline": "‘코스피 6000 파티′ 욕망의 감옥에서 살아남을 3가지 생존 전략",
+          "headline": "코스피 6000에 서학개미 드디어 돌아오나… 해외 주식 보유액 감소",
           "source": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5fckdJYW5zOXUwVk9KbGhqVXBzellseW1IeFpVeERiUmdIUDhNUjcteGdMMERuUE50LVNOaEoyX1ZjLTgyeFA1bmpyVEpRcU1YdXB6bDN3bElWU2lJbE94Z0lDeV9JLXUwSXFvUnZuNUhmUHExUEJCWdIBjAFBVV95cUxNOWZ4TkxwNjRJN2pkZTJKd2xEeXROZjUwR1dGYXhicTAwbGR3Y0tuMXNnQzN1NzRsZGFLU25JY2dTbnZiVllteUI2cGd2S0U5TEs2dEg1dWlpNl93RkttTXpscDhlZTJ4dU5wTHl0V3ZrY2tOWVZwbzBJa3lObVZMMlRHR2R1N3ktOFpIeA?oc=5",
-          "pubDate": "Thu, 26 Feb 2026 09:09:04 GMT"
-        },
-        {
-          "headline": "‘또 신고가’ 6300 뚫은 코스피, 어디까지 갈까...증권가 “솔직히 모르겠다”",
-          "source": "오피니언뉴스",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vQlhhSmNHc3pxdnppOHhyUzVER3ptUFNsbF9iSl85NUFua2JHMklHQUJFUENYWjJFZ082SVhSaWxOM3J6bWJFdHExNXIwZGFLRHZtT0t6SXd3c1FjSTgxVVpuY1ZsZTgyQUZlNGtRSVR0dw?oc=5",
-          "pubDate": "Thu, 26 Feb 2026 06:36:22 GMT"
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNd3NHWHRkbmRFZTJXWWc2MV9KVTlBbEs0VlJqOC1XQXI4WGdBYUhWZVMtNG96UDVpcTluRzR0aC02aFdlTllsNkhRR2lKMmNzMm5QUHRfd3puWThWcEZ5UkZkbEVKb1lKUm5OZ0dMWFo4Rms3RGhWb3gwdnBkT01FT9IBlAFBVV95cUxPclhrT1NmWExhRlUtekVSeS1rcWdkd1N2VXAtQjFIOHRPREljZGp3Tmkzb0UzbG4tNThuWjk5UlpOVzRFTk14V1VIdUJXQWlWcWhtcWpoTHJRbG1MdFM2ZGhVNUZSVXc4cUFuR2hYelpHZldVbHZyUFBFei1iMGRlS01OQWl0UWM5dDFNRVNEamZGQnR3?oc=5",
+          "pubDate": "Thu, 26 Feb 2026 08:18:08 GMT"
         },
         {
           "headline": "그들만의 ‘코스피 6000’이 되지 않으려면",
           "source": "한겨레21",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzUkNvc0lxMFgxUjJwZ09WOG5DMC1FMkFQSDlxb2x5djNCczhhRXR3aExQVG50N3hHdUlSRDBSdXRPZXdJUkpVN0xDYm8yYXlKREFfXzNUU0VoaWQtbHJVaTRfSXZ5Q05tUk1JZ3VoSQ?oc=5",
           "pubDate": "Fri, 20 Feb 2026 05:08:00 GMT"
+        },
+        {
+          "headline": "‘또 신고가’ 6300 뚫은 코스피, 어디까지 갈까...증권가 “솔직히 모르겠다”",
+          "source": "오피니언뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vQlhhSmNHc3pxdnppOHhyUzVER3ptUFNsbF9iSl85NUFua2JHMklHQUJFUENYWjJFZ082SVhSaWxOM3J6bWJFdHExNXIwZGFLRHZtT0t6SXd3c1FjSTgxVVpuY1ZsZTgyQUZlNGtRSVR0dw?oc=5",
+          "pubDate": "Thu, 26 Feb 2026 06:36:22 GMT"
         },
         {
           "headline": "코스피 하락 마감",
@@ -335,16 +335,16 @@
           "pubDate": "Fri, 27 Feb 2026 08:18:23 GMT"
         },
         {
-          "headline": "코스피, 엔비디아 호실적에 사상 첫 6,190대…코스닥도 올라(종합)",
-          "source": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZVkFiYUVxVnl3REtjaUVra3RzRFpkZDVXbVc3Z2loclZmTjRuYUN4N054UjQ4ZURWZnF0VUcyYnFvV284ZDllU0lTSlRPOS1DZFFv?oc=5",
-          "pubDate": "Thu, 26 Feb 2026 00:31:00 GMT"
-        },
-        {
           "headline": "'삼천닥'은 언제 올까…코스닥도 기대감 고조[육천피 시대]",
           "source": "뉴시스",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5McEx1R2R5M0VYS3AwMUxiclFRVzcyeWlMXzBya1dYWjRSZzdCMVEyaGJ6WEVyU1V0a0xKem5tSWpGMFRpVjhxeEUwY18zM0I1eFlmRkpxMHA5SVU5SFFQadIBeEFVX3lxTE1DbENvOTNOai1xdWphU0h0aU1sQXNBWnBCWEIxMlNlTURBUjQxRV82QUFxNzJYNlVHdGdXYjIydS1kZ1ltN2NtNUYxZnoweG1jcnJJTlBaZnFzNGFxWEh3cUtMZmsxa2lyOGs0VUIxX3V2SDI2UkYxYQ?oc=5",
           "pubDate": "Wed, 25 Feb 2026 01:00:41 GMT"
+        },
+        {
+          "headline": "[코스닥 개장] 12.75P(1.07%) 내린 1175.40",
+          "source": "서울파이낸스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Da0dDMlQ3XzlQV09VcUFrMVlaTExSb1ROUU4xUF9QQmlZTmFtUWxfUXNYS1R4Q3VIY0tyaXd3NTVEbHQzME1qMFEtb0VWc3ByOHUxZGRSeERPbzQxY0hJNW51VHFIUlZxamc?oc=5",
+          "pubDate": "Fri, 27 Feb 2026 00:08:45 GMT"
         },
         {
           "headline": "반도체 날개로 6000 코앞에 둔 코스피…'빚투'는 코스닥 이동",
@@ -353,10 +353,10 @@
           "pubDate": "Tue, 24 Feb 2026 20:00:00 GMT"
         },
         {
-          "headline": "[코스닥 개장] 12.75P(1.07%) 내린 1175.40",
-          "source": "서울파이낸스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Da0dDMlQ3XzlQV09VcUFrMVlaTExSb1ROUU4xUF9QQmlZTmFtUWxfUXNYS1R4Q3VIY0tyaXd3NTVEbHQzME1qMFEtb0VWc3ByOHUxZGRSeERPbzQxY0hJNW51VHFIUlZxamc?oc=5",
-          "pubDate": "Fri, 27 Feb 2026 00:08:45 GMT"
+          "headline": "`파죽지세` 코스피, 개장 직후 `육천피` 달성…코스닥도 강세",
+          "source": "매일신문",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5QMEZvdE9ObWs0YWNXNThGc0dqSE9aZjkwdTZQeHFOUjhUdUZpV1VCQU8wNWpwX1lxWlZmYlYtbDJkaEFsdXFGLWJqMWRHd1J0RDd4N0pmblBRV1g1dDlaWnBR?oc=5",
+          "pubDate": "Wed, 25 Feb 2026 00:10:28 GMT"
         }
       ]
     },
@@ -600,12 +600,6 @@
           "pubDate": "Wed, 25 Feb 2026 06:24:00 GMT"
         },
         {
-          "headline": "NVDA 실적 발표 전망 (2월 25일): 전략적 지지/저항선 및 예상 범위",
-          "source": "Smartkarma",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPek9kT2JLSWdiMEQ0Wlp4ZncxbTFkdWFNQkc5X1hudFRtbVVLS1pTbWg2Y0Y5N0tXcXJ2TDF0SGd4d0JFb2NwaC1CSFluc1RUMnNMdDN6VzdLblAxRjBZVnBFWVZkMkl3bDlIUDZpM3ZpYmNNbkNjdG1zSmdIaHpfem5oTVFFNjMyOTlDdVMzb0JzMmZiUWJGRDQ4RWZxbk1WZTFJ?oc=5",
-          "pubDate": "Wed, 25 Feb 2026 15:51:00 GMT"
-        },
-        {
           "headline": "엔비디아(NVDA.O), 게임용 칩 부족 경고…\"연말까지 지속 가능성\"",
           "source": "네이트",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpRTVPN19NQUp4djlnNlNuUmtiZU9PTWtaMjhsdE1xZF84SzZZbTBmSzJXS3AwUXhjejBvYUg3Mmh6RWpTX0pFdXQ5RkdxRUZlY1FF?oc=5",
@@ -622,6 +616,12 @@
           "source": "데이터투자",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1RZnZNeTBLejg5a3o3blZmR2p5V1RYaXo0WG93cDRPaEx2MFhiXzZsTzFXU1BMSG9jUlRudWlXOWpsTEJIajV5WU9jdzJJN2dTTDB1VzRxWlNxWXRKemZ0M1k3QXMzaFVQQjZ4SGlBT1J6R0k?oc=5",
           "pubDate": "Thu, 26 Feb 2026 00:39:58 GMT"
+        },
+        {
+          "headline": "엔비디아가 '매도 트리거'…필라델피아 지수, 4% 넘게 급락 |",
+          "source": "연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBNbWVER05UYU4waGJWR2w5SGN5ZUhzR0VVc194QWs3bUh2UnVLekFMZ1Izcnd4N2toT0Q1S3R2Q2g2aXV1MEJWUmhWV013bjU3eXc3RFA1dXhmUWZsdTFYZlVsTllTbHlWN3pCenRmOHM5U3dq?oc=5",
+          "pubDate": "Thu, 26 Feb 2026 22:31:54 GMT"
         }
       ]
     },
