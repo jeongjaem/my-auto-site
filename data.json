@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-06T19:01:32.872Z",
+  "updatedAt": "2026-03-06T19:45:56.136Z",
   "watchlist": [
     "005930.KS",
     "AAPL",
@@ -28,12 +28,12 @@
       "symbol": "AAPL",
       "resolvedSymbol": "AAPL.US",
       "date": "2026-03-06",
-      "time": "19:46:22",
-      "close": "256.325",
+      "time": "20:30:48",
+      "close": "257.23",
       "open": "258.63",
       "high": "258.77",
       "low": "254.37",
-      "volume": "9402735",
+      "volume": "10354459",
       "ok": true,
       "error": null
     },
@@ -42,12 +42,12 @@
       "symbol": "GOOGL",
       "resolvedSymbol": "GOOGL.US",
       "date": "2026-03-06",
-      "time": "19:46:25",
-      "close": "299.61",
+      "time": "20:30:47",
+      "close": "299.2629",
       "open": "296.09",
       "high": "300.53",
       "low": "295.18",
-      "volume": "6521393",
+      "volume": "7168171",
       "ok": true,
       "error": null
     },
@@ -56,12 +56,12 @@
       "symbol": "MSFT",
       "resolvedSymbol": "MSFT.US",
       "date": "2026-03-06",
-      "time": "19:46:23",
-      "close": "410.585",
+      "time": "20:30:49",
+      "close": "410.23",
       "open": "409.2",
       "high": "413.05",
       "low": "408.77",
-      "volume": "9890413",
+      "volume": "11143105",
       "ok": true,
       "error": null
     },
@@ -70,12 +70,12 @@
       "symbol": "NVDA",
       "resolvedSymbol": "NVDA.US",
       "date": "2026-03-06",
-      "time": "19:46:25",
-      "close": "181.35",
+      "time": "20:30:49",
+      "close": "180.665",
       "open": "179.82",
       "high": "182.7561",
       "low": "179.74",
-      "volume": "69802029",
+      "volume": "77300492",
       "ok": true,
       "error": null
     },
@@ -84,12 +84,12 @@
       "symbol": "TSLA",
       "resolvedSymbol": "TSLA.US",
       "date": "2026-03-06",
-      "time": "19:46:25",
-      "close": "400.13",
+      "time": "20:30:49",
+      "close": "399.48",
       "open": "398.09",
       "high": "402.35",
       "low": "394.21",
-      "volume": "34341921",
+      "volume": "37424135",
       "ok": true,
       "error": null
     }
@@ -105,16 +105,16 @@
           "pubDate": "Thu, 05 Mar 2026 05:07:00 GMT"
         },
         {
-          "headline": "\"이란보다 한국이 미국 증시에 더 위협\" 평가, 빅테크 주가에 변동성 확산 우려",
-          "source": "비즈니스포스트",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ncGRJT0I2czRTenNaelpnNTVDYThOc2pHb1I1MkZ1bDdhWjB2U3R3dUloVDZyRHkwcTloeDJfUjJhVHJISkVMN1EzY0tObmxYLWZyLUphQ3hwUE9FUXlBaDRONDI5STlPWDNBbHpwN1hwRTQ?oc=5",
-          "pubDate": "Fri, 06 Mar 2026 00:41:39 GMT"
-        },
-        {
           "headline": "미국, 한국증시 전망 : 투자심리훼손 & 기술적 반등 가능성 (feat. 필라델피아반도체 지수)",
           "source": "네이버 프리미엄콘텐츠",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSFRpeHBtamdsMVV6VHRJVUd0LWxTb2hSWTdXREJZYWJJMG5CaG1lcTFNZUlwVmxsdi0zc3B1MlczQjQtTkZrdjE0alo1TFdncGdYNXZLYTVyeEhHREV2SFR2WWRoNmJNU1VfQTlHWlpZTHpTTXpXQ25ITVQzc3l0bUxMRQ?oc=5",
           "pubDate": "Wed, 04 Mar 2026 06:43:00 GMT"
+        },
+        {
+          "headline": "\"이란보다 한국이 미국 증시에 더 위협\" 평가, 빅테크 주가에 변동성 확산 우려",
+          "source": "비즈니스포스트",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ncGRJT0I2czRTenNaelpnNTVDYThOc2pHb1I1MkZ1bDdhWjB2U3R3dUloVDZyRHkwcTloeDJfUjJhVHJISkVMN1EzY0tObmxYLWZyLUphQ3hwUE9FUXlBaDRONDI5STlPWDNBbHpwN1hwRTQ?oc=5",
+          "pubDate": "Fri, 06 Mar 2026 00:41:39 GMT"
         },
         {
           "headline": "뱅크샐러드 이어 토스도…국내 증시 '노크'",
@@ -176,6 +176,12 @@
           "pubDate": "Fri, 06 Mar 2026 13:41:00 GMT"
         },
         {
+          "headline": "나스닥 다우 선물 지수 하락세...美 2월 고용보고서 주시",
+          "source": "gukjenews.com",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTSHFBVl9zSmJsZ0ZnZTE5MlJta19aeVZBeDZXbnpJaVp6RXVkWnlTN2k5ZFlLVDBMYlIzRkplU2xpaDZ1dHFwQVU2blh4Y2tVRkxfX3lyamlrSWJtVmJxNXhzN2VqT2dOOEMtWjZR?oc=5",
+          "pubDate": "Fri, 06 Mar 2026 12:53:07 GMT"
+        },
+        {
           "headline": "클래스오버홀딩스, 나스닥 상장폐지 위기 속 1대50 역분할 단행",
           "source": "매일경제",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nXzlzVXZTcWwxNVNfLWFOMEliekpQbzRzLTFaQmcxMFlHNG5mUmFWTHVfY3Q2Vlduc0xUUW4yZjNBeXBrb1plQVBrM0RPZkFPdWc?oc=5",
@@ -192,12 +198,6 @@
           "source": "지디넷코리아",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wRl9JTlE3c20yYkVmUFlnYkFuaXFaSFY2TWdsSElWVjFoQlVOMVJNT3pQVW5YX01jcml0WXR3LVkyWVFwQWpKOUYxR1dnVkJFSGpFTGF3?oc=5",
           "pubDate": "Thu, 05 Mar 2026 08:31:09 GMT"
-        },
-        {
-          "headline": "‘지드래곤 파워’ 갤럭시, 나스닥 상장하나…부회장 본사 방문",
-          "source": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MdDJZWVpPMUxpQklFTW0zemllY21aT1V0aGVONkZZdm9rR2tIcTFPNG1lSUpnT3ZkMS0ySDBDRFBPTXZEY1pwLUcyOG5NblU?oc=5",
-          "pubDate": "Thu, 05 Mar 2026 01:09:02 GMT"
         }
       ]
     },
@@ -476,16 +476,16 @@
           "pubDate": "Thu, 05 Mar 2026 22:35:30 GMT"
         },
         {
+          "headline": "AI發 배출 폭증...구글·MS·아마존 등 5대 기업 지속가능성 성적표",
+          "source": "임팩트온",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqMXFLcnNaZUJhZUNHT2VRR1RhZlJveTdyTXpIZHZGX0M2eDQzeFREd3VmanZsYkpVNlBLY1YxVHVPX09aZGpGcDEyYXNoOWVWZkEzOEhxYmxLLW9adVcyWE5NbEtpdVFuMThaM9IBbEFVX3lxTFBqMXFLcnNaZUJhZUNHT2VRR1RhZlJveTdyTXpIZHZGX0M2eDQzeFREd3VmanZsYkpVNlBLY1YxVHVPX09aZGpGcDEyYXNoOWVWZkEzOEhxYmxLLW9adVcyWE5NbEtpdVFuMThaMw?oc=5",
+          "pubDate": "Thu, 05 Mar 2026 02:12:55 GMT"
+        },
+        {
           "headline": "구글, 플레이스토어 수수료 대폭 인하···에픽게임즈와 5년 분쟁 마무리",
           "source": "한국NGO신문",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCSVhNX09WVHQ2LURBcHdJRGkycjQ5cnlxcm9Nai03YkpTMU4zU2FzMF9QeUlNM0VmVkpkcjBXa01uV1JRajhmY3dJcVYyRDZPVHRHSm1TN2lEc1piTWZOb05nOUZLcjA0?oc=5",
           "pubDate": "Thu, 05 Mar 2026 01:14:42 GMT"
-        },
-        {
-          "headline": "AI發 배출 폭증...구글·MS·아마존 등 5대 기업 지속가능성 성적표",
-          "source": "임팩트온",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1aVEE4UjdJbGtKQzlVRTVRYlZIWnRvSWJmczc3LWtteDBuNEhBbUl4Z0hQbkVpUC04NWx4Qm90VG5qeFg5ckhFQ0kzYTRKdUNqSVJyZ1BFb3h0Rjdlc3JwSkpNdG1hVjhZ0gFsQVVfeXFMUGoxcUtyc1plQmFlQ0dPZVFHVGFmUm95N3JNekhkdkZfQzZ4NDN4VER3dWZqdmxiSlU2UEtjVjFUdU9fT1pkakZwMTJhc2g5ZVZmQTM4SHFibEstb1p1VzJYTk1sS2l1UW4xOFoz?oc=5",
-          "pubDate": "Thu, 05 Mar 2026 01:16:43 GMT"
         },
         {
           "headline": "구글, 앱마켓 수수료 20%로 내린다…韓 12월 도입",
@@ -512,10 +512,10 @@
           "pubDate": "Thu, 26 Feb 2026 03:37:50 GMT"
         },
         {
-          "headline": "Google (GOOGL) Up or Down on February 19? 베팅 확률 및 예측 (Feb. 19, 2026) | 폴리마켓",
-          "source": "Polymarket",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pazZkcm5zN3RLaUZsamFrcnBBZll1VlN2YVVfMHBKLWJHekt2QS1oUDcxMVM2dllTLVlVVzBlZlA0SGFEVmRCYnJQY3ZFRVdZVklLdElsZ284cU5LcmdnTDVLLVhCcGVadFphcTNOU2psaDZ3RXBz?oc=5",
-          "pubDate": "Wed, 18 Feb 2026 19:38:14 GMT"
+          "headline": "구글(GOOGL.O), 차세대 이미지 생성 모델 나노 바나나2 공개…'처리 속도 대폭 개선'",
+          "source": "뉴스통",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOGVfbjdRbG1KQ09ER2F1X1VmYnZzYVhpN2wtaDlhNHBFTXhRaTlXTUo1WVgya3Zmd0JzWkJOUkJnYnZpX2RVdS1LU1ZwS3Juc2otdXZCaFcwVklfbENSMEEtWTdwRmpsWXUxSDBiNkd0aFBnY0FkNHFkemVodzVsN3NQMldvUC1fUHNISE13LVRSNC1ZdHNFVzVWM0pCX09WRFY1V1lEcV9XSENnUC1LeWdPYmIzcnJPMW5uSFlWWUhTQS00Um1Z?oc=5",
+          "pubDate": "Sun, 01 Mar 2026 12:46:05 GMT"
         }
       ]
     },
@@ -612,16 +612,16 @@
           "pubDate": "Fri, 27 Feb 2026 08:04:00 GMT"
         },
         {
-          "headline": "트럼프, AI칩 수출시 글로벌 규제안 검토중…개장전 1%↓",
-          "source": "마켓인",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1WcXQwVnhKOE9zcVlTNWN0QUw0TENSZWRhRllHNGRrcGhvWVlnc3RNQ0dURTRSLWQwSk9yc0JXcGZKR0k0Tm9WeTFvVGR0ckJPN19YektZUWJ1YkRGdWRJMEtpa21yQzJYWDZtYUU4RTRjVFE?oc=5",
-          "pubDate": "Fri, 06 Mar 2026 11:45:00 GMT"
-        },
-        {
           "headline": "엔비디아(NVDA.O), 英 옥사 투자 참여…산업용 자율주행 강화",
           "source": "네이트",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50VUhYZmNEUk9ERWVnTFhjRlpwV3pUUGhTZW4ySU1oaDdhdTVNd2w5ZTNKdkFFRlFEYjd2MFFHYTl0LTR5QXJ5SWFvcWVsNW1iWEdn?oc=5",
           "pubDate": "Wed, 04 Mar 2026 23:05:00 GMT"
+        },
+        {
+          "headline": "엔비디아(NVDA.O), 포토닉스 기업 대규모 투자…광학 기술로 AI 칩 가속 알파경제 alphabiz",
+          "source": "Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYktVSDBObDZ2QUJqdXJaazg4dG8wcVVralhBcEQtZ2M2TXhUWS1CVTRILVZHR2Z3ZTkwUlFmMHcyMXRGWTYxMXVHM0RaYTBOSE5kU2NCRkhNVEozY0Y1djBtRTdXX2RBVzdWLUhZWXJoSmJ3S3dxNW1FRFpDUFY2UQ?oc=5",
+          "pubDate": "Tue, 03 Mar 2026 00:40:00 GMT"
         }
       ]
     },
