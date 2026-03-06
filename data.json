@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-06T16:55:00.198Z",
+  "updatedAt": "2026-03-06T17:35:22.804Z",
   "watchlist": [
     "005930.KS",
     "AAPL",
@@ -28,12 +28,12 @@
       "symbol": "AAPL",
       "resolvedSymbol": "AAPL.US",
       "date": "2026-03-06",
-      "time": "17:39:52",
-      "close": "256.85",
+      "time": "18:20:14",
+      "close": "256.97",
       "open": "258.63",
       "high": "258.77",
       "low": "254.37",
-      "volume": "6105325",
+      "volume": "7284642",
       "ok": true,
       "error": null
     },
@@ -42,12 +42,12 @@
       "symbol": "GOOGL",
       "resolvedSymbol": "GOOGL.US",
       "date": "2026-03-06",
-      "time": "17:39:52",
-      "close": "299.625",
+      "time": "18:20:10",
+      "close": "299.45",
       "open": "296.09",
       "high": "300.53",
       "low": "295.18",
-      "volume": "4247810",
+      "volume": "5062783",
       "ok": true,
       "error": null
     },
@@ -56,12 +56,12 @@
       "symbol": "MSFT",
       "resolvedSymbol": "MSFT.US",
       "date": "2026-03-06",
-      "time": "17:39:52",
-      "close": "412.24",
+      "time": "18:20:14",
+      "close": "410.81",
       "open": "409.2",
       "high": "413.05",
       "low": "409.01",
-      "volume": "6577884",
+      "volume": "7764069",
       "ok": true,
       "error": null
     },
@@ -70,12 +70,12 @@
       "symbol": "NVDA",
       "resolvedSymbol": "NVDA.US",
       "date": "2026-03-06",
-      "time": "17:39:52",
-      "close": "181.72",
+      "time": "18:20:14",
+      "close": "181.66",
       "open": "179.82",
       "high": "182.7561",
       "low": "179.74",
-      "volume": "43551417",
+      "volume": "53340483",
       "ok": true,
       "error": null
     },
@@ -84,12 +84,12 @@
       "symbol": "TSLA",
       "resolvedSymbol": "TSLA.US",
       "date": "2026-03-06",
-      "time": "17:39:52",
-      "close": "399.64",
+      "time": "18:20:15",
+      "close": "399.675",
       "open": "398.09",
-      "high": "399.96",
+      "high": "401.41",
       "low": "394.21",
-      "volume": "21911315",
+      "volume": "26615036",
       "ok": true,
       "error": null
     }
@@ -376,16 +376,16 @@
           "pubDate": "Fri, 20 Feb 2026 05:47:00 GMT"
         },
         {
-          "headline": "한국의 뜨거운 여름, 에어컨 판매 급증 및 전력 수요 증가",
-          "source": "TRT World",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01NlJMZHNuWXdPMDZEZkVCSGdhWlpIcmx1NE45bzRkanZwNElyUVRPY1lIODRzZFpXLUFNUlNFcjhrRlJhb3A1VTZNUHhiRXlmWndiSkUwaXZmZ9IBX0FVX3lxTFBHem95dGN5d3l3dTlsbTZwa0wxSW16VGVtQVQ4WXBqbnAwT05uX1FSeUwxR0hpdHhxb3JhN0cwSmMzdVBVckN1RF9OMlFjREgteWMtenNQbWtqUDVjQ25R?oc=5",
-          "pubDate": "Thu, 07 Aug 2025 07:00:00 GMT"
-        },
-        {
           "headline": "삼성, HBM4 승인 기대 속 목표 주가 유지",
           "source": "Investing.com 한국어",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE44bUJpQUF2NmZrcERUQUMxV2tyRXdzbEZ4MEJTcGlaUFVwOVJScFM2dGVIRFpXbHh0ZDA4SkdnMW9DUkF4MmRKYlJsMlFVSzlQaURZWUdlVkd6eHlCN09kQ3dROXM2cFl2dDJERlFQdFlIQWFu?oc=5",
           "pubDate": "Thu, 19 Jun 2025 07:00:00 GMT"
+        },
+        {
+          "headline": "한국의 뜨거운 여름, 에어컨 판매 급증 및 전력 수요 증가",
+          "source": "TRT World",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01NlJMZHNuWXdPMDZEZkVCSGdhWlpIcmx1NE45bzRkanZwNElyUVRPY1lIODRzZFpXLUFNUlNFcjhrRlJhb3A1VTZNUHhiRXlmWndiSkUwaXZmZ9IBX0FVX3lxTFBHem95dGN5d3l3dTlsbTZwa0wxSW16VGVtQVQ4WXBqbnAwT05uX1FSeUwxR0hpdHhxb3JhN0cwSmMzdVBVckN1RF9OMlFjREgteWMtenNQbWtqUDVjQ25R?oc=5",
+          "pubDate": "Thu, 07 Aug 2025 07:00:00 GMT"
         },
         {
           "headline": "[GAM] AI 열풍에 2026년 반도체 제조 장비 매출 9% 증가 전망-SEMI",
@@ -441,16 +441,16 @@
           "pubDate": "Tue, 03 Mar 2026 00:20:00 GMT"
         },
         {
-          "headline": "인공지능 경쟁력 우려 및 수익성 둔화 전망…주가 하락",
-          "source": "마켓인",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TdzM2UWU1aWN6ZWx3MUxzZlY1Q0g1UXFIZnB1ck0zNU1nZE9qeXJCMFAwVFRsOVo3c3ZvbWMtVTdtaE96Z3oxNUdZSWYzVzhNX3UtY2wxRHducFBmd2RsdzJTOVpPQ2FvbWZtejJLdTNnUnM?oc=5",
-          "pubDate": "Thu, 05 Mar 2026 19:45:01 GMT"
-        },
-        {
           "headline": "애플 (AAPL)은 새로운 휴스턴 제조 베팅으로 중국 위험 이야기를 조용히 다시 쓰고 있습니까?",
           "source": "simplywall.st",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTjA3emNadG4zR0g3Nlp4Ujh6Sno1NWo3Ukt6Q29yRlpSWW1BOXFLZ3lPQmxzUHNfNzBPUzBSREVWSkw5TEV5VzRuRnU3cFZjTG1Pc2s1R3IzZHk1a19HOGVUeWM4UGFmVHVvR0p6dWxTYUlUdzlVMExGZE5HQXAzQmZqNlVTZ9IBiwFBVV95cUxNcEVoVzNjbmwyamRFcThfWlB6R1pTOUhhaVpiU0hpUVRVZ0V3N2JSb0JPY1VLV01LZ1dyOE04NlR4ZU91UVh0OHRlZDBFaEwzWVNuNVFvampSdUt5M3R6TnB3c1ZLdDVQZEhoSE1sNFhoOVJzektUNW5GZ3lGcjRfOTBISThxZzJMUTB3?oc=5",
           "pubDate": "Thu, 26 Feb 2026 08:56:44 GMT"
+        },
+        {
+          "headline": "인공지능 경쟁력 우려 및 수익성 둔화 전망…주가 하락",
+          "source": "마켓인",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TdzM2UWU1aWN6ZWx3MUxzZlY1Q0g1UXFIZnB1ck0zNU1nZE9qeXJCMFAwVFRsOVo3c3ZvbWMtVTdtaE96Z3oxNUdZSWYzVzhNX3UtY2wxRHducFBmd2RsdzJTOVpPQ2FvbWZtejJLdTNnUnM?oc=5",
+          "pubDate": "Thu, 05 Mar 2026 19:45:01 GMT"
         },
         {
           "headline": "“99만원짜리 맥북 나왔다” 애플, 역대 최저가 ‘맥북 네오’ 전격 공개",
@@ -500,10 +500,10 @@
           "pubDate": "Sat, 28 Feb 2026 22:12:40 GMT"
         },
         {
-          "headline": "더욱 저렴해진 구글, Gemini 3.1 Flash Lite 모델 공개",
+          "headline": "CVS헬스, 구글 클라우드와 AI 헬스 플랫폼 출시",
           "source": "Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0zNXhHajN4Z3ZhVEdla0E1LWU4eXNNSGNsY2ZUYnJSVURJTjZsUWQ4WG1ueXhRMDZhUWJMdlFKVldzTGtNQ1J2MHM2Rkw0dl9BY05XVXRlTGNGQXpWenZkaUM0LU02X1NHenR5b21RTVRwZVdJUVE4?oc=5",
-          "pubDate": "Tue, 03 Mar 2026 20:35:00 GMT"
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IdE5zS2xPdFZHX1l4M01lNlNfalRnN3VQNXVWRVh6ckFqOU13ell4WmxHQkduUWxRUGxRZEg1aW03M3FxajVVLTBvMVlEZ3BFQmVmQzFzZkhyZGxKU0Z2RHE5ejhoVUZUTEtIaHBtVU0?oc=5",
+          "pubDate": "Thu, 05 Mar 2026 14:15:00 GMT"
         },
         {
           "headline": "AI 데이터 센터를 위한 장기 청정 에너지 거래가 알파벳(GOOGL)의 인프라 서사를 바꿀까요?",
@@ -612,16 +612,16 @@
           "pubDate": "Thu, 05 Mar 2026 19:17:11 GMT"
         },
         {
+          "headline": "엔비디아(NVDA) 소식: 젠슨 황 CEO “AI는 계속 발전 중이며, 엔비디아의 데이터 센터 사업은 ChatGPT 이후 13배 성장”",
+          "source": "CoinDesk",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNejV0eXhHeU9uVnhCcmo3OGJSeGoxMDVyQ1MyMjc1WldKOTRmVmNuRVpmUERxRHV1MzFNVlFSeDlHMHNIR1h6WVhKWF9USXBRNzdsTGRUcHBXcFByTlRXMHl5UkdnVzM3bVJwT09sMTEzejhhcldMbzdSVHZPSG00OEVoUFlvVm4xc1AtUmpaOXRYb1ZiY2pfU0tmRkVGVlRCbXE4dHhHdXByak1VdG1sVUlHczF4SUl2TXRCRW0xc1M5T19yUWpSS002VHJNalIxTkZHR2ZR?oc=5",
+          "pubDate": "Wed, 25 Feb 2026 08:00:00 GMT"
+        },
+        {
           "headline": "엔비디아(NVDA.O), 英 옥사 투자 참여…산업용 자율주행 강화",
           "source": "네이트",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50VUhYZmNEUk9ERWVnTFhjRlpwV3pUUGhTZW4ySU1oaDdhdTVNd2w5ZTNKdkFFRlFEYjd2MFFHYTl0LTR5QXJ5SWFvcWVsNW1iWEdn?oc=5",
           "pubDate": "Wed, 04 Mar 2026 23:05:00 GMT"
-        },
-        {
-          "headline": "엔비디아(NVDA.O), 포토닉스 기업 대규모 투자…광학 기술로 AI 칩 가속 알파경제 alphabiz",
-          "source": "Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYktVSDBObDZ2QUJqdXJaazg4dG8wcVVralhBcEQtZ2M2TXhUWS1CVTRILVZHR2Z3ZTkwUlFmMHcyMXRGWTYxMXVHM0RaYTBOSE5kU2NCRkhNVEozY0Y1djBtRTdXX2RBVzdWLUhZWXJoSmJ3S3dxNW1FRFpDUFY2UQ?oc=5",
-          "pubDate": "Tue, 03 Mar 2026 00:40:00 GMT"
         }
       ]
     },
@@ -671,10 +671,10 @@
           "pubDate": "Fri, 03 Oct 2025 07:00:00 GMT"
         },
         {
-          "headline": "테슬라(TSLA.O), 독일 기가팩토리 투자 확대…배터리 셀부터 완성차까지 ′원스톱′",
-          "source": "알파경제",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HNVl3d3o2ZU1oclVDYU9sUVhsTEhQRWtPd2RqcDBLenRSSklPQ1BqYWk4MVpUVUlKc09aS0pLVTBWdEZ5X3hzdHFyaXlnT3FaWmNuNGJ4Uk9qSGpDakHSAW5BVV95cUxNQzVHZkgzS0ppemxpa2owbWFtR2tIS2dMUzRMQ21zLV9hWkZ1bmY4aVhwXzk2VWhQY0RTUUdsQUNyb043RHI2cXd3WUM5VXFCUHhmMTE5QkVkb3BzakF6bUsyZ1ZCVlJ5ZDk3Rk11UQ?oc=5",
-          "pubDate": "Wed, 17 Dec 2025 08:00:00 GMT"
+          "headline": "쪼그라든 판매량…테슬라, 6만弗 밑도는 보급형 사이버트럭 출시",
+          "source": "연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CLWh2Y2Z1eE1Dd3JlSXFZbm94d2VEVXFYcjUzS3RIWEg1Yi0xS0lsMEQ1TEVIMTFTcTVValhqN2d3eE5HUnpyd0dEV1EybFJKYVkwVjN6cWJPNFJpYWw4NmlvZmR6cmdXV3BHYXhXNzTSAXRBVV95cUxPTlR1RTl3dmpSbWphSU13OWxmbDlHZkJPaF9rcWZ2YVhWWDAwOHZGNHJpeFlMaVVCYU5jWWczNXNuaHMxWVgwREhSdktVcVV5ZkRWVk0tcW5GNFNHRUhrV2ZWNHZOdlhsYlloNnpkVlVRWjhGMw?oc=5",
+          "pubDate": "Fri, 20 Feb 2026 08:00:00 GMT"
         }
       ]
     }
