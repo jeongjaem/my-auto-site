@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-16T22:18:01.242Z",
+  "updatedAt": "2026-03-16T22:53:27.668Z",
   "watchlist": [
     "005930.KS",
     "AAPL",
@@ -33,7 +33,7 @@
       "open": "252.105",
       "high": "253.885",
       "low": "249.88",
-      "volume": "21883745",
+      "volume": "32059716",
       "ok": true,
       "error": null
     },
@@ -47,7 +47,7 @@
       "open": "304.34",
       "high": "306.4886",
       "low": "303.0201",
-      "volume": "14187794",
+      "volume": "23503177",
       "ok": true,
       "error": null
     },
@@ -61,7 +61,7 @@
       "open": "398.07",
       "high": "400.63",
       "low": "394.79",
-      "volume": "20911200",
+      "volume": "27706496",
       "ok": true,
       "error": null
     },
@@ -75,7 +75,7 @@
       "open": "182.97",
       "high": "188.88",
       "low": "181.41",
-      "volume": "163930081",
+      "volume": "216589986",
       "ok": true,
       "error": null
     },
@@ -89,7 +89,7 @@
       "open": "396.22",
       "high": "403.73",
       "low": "394.42",
-      "volume": "47624495",
+      "volume": "57921241",
       "ok": true,
       "error": null
     }
@@ -99,10 +99,10 @@
       "query": "미국 증시",
       "items": [
         {
-          "headline": "美 장중...WTI·미국국채금리·달러·금값 '뚝' vs 미국증시 '활짝'",
+          "headline": "미국증시 나스닥100 '활짝'...메모리 반도체주 · MSTR '껑충'",
           "source": "초이스경제",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HakJJaXg4WlhZbjg3aEl4emxqM3JoTmstLU9WY0VrY18ycGYtRHIwanRYRkVFZ3FxWnpzTC1uM3JTdUlXb0d4RzdZaTVfQ0E1QmZkR3lZZE9DaXF6U0Rrdm95NnhVNVhNeWdRQzNBRXnSAXNBVV95cUxPQWhtQlU4bFRWblBNVkVVNl9lS2c2NTlzLV9lUmNpLWJCUjNzLTJ1bmpBdWJMYlBJeGNnUy1vNlpZU3NHbXlrNDhPdi00aUMwcThRakhERlZDdHBYXzVvTDRRajJfRnJ1N3lEMGdkYUp3aEg0?oc=5",
-          "pubDate": "Mon, 16 Mar 2026 19:09:01 GMT"
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BYUo2Vk95eDBqeHFMT3NlMDFvZGlvb29jRnJtbjJEak9EZVhqU3FEMU1vejRmeVlDXzAyVF9ONkplRWFMOG1WRWc3UXBDMzBwcTdTME9Gb0dPWmptLXNJU2dzT1BRQTBLMEMwMThIbm3SAXNBVV95cUxNODlOU0pITS11QWpPRERKc2VNeWQ4MV9jWmxLdTRidlA4X2VXblBOX3RwbjI3Vk1WT2pIVWJPQmo0LWFRLVBCT3F5aVJwOU96VDJKZHVKdjNELVppNnJzWDFyNmx5X2ZuYVNuUG5oM0RlT044?oc=5",
+          "pubDate": "Mon, 16 Mar 2026 21:43:21 GMT"
         },
         {
           "headline": "미국증시 전망, 언제 저가 매수에 들어가야할까?",
@@ -117,10 +117,22 @@
           "pubDate": "Mon, 16 Mar 2026 20:12:56 GMT"
         },
         {
+          "headline": "뉴욕증시,유가 하락에 상승폭 확대…나스닥 1.5%↑",
+          "source": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NMjk5OWc2elFmN2hoN29tdnExdVpmb3RONXVMMlZJdWFWQlVVUms3WlVvZUF1amwzRkFBTzM0WndZSUlTZGR5ODB3VTgwTzA?oc=5",
+          "pubDate": "Mon, 16 Mar 2026 14:31:44 GMT"
+        },
+        {
           "headline": "\"美증시 떠나자\" 108조 이탈…자금 재배치 최대 수혜국은 韓",
           "source": "중앙일보",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LaVFxdkxJZTVMR0s4Ui1nRXdIeURmTVJtbTB4RW1EN0pCX0xlOUtLTC1FaXhVcGJzSUtpcWY2TlhYN2dLcmotQ2lJNldKMkZNb0hPNy1n?oc=5",
           "pubDate": "Sun, 22 Feb 2026 08:00:00 GMT"
+        },
+        {
+          "headline": "[속보] 미국 이란 휴전협상 급물살... 트럼프 공식 확인",
+          "source": "글로벌이코노믹",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbm1YN2Y0Z0hsSDkyN3E4WG1IaU9KNlF6YmhFZ0xRdTdxaGx4RkpUTlgyY3dRZ0ZQOFdxVWx3YzVfdExwNGhhUE93M3NVN0hITHBmRVk2eDNob2lnaHFPVGsxX3VYNXlYZzdkLUZ3M01jMDk3YkxNbXhRM05aUThTQUpVTXpmbERf?oc=5",
+          "pubDate": "Mon, 16 Mar 2026 19:57:55 GMT"
         },
         {
           "headline": "뉴욕증시, 상승세로 마감…나스닥 1.22%↑",
@@ -129,22 +141,10 @@
           "pubDate": "Mon, 16 Mar 2026 20:18:02 GMT"
         },
         {
-          "headline": "뉴욕증시,유가 하락에 상승폭 확대…나스닥 1.5%↑",
-          "source": "한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04dTdLZnZzTG1tU0lkSlUtbWlQYkRFNDJ4Z3BMejJKNHk0VHEwQ0VoQUZVQ0dlRVBhU04wbmktU3doYmNIdHhTT1ZQc1FiUXNUOTNxMDlCVzJPUdIBVEFVX3lxTE9YU1JMa1FETnNnb3VtSnZOWUprNExMa3JXSnhSNl9xdFM3MW5mWVRLS0Z6TXVZZXhZRWxOSGhRNEpzSW9leFk3Q2lPTExnWUJwZkpWYQ?oc=5",
-          "pubDate": "Mon, 16 Mar 2026 14:29:35 GMT"
-        },
-        {
           "headline": "미국 증시 선물 상승, 투자자들 이란 분쟁 주시하며 연준 회의 대기",
           "source": "Investing.com 한국어",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZMG1ZWVJWSjM5Y1p6Wjd3U0VwYVVaWDl1NXFOd1pmMjZjNEl3OXBMbENrSkUza2pzRmZCenNQclVyQXZSRFJOQ0d2Q2VRYl9mMUdiNHNHVEptMGVlOFFUOVoySEw5WGlhZXh4OHRrMXQ?oc=5",
           "pubDate": "Mon, 16 Mar 2026 00:51:00 GMT"
-        },
-        {
-          "headline": "뉴욕증시, 유가 하락에 반등…S&P500, 전쟁 후 최대 상승",
-          "source": "뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qbXM5SEpNeHdDUkwzNERiTzBObTNxbE1kQkNESUl3Rnp0WDlJNFVhUVpudndyaGNzZGdxem9xNjN2bXdsNjB2c05SSy1ISUE2aVMwQjVuaXdud3JmTWJLedIBeEFVX3lxTE8xMlk4Q1ZyT3J2d2RIbGZISjJFdjZuRkZvMUN6bl9lMHpKczlZMTFrMEdQM1VvN2NxXzVhdWRvdTJoYVo3dWZKcXpRSzFMdk9Od243SnVLdlVQNE04RnZBbm85SFJXNHhmSkJQUk9WU1lnTlpHVjN3SQ?oc=5",
-          "pubDate": "Mon, 16 Mar 2026 20:55:40 GMT"
         }
       ]
     },
@@ -258,10 +258,10 @@
       "query": "KOSPI",
       "items": [
         {
-          "headline": "코스피·원달러 환율 상승",
-          "source": "뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5SSjJuOEYxMjFGUlYwdkpNR3BPbWZDZWs2U25FdnM0Tmd2Y1hIcC14WG1SRTRYWWY2NE5RSU8tVFIxcTlOQU1Za0RCdw?oc=5",
-          "pubDate": "Mon, 16 Mar 2026 06:52:35 GMT"
+          "headline": "[마켓뷰] 고유가·환율 압박에도 개인 ‘순매수’… 코스피, 1% 상승",
+          "source": "조선비즈",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSnlJaUJtQm03TExUdk56NHA0TlRaZm9mTFVnSi1HZXFpWXhYNm9kOF8tT2JZUDFFNEJEYkJIOTJBbFNVMUV1VllCT3lJVmdaS2dGcnRpTnUySXdqclAxTzZMX19KZXlOaHY0RlBHdHcxZU02X2ZoeEpuYnRUWEZJOGh5anFtQlVt0gGcAUFVX3lxTFBMYVRuZW9LV0Q1aDhPSWJIOVZJeHhSNHVZbWFYQWdlOHRxS19TZGV2Mm9CdWpSZ2ZvVk1kUUp2a3hicVlyYjVnVWlTY2NNcWlQREdQenlad2M4Q3I2dHJid1lVbl9kWFEzSmJoMGFjSEJUMnlTZnR3ZDRMWk1Nd2J6dW11Tnh4anV1VlJzU0VmVkRuN3FlZVZOMjZEeQ?oc=5",
+          "pubDate": "Mon, 16 Mar 2026 07:20:00 GMT"
         },
         {
           "headline": "“롤러코스피인데 빚투 31조, 선넘겠다”…증권사 줄줄이 신용융자 중단",
@@ -341,6 +341,12 @@
           "pubDate": "Fri, 13 Mar 2026 09:07:00 GMT"
         },
         {
+          "headline": "코스피 1%대 반등, 코스닥은 하락…대외 악재 속 증시 혼조",
+          "source": "ebn.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03X2N4aklqNmdIQVc2dE12ZUFkeGNRSS1nTUliY1VRc0VnQ0hkZEUydlhmRWVTWGpoTlFDTm5laXBvYm1jLUhrWE5VcTRlbml4MUxIbE5tZmhQT3hNcjJ4eWl5R0YxME1v?oc=5",
+          "pubDate": "Mon, 16 Mar 2026 07:18:50 GMT"
+        },
+        {
           "headline": "코스피, 반도체 강세 속 상승 마감... 코스닥은 1%대 하락",
           "source": "디지털투데이",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tWng5MGdxRWc4MGhEWG1HZE9NSUZkS2kxRHpFdFo5TFR2cXp4TGxwaDBaR2NHQUJ3cl9ydkRKUy1kX3liVW0zR1J6eGhIS2U3RzZKdlhpRzNUNnF3cWJEUUFUWEJWN2ZmWnJ2ZGVpMXNoMGc?oc=5",
@@ -351,12 +357,6 @@
           "source": "아주경제",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsMXBaclcwSVFJZ1FoU0VZV19Jd092NUpBcGFiSm0zaGxzT2RvWE9OTkVZTUNtZ0EwNFFhaXBwSUhXbUFJQnFLeXp1S1NXdXdpc1N4cnlnYzduZ9IBWEFVX3lxTE1yeXlFSlIzcTZZckstMUUzVmVhdXBWM056TE9mWjZpOEstWXRFOW1SNHF6WV9RSUlhQjBGYkJxOWtmaFVxVThpeUdsZVgtMjdnNzVkR0VlMlQ?oc=5",
           "pubDate": "Mon, 16 Mar 2026 07:49:26 GMT"
-        },
-        {
-          "headline": "4일 만에 1.3조 ‘폭발’… 코스닥 액티브 ETF 경쟁 더 치열해진다",
-          "source": "조선비즈",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeU9sSFlYaFdEcXI5X0wzTXkxRndVTE5CUkRPVUlvZVhLdnFSMERVYXVSLVFjeXdyczB0STB2cnlQMjdLZXZ4aDRfM0w1NUVWTnUtQmE0VXlOZENwWnM4cFVhaVhJREVOaW9CcDN3WWc1VlRSSlBJUkdoZGJGdVl5T05DRF9yNDR10gGcAUFVX3lxTE1TLURNQV9ZM1VFMTE0elRvNF9ja3R1RFlUNlFuWVdlc2xkZERZRkJBYU1YNzQzUHhoMVJMRktKbW80QXJ2LXpQTjVVY1pHWnJPNjNXbUFobU1Fa0J2WXR6bnZlX0xyT3M1RkVadTFsSTZjWnpGeloxNVpLbGFCZER0VHhubGdWYXNwQy1jc1ZEb1IzcXpOb2NobnVwbg?oc=5",
-          "pubDate": "Mon, 16 Mar 2026 21:00:23 GMT"
         }
       ]
     },
@@ -423,6 +423,18 @@
           "pubDate": "Sun, 15 Mar 2026 19:18:17 GMT"
         },
         {
+          "headline": "애플(AAPL.O), ’보급형’ 아이폰 17e 출시…아이폰 판매 확대 나서 By 알파경제 alphabiz",
+          "source": "Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41NTJuMVNxM051RjRoejNBdTcySldrbzByRXBUUEVvZVA5MmM5RFRHLWZCdGhNZWtpX0V1M1V0Z1g5b0pGVDdoYVlQdkdwZGlBTUF3YjdZc2JIeDNaaGxCcTZqMUVVd2FzM0N2NG5EWjE?oc=5",
+          "pubDate": "Tue, 03 Mar 2026 08:00:00 GMT"
+        },
+        {
+          "headline": "애플(AAPL.O), M5 칩 탑재 ‘맥북 공개…기본 저장용량 대폭 확대",
+          "source": "알파경제",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83eWY4c2hheHp3bVBLcmNlU0J4UmcxeEdHRGNYTEZrVGZNaTBJekJnNGo2aWM2ZlY5RUF1c1hMZnBpb2s5RjFLbGZMNFJmLXJMWDc1aVN3aXpWS0ZGMXfSAW5BVV95cUxOYjFzLTNkdG9qVGlpQUhmWFJvQ3NwaFJvX0U4YTlIZUV1YjJVMER2c29Xc25iaFlvRGZDQ2lWTENleHhreWUtdzcxY3lLbUpJWG9XanJIOVJRMVdvdFJYTXZ5eTdmWnJHelhSbnd5Zw?oc=5",
+          "pubDate": "Wed, 04 Mar 2026 08:00:00 GMT"
+        },
+        {
           "headline": "애플의 저가형 디바이스와 인도 생산 전환에 애플(AAPL) 투자자들의 조치가 필요할까요?",
           "source": "simplywall.st",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOHhVOTRDeDFhSnZxX0tPNjFMVEpWbm1fNk1JNmQ4TjRHN1Z5aGx0OTYyV0dDYzNOLUU1UXc3N20teEI5WHNfUEdGZlotR0JlMkppWVlvZTlCY2t0YUN5bG5Ua2ZjVDIwdWx5UW82WHRRU094Z3Z5ajJwUEVYVDRfLXFBX212d9IBiwFBVV95cUxPeEZhb0dJQUN1Mm9DQ0k0WExVYldqZld1ZTZLeHdqWFRMdW1lek1Eb2NQc0M1NDE3NTFFRzBIR1JhWWxlcm10UXZLRVduTkJNS2EwaHlXeFhJcG9JdVpqVk54TmJKdHFOVWNpeW5DLTBaVThycndacHAxcVFLYVd3M2N6WGF5MkFjSXZj?oc=5",
@@ -435,34 +447,22 @@
           "pubDate": "Thu, 12 Mar 2026 20:41:46 GMT"
         },
         {
-          "headline": "애플(AAPL.O), M5 칩 탑재 ‘맥북 공개…기본 저장용량 대폭 확대",
-          "source": "알파경제",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83eWY4c2hheHp3bVBLcmNlU0J4UmcxeEdHRGNYTEZrVGZNaTBJekJnNGo2aWM2ZlY5RUF1c1hMZnBpb2s5RjFLbGZMNFJmLXJMWDc1aVN3aXpWS0ZGMXfSAW5BVV95cUxOYjFzLTNkdG9qVGlpQUhmWFJvQ3NwaFJvX0U4YTlIZUV1YjJVMER2c29Xc25iaFlvRGZDQ2lWTENleHhreWUtdzcxY3lLbUpJWG9XanJIOVJRMVdvdFJYTXZ5eTdmWnJHelhSbnd5Zw?oc=5",
-          "pubDate": "Wed, 04 Mar 2026 08:00:00 GMT"
-        },
-        {
-          "headline": "애플(AAPL.O), ’보급형’ 아이폰 17e 출시…아이폰 판매 확대 나서 By 알파경제 alphabiz",
-          "source": "Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41NTJuMVNxM051RjRoejNBdTcySldrbzByRXBUUEVvZVA5MmM5RFRHLWZCdGhNZWtpX0V1M1V0Z1g5b0pGVDdoYVlQdkdwZGlBTUF3YjdZc2JIeDNaaGxCcTZqMUVVd2FzM0N2NG5EWjE?oc=5",
-          "pubDate": "Tue, 03 Mar 2026 08:00:00 GMT"
-        },
-        {
           "headline": "[미주말]애플 종목코드는 왜 AAPL일까",
           "source": "v.daum.net",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1IaklLMi14djRfQThwU09PZGg5T0toTXJseVdxUXpnQzFkcEFTRExXczZaa2NMaERRU01xSkhkelMwNzZmNFE?oc=5",
           "pubDate": "Sun, 13 Jul 2025 07:00:00 GMT"
         },
         {
-          "headline": "AI가 분석해주는 애플(AAPL) 상승확률은?",
-          "source": "네이버 프리미엄콘텐츠",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdkhpU2tsM1QzdHAxNnVST28yN0Q1NG83c2NFMEFFbEZ3bC1MTm1ub3lqMkt6T3ZCZmdpclk4bG5SOW4wNmtoSGlzY3RmNkRpdzhQZkRmLWpJUlFJQk5BRjZhQ0Jmb0tIb0pCM1QzQmcwOEhvXzRwbVFRWFdTSkhJYmtvWC1WUQ?oc=5",
-          "pubDate": "Thu, 29 Jan 2026 08:00:00 GMT"
+          "headline": "애플(AAPL.O), 인도 내 애플페이 도입 논의…결제 시장 공략",
+          "source": "알파경제",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00UTBZRG9OVDhUTTB2RHVyOW0tYkswak01VzdMTFhLWlFrbEFXT1hKaW45blpud01mTlA1VWptU2NDSnp5UG8zZnBDZ0g4OUtlUlBWdmp2clEtMVVCX1HSAW5BVV95cUxQT3lSbms2TDVVSjN3OVlJc3lDZTRhZDlRY3dDR0FNc2EzeTlUcWVicjdfMnN6djVZYkQ3Yldfb2VfZUpDeEpySGhRc2l6QmRxR19UaUg0ZERvQmpzODV4UUpTVGx5TzktN2NLN1pCZw?oc=5",
+          "pubDate": "Fri, 27 Feb 2026 08:00:00 GMT"
         },
         {
-          "headline": "애플(AAPL.O), 인도 내 애플페이 도입 논의…결제 시장 공략",
-          "source": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkLWd1RlNleHdHaFhaWkZaUDZoZHNBRTYwZTYxRWxnYTllLVA4VlpvMkoxZlZCVTJOTk1UN3htaGhtUnoybjFnYWdXOEhVNUx2Y1cw?oc=5",
-          "pubDate": "Fri, 27 Feb 2026 08:00:00 GMT"
+          "headline": "中앱스토어 수수료 전격 인하에 수익성 우려…주가 2%↓",
+          "source": "마켓인",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB2S0FDeUdzU1E4eE5QYzB5V1lnMnlmTjNMa1MzVjJpNHVVQXU4dE1Ra01fRFVoSTlzMDJYRk9DQzVhZ1NHTmg0a0haYXFDMUI2dXBLZ0d1RjBVUFZIQm5UOWxEcGoxNDRUSTd6X3VyNmFpRWs?oc=5",
+          "pubDate": "Fri, 13 Mar 2026 21:58:02 GMT"
         }
       ]
     },
@@ -478,8 +478,8 @@
         {
           "headline": "알파벳(GOOGL) 주가는 현금 흐름의 강점과 AI 성장 스토리를 반영하고 있나요?",
           "source": "simplywall.st",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPa3dad0ttSG5RM0JreUxZbE9URExMd2Q4aENVQ1drQnYyMkx2VHNtaDdVaU9mMW9JbHZ1Q1hiS2JQc09vQVFxMUJJQjI0b09iSlBVUGJISzZpVS1UeUgzZUJXQUg5UlRYTzJTZktEZ18wMXZWQTcxNVhZSkJaY1hxSnFNOURSSW8wSmhPQtIBkgFBVV95cUxOdHNLTG5mSG04NmRRdE1MYVE1YU5oUkMzUlVNX1hocmpuSGFuU1Z0MWZtMHl1MHB3R0MzenpSTUhYVzZuSzBlcEhzbVplZFJuakdraG1FT3Z4N2NkV1NaQmhTMXFReTd3c2Rzd3cyN29sOV9xbFZOT0tuOE9VbEp1QS1oTTJZdm1DUS1BTV80VVpPdw?oc=5",
-          "pubDate": "Sun, 15 Mar 2026 02:26:49 GMT"
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdHNLTG5mSG04NmRRdE1MYVE1YU5oUkMzUlVNX1hocmpuSGFuU1Z0MWZtMHl1MHB3R0MzenpSTUhYVzZuSzBlcEhzbVplZFJuakdraG1FT3Z4N2NkV1NaQmhTMXFReTd3c2Rzd3cyN29sOV9xbFZOT0tuOE9VbEp1QS1oTTJZdm1DUS1BTV80VVpPd9IBkgFBVV95cUxOdHNLTG5mSG04NmRRdE1MYVE1YU5oUkMzUlVNX1hocmpuSGFuU1Z0MWZtMHl1MHB3R0MzenpSTUhYVzZuSzBlcEhzbVplZFJuakdraG1FT3Z4N2NkV1NaQmhTMXFReTd3c2Rzd3cyN29sOV9xbFZOT0tuOE9VbEp1QS1oTTJZdm1DUS1BTV80VVpPdw?oc=5",
+          "pubDate": "Sun, 15 Mar 2026 02:26:53 GMT"
         },
         {
           "headline": "구글(GOOGL.O), 위즈 인수 마무리…멀티 클라우드 보안 강화",
@@ -559,16 +559,16 @@
           "pubDate": "Wed, 25 Feb 2026 08:00:00 GMT"
         },
         {
-          "headline": "2026년 마이크로소프트 주가 전망: MSFT가 매그니피센트 7 중 가장 균형 잡힌 투자처인 이유",
-          "source": "TradingKey",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSl84QjNFc0xCdkczdmVZZVYycjJZVG8tMkJaX19ERHFUOUZBV1M1eG5zU3d3c1FZcUpuWHFHWWw2SjV5aW1uTmw3dnlUMnhkYTlkdVdrZG1yVEZrZVd4MEtUdEVLbUtPM0M3alFZNkFER1VMbjk3LWZGT1paaFphQTdNRXNuanpBR0ZPOEtfNFIzRlhoZEtfMHhPN2lBZmpZVmJVSTJ0eFdSYmUyTnBIN2pGZXE3Q1o3REhtdXBFRF9yQ3RkNm9vZ2FlTklESDdvYnU3cUltTkpub2xvejN3?oc=5",
-          "pubDate": "Wed, 14 Jan 2026 08:00:00 GMT"
-        },
-        {
           "headline": "마이크로소프트는 왜 계속 떨어지기만 할까? 저가매수 타이밍인가요?",
           "source": "네이버 프리미엄콘텐츠",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1mNVZmVWsxY0pDM0ZzTDgyT1NnUXFQT08zZWpPM2U4ZFNvdmZwZ0x4Znhqc1dOVUJHM3dZSVVaMWM0U2RRWkpCQnR5Y3NYaGNnNVlZQmptZmRNbTBMLXJ2SUxUZGNpZnhYOUZHQWZVRUw4dVpyeEMxNmVCZjA?oc=5",
           "pubDate": "Wed, 04 Feb 2026 08:00:00 GMT"
+        },
+        {
+          "headline": "MSFT 주가 전망 2026: 마이크로소프트는 어디까지 오를 수 있을까?",
+          "source": "EBC Financial Group",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE03TE5OYi1KZ1dBaEZ3U0Z5TUN6bnBjM1QxeTlTeFJLMFNKMVdFWUFaWFBtZ0RVVGFHMU9kVkdhZDkxMHhnTi10YjhPV2dMMThRTlE?oc=5",
+          "pubDate": "Mon, 29 Dec 2025 08:00:00 GMT"
         }
       ]
     },
@@ -578,8 +578,14 @@
         {
           "headline": "엔비디아(NVDA)의 가격은 AI 칩 수요와 정책 리스크를 공정하게 반영하고 있나요?",
           "source": "simplywall.st",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdUZ4eklVMmQ5OF9NZGlPMG5yZ21pOFd2VkNOYW1CVGpqelhJWEZDU2NPQkNEODkzTjA0bWY3dXduYUFwTEJuSGxGNGdfYlpFRS1QaVZGSkpCTUlpTlBFT2psSkczTUg1TVVLd0FBNHItQmNMU3RudnlJaVJsam8tVEJJbUFKbkJxS2hxRXQwOTdMazEw0gGaAUFVX3lxTFA4UExScS1La21nbE9fQWVxSjB3clBldjhvaHVjZkhyZFJxVE5UTEY0QVVubDdiUFNPM3g0cUstWmdKeGlHMDlCOWVISlNkN0wzN1dmOTZZR055QUJlcm14b1lEYWxPMF9UNTRSUC02M01Yb3c1NTJHaVdYeWJ6MWdqMS1JN1hYbzZSMTUwc2J5R29xM3R0WHB4UHc?oc=5",
-          "pubDate": "Mon, 16 Mar 2026 04:32:57 GMT"
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOFBMUnEtS2ttZ2xPX0FlcUowd3JQZXY4b2h1Y2ZIcmRScVROVExGNEFVbmw3YlBTTzN4NHFLLVpnSnhpRzA5QjllSEpTZDdMMzdXZjk2WUdOeUFCZXJteG9ZRGFsTzBfVDU0UlAtNjNNWG93NTUyR2lXWHliejFnajEtSTdYWG82UjE1MHNieUdvcTN0dFhweFB30gGaAUFVX3lxTFA4UExScS1La21nbE9fQWVxSjB3clBldjhvaHVjZkhyZFJxVE5UTEY0QVVubDdiUFNPM3g0cUstWmdKeGlHMDlCOWVISlNkN0wzN1dmOTZZR055QUJlcm14b1lEYWxPMF9UNTRSUC02M01Yb3c1NTJHaVdYeWJ6MWdqMS1JN1hYbzZSMTUwc2J5R29xM3R0WHB4UHc?oc=5",
+          "pubDate": "Mon, 16 Mar 2026 03:31:25 GMT"
+        },
+        {
+          "headline": "Nvidia (NVDA) 뉴스: CEO 젠슨 황의 기조 연설이 AI 암호화폐 토큰 랠리를 촉진",
+          "source": "CoinDesk",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOLXZ1a2NPaHN5LWlvWUhrODBIYlNCVm1sdG5ZSnBnOW85bXJVNXQzZi1XSGFEMWNKM2N6T2UwWFFkWWdzOUYwV3V0VHRYdUJzUktFSlB5dEdyam8xY0xaazlPbmtjSEJIaXh1RTQtU3AxTFFuVVc4eDhjRjE5ajJOTGh0ZVliLTNOZHFpUU9UTGMwWUJDVHN4LU9mNTBybGsxcVNSdkNJNVN3bDhadml3U0hOaWVSN2NnR1FEU2xsQQ?oc=5",
+          "pubDate": "Mon, 16 Mar 2026 06:20:00 GMT"
         },
         {
           "headline": "엔비디아(NVDA.N) GTC 2026, 관전 포인트..한국 기업 존재 역대급",
@@ -612,16 +618,10 @@
           "pubDate": "Sat, 07 Mar 2026 08:00:00 GMT"
         },
         {
-          "headline": "[美특징주]엔비디아, 차세대 칩 1조달러 수주 전망…주가 강세",
-          "source": "edaily.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORUdrajJzRk1pV2ZIaDVaNEJ5cllnbUxqN2k3LWdJSFVyY3QtVTVDNUdlc1pCX1pBV2hEV3YyaXcyOGRub1dwdGNDTkFwRHhlcjVaaGJnOXlRX3JzZGdMZWVFYkNzel9vaW1Cek1tNjlHNlJZcTNHdHRWcTBWTGFORw?oc=5",
-          "pubDate": "Mon, 16 Mar 2026 19:53:36 GMT"
-        },
-        {
-          "headline": "AI가 분석해주는 엔비디아(NVDA) 상승확률은?",
-          "source": "네이버 프리미엄콘텐츠",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUWk3a2I5WU1BU1RhZXE0ZmJPY1JJTnNaT2ttTVJPeGc2ZE5tb3ItQUxrUy1qM3U5cU5IUTFvTDlEZ2xjU0RPOUVwOS1nS1RURFNmVVRHRmdNeGtmXzYwLXhBOUdOMG53QkRrSlZSbGJhMmJraXZuNGVBSmxFOUl6bnpCNTQwUQ?oc=5",
-          "pubDate": "Fri, 27 Feb 2026 08:00:00 GMT"
+          "headline": "엔비디아(NVDA.O), ′오픈소스 AI 개발′ 260억 달러 투자…핵심 칩 사업 전환 시사",
+          "source": "알파경제",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wNUlBTE90dXBTT0pMem9FVklRdXBVeUY3VjRXUFN3RzkwMGNEOE9NMlFldEVua3NBYnlEQktqWTlTdERXY2F5MnQtYkpmOTBOcUVNOXNva0hLY0o4c2fSAW5BVV95cUxNZEtfcnhVRWZmNnpYOVpoZ2NEaGw2cktZbUtWSXFPRmJ4LTN6Vkp4akpGR1Y2RGk0WXFCVEJIdTFiQ1dBbWZvMnVkSElOYUZpMXo1NFJlSmlDcGdyTzlIT0tmN3ZUMHNrbUdtY1BMUQ?oc=5",
+          "pubDate": "Sun, 15 Mar 2026 22:28:11 GMT"
         }
       ]
     },
