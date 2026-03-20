@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-20T19:20:23.551Z",
+  "updatedAt": "2026-03-20T19:55:16.400Z",
   "watchlist": [
     "005930.KS",
     "AAPL",
@@ -28,12 +28,12 @@
       "symbol": "AAPL",
       "resolvedSymbol": "AAPL.US",
       "date": "2026-03-20",
-      "time": "20:05:15",
-      "close": "248.64",
+      "time": "20:40:08",
+      "close": "247.15",
       "open": "247.975",
       "high": "249.1999",
       "low": "246.61",
-      "volume": "19245792",
+      "volume": "21023677",
       "ok": true,
       "error": null
     },
@@ -42,12 +42,12 @@
       "symbol": "GOOGL",
       "resolvedSymbol": "GOOGL.US",
       "date": "2026-03-20",
-      "time": "20:05:16",
-      "close": "299.11",
+      "time": "20:40:08",
+      "close": "298.6701",
       "open": "305.62",
       "high": "305.64",
-      "low": "298.5",
-      "volume": "8575459",
+      "low": "298.27",
+      "volume": "9627522",
       "ok": true,
       "error": null
     },
@@ -56,12 +56,12 @@
       "symbol": "MSFT",
       "resolvedSymbol": "MSFT.US",
       "date": "2026-03-20",
-      "time": "20:05:15",
-      "close": "381.74",
+      "time": "20:40:08",
+      "close": "380.4144",
       "open": "386.79",
       "high": "387",
-      "low": "381.4",
-      "volume": "14211916",
+      "low": "380.12",
+      "volume": "15845956",
       "ok": true,
       "error": null
     },
@@ -70,12 +70,12 @@
       "symbol": "NVDA",
       "resolvedSymbol": "NVDA.US",
       "date": "2026-03-20",
-      "time": "20:05:16",
-      "close": "173.495",
+      "time": "20:40:08",
+      "close": "172.145",
       "open": "178",
       "high": "178.19",
-      "low": "173.27",
-      "volume": "89630552",
+      "low": "171.72",
+      "volume": "103163983",
       "ok": true,
       "error": null
     },
@@ -84,12 +84,12 @@
       "symbol": "TSLA",
       "resolvedSymbol": "TSLA.US",
       "date": "2026-03-20",
-      "time": "20:05:16",
-      "close": "367.645",
+      "time": "20:40:08",
+      "close": "365.065",
       "open": "379.85",
       "high": "379.89",
-      "low": "367.5",
-      "volume": "42565770",
+      "low": "364.4601",
+      "volume": "47512532",
       "ok": true,
       "error": null
     }
@@ -111,6 +111,12 @@
           "pubDate": "Fri, 20 Mar 2026 08:34:02 GMT"
         },
         {
+          "headline": "\"미 의원들, '중국 기업의 미국 증시 접근 규제' SEC에 촉구\"",
+          "source": "연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9icnREaTJKckVaLUViakdUZDdtdFZvRjNfSU1uNnFYMHRkU1RpcEFreHphcHZoR0x6dG45dWJlNHh4Q2JQX29LMVNkb0VuSjdYd2pzeEFCOXRIWGkzS1dDbtIBYEFVX3lxTE9icnREaTJKckVaLUViakdUZDdtdFZvRjNfSU1uNnFYMHRkU1RpcEFreHphcHZoR0x6dG45dWJlNHh4Q2JQX29LMVNkb0VuSjdYd2pzeEFCOXRIWGkzS1dDbg?oc=5",
+          "pubDate": "Fri, 20 Mar 2026 07:56:36 GMT"
+        },
+        {
           "headline": "미국 증시는 금리 인하 기대감이 2027년으로 미뤄지면서 하락했다.",
           "source": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdXFxUEF2cUkzMkllOENsSzV3V3d2WG1pcWRaOFFIcmhEMHpGWHhIcTVhcW8taHBOTkhqM2g5TVJnaG50N3Y2ZTFvLUhtY0tkRldxQzNpbk1VTFl4U3BjU3A4dE1sWkFzcjR5UWQxcFRVaDFxNUhvZ1FsOXRvRFBBMG5hR1NUOGRsa2NPa1U4bVpPMm9iQVVXdm9nVUVCZ2Z1?oc=5",
@@ -129,22 +135,16 @@
           "pubDate": "Tue, 17 Mar 2026 23:37:50 GMT"
         },
         {
-          "headline": "뉴욕증시 3대 지수 모두 하락, 장 후반 확전 자제 기류에 낙폭 축소",
-          "source": "비즈니스포스트",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBKbnYtYnhPYUJfdFBJRzNJYmxKYWI0dDE3NkZQZ3plRjNFaEZGeU9qNGhhSi1RQWtUdVVhRFNvNU5KUDJ3OUE0bkl2eFI3RktRZkRrMHJPNHYtNC14Z01zdkRFa282YXpsWFZjY0hvSU5acE0?oc=5",
-          "pubDate": "Fri, 20 Mar 2026 00:00:59 GMT"
+          "headline": "유가 뛰었지만...미국증시 '또 상승', 여행-항공주 '활짝'",
+          "source": "초이스경제",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85Y3BOeGZtbjFtVVkzRGFhbFlSS1VKNExRU2tGMUhuS0dsVW5XTXgxOGhMTmlXRFdYQWVQZThtZHl2T3JuRldyek1LTU4zMWVobFFSNkZrVGNtenZnTkpkVXVZYW84UFYtQ0dVTXRUT3bSAXNBVV95cUxQQmh3SFZqbnlKRU5tcmJHeWZWYXZDaHRESm5Sd1lMTlg3UkZOQk5IMkZGZGtGSVdjWmRTZndmSFVQNm9kNWxPbExFbmE1VHpFNzlRMld0NGFOWHFKQkI2ZXlzOC1NdVI2WmQ2YzJKczlPUmtV?oc=5",
+          "pubDate": "Tue, 17 Mar 2026 22:29:43 GMT"
         },
         {
           "headline": "뉴욕증시, 하락세로 전환…나스닥 1.64%↓",
           "source": "블루밍비트",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFSUhManRoVDU1ZkI5N0JGWXQ4eW1YWXRwcEZ1MU8xb3E2aFJWaVVFTmZUZ1F4eXBPeGpYTGRWOERwUTNMcWVfRjdPVTRLLWdO?oc=5",
           "pubDate": "Fri, 20 Mar 2026 18:23:24 GMT"
-        },
-        {
-          "headline": "연준 '금리동결'...장중, 미국증시 하락 vs 미국국채금리 상승",
-          "source": "초이스경제",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JX0wwODI3OWlDaGs5TU5sQTRvR21WeUhwM3kxN3J0ZnFqbVhDbkw2TWE2TTZhQTJSNWNEZEtubXRyU0RpWDYwN0UtUUpnSEtNRUFJTHlmTGRBejV4NXFtRVdpUXJfaW1qV0VEc1YybC3SAXNBVV95cUxQSXdfY0RVV1lsWTRhTGU1X0taWWZnbm1aUmJuUWswMUt1UlJoRERCcHFybFp6anM1emJtYWdpMEdOeEZ2ZnJ3TjlSbVZKV0dJQ2ZMSTdoSEJhWEJvbmd4OTJGVVctUG5mbGFyaWwwMDlFdmdJ?oc=5",
-          "pubDate": "Wed, 18 Mar 2026 18:43:27 GMT"
         }
       ]
     },
@@ -158,10 +158,10 @@
           "pubDate": "Fri, 20 Mar 2026 14:41:16 GMT"
         },
         {
-          "headline": "나스닥, 이제 '토큰'으로 산다…투자 판 바뀌나",
+          "headline": "SEC, 나스닥 주식 토큰 거래 허용…미국 자본시장 온체인화 ‘첫발’",
           "source": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tZGxEbmR2MUVSYlBidmYtMTU4Mm43Q3VMSHI4b1dHVDVaUS10T1dzeVoybEpTNGxfcUJuWS1ncWFNU1VpcWdQb1hwcENFc3c?oc=5",
-          "pubDate": "Thu, 19 Mar 2026 07:40:08 GMT"
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5fWFJGTWhaYVlEQ1VNLWZVcTBCS2cyMkYzTWFKZ3BnWEZQanFLMndIQWQyZHVFNHhlTHZoRUtYS0Jja1NqRVNiZnFMQWVmdGs?oc=5",
+          "pubDate": "Thu, 19 Mar 2026 04:21:03 GMT"
         },
         {
           "headline": "美 나스닥서 '24시간 소액 투자' 가능해진다…SEC, 주식토큰 거래 허용",
@@ -170,10 +170,10 @@
           "pubDate": "Thu, 19 Mar 2026 06:30:12 GMT"
         },
         {
-          "headline": "SEC, 나스닥 주식 토큰 거래 허용…미국 자본시장 온체인화 ‘첫발’",
+          "headline": "나스닥, 이제 '토큰'으로 산다…투자 판 바뀌나",
           "source": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5fWFJGTWhaYVlEQ1VNLWZVcTBCS2cyMkYzTWFKZ3BnWEZQanFLMndIQWQyZHVFNHhlTHZoRUtYS0Jja1NqRVNiZnFMQWVmdGs?oc=5",
-          "pubDate": "Thu, 19 Mar 2026 04:21:03 GMT"
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tZGxEbmR2MUVSYlBidmYtMTU4Mm43Q3VMSHI4b1dHVDVaUS10T1dzeVoybEpTNGxfcUJuWS1ncWFNU1VpcWdQb1hwcENFc3c?oc=5",
+          "pubDate": "Thu, 19 Mar 2026 07:40:08 GMT"
         },
         {
           "headline": "우리도 나스닥처럼‥'1·2부 승강제' 만든다",
@@ -194,10 +194,10 @@
           "pubDate": "Thu, 19 Mar 2026 07:15:44 GMT"
         },
         {
-          "headline": "XRP 재무 운용사 에버노스, 나스닥 상장 초읽기...XRPN 시대 열린다",
-          "source": "글로벌이코노믹",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdnlFWWdNM0F2RU1WMXdiU1JGb3NrUGZXOGU5SXVRV2o0QWR0Vlh2RkZLVkFzbDJabVpuOWNES3pOb0xMVEJEVFQta3lSQlZaX0dpZTl3STBkOFJrVV9VU3hPeXZnelJRazhJeVhJdXVWOEFud3hGRDF6cW1jZ3M0M3hWWW1PbjJ4?oc=5",
-          "pubDate": "Thu, 19 Mar 2026 20:46:35 GMT"
+          "headline": "[속보] 나스닥지수, 작년 10월 고점대비 장중 10% 하락…조정국면 진입",
+          "source": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FNVh1M1VQRXFKWHpvNFZoYml1WnZmemE0REgwbG9FcUdNV3RxeWxGWkhMSnBLY0RwUFNLbTRDR3I4bzRnaWFKRWM3Tk9jMlR5ZXRv?oc=5",
+          "pubDate": "Fri, 20 Mar 2026 19:48:00 GMT"
         }
       ]
     },
@@ -341,10 +341,10 @@
           "pubDate": "Fri, 20 Mar 2026 07:01:19 GMT"
         },
         {
-          "headline": "코스닥 1·2부 리그 승강제 도입: '코리아 디스카운트' 해소의 신호탄 될까?",
-          "source": "네이버 프리미엄콘텐츠",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMzFvRWxpYVVHMEF3TC0zMmRiaGh0S3R5RE5tUjJfSWFKQ0hKU216SGZBdkx4aHd4bnc0TTExcWFQNEd5QTdwVmpsMlNnX2hlUC1XanZFT3pRRHhCSDJKX3hhaTVZbHZ2YzA0Qy1BU0JXWF84WHBtNUlVYVY3Snlvd3lJQXluUQ?oc=5",
-          "pubDate": "Thu, 19 Mar 2026 06:10:00 GMT"
+          "headline": "“첫주 성적 쪽박엔 이유 있다” 코스닥 액티브 ETF의 항변",
+          "source": "중앙일보",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhOGtBQ2R3cGxqUlVkZjdlZk1leUJiQ0FLOTNqR0kxeFMtd1B4VUE0NVJFX2NIQk5rc0d0Z1RiWjM3SlU1X1VpSlRRcWNDcFNIX2dZaFNB?oc=5",
+          "pubDate": "Thu, 19 Mar 2026 20:03:04 GMT"
         },
         {
           "headline": "[마켓뷰] 에코프로·알티오젠 제치고… 코스닥 ‘대장주’ 된 삼천당제약",
@@ -353,10 +353,10 @@
           "pubDate": "Fri, 20 Mar 2026 11:03:00 GMT"
         },
         {
-          "headline": "IM Biologics quadruples on Kosdaq debut",
-          "source": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42U0xSYWhrRlNraTdiTE9HWkt6b1B5QS13c254a0FFUUduV2Y0blhGVC1WMHV3SXZjMlUxRFJYWTZYNFNlTElNUV8zaV9ROVBOUjdJLXI2NWV3UGdWOENCOE1aVEg2NjBxajZRc2Nxc1BfVHVQT2RjZQ?oc=5",
-          "pubDate": "Fri, 20 Mar 2026 02:11:00 GMT"
+          "headline": "코스닥 1·2부 리그 승강제 도입: '코리아 디스카운트' 해소의 신호탄 될까?",
+          "source": "네이버 프리미엄콘텐츠",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMzFvRWxpYVVHMEF3TC0zMmRiaGh0S3R5RE5tUjJfSWFKQ0hKU216SGZBdkx4aHd4bnc0TTExcWFQNEd5QTdwVmpsMlNnX2hlUC1XanZFT3pRRHhCSDJKX3hhaTVZbHZ2YzA0Qy1BU0JXWF84WHBtNUlVYVY3Snlvd3lJQXluUQ?oc=5",
+          "pubDate": "Thu, 19 Mar 2026 06:10:00 GMT"
         }
       ]
     },
