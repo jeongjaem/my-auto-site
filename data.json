@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-23T19:30:35.988Z",
+  "updatedAt": "2026-03-23T20:07:49.247Z",
   "watchlist": [
     "005930.KS",
     "AAPL",
@@ -28,12 +28,12 @@
       "symbol": "AAPL",
       "resolvedSymbol": "AAPL.US",
       "date": "2026-03-23",
-      "time": "20:15:27",
-      "close": "251.93",
+      "time": "20:52:41",
+      "close": "251.87",
       "open": "254.16",
       "high": "254.56",
       "low": "250.28",
-      "volume": "11497950",
+      "volume": "12934844",
       "ok": true,
       "error": null
     },
@@ -42,12 +42,12 @@
       "symbol": "GOOGL",
       "resolvedSymbol": "GOOGL.US",
       "date": "2026-03-23",
-      "time": "20:15:27",
-      "close": "302.58",
+      "time": "20:52:41",
+      "close": "302.765",
       "open": "302.49",
       "high": "305.97",
       "low": "300.93",
-      "volume": "8726257",
+      "volume": "9581750",
       "ok": true,
       "error": null
     },
@@ -56,12 +56,12 @@
       "symbol": "MSFT",
       "resolvedSymbol": "MSFT.US",
       "date": "2026-03-23",
-      "time": "20:15:27",
-      "close": "382.81",
+      "time": "20:52:41",
+      "close": "383.75",
       "open": "384.08",
       "high": "387.21",
       "low": "381.68",
-      "volume": "11272576",
+      "volume": "12617233",
       "ok": true,
       "error": null
     },
@@ -70,12 +70,12 @@
       "symbol": "NVDA",
       "resolvedSymbol": "NVDA.US",
       "date": "2026-03-23",
-      "time": "20:15:28",
-      "close": "176.4851",
+      "time": "20:52:42",
+      "close": "176.025",
       "open": "177.22",
       "high": "178.2279",
       "low": "174.76",
-      "volume": "82791268",
+      "volume": "91937384",
       "ok": true,
       "error": null
     },
@@ -84,12 +84,12 @@
       "symbol": "TSLA",
       "resolvedSymbol": "TSLA.US",
       "date": "2026-03-23",
-      "time": "20:15:28",
-      "close": "381.02",
+      "time": "20:52:42",
+      "close": "381.195",
       "open": "373.17",
       "high": "384.1",
       "low": "373.11",
-      "volume": "36339849",
+      "volume": "39884337",
       "ok": true,
       "error": null
     }
@@ -276,10 +276,10 @@
           "pubDate": "Mon, 23 Mar 2026 07:14:43 GMT"
         },
         {
-          "headline": "[더 보다] 코스피 5천, 누가 웃고 있나",
-          "source": "KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxLVFEdmkxRmQ2RS1hbFV5bEh3TDFDZzJjZGRrcDBETGlkVHdoV2pTVEhpaklNYzFEOTlpUXNPRFVWU2pmV283cS1wR2JqSzdkY252SFlkeWN1VXM?oc=5",
-          "pubDate": "Sun, 22 Mar 2026 14:04:00 GMT"
+          "headline": "韓증시에 드리운 '버블' 그림자…곳곳서 나오는 증시과열 경고음",
+          "source": "연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oNC13ckpnSWlnVG9jWHB4ZjY5bE5QcXl6bUVLRWt5MzZSSWtOekxLVE1ia3lnUG5KX0czSHFLZnlEVWpJbXNtYVhtbWVHTHZXR0dlN0N3SDRnWDTSAWBBVV95cUxPUWhGczRxUU85MHJlWndwVExGTkFNZG9EVHptcmxzWFRvOXJsd0Z4aGs5aTY2amhFaF8wOHU5alpMakx4V2lJV0EzbjNlMVpBVlZZRThTbDJhZnBkbXJiUGQ?oc=5",
+          "pubDate": "Sat, 21 Mar 2026 22:20:37 GMT"
         },
         {
           "headline": "외인 순매도에 코스피 급락…개인만 순매수",
@@ -288,16 +288,16 @@
           "pubDate": "Mon, 23 Mar 2026 02:31:33 GMT"
         },
         {
+          "headline": "[더 보다] 코스피 5천, 누가 웃고 있나",
+          "source": "KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxLVFEdmkxRmQ2RS1hbFV5bEh3TDFDZzJjZGRrcDBETGlkVHdoV2pTVEhpaklNYzFEOTlpUXNPRFVWU2pmV283cS1wR2JqSzdkY252SFlkeWN1VXM?oc=5",
+          "pubDate": "Sun, 22 Mar 2026 14:04:00 GMT"
+        },
+        {
           "headline": "업종별 외국인, 기관 매매 현황(코스피) 수량기준",
           "source": "매일경제 마켓",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kVkhPaF9JT0M1eWZQWlNRaW9rVUFzcDhoZ050QV9wYldMbEs1MGdwM1lPNkhTbjVtUkYxU0J5UE1BeHFOdVBlLVRkSVpTY1ZpSEE?oc=5",
           "pubDate": "Mon, 23 Mar 2026 03:00:26 GMT"
-        },
-        {
-          "headline": "원·달러 1517.3원까지 폭등…코스피는 6% 폭락",
-          "source": "지디넷코리아",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuNnJMRkhMcTJYTGV1Vzh5R2JyYjJWM1dCU1lncVdTRE9pUi15ZnFrb3JkaUc2SE9BYzJzcGdySldYR0p2SW5NOEtLaU5ZLU43OVFxMjR3?oc=5",
-          "pubDate": "Mon, 23 Mar 2026 06:48:17 GMT"
         },
         {
           "headline": "트럼프 '최후통첩'에 외인 3.7조 팔았다…'위험 자산' 코스피 처분",
@@ -329,18 +329,6 @@
           "pubDate": "Mon, 23 Mar 2026 06:35:44 GMT"
         },
         {
-          "headline": "하락 출발하는 코스피·코스닥",
-          "source": "뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBUSjBXcGZ3cWZvdEpKOEdleTNYZnpJM1BIclhPcE1lcElYWktpSHEwUEdReUF0QU5nZGYzZkdjeFNreHFNVS1NTzItVQ?oc=5",
-          "pubDate": "Mon, 23 Mar 2026 00:24:35 GMT"
-        },
-        {
-          "headline": "증시요약(2)",
-          "source": "코스닥 마감시황",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOVFPaWc4dzlTQWM3elZmWXhkVW9Nb1Y2Y3ZSeTFiaEtmTnFSd0lIT1ZidHJsclA2aUhLaTVIbTNrY1lueHZMMEFHb2w5X0J5cmc?oc=5",
-          "pubDate": "Mon, 23 Mar 2026 08:01:38 GMT"
-        },
-        {
           "headline": "[특징주]코스닥 시총 1위 삼천당제약, 5일 연속 상승 행진…신고가",
           "source": "아시아경제",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqSTVycTVfSGQ4TmFwSm82U2tRTC1DZTdhUXlKTDA1bWVBdVh6cXRKeFRrcFRVUV9TVnFmT3lvaEg3dHJSdFVEeDE1R3NwSXVmNmZqS0RpZE1TWmdiM1dKYmF3?oc=5",
@@ -357,6 +345,18 @@
           "source": "v.daum.net",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8xdl9LYmpvMmZyZ0cyWVVlS2x4QndRajV2MW9QZnJKUzlCZU51SlNCS0I4Z2RsMWFjZ05NMDJwYWQ0X3diRWc?oc=5",
           "pubDate": "Sat, 21 Mar 2026 00:12:25 GMT"
+        },
+        {
+          "headline": "\"코스닥 2부제, 승급 기준이 성패 좌우...2부 '낙인효과' 방지 기관 역할 증대\"",
+          "source": "조세일보",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5sVDVBNnJheGVpblIzRDdZbGc1T3RyanAyejlqTnN6c3JOVGZyMmJkb2UwbGJwREVQMGdBSzZSdGljYjZZVFR1dXlEdGtCekFKZW0yQ2tsMDlpZlc4Z3BMbkRLRmp6WVpYS0lqRmJKQQ?oc=5",
+          "pubDate": "Mon, 23 Mar 2026 06:12:04 GMT"
+        },
+        {
+          "headline": "“코스닥 승강제, 프리미엄 승급 기준이 성패 좌우”",
+          "source": "edaily.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUU9uNFVNZWIwdEhWVHZMNEpJY3ota3VsT3JYdFNMS2xQdWtlS3kwYVN0cG01VVhiVXZrZjJSZWJObmcwQjhTQURERFdTdlVURUJSeXpCNmJaM0xRVE5yUjNJelpkdmpkcG9MQXVMdXVfZDJfR05qdzFqcndza011NQ?oc=5",
+          "pubDate": "Sun, 22 Mar 2026 23:14:20 GMT"
         }
       ]
     },
@@ -447,16 +447,16 @@
           "pubDate": "Tue, 03 Mar 2026 08:00:00 GMT"
         },
         {
-          "headline": "애플, 올 하반기 폴더블 기대감에 '매수'-BofA",
-          "source": "edaily.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOGk3ZGRBLTcxUEZZb0d6Zl8yRk0xYkxtbG5JOXBxaTBjVXFfbHNOelJQNlRLYVBFWWNPdC0yYkN2SkFGcXREbTFRalZZbHNRUF9hMTRlV0M0V0o3bVl4NHlRemV0ZEpOOG51cWNHYjFwamx2NFUwSG9NWVU1NDFzQw?oc=5",
-          "pubDate": "Mon, 23 Mar 2026 12:15:36 GMT"
-        },
-        {
           "headline": "애플(AAPL) 주가 및 차트 | 오늘의 실시간 AAPL 시세",
           "source": "Mitrade",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rRV9yNWNhbEV3WkZRT3dObXM2LWVWUkYtNnY0dHZncUoyRWZ6eVVhWTVVU2syLXI3YWZPNEs5MEVkcEFiNmV3V2l2VHF5VUs3Q29LRURpdFBJR21CdlAxRVJiTGRxUQ?oc=5",
           "pubDate": "Fri, 13 Mar 2026 06:39:18 GMT"
+        },
+        {
+          "headline": "중국 수요 둔화 우려에…주가 약세",
+          "source": "마켓인",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE03TVp2OEFKR1pQSlFGT19ZUkxhcG9sVFNtWUJYQTFtaXRyZ1B5aEtQWkFtaDVTMzN6Y2QwY3FCcDdfdnNQNEFDWlAzSkY5alJORGRDeEZEMnR6RWVETkdYN2RPMmZnanB5YWJTbDZqWmZBTWM?oc=5",
+          "pubDate": "Thu, 19 Mar 2026 17:22:26 GMT"
         },
         {
           "headline": "Apple 주가 전망: AAPL이 265달러 저항선에 직면하며 횡보세가 예상됨",
@@ -665,10 +665,10 @@
           "pubDate": "Sun, 22 Mar 2026 08:02:07 GMT"
         },
         {
-          "headline": "테슬라(TSLA.O), 29억달러 태양광 제조장비 도입 추진…中 기업들과 협상",
-          "source": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiU0FPR3VfbHFNMWREQm12RWw5YXlFMDYtNFJsQzB4VC1oQUZjazBuUXBLWXMyNWhmQXVrYlFacVlxZUdBLXdHSlNyUTVfU1l1a3lR?oc=5",
-          "pubDate": "Sun, 22 Mar 2026 22:55:00 GMT"
+          "headline": "전쟁 이후, 테슬라(TSLA)를 주목하자.",
+          "source": "네이버 프리미엄콘텐츠",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYXY2Njlzc096X09UT0phNVgyNHMwcGFGSGUtVXlxNWJDblFnODFGUnlsNlBHRl9kVExsbENNTjBsTkpWSHlZVzFoQWc3MFlGWDNJeUlXSnB3cHE2c0l6VjYyWFVYNlAwUzI0NzNRb09yalBhdGR1WDdTb0ZUZ0hYcmRlVHkybllZUFNz?oc=5",
+          "pubDate": "Mon, 16 Mar 2026 10:06:00 GMT"
         },
         {
           "headline": "美당국, 테슬라 FSD 조사 수위 격상…시야 제한 시 결함 의심",
