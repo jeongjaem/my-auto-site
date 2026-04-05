@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-05T23:18:31.446Z",
+  "updatedAt": "2026-04-05T23:53:19.269Z",
   "watchlist": [
     "005930.KS",
     "AAPL",
@@ -99,14 +99,26 @@
       "query": "미국 증시",
       "items": [
         {
+          "headline": "미 증시 부활절 휴장, 경제지표에 주목",
+          "source": "KB Think",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZU091NFk0cGl2aDRVY2NjTzgyV1dVck9fYXdYMmVyWVp5dzJxVUJsWUlDV2RRMUE5Wl9nNWVod3liOVkyU2xNaWdPTFV0ZHg4Vko4TWY1OGZXRGROMGtYdkJTd28tUQ?oc=5",
+          "pubDate": "Sun, 05 Apr 2026 22:49:13 GMT"
+        },
+        {
           "headline": "\"이란전 악재 이미 반영\" 미국 증시 바닥론 솔솔",
           "source": "매일경제",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FX0UzZDR2VEVCQjBwRXdRS1h3UnZtN3FWZFhJRHdZcmRuZUNHV2tyS2M2S0d2aDNPb2FiU28xYmNXTHpHOU52TnFmeFJHbXlwTGc?oc=5",
           "pubDate": "Sun, 05 Apr 2026 08:54:32 GMT"
         },
         {
+          "headline": "[미국증시] 美 주식, 4월 3일 전면 휴장한다 왜?…다음 휴장일은 언제",
+          "source": "CBC뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjR2ZLWExEZWg5ekpHQlF1SHJ6cW9iMV85MG9ScFVWdzJzeDlzVTBRdDlIdmVRU0NJYzNyaVJNcGpxOWpjMmhvVGVTbXZ3OFZwZHNMQWlQZVpnVUZsNnJVb3hkU2xkUm9w?oc=5",
+          "pubDate": "Fri, 03 Apr 2026 00:27:24 GMT"
+        },
+        {
           "headline": "미 증시 휴장 '주말 기습'?...이란 원유시설 정조준",
-          "source": "YTN",
+          "source": "ytn.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Kb0U5S3g5RFhWYlpYQmZfQ0RlaHR3YlVuWVFtck0xXzdDdzcxcUwzelVjS2JPdmptZmd2b3FRTTFLeFVpOTB6ZHpyTXVXdXZvUTdBZWxvREZ4TEtFWWc?oc=5",
           "pubDate": "Fri, 03 Apr 2026 01:38:00 GMT"
         },
@@ -133,18 +145,6 @@
           "source": "경향신문",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTUFZBeTRjTEhKUUZXVGFKYjhpNUlRN3k4MjZCVTdoRnZNRnBHYUk4SHMteVNwZnE2alplVDNtQVpUd0dWc212SEctU2kzRXhlbjZ2WU5IRFNKd9IBX0FVX3lxTFB3QWFJSVhBMk1xakZ2a0xuSjJnb3lyaEdUVDRveEI0dmN0eGVfUlBGRlRPdUpPYl9OaTZocnVhVjRnUlZSa3ltbDFGNlU3WUJWN01sTlZzdzFKaC1EM3ZB?oc=5",
           "pubDate": "Wed, 01 Apr 2026 22:20:00 GMT"
-        },
-        {
-          "headline": "[미국증시] 美 주식, 4월 3일 전면 휴장한다 왜?…다음 휴장일은 언제",
-          "source": "CBC뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjR2ZLWExEZWg5ekpHQlF1SHJ6cW9iMV85MG9ScFVWdzJzeDlzVTBRdDlIdmVRU0NJYzNyaVJNcGpxOWpjMmhvVGVTbXZ3OFZwZHNMQWlQZVpnVUZsNnJVb3hkU2xkUm9w?oc=5",
-          "pubDate": "Fri, 03 Apr 2026 00:27:24 GMT"
-        },
-        {
-          "headline": "토스, 미국 증시 간다…SK하이닉스처럼 ADR 상장",
-          "source": "톱데일리",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE41dGRBWXg5RW5zekx5d2pVNjJOUUNpUTNuZEFDR1RfOXNEemt3VXBUS2VYMlpRSENGWGRReENzc0FuZjVrVnpsSFJfSm14a2tS?oc=5",
-          "pubDate": "Thu, 02 Apr 2026 08:12:00 GMT"
         }
       ]
     },
@@ -153,7 +153,7 @@
       "items": [
         {
           "headline": "트럼프 최후통첩에 지수선물 일제 하락, 나스닥 0.80%↓(상보)",
-          "source": "뉴스1",
+          "source": "news1.kr",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qV1FOclYxTVU1NUtIOF9PMEEtQ3RwbU5fNzl0Q2JTa3lnMFYxenlSb2pxT1hMaFBFZ3ltMDNRcmMxOGlLZnlnN0RYQXZxakFQN3Uwb1hjc24?oc=5",
           "pubDate": "Sun, 05 Apr 2026 22:38:12 GMT"
         },
@@ -162,12 +162,6 @@
           "source": "한국경제",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GVHVzTWN3R3AwTHN3TWZLSG4zdFZEWWwzb2tvVndhWkNhWm5jR2duel8tSHJuZ0JGWjlrcHFFbV9mRGgzSE9EenZGeU5sWnZqRFF3T3k0ajBOd9IBVEFVX3lxTE1YRV9GU0U0OVBQSUNheWhNdWZHaldyMXRuYkFwTDQ5eHV3S214NDlFMTlDSlV4bGlEUUNlLTc3R1MtT21Xc3hoVXRRLVFsR0VPN2lVYQ?oc=5",
           "pubDate": "Thu, 02 Apr 2026 23:06:04 GMT"
-        },
-        {
-          "headline": "[0403개장체크] 美 증시, 트럼프 강경 발언 속 유가 폭등… 나스닥 0.18% ↑ By 인포스탁데일리",
-          "source": "Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9pQkZOS3lQbVUtLUNFM3NKeTVrVkVWOUFkTi00M3NQZ2s1dE1FZ3hCMk1ZN0tYSDFneHFFNE4taFRXZ2dyTklxZGEtNjEtNXY4UGFsUEF6d2hWbktBWEdLSk5wNGJYSXZZSkJlMzFXWm4?oc=5",
-          "pubDate": "Thu, 02 Apr 2026 23:17:00 GMT"
         },
         {
           "headline": "[속보] 트럼프 최후통첩에 지수선물 하락, 나스닥 0.70%↓",
@@ -198,6 +192,12 @@
           "source": "Investing.com 한국어",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RV3pZamluRUt4SV96NHZtUzBjQzdYU0pvRHdQeE5naE1zemtCT3JHV2RFbi1iNmVRYWsyMnd6cmR0b09TdExhN1ZmZjZBd0x0ZVNPUWhJWUlRLVFBVWhrV1pFV0c0UDRkRV9Oc1RtOA?oc=5",
           "pubDate": "Fri, 03 Apr 2026 23:33:00 GMT"
+        },
+        {
+          "headline": "\"'IPO 최대어' 스페이스X, 나스닥·S&P500 기존 종목 수급 압박 우려\"",
+          "source": "연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0NS1MZV9mZVQ2dXdFVExaWE1pVG9EaXA1QlY1UnRfcy01bFBtaDUzamRKcEoyRkxHdUNjUFZlSlJ6bUVJa255SnZKVmRsekNnZXBHc21kQ2NQV2JfWjl6RjJiZGlwTGVmNXdJUGNCRFg?oc=5",
+          "pubDate": "Fri, 03 Apr 2026 01:29:00 GMT"
         }
       ]
     },
@@ -207,8 +207,8 @@
         {
           "headline": "월가 전문가 \"S&P500지수, 내년 20~35% 하락할 수도\"",
           "source": "연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE11S1djaklRWlNGdDZ0MEpfU2RYQzFmdlpTYlhHZExyaTdaN2lWdUpUbmJ1ZThNU2F0WjhSa1JHTWJnMjVlbGI4X3FnUkFmZ1JGLXVYdXBSU1E5OWtTTXhOaGdLdy1rNmVLNmw5NWJDcmkyV2NF0gF0QVVfeXFMTXVLV2NqSVFaU0Z0NnQwSl9TZFhDMWZ2WlNiWEdkTHJpN1o3aVZ1SlRuYnVlOE1TYXRaOFJrUkdNYmcyNWVsYjhfcWdSQWZnUkYtdVh1cFJTUTk5a1NNeE5oZ0t3LWs2ZUs2bDk1YkNyaTJXY0U?oc=5",
-          "pubDate": "Wed, 18 Mar 2026 23:53:59 GMT"
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWdkJaYldwVUNRU0Z5RGJMU2kwaTE2NTlSQnZscEJQV1FDWWZvbGNUTHpsaFhxbU1EYzNJeDFrbHduSzdSdktxT0tlTEFEZldJaTVkTVFXQzRDdlZ2alpzRm5WV2w0UEtSLVVzV1FUdU3SAXRBVV95cUxNdUtXY2pJUVpTRnQ2dDBKX1NkWEMxZnZaU2JYR2RMcmk3WjdpVnVKVG5idWU4TVNhdFo4UmtSR01iZzI1ZWxiOF9xZ1JBZmdSRi11WHVwUlNROTlrU014TmhnS3ctazZlSzZsOTViQ3JpMldjRQ?oc=5",
+          "pubDate": "Thu, 19 Mar 2026 07:00:00 GMT"
         },
         {
           "headline": "뉴욕증시, ‘바닥 다지기’ 시작했나... 고유가에 강한 내성 보여",
@@ -217,9 +217,21 @@
           "pubDate": "Sun, 05 Apr 2026 20:50:42 GMT"
         },
         {
+          "headline": "전쟁·인플레 악재에도 이악물고 버텼다…그레이스케일 “비트코인 저가 매수 기회”",
+          "source": "매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LS0lUTGdHSVI5bERsVTJrUjRuVU9YTlI4VlZEM01lbDZHOUNNVHl4TzRwUXNPeG4zbEdHaXpRcmg5YmZVR25ablVkVjNyVXZwV0E?oc=5",
+          "pubDate": "Sun, 05 Apr 2026 23:43:31 GMT"
+        },
+        {
           "headline": "\"S&P500? 버핏 말 듣지 마라\" 한국 ETF 아버지 필승 카드 4",
           "source": "중앙일보",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sR0RsZWMtaEhSeXFveXIyU0RySWpUUDNFV2RJUWUtVkZVS3ZUV1hMbWpha3B5d1gzSmVaYlpqZ3c3RUhKWFJmbUpSallyZUxqWnAzRHNn?oc=5",
+          "pubDate": "Mon, 16 Mar 2026 07:00:00 GMT"
+        },
+        {
+          "headline": "\"글로벌 증시 줄줄이 무너진다\" 경고음…JP모건 \"S&P500 최대 15% 하락\"",
+          "source": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZZ3J6S0dwdHdmOEJCY0JhYk9vYy1RZnVwbGY4eVkzUzVNV2pQSU5JSDdHWENPVi1xanBuMmRMRmxIMWFGOXhEVXBmRzBCVEU?oc=5",
           "pubDate": "Mon, 16 Mar 2026 07:00:00 GMT"
         },
         {
@@ -227,12 +239,6 @@
           "source": "인덱스 TV | S&P 다우존스 지수",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdVVWei1DUkplZVlYZHZSakctTU9qTEZ6T3ZiOWUxRU1QbjJ2a1J0ZDd4dmdCWTdKZnhWU0NDQ2JnbVI4a2RZcXVZdFlReElfYjNuYTJKX05aSXF2Ml90UmNCaXo0MC1wZU9kRmsyeW1UODNxZEVuS1JUbW5ZWk1ZSEhvVkNBY1FkdU5wajhWU21UTWVMSmdBZkFJdjlUemFZdTRUbWFSemJ5NkU?oc=5",
           "pubDate": "Mon, 09 Mar 2026 07:00:00 GMT"
-        },
-        {
-          "headline": "\"글로벌 증시 줄줄이 무너진다\" 경고음…JP모건 \"S&P500 최대 15% 하락\"",
-          "source": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZZ3J6S0dwdHdmOEJCY0JhYk9vYy1RZnVwbGY4eVkzUzVNV2pQSU5JSDdHWENPVi1xanBuMmRMRmxIMWFGOXhEVXBmRzBCVEU?oc=5",
-          "pubDate": "Mon, 16 Mar 2026 07:00:00 GMT"
         },
         {
           "headline": "비트코인, S&P 500과 동조 심화…역대급 하락 전조?",
@@ -245,12 +251,6 @@
           "source": "Investing.com 한국어",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcmJtcEVxaU4xelMxY1d1R0lEcHlkZUpkUmstVlhuSHo1TGtJcmFQSEJJb0FxNkwyaDlpWjV2NVctQlM0MG85UkQtUHhjZFVscjVURGF0dWI3T3hPVzVxTVVQSV9ObUdJWFprVFgwa0xpYUV4U3lnUTlhdkQzVWdNeW5mN1g?oc=5",
           "pubDate": "Thu, 02 Apr 2026 05:00:00 GMT"
-        },
-        {
-          "headline": "주간 시장 동향: S&P 500 하락세 종료, 5개월 만에 최대 주간 상승폭 기록",
-          "source": "Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNZ3g4ci1JcFZNN1pWNUJ1NGxDWHdaTmotMVRUMFZVLWdtMkpodGszUlA0ZnpoY0pWSXNzQWhoQks1S2dlRV85aEZSejJHZER2aGV5b3dienR6UnBUc2pyNDZTcl9uNExjalJ4MUNWOVdrMTV6ZWdnbVRHU2NYNEFBZ3loYzhBYkdudkRET1BOaE9PUnAxUk5hU3VVdHlldjhuTmxFR1hzN3N4a3Q0eHI2TnAxczJkTkVfWV94cjRNYlh1RHBkM19ITWM2bVNmOEJIcnh4NzRpeTRmSG9PemwwT1NfNjZwMWdSaVVYU2M4cXFjZGhBaWNhNE5ZWm9NMzVQYnJwOGJBTTN4ME1MTGpWdndOcnBPcGF0ME02bW1INlE1Ym1VbTlUeHljUkZSQnVPZVpYLWw1TFE5ZmQ2QkhLR0NITFJXSzA2alB2RXlB?oc=5",
-          "pubDate": "Thu, 02 Apr 2026 23:43:45 GMT"
         }
       ]
     },
@@ -264,16 +264,28 @@
           "pubDate": "Fri, 03 Apr 2026 01:18:14 GMT"
         },
         {
+          "headline": "코스피, 외국인 12거래일 만에 ‘사자’ 돌아서…5300대 회복",
+          "source": "한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5uVmhfSklhV0o0V0NpZDUweWFib1dWRkdQR0FRTDZqS2Y0ZXZoNmk4aHc3NHlMREF3UnpRU29HYi04RFBLMHdLbndPRnlVOS0xQ21DU2xvenNBdVFsdExJbDZTTHhCWVE?oc=5",
+          "pubDate": "Fri, 03 Apr 2026 12:28:00 GMT"
+        },
+        {
+          "headline": "코스피 장중 '호르무즈 해협 개방 기대' 5400선 상승, 원/달러 환율 1507.6원 출발",
+          "source": "비즈니스포스트",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1rLVpOLUdMR0VWcVVJd2w5Um9zbmxXdHlrVG8xcVBLRFlSb0pta0FxQTViTzQyVERpakViM1dhLVlZanFJa2hieURFaElHT2w0ZUwzSm1QcmpKeEFJWXpHcGd3ZDBielRNV19NZG4yVl9YdlE?oc=5",
+          "pubDate": "Fri, 03 Apr 2026 00:38:59 GMT"
+        },
+        {
+          "headline": "한투증권 \"4월 코스피 4,900∼5,700…비용 부담 견딜 산업 주목\"",
+          "source": "연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwd2pjU1lxTGxmRGV1WlJoZUxUbzYtQlNIWUtockE3VlZDaGgtU2pRNkRfTkxoTmpZdnVtSjVYbVBSSEl4Zk5LcVFBMkJOajFjZDdWM2ZOZEhpZGPSAWBBVV95cUxOb3dacUpOdDdVZlQ4V1FpSk1tSGdqRFI2Z1loYms3ZzQ1WEdVZkwxbWJnQ1ZBNzhKMHBKSF9PeG9kcnhyTGE3OVAtQUt4d3pBeEltMWpEZnZzVlhvczZoM28?oc=5",
+          "pubDate": "Sun, 05 Apr 2026 23:08:53 GMT"
+        },
+        {
           "headline": "“팔만큼 팔았나, 슬슬 돌아오는 분위기”…코스피 외국인 비중 36.2% 최저 찍고 반등",
           "source": "v.daum.net",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5YYTlmbVRadTJfNkRUOGZyME9rbVd1c0M0Z2NROFgwTnpjaUVXR3J4cWNSaHdhZ2tGNzdFSmdualA3TE5OTWszQ3lDdWJsR1E?oc=5",
           "pubDate": "Sun, 05 Apr 2026 02:30:00 GMT"
-        },
-        {
-          "headline": "3월 '중동 쇼크'에 가라앉은 코스피, 4월 '실적 모멘텀'으로 6천피 다시 볼까",
-          "source": "비즈니스포스트",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE52R2o2SGIzRm0tZWNnbHB2dUFDeTZKZFlzbXdzam1TMWhqRV9hdWtja0s1REs0NWpfYXN5QkZ5NW14OXpFRENzTDd4T2lmVHdUQkJESVZKVFc1djZsS2xTLVRLYVZaRUhkQ0dOY25jYTJlZjg?oc=5",
-          "pubDate": "Sat, 04 Apr 2026 21:00:00 GMT"
         },
         {
           "headline": "[마켓 ING]변동성에 흔들리는 코스피, 삼성전자가 살릴까",
@@ -283,7 +295,7 @@
         },
         {
           "headline": "코스피 5000 시대, 당신의 삶은 편안하신가요?",
-          "source": "pressian.com",
+          "source": "프레시안",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBlUjYyOWlKdVFZZ21wV3phbWhqTHNBQmlUOTlfR29ETmlLSVBqOGNZR3RadGtZbkZDd1NpbThHWlhtWE1qODZ2NHp3YldGSk1rU0Uwdy1MNndUZ1ZPeTllRVNJYnhJel9ELWFV?oc=5",
           "pubDate": "Sun, 05 Apr 2026 00:00:19 GMT"
         },
@@ -292,18 +304,6 @@
           "source": "데일리안",
           "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQUFVpdFVxRm5vOEpUajRJZ2UtbTM3SDNvZ0JLNmpsenlTME9aU3VMUWROQXNjZFNoNDdNZVdPRkcxQ3pDdzd3NEsxaU1UZUs1YXhNVi1KZm9jZWNJcUxQX0FRUXRHMVFoRDlaY3ZVcHdva0ViYUdjdm1lLW9xMy1VckI0Vm1CRzVyYTl0WGduLUhkYnhzWDVQQ1hwU1lHVm1KRFAwd0xMeUI3ZGNXZkZkZ3pUQmlaMFhKeWtTUHRyUHlTRGpnRDh5Rk5hZEVZYnVlUncxT0RCYUFRUGk2MHhELU5MUzRFOGtmSjludWhUQ2VlQ1NBOEZLcnZRVDFVaHI2bm530gGGAkFVX3lxTFA1Q2VhVU5TNklzRTNjYnZsUGJFT3hLUTFHSkwtbmtuQUx6eXJNZUtxNmNwUW5aSGVfRG9zS3l2YUhyVENkQU1WRTdYVXFacEV5NWsxUXZSTWllMUNPcTNvcW1vZmE4Z1FuZThQRlhPSW1kU3VkMVNiQTFvSVk1Q293dDlyQ01kVk8waGQ4MWh0RnRGajJOTmN6YWV6Mm9KMGFWZXl3S3NjYTRwRHlZQUFtcGlvMk5CYS0wdFVQRUNKU1d6d01Ib0E1R3BFN3h1bVdIbmR2WkpUdnJ1c2Q2SnlMMjBDblJkbmYyOWhabk95Rm55UWRKWDFTTXFwV2J5OGNJRXg1NFE?oc=5",
           "pubDate": "Sun, 05 Apr 2026 01:01:00 GMT"
-        },
-        {
-          "headline": "“팔 만큼 팔았다” 돌아온 외국인… 코스피 반등 열쇠 될까 [코주부]",
-          "source": "서울경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NTVl0Ql80V2lNR25LM19mN0hBMnlobDVUOHZYN3Y3N3hnVmwybDdCZjBaamVoNERnM2pxTTVDT05fV2RvdDhVLXdqZUNNNFltY2fSAVNBVV95cUxQVWYxQWlOcjBPSVlfVFpibkh1QUVEZUtWcFZBVnFxcUoxaU5ERFBCTUZOT01kbmU5RTdKVzk5N2syV2RWaWpUMnlsQ1VCYUJLQ2tLVQ?oc=5",
-          "pubDate": "Fri, 03 Apr 2026 21:56:00 GMT"
-        },
-        {
-          "headline": "\"최악의 경우엔 코스피 4400선까지 후퇴\"…증권가도 '돌변' [분석+]",
-          "source": "한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TTDhWakxxZXBTT0xzUFFhU3VXaVV1d3A3VzBtamZHRnpPMVVObVJrdWU4YzFqdi1nTHlfNzRTa0NSbUZuSm9KRkJaSE5Kc3JnNjdQUVZZYWJUd9IBVEFVX3lxTE5oMHo0dll1VkZFWVVndkpJR3BsLUhqSUpVMFFMcnlDOElVWDZYOGlhZEhxOXR3MzB4WmpYek93TTQ4TTBZSGplaWVJRlhWQml1dlhINw?oc=5",
-          "pubDate": "Thu, 02 Apr 2026 23:29:20 GMT"
         }
       ]
     },
@@ -318,7 +318,7 @@
         },
         {
           "headline": "BNK자산운용, 코스닥벤처펀드 출시…\"세제혜택·성장성 1석2조\"",
-          "source": "뉴스1",
+          "source": "news1.kr",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZS2tZUWYyY3lRMHN2UE5ESEFxeFdlUmx4QjV5N0NONUlsUFRDWDRLWTE3QWkwbGhmcFVsVFllQkoyekVtM1ppb3pnVHpMTU9GYkNBdGFCWENsWHdTNzBn?oc=5",
           "pubDate": "Fri, 03 Apr 2026 08:24:53 GMT"
         },
@@ -330,19 +330,19 @@
         },
         {
           "headline": "코스피·코스닥 동반 상승",
-          "source": "news.nate.com",
+          "source": "네이트",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1yN0JYSlpkT2FRNWo0WFRLUWdFdVNILTJ2dHNNdndLQjBnQWlhNk01ak5DWUZvUkJqcUpGRVY2MWVkR0dxRGhOYi1JTHJBNl83MzhKNklvaExVTnJuazRmd1NOZnlNSnRwZExQNE13?oc=5",
           "pubDate": "Fri, 03 Apr 2026 06:57:00 GMT"
         },
         {
           "headline": "'코스피·코스닥 동반 상승 출발'",
-          "source": "뉴스1",
+          "source": "news1.kr",
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Ud1E1dm5QWm13R3lRLUpMV2kxYnVTTWtEQ1FzVjlQcVlwMGpic2NrSG9KMlVhdGYtT3F5LS1EU0xsTWNIY3V5bXZmbw?oc=5",
           "pubDate": "Fri, 03 Apr 2026 00:26:55 GMT"
         },
         {
           "headline": "코스피·코스닥, 상승 마감",
-          "source": "뉴스1",
+          "source": "news1.kr",
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Wcl9QRVlSYTUtNEd3ZnRtV0NNbkUzbnpxbkN6Rm15TkJzRjU5cVdoTjdaRHNrT0FKd2pWTjF0VHZlTGRnVjlpRUVnRQ?oc=5",
           "pubDate": "Fri, 03 Apr 2026 06:46:53 GMT"
         },
@@ -370,16 +370,16 @@
           "pubDate": "Fri, 20 Feb 2026 08:00:00 GMT"
         },
         {
-          "headline": "AI가 뉴스 실시간 번역…전세계와 통한다",
-          "source": "서울경제",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLUFpRTHBpV0RZY3ltN1ZMRGRBZzdLekVaWGJzTW5ZeVVzUU81dldNMVNmSzdsTXhaTGVOVHZiU0hmTFVOR2dDcEdCWU43NU1XM1NZ0gFTQVVfeXFMUEtQWlFMcGlXRFljeW03VkxEZEFnN0t6RVpYYnNNbll5VXNRTzV2V00xU2ZLN2xNeFpMZU5UdmJTSGZMVU5HZ0NwR0JZTjc1TVczU1k?oc=5",
-          "pubDate": "Sun, 25 Jan 2026 08:00:00 GMT"
-        },
-        {
           "headline": "삼성전자(005930 KS) 전략적 전망: 주가는 매수 과잉 상태",
           "source": "Smartkarma",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUmdLMmRHVTREVTRBQ3FLNVpVbVpWc2I1elVVUEdIclNlSjJvOVI4TWtpSkg4eFBuLThOQjdlY1cwUVFsZlJvSGFLVXAzcmZ3WlctZ3VsMTQ5aUZ2R3B0d0tBdndKd3Q1eHVUODdGY2hFYmpvUUk2THlKX0Z1cVEzMWNUbUl5eFZEdHF0WHV1NXI5c1IwWmRGVWVDajhYVUVnOGFsUXpIdU9jQTRZX0E?oc=5",
           "pubDate": "Tue, 09 Dec 2025 08:00:00 GMT"
+        },
+        {
+          "headline": "AI가 뉴스 실시간 번역…전세계와 통한다",
+          "source": "서울경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBVlRhQXpSRjY4eVliQldNNVdBbmt6WTM5NDBIT2JDRjFfdlVxQ1RnZjRtREsybld3VDRmbWp0QVVyTUlFQlhfWDd2ZHl0ekVLUHfSAVNBVV95cUxQS1BaUUxwaVdEWWN5bTdWTERkQWc3S3pFWlhic01uWXlVc1FPNXZXTTFTZks3bE14WkxlTlR2YlNIZkxVTkdnQ3BHQllONzVNVzNTWQ?oc=5",
+          "pubDate": "Sun, 25 Jan 2026 08:00:00 GMT"
         },
         {
           "headline": "[AI의 종목 이야기] 아마존, 파이어폰 참패 후 10여년 만에 스마트폰 재도전",
@@ -447,22 +447,22 @@
           "pubDate": "Tue, 31 Mar 2026 16:16:17 GMT"
         },
         {
+          "headline": "애플(AAPL)주식, 26년에 더 강할 수 있다.",
+          "source": "네이버 프리미엄콘텐츠",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSm5WbGxDMHVyY2gybXVJQVZtYUJHVWs3SUhwX1FQYnVpSmJkUnZSTTdvNWVVdFg5QWFRcTZGakd2eWFub2xzSS1JQUpPemJNbjJMZXY0NENtc2dHZ0ZWYUZjeUd5emVEX3ozeFV3UFhNYnVWeXhPYzhXMG1VZWZIcENrZzJUblE4VzF3?oc=5",
+          "pubDate": "Wed, 14 Jan 2026 08:00:00 GMT"
+        },
+        {
           "headline": "AI 전략 우려 속 장기 성장 기대 부각…주가 상승",
           "source": "마켓인",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB4Zzc2NVlqcjRoeklWR0FXZU12ZnlzU3h2Z2w0SHlVeDk3QzE5Ql8yRW1hNERTMDB6bkEtNE9IckdNdWtLUEdNT0VWNFFpanFscVZiNEZPOXBQeFlpc3pycm04VHh1eTBhREdHQ09LTkh3LVU?oc=5",
           "pubDate": "Tue, 31 Mar 2026 19:13:52 GMT"
         },
         {
-          "headline": "애플 주식, 거품인가 기회인가",
-          "source": "Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNV29TNzlHWnRQTEVPVWwzZW40V0JuYTZ0dDRQb0QzeWFwRl9qRFRlcTV2YTFBUEM5elF1Wm4tTHV1ZlBpT0dTTENHN2RVMlVlMVFUNTJpVkhtTEYxN2ttb2JEbVM2MUk0Q3ZtVk9TRy0tNjBxQjAxVkFoTktQV04wQzFxN1U4SHpFNUpEVThFMllKSkgxOUJZeW90Nk5qYms1d3BTV3IwZGJWUFIxM2JXVG1yMFBwOC1TbjhFdlFsTTJvaEMxVVZ0bGVSRFBqdFYxMGlRQzdUWUd3UDNuVHNWdTVwM1hKbWY2?oc=5",
-          "pubDate": "Fri, 03 Apr 2026 05:14:07 GMT"
-        },
-        {
-          "headline": "“비쌀수록 더 잘 팔린다” 아이폰17 패널 출하 증가···’프리미엄 몰림’ 가속화",
-          "source": "Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPNG1pUE96c2NXcTcxc0lELU1oX01rUjNZcU5tNVNFWHdmWG93ODlSek5yVTRyRzlsak9CTThTNG85dFhkbXpvemVRSkhZc1FxY0dzbHRDYXRGTEs1Rk5YbEtBbzBRWWVuRUZqRUJQbDRneVNZbTR1ZTAxVU1BUlVOMl9mNkhlNUtLWTJlc1JEZkZvdm5sV3hRalJSaWg0ZlJxdGlhcFpJekt6UUZ4Qm9iMmZRX1F0TkxjWlk5dS1FekI5TDZhWEVqdDlFbXRaamNMZjVIdjFNUkdvQ1JaTTAwRjQ4bDJ0eEpFTDc0bXNsbWRHdFYtc1VpbW1YQUdSdUVtY2ZnOEZ0TmplcVp6QlVuLWVYQm1RVDJRNzJEUFJoQnBFNDBVR0lzdzFQZS1ZRWFNMkR0dE5WTQ?oc=5",
-          "pubDate": "Wed, 01 Apr 2026 11:41:15 GMT"
+          "headline": "2026년, 월가는 애플(AAPL)을 뽑았다.",
+          "source": "네이버 프리미엄콘텐츠",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOWV5R3NrSEd3MlpQUUJ3WkpPb3dBOTFoRFUzNVkwU0RyQUloSkFOUzhydDJfanYwYzJ6MUVOeTdtNUtGdnRCUkZYMlpQZkN5dzlqa2M3WUFzaGNBUllublVjNzY5bU5pV3pPVFltVlpQQ1FqYllMSGtJWFJfbDFVeFBlSm5aWmxJTTg0?oc=5",
+          "pubDate": "Sun, 04 Jan 2026 08:00:00 GMT"
         }
       ]
     },
@@ -629,10 +629,16 @@
       "query": "TSLA",
       "items": [
         {
-          "headline": "TSLA|Tesla Inc|가격:360.590|Chg%:-20.67",
-          "source": "TradingKey",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ackVnOXEtckRacEYzZm5BYTJjRVplazJwaEVURmwwakdZZXBnMUxnSTQzdHhVVkp2b2pka19pdzByQ2otb2F1T3BybFVRX25GSFZHZ0tzSjJxcXNvLUJVMGhTVklGSGM?oc=5",
-          "pubDate": "Sun, 05 Apr 2026 13:02:25 GMT"
+          "headline": "테슬라(TSLA.N) 1분기 판매 예상치 하회..자동차·에너지 수익성 방어 우선",
+          "source": "알파경제",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JOGVDWTRKQUpuN3R5WGI4RmpzdEhXNWNwLTRpcE5IM2NWOFU1alBpUWFRTGZBdGRlQUxfMkZHZEJmZ1V1RnpONFQxMW9CbVp0am4tMmhfNnNjSjdLTlHSAW5BVV95cUxQekNUSmswd3duSEVQd1BQUkY5Z21wbU54VzhmRzZqSEpSbktZREpTMzVrbmVSNmZ0bkdzLVlmcjhpVnhXNmhOY0xmNDNManI5TXlKQTdYZWhZVlVPX2hKaFFpRHFUcFNhMjVGZnZaZw?oc=5",
+          "pubDate": "Sun, 05 Apr 2026 23:37:22 GMT"
+        },
+        {
+          "headline": "\"여보, 테슬라 차 안 팔린다며?\"… 인도량 쇼크 덮은 '3000조 우주선'에 버티는 40대 [가장의 은퇴시계]",
+          "source": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6NlZsTmxTM0xyRDhKVTBxdmZTaEc5NWF0RXU3am05ZGNac2gwZVdxaFF5MnhUdDZDTElIaks4eEotakJ1cFc2SVBXSlZoaGM?oc=5",
+          "pubDate": "Sun, 05 Apr 2026 08:01:29 GMT"
         },
         {
           "headline": "투자자들이 테슬라(TSLA)의 1분기 미스, 재고 축적 및 AI 피벗에 대응하는 방법",
@@ -647,12 +653,6 @@
           "pubDate": "Sun, 05 Apr 2026 14:46:02 GMT"
         },
         {
-          "headline": "테슬라(TSLA.O), 전기차 인도량 감소 지속…美 전기차 세액공제 종료 여파",
-          "source": "알파경제",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAtTTg3S05nVzlKSm1laUJ1VkZncWZsalNnUThDNWZaNm9aWXZUTkJ2U0R3WE9XblBkTnBUX1VwbzJpV1dGZDJoRm1tdDNzY0dIbDU5ZmFBSG1hZnlCTTFScWxEQ0F1Sjk3eXB6M1dB0gFuQVVfeXFMUC1NODdLTmdXOUpKbWVpQnVWRmdxZmxqU2dROEM1Zlo2b1pZdlROQnZTRHdYT1duUGROcFRfVXBvMmlXV0ZkMmhGbW10M3NjR0hsNTlmYUFIbWFmeUJNMVJxbERDQXVKOTd5cHozV0E?oc=5",
-          "pubDate": "Thu, 02 Apr 2026 22:31:11 GMT"
-        },
-        {
           "headline": "테슬라, 1분기 차량 인도·생산 예상치 밑돌자 주가 5%↓",
           "source": "연합인포맥스",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16S3RYN0dfajh1UFlFa1BmMld3U0FoTkJOczhNTUN5Q1Vjb2dpV2hIQk5iVldFbXh5b0VtWEdCZkpmaHlaNlpIaEtiNVRaLVVvTnJIemJwQk1BdGtsanB4UXMwR3dHWTM2N3IzSWxsck8?oc=5",
@@ -665,16 +665,16 @@
           "pubDate": "Fri, 03 Apr 2026 12:28:19 GMT"
         },
         {
+          "headline": "Tesla Inc (TSLA) 주식 움직였습니다 상승 3.66%에 3월31일: 핵심 원인 공개",
+          "source": "TradingKey",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWUxhMks4MWxlMnBCZEdFdTNpeFRZLUxRV0FXVmdFRXUxQjJ2SFcta3FlZXc5SjdGby16TUdGRDZtcl95aHdYMmVBMVVnMHdRQlVQOFl5QzFxaTlhaXp0VFUyQlJWbG9fYzREZzFDQ2xSWlZTTkRlTXpOWTZLU0FCUk1oUjYwaTBCOFAzbVFYRQ?oc=5",
+          "pubDate": "Tue, 31 Mar 2026 18:17:59 GMT"
+        },
+        {
           "headline": "테슬라, 1분기 인도량 시장 기대 못미쳐…3%대 하락",
           "source": "마켓인",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1udFNWTGJodlVyalplQnFzZXRlX0NPZWVoRGlMa1hqSFVRMnYtS05JSmNMTkllbUNQcGx6cU92cVYxMENaNGRSUEZBV0VOU2JKUFVKbGVDcElLcFA1RDk1cGhKWmk5NnpCdGpLbExMRVUzZTA?oc=5",
           "pubDate": "Thu, 02 Apr 2026 13:48:49 GMT"
-        },
-        {
-          "headline": "테슬라-스페이스X 합병시 '과도한 세금'…국회 청원 나선 서학개미",
-          "source": "뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsRWRscEJBRHdBZ3FES2ptME5xd3BIMXFzR19oZG1id2xscE5TcmVBazJRa09BUnRPck5EeHpPQTZfYnlPNXdKdm5QZVNkM1FjcHZFNUpXQkExUl9nU0Y4?oc=5",
-          "pubDate": "Wed, 01 Apr 2026 02:28:24 GMT"
         }
       ]
     }
