@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-10T14:39:59.576Z",
+  "updatedAt": "2026-04-10T15:34:10.584Z",
   "watchlist": [
     "005930.KS",
     "AAPL",
@@ -28,12 +28,12 @@
       "symbol": "AAPL",
       "resolvedSymbol": "AAPL.US",
       "date": "2026-04-10",
-      "time": "16:24:51",
-      "close": "261.43",
+      "time": "17:19:02",
+      "close": "261.66",
       "open": "259.94",
-      "high": "261.85",
+      "high": "262.19",
       "low": "259.07",
-      "volume": "3327260",
+      "volume": "5299212",
       "ok": true,
       "error": null
     },
@@ -42,12 +42,12 @@
       "symbol": "GOOGL",
       "resolvedSymbol": "GOOGL.US",
       "date": "2026-04-10",
-      "time": "16:24:51",
-      "close": "319.64",
+      "time": "17:19:01",
+      "close": "319.17",
       "open": "320.015",
       "high": "321.83",
-      "low": "318.75",
-      "volume": "2426462",
+      "low": "318.28",
+      "volume": "3623679",
       "ok": true,
       "error": null
     },
@@ -56,12 +56,12 @@
       "symbol": "MSFT",
       "resolvedSymbol": "MSFT.US",
       "date": "2026-04-10",
-      "time": "16:24:52",
-      "close": "373.68",
+      "time": "17:19:01",
+      "close": "373.24",
       "open": "372.98",
       "high": "375.64",
       "low": "371.1",
-      "volume": "4404827",
+      "volume": "6824411",
       "ok": true,
       "error": null
     },
@@ -70,12 +70,12 @@
       "symbol": "NVDA",
       "resolvedSymbol": "NVDA.US",
       "date": "2026-04-10",
-      "time": "16:24:51",
-      "close": "187.5599",
+      "time": "17:19:03",
+      "close": "189.5",
       "open": "184.31",
-      "high": "187.92",
+      "high": "189.6291",
       "low": "184.31",
-      "volume": "29735264",
+      "volume": "53855335",
       "ok": true,
       "error": null
     },
@@ -84,12 +84,12 @@
       "symbol": "TSLA",
       "resolvedSymbol": "TSLA.US",
       "date": "2026-04-10",
-      "time": "16:24:52",
-      "close": "346.484",
+      "time": "17:19:03",
+      "close": "346.06",
       "open": "346.285",
       "high": "350.36",
       "low": "344.63",
-      "volume": "9828615",
+      "volume": "15289850",
       "ok": true,
       "error": null
     }
@@ -117,6 +117,18 @@
           "pubDate": "Thu, 09 Apr 2026 00:36:08 GMT"
         },
         {
+          "headline": "이달초 서학개미 美주식 순매도 전환…지루한 미국증시·고환율 영향?",
+          "source": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE82ZTBaZ2JDdkdxSl9VbVhzRU96ZXBFQTRNM05XSmVkRjVXeU1KOUZQOTVLbS1keTg5aGdMeXdCNXFhUGh2RDk2UWpKVzNBcXM?oc=5",
+          "pubDate": "Mon, 06 Apr 2026 05:33:03 GMT"
+        },
+        {
+          "headline": "미국증시 마감 60분 前...항공·크루즈·빅테크·반도체장비주 '활짝'",
+          "source": "초이스경제",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5qdXFXdnI5cDRrS1gzSy1IRC1Ybzc1eVRDSWVONEJoS1FtcG0weFRyQk1JM0xxQVYwOVIxTlJZbWJLRGZFUlNneXkzb01kS2ExNkRBX3Y4U2wyM3ZRUWpSel9LSGxjUVA0aDZ2Q2s5UdIBc0FVX3lxTE9XUEJEVDJXeHdmY1c0SExhYUo1NGF5NFR2ZEprcnkyS2dRQWpMU3JTNUNMZkI5U1ZqQ2xMUTlmUkNIVVZ1dGozRy1WaUR2SDV1emd4N3dFTGVNeVpSMmdwcXhGdHZFLTFNSFpjVmlDZWQ1eUU?oc=5",
+          "pubDate": "Wed, 08 Apr 2026 19:32:20 GMT"
+        },
+        {
           "headline": "코스피 '미국·이란 휴전 기대감 지속' 장중 상승 5850선, 원/달러 환율은 1475원대 하락 출발",
           "source": "비즈니스포스트",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9mcW43V19tSVQ4bWlqVThacGswWnQyX1ZfSXZvWmVXQ3BEbjBoMTd6TFBLTTlMSXpnVjExMkJVOURHRW9VY2FfY2xYU1hMQzRlYnhuOTRZMld2YVpTODNoRUpLaktrU2hqT0hkSnFDSndlMVU?oc=5",
@@ -133,18 +145,6 @@
           "source": "네이트",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zSWNnRzdGTzVnZ2dOYmQ3NVlhX08zYmZ4Wkl3M3hlV3VfTVZQVEFpX09mT3gwZ1dPVUc2aFREZExBM2FqdThmdHMxellLYnFRMkJv?oc=5",
           "pubDate": "Thu, 09 Apr 2026 23:49:00 GMT"
-        },
-        {
-          "headline": "거래소, 미래에셋운용 '미국우주테크' 등 ETF 5종 상장",
-          "source": "매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MT1BNYmlDYjVDMWo5MWhiclBhUXNTUXZMcVJtUjI4UmJrMGxyVU1zaU5PU1NkalB5RW9JR045NkZKQmZUS2FleGRIQWZwZk0zYWc?oc=5",
-          "pubDate": "Fri, 10 Apr 2026 07:54:37 GMT"
-        },
-        {
-          "headline": "미국증시 전망, 언제 저가 매수에 들어가야할까?",
-          "source": "네이버 프리미엄콘텐츠",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaHRhQ2NKcEc5UDd2eUlRUk9QdkVtV0hKaEVYOHdRMFZtNWRXZ2ZEZUlQdmxzZVBsU2otdFpyMVE3a3N0b0ZrR3ozVG8tUTY4R3QtSHQyc3oteDg4eVMycTBZWVNQbUZyX3lDR2pUcWVWanl2QktrQTBabGxWb2wyOVVyVQ?oc=5",
-          "pubDate": "Sat, 14 Mar 2026 07:00:00 GMT"
         }
       ]
     },
@@ -229,16 +229,16 @@
           "pubDate": "Wed, 08 Apr 2026 23:11:00 GMT"
         },
         {
-          "headline": "케이시스제너럴스토어스, S&P500지수 편입 예정",
-          "source": "마켓인",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJWTFnTi1JZFhnWHZRejRTbi1wTlk1bGdGSnZ5ektpNXo1bkw3cThCN21HOVdRUHhqbl9Ra0lMWlgzbGRmOUNqOGtPLU5MUmdWRjRJUWRwSWVHN0lJOWlvRTQ4eklLbEw0SDg2cWJMT1hVYzA?oc=5",
-          "pubDate": "Tue, 07 Apr 2026 14:42:56 GMT"
-        },
-        {
           "headline": "골드만, 다음 주 CTA S&P500 주식 340억 달러 매수 전망 By Investing.com",
           "source": "Investing.com 한국어",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51ME41NTBWQ0sybzNKSlptZk9YZ1NmSDZBRjJpT3ctdDk5LUlhcmI5YnFJVS0waWJCYkc4RlNnV1lqT1hJMUs5V25kWG0ySlRxamxfbEFzOHFXcTI1ekdaZjVTalFiZWp0MVBUUEJZOVpRV2NT?oc=5",
           "pubDate": "Thu, 09 Apr 2026 17:04:00 GMT"
+        },
+        {
+          "headline": "월가 전문가 \"S&P500지수, 내년 20~35% 하락할 수도\"",
+          "source": "연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWdkJaYldwVUNRU0Z5RGJMU2kwaTE2NTlSQnZscEJQV1FDWWZvbGNUTHpsaFhxbU1EYzNJeDFrbHduSzdSdktxT0tlTEFEZldJaTVkTVFXQzRDdlZ2alpzRm5WV2w0UEtSLVVzV1FUdU3SAXRBVV95cUxNdUtXY2pJUVpTRnQ2dDBKX1NkWEMxZnZaU2JYR2RMcmk3WjdpVnVKVG5idWU4TVNhdFo4UmtSR01iZzI1ZWxiOF9xZ1JBZmdSRi11WHVwUlNROTlrU014TmhnS3ctazZlSzZsOTViQ3JpMldjRQ?oc=5",
+          "pubDate": "Thu, 19 Mar 2026 07:00:00 GMT"
         },
         {
           "headline": "뉴욕증시, 휴전 낙관론에 이틀째 상승…S&P 500 '7일 랠리'",
@@ -247,10 +247,10 @@
           "pubDate": "Thu, 09 Apr 2026 23:51:28 GMT"
         },
         {
-          "headline": "월가 전문가 \"S&P500지수, 내년 20~35% 하락할 수도\"",
-          "source": "연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWdkJaYldwVUNRU0Z5RGJMU2kwaTE2NTlSQnZscEJQV1FDWWZvbGNUTHpsaFhxbU1EYzNJeDFrbHduSzdSdktxT0tlTEFEZldJaTVkTVFXQzRDdlZ2alpzRm5WV2w0UEtSLVVzV1FUdU3SAXRBVV95cUxNdUtXY2pJUVpTRnQ2dDBKX1NkWEMxZnZaU2JYR2RMcmk3WjdpVnVKVG5idWU4TVNhdFo4UmtSR01iZzI1ZWxiOF9xZ1JBZmdSRi11WHVwUlNROTlrU014TmhnS3ctazZlSzZsOTViQ3JpMldjRQ?oc=5",
-          "pubDate": "Thu, 19 Mar 2026 07:00:00 GMT"
+          "headline": "가스 가격으로 살펴본 S&P500 방향성 [오대정의 경제지표 읽기]",
+          "source": "한경매거진&북",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KZWR5a2ZOYXJCdjRBTkY1VlhIbnM2M28tenljMDRPd2llaEdHMVpyTEFjQTNVeXNmNUQ3Wk5hRHVuV0J4VjQ5TGVpclpEU01tanEzaXIyMzBwOFVxUDlWMVYtMUZMbWJfZFlpZQ?oc=5",
+          "pubDate": "Sun, 29 Mar 2026 14:02:00 GMT"
         }
       ]
     },
@@ -258,10 +258,10 @@
       "query": "KOSPI",
       "items": [
         {
-          "headline": "휴전 기대감, 코스피·코스닥 동반 상승…외인 1.1조 순매수[시황종합]",
-          "source": "뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE56dVdPTnRSSFV5eG9ubF9TUlJwd2Z3V0s4aW9VZjBVekZhbjNVMlcwWGxXVWxmNjZzR01mU2pTcTBsV0pLMTU0a3dxZzFJbWdFdk9pbVg1d1JKUjM3NVpV?oc=5",
-          "pubDate": "Fri, 10 Apr 2026 07:19:13 GMT"
+          "headline": "코스피, 美·이란 대면협상 기대에 1.4% 반등…5850선 회복",
+          "source": "전자신문",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1jb0xKRzRXdmdqMHFjLUVQTU9DTmVfYk55MG9DaU1mYWp6bGNKeE5UWW9hRFQtcDkxTUliYzZtT010a1lNUUtkTktJODJadw?oc=5",
+          "pubDate": "Fri, 10 Apr 2026 06:48:20 GMT"
         },
         {
           "headline": "코스피 등 54개사 상장폐지 위기...한계기업 퇴출 빨라진다",
@@ -300,10 +300,10 @@
           "pubDate": "Fri, 10 Apr 2026 07:51:13 GMT"
         },
         {
-          "headline": "코스피, 5858.87 마감, 1.40%↑…“외국인 1.1조원 순매수”",
-          "source": "mstoday.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ITU5DbjljXzZKRTlyZG9SbVhMblV6b0NzaEFLbmhpUC1PTjJHdlZKU1FEeG9xYTZYeFAxczhqNktfTVFDeHctVlB4Wkk1OG9DSzlwanprZldMUE52bWlNVDJHZUltR05wNWRJbDh3?oc=5",
-          "pubDate": "Fri, 10 Apr 2026 07:18:57 GMT"
+          "headline": "KOSPI Rises 1.4% Ahead of US–Iran Peace Talks, KRW Steady",
+          "source": "한국면세뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Xc3hneEVSZ2x2bF9uQ1VxOXVXWUJlQ3oyOVM1ejhsQXozY0c2N3A5YnBzd25Ybl8tVzI1ZGVySXZRcEI2VFJEN3lZVkRpdFNpT1JpLWRMUXEwaVJiektCWHdOcWFEeFVYdXc?oc=5",
+          "pubDate": "Fri, 10 Apr 2026 15:05:00 GMT"
         }
       ]
     },
@@ -523,10 +523,10 @@
       "query": "MSFT",
       "items": [
         {
-          "headline": "MSFT|Microsoft Corp|가격:372.940|Chg%:-0.13",
+          "headline": "MSFT|Microsoft Corp|가격:372.415|Chg%:-0.66",
           "source": "TradingKey",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PbHZQdC1NZnB3dzBzZ2pVUnkyS2RmNU9UbXlEeHFGS0lrSVB3UEJCUk1yQk80UWxSVzhuRUt4SGdnbEtoUU5hV0FQTll2N0pRTkU3Wk1MbGI2bEl1MDQxSXBvRFlNS2M?oc=5",
-          "pubDate": "Fri, 10 Apr 2026 11:08:50 GMT"
+          "pubDate": "Fri, 10 Apr 2026 11:07:20 GMT"
         },
         {
           "headline": "마이크로소프트(MSFT.N), 역대 최대 100억 달러 일본 AI 투자..애저 생태계 확장",
@@ -629,16 +629,16 @@
       "query": "TSLA",
       "items": [
         {
-          "headline": "돈나무 언니, 테슬라·로빈후드 주가 하락 틈타 '줍줍'",
-          "source": "연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4M2oxM1lhbFJEZDQyY3Z1bjY0ZVZfUWttY29KUGNGZXM4aHVBWnh6eEpua010cDV4MWRFMkJ4Tmd3VHBTMGtJRi11ZDBWM1M1WFFza0JnYjdVMlh6SDBDcXp0MW1LamhTY0o5MnB3SzbSAXRBVV95cUxNQmNiQXliYmJVQmUxU2pZMjYtM2JtRldyTmF0cWpXVE9zSmMzaDk2bDZmenNnRTlYR0NPWGpMdlJRZ1JIVmZTODVBY3NPSS1DQkpDWUdfb1drejhJWUMyckVjcEdWc1o3MTN5OEtLWVRuVFpqcQ?oc=5",
-          "pubDate": "Fri, 10 Apr 2026 07:32:53 GMT"
-        },
-        {
           "headline": "테슬라(TSLA.O), ′저가형 소형 전기차′ 개발 추진…제품 라인업 재편 기대",
           "source": "알파경제",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAxcFJuZG1oMDk4Z2ZFUnpoQmhOdXNmTEJTNS1GNXFIakpMTGc3WG9WNkY1bkIwSTR6RUJiR09yT2doa3VlTG9mc2RZSU41Qk1vczRrd2IzWHBNNmZXb05JSUpELVrSAW5BVV95cUxQN0gwSlVVQkEtbGUzcHRGam83RnlLY05DWGYzVEltcnl5WUstTDVsNXJPZVVkZ25OME9pNEFaV1JWendJQ2tmR09CSEtnWWhTZnNnenMxbzY2c0V4MjcyRkxLVWJGZWlvcUg4M2dudw?oc=5",
           "pubDate": "Fri, 10 Apr 2026 00:30:53 GMT"
+        },
+        {
+          "headline": "돈나무 언니, 테슬라·로빈후드 주가 하락 틈타 '줍줍'",
+          "source": "연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4M2oxM1lhbFJEZDQyY3Z1bjY0ZVZfUWttY29KUGNGZXM4aHVBWnh6eEpua010cDV4MWRFMkJ4Tmd3VHBTMGtJRi11ZDBWM1M1WFFza0JnYjdVMlh6SDBDcXp0MW1LamhTY0o5MnB3SzbSAXRBVV95cUxNQmNiQXliYmJVQmUxU2pZMjYtM2JtRldyTmF0cWpXVE9zSmMzaDk2bDZmenNnRTlYR0NPWGpMdlJRZ1JIVmZTODVBY3NPSS1DQkpDWUdfb1drejhJWUMyckVjcEdWc1o3MTN5OEtLWVRuVFpqcQ?oc=5",
+          "pubDate": "Fri, 10 Apr 2026 07:32:53 GMT"
         },
         {
           "headline": "게리 블랙 “테슬라 주가 8주째 하락은 ‘본업 부진’ 탓···몸값 70%는 여전히 전기차”",
@@ -647,16 +647,16 @@
           "pubDate": "Fri, 10 Apr 2026 04:57:16 GMT"
         },
         {
-          "headline": "Tesla 주가 전망: TSLA가 1.02% 상승하며 $342.00–$355.00 구간에 주목",
-          "source": "Traders Union",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUXlNbHZ4NlhhdHFyeDRWQkhCU0thaDc0MXExbjF0anFXeFdPblNMMmRpZzIxTV8yUnZ3V09tdDVXWEhJeWlURElpQllvNG9NbVZ5Q25rN2M1VUo0WnRLRGNlYWxaUVB0a1d3X1JnQWRUVnAxb1lwVW9OUXRBaExlWHdGSzhVbmNhejk4ZHJaUVprSjZLWUpLZ1A5NTY3WXM?oc=5",
-          "pubDate": "Thu, 09 Apr 2026 18:19:15 GMT"
-        },
-        {
           "headline": "Tesla Inc (TSLA) 주식 분석 & 의견",
           "source": "Investing.com 한국어",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtRFNsY2ZVOU1IalVvQ25UbVJrWXQxNWFna214YnJRUUxYSzlRM1Y0ZFJlTnBUeTY3eHN3WmVHYmI5OVlmdWl3dXBpcVd5NFgyTDZ1eklwVDNOeXdEREFHOWFJZTVMTkdTekE?oc=5",
           "pubDate": "Thu, 09 Apr 2026 13:56:29 GMT"
+        },
+        {
+          "headline": "Tesla 주가 전망: TSLA가 1.02% 상승하며 $342.00–$355.00 구간에 주목",
+          "source": "Traders Union",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUXlNbHZ4NlhhdHFyeDRWQkhCU0thaDc0MXExbjF0anFXeFdPblNMMmRpZzIxTV8yUnZ3V09tdDVXWEhJeWlURElpQllvNG9NbVZ5Q25rN2M1VUo0WnRLRGNlYWxaUVB0a1d3X1JnQWRUVnAxb1lwVW9OUXRBaExlWHdGSzhVbmNhejk4ZHJaUVprSjZLWUpLZ1A5NTY3WXM?oc=5",
+          "pubDate": "Thu, 09 Apr 2026 18:19:15 GMT"
         },
         {
           "headline": "[美특징주]테슬라, 저가형 EV 출시에 월가 \"마진 악화 우려\"",
@@ -671,10 +671,10 @@
           "pubDate": "Mon, 06 Apr 2026 18:16:46 GMT"
         },
         {
-          "headline": "공매도 투자자 짐 차노스, 테슬라 매도 압력에 \"누가 들고 있겠나\"",
-          "source": "Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNb1hpQ0pUR25BcEY3U2dpcG50NWt6VHVmdE5sMGZTSTZfeVc2V25VMVd1elRuc1k0b2FyNHBacjI0NHladjVLYk83bFdsQU1lYkw4cDNrMldwZ1puOWRRblVWNGRQSDI4TElnN1hyYkVoQXNBcHE2YzNBMDVSLUZLbDM5YklRNGotbkJMQ09WVWU2T05oUUp3OXQ3aG5fcXh2QkM2VVIzUXM0SHhlQ3JjcVhUYVdwTlJkd1MxRHlsZ0JjN3lRUmVIT1FkSDI2ZFAxVElwOEpYQ3J4UEEta29IWGdXOHJzZ0t5OVo3THBISlFnb1kxUVJHcVFWMGRGZXpXa1F4TEFaLW9WZ09VbTZZOHZ2SkV2SWVtcF9PdlZ1cF9tSXVOTUdOa01Gc2hVclhqV3JnaHNiZHdBRVpIU2VqdzJuTUhVenBXNnZDaUZwcU9CcE1WdG9OUjllQXR2TGp6Z2dDbw?oc=5",
-          "pubDate": "Fri, 10 Apr 2026 08:29:44 GMT"
+          "headline": "테슬라 주식을 매수하는 이유 : 인도량 + ESS 비밀 분석",
+          "source": "네이버 프리미엄콘텐츠",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOXM4WWpFSWoyaWRYQUFhNFdsdFVMcnF6QUFBbEItT3YyLUJ1cTJjWW9fSDZRTmE3S25UY1REdGlNOWJ2NFJoZVlsQmlYZjdjQVBhRklBOGhDeUFncDVsVTBVOFk2ZVF6YTNLZGwtU01naXBveUJnTVpkSGdZZmxYSnJjSkZrMkdEVk1j?oc=5",
+          "pubDate": "Sat, 04 Apr 2026 07:46:00 GMT"
         }
       ]
     }
