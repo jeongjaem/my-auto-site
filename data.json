@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-11T14:19:56.461Z",
+  "updatedAt": "2026-04-11T14:58:45.241Z",
   "watchlist": [
     "005930.KS",
     "AAPL",
@@ -123,16 +123,16 @@
           "pubDate": "Sat, 11 Apr 2026 04:30:23 GMT"
         },
         {
-          "headline": "CPI 급등, 미증시 나스닥 제외 일제 하락…다우 0.56%↓(상보)",
-          "source": "뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBDUVZfanl6OG00Q25mR00zU0p2dUU0Zk9adGdJMHlWZXp1MDNJdzAwdlpud3JWX3lzT0hzN1BKdTVSS0pVSnU4YjNvZWZRd0RsV0VxNVlGbDc?oc=5",
-          "pubDate": "Fri, 10 Apr 2026 20:33:46 GMT"
-        },
-        {
           "headline": "이달초 서학개미 美주식 순매도 전환…지루한 미국증시·고환율 영향?",
           "source": "v.daum.net",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE82ZTBaZ2JDdkdxSl9VbVhzRU96ZXBFQTRNM05XSmVkRjVXeU1KOUZQOTVLbS1keTg5aGdMeXdCNXFhUGh2RDk2UWpKVzNBcXM?oc=5",
           "pubDate": "Mon, 06 Apr 2026 05:33:03 GMT"
+        },
+        {
+          "headline": "CPI 급등, 미증시 나스닥 제외 일제 하락…다우 0.56%↓(상보)",
+          "source": "뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBDUVZfanl6OG00Q25mR00zU0p2dUU0Zk9adGdJMHlWZXp1MDNJdzAwdlpud3JWX3lzT0hzN1BKdTVSS0pVSnU4YjNvZWZRd0RsV0VxNVlGbDc?oc=5",
+          "pubDate": "Fri, 10 Apr 2026 20:33:46 GMT"
         },
         {
           "headline": "이어진 휴전 안도감, 뉴욕증시 상승↑",
@@ -152,22 +152,10 @@
       "query": "나스닥",
       "items": [
         {
-          "headline": "뉴욕증시, 美·이란 협상 앞두고 혼조…나스닥만 상승",
-          "source": "조선비즈",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNzZDTU1SYmJRYlFMUXEwdlVzUzc3SG1zcHE3Y2hnNllMOFN2UjRwenhJc1habkpJMzFkLTVQYWQ3NzVLZTh1U1RaTDY2OXJWUzIxbFdad21JSjB6R1ROVXBDQVo2VVUyc1B5TW9qMTNJMkhBWlY1djd4aUxZc3lBR2ZMdnM2WDJ0dEJmcFc4Rk5jRGNWQUdwOFRMMy1sQdIBsgFBVV95cUxOVG1hMS1xc2RZZmJ0MzRqQnctenFIS3FHbFBqd3dYUmtfMS1PTUdBMWNlc2FEXzY3MmhfRC0xazVhdXQwRkJzNUdMRElNd0JWQkpTd2ZBYmlWUkk4RDhoNk1uSHRFSlRVUGh6cmxIN3F1YXdKV1lSVzBlSnFPNlcyUXNwNjQzemNwTlVUWU1aU3FSRjVIU2VRTHdaY1gyYjhMNGMtSkVXczNOSW1mUndYQTFn?oc=5",
-          "pubDate": "Sat, 11 Apr 2026 00:17:00 GMT"
-        },
-        {
-          "headline": "젯AI, 200대1 액면병합 단행..나스닥 상장 유지 위해",
-          "source": "매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oQnl4RmYwVjN5dWdrUjI4OXlGRTdFd0dsd0dYemRjNzdLS3dJalhLaTQxMWtqbjJTTWNNcDdwaWM4d2psNGJWeFRyVjRIelgycFE?oc=5",
-          "pubDate": "Fri, 10 Apr 2026 20:32:47 GMT"
-        },
-        {
-          "headline": "[해외시황] 뉴욕증시, 물가 부담·협상 경계에 '혼조'…나스닥 0.35%↑",
-          "source": "프라임경제",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83SjFLeWZraVdubFFRMDZ6b0twUXcwUU5RQmdGOHRfaENEMGc0Mjg3c2l1RWlUblhBQ2tibUx3RXJyVDVSem9zekRobzBpWmJ4c2pWRG5adjVXcC1ueTNHWDBlbVg0WWlUMXBnWQ?oc=5",
-          "pubDate": "Sat, 11 Apr 2026 01:50:57 GMT"
+          "headline": "뉴욕 증시, 美·이란 휴전 지속에 상승 마감…나스닥 0.83% ↑",
+          "source": "뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qQVRFZkN6ZW80ZkpKdmVwemlTSDYwRlZlMmE5Y1ZJZFlaWlpIV21VVmF6SWx1dXVfNE1jM1RBa1dvTnFMbm5RX3Z6ajFJcWFiNFRHN2NtRWhQeXA3bGRUUdIBeEFVX3lxTE5ELXNJWm1UZGgzSnRqVnBfbF9QUkh6Y084MncyNlNlNkJSTU94M2FHTTZDcTFNTzRWTjgydzYtZ0xyTzFwdGRIcGZKLXM0UGhMTHMyX1A0NUhFLVZrRHAwX0lNS2xmekNVQUI5NXIwVGFQaHh4eUJNQg?oc=5",
+          "pubDate": "Thu, 09 Apr 2026 20:21:31 GMT"
         },
         {
           "headline": "뉴욕증시, S&P500·다우존스 하락…주간으로는 3% 넘게 급등",
@@ -176,28 +164,40 @@
           "pubDate": "Fri, 10 Apr 2026 21:09:59 GMT"
         },
         {
+          "headline": "CPI 급등, 미증시 나스닥 제외 일제 하락…다우 0.56%↓(상보)",
+          "source": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44VXJOTW5sSjJTM2szY2JvY0d6MU1vc3NYbmZUTDlHM0s5a2hyM1hfS1VzQWF1WEpHTVctX21RM1hYazFIUjJzazhwT0R1bms?oc=5",
+          "pubDate": "Fri, 10 Apr 2026 20:35:25 GMT"
+        },
+        {
+          "headline": "젯AI, 200대1 액면병합 단행..나스닥 상장 유지 위해",
+          "source": "매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oQnl4RmYwVjN5dWdrUjI4OXlGRTdFd0dsd0dYemRjNzdLS3dJalhLaTQxMWtqbjJTTWNNcDdwaWM4d2psNGJWeFRyVjRIelgycFE?oc=5",
+          "pubDate": "Fri, 10 Apr 2026 20:32:47 GMT"
+        },
+        {
+          "headline": "뉴욕증시, 美·이란 협상 앞두고 혼조…나스닥만 상승",
+          "source": "조선비즈",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNzZDTU1SYmJRYlFMUXEwdlVzUzc3SG1zcHE3Y2hnNllMOFN2UjRwenhJc1habkpJMzFkLTVQYWQ3NzVLZTh1U1RaTDY2OXJWUzIxbFdad21JSjB6R1ROVXBDQVo2VVUyc1B5TW9qMTNJMkhBWlY1djd4aUxZc3lBR2ZMdnM2WDJ0dEJmcFc4Rk5jRGNWQUdwOFRMMy1sQdIBsgFBVV95cUxOVG1hMS1xc2RZZmJ0MzRqQnctenFIS3FHbFBqd3dYUmtfMS1PTUdBMWNlc2FEXzY3MmhfRC0xazVhdXQwRkJzNUdMRElNd0JWQkpTd2ZBYmlWUkk4RDhoNk1uSHRFSlRVUGh6cmxIN3F1YXdKV1lSVzBlSnFPNlcyUXNwNjQzemNwTlVUWU1aU3FSRjVIU2VRTHdaY1gyYjhMNGMtSkVXczNOSW1mUndYQTFn?oc=5",
+          "pubDate": "Sat, 11 Apr 2026 00:17:00 GMT"
+        },
+        {
           "headline": "샌디스크, 나스닥-100 지수 개편으로 편입 예정; 아틀라시안 제외",
           "source": "Investing.com 한국어",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02cjNIY01KZE9fRGMzYmRBNC1QNGR0NXdqcGZWMm9DZDRqVDkxS2tOdndoOHB0Z3R0a0F3NlVhTXNfSnpfTnQ3QzA5aGFWelFHcFFQWnJtU0tkb0phUWFtYWotRGgybGt1dzZVOHZBTmM?oc=5",
           "pubDate": "Sat, 11 Apr 2026 01:26:00 GMT"
         },
         {
-          "headline": "블랙록, ‘나스닥100 ETF’ 출시 임박… 독점하던 ‘QQQ’ 긴장",
-          "source": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4xR2xzbml5RW1Xa0hvRzQxcWdWMVJ2Ymc4d3BQTzNIeTVvdlFvc3F0Nzlpd0VWMUIzQ0pYVTluYzNsc1UwbHRmS0N0NEROOUJ3LS1rMmRLUjdCc2sxYlR6SzZ6eF9HUEtoZDhRUnFjZkIzdkdWM1HSAWZBVV95cUxPYUxuclIySURLaE5SM1hqNjFZQ19UaWVuaExlcFFLRzN3Nm53Sko0SF9fQV9FYVQ1ZldCN2k3RHJ5elZzZEpwNWxDYjEwSS14TUs4UjhsR2ExWXRoMmZhUDR5MU9uNVE?oc=5",
-          "pubDate": "Tue, 07 Apr 2026 15:30:00 GMT"
+          "headline": "[속보] 뉴욕증시, 혼조 마감…나스닥 0.35%↑",
+          "source": "이투데이",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zQ1JMQ2ZBRWI0b3FnZDAwT0stdExhNXJhQndsajdGZG85Y0htQlJHTS1OdndXLWNYOVMwa3N1QlNyQllQb1hIV2p3N1NiVVFfWGdBbA?oc=5",
+          "pubDate": "Fri, 10 Apr 2026 21:18:00 GMT"
         },
         {
-          "headline": "CPI 급등, 미증시 나스닥 제외 일제 하락…다우 0.56%↓(상보)",
+          "headline": "[뉴욕개장] 3월 인플레 예상치 부합에 상승 출발…나스닥 0.4%↑",
           "source": "뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBDUVZfanl6OG00Q25mR00zU0p2dUU0Zk9adGdJMHlWZXp1MDNJdzAwdlpud3JWX3lzT0hzN1BKdTVSS0pVSnU4YjNvZWZRd0RsV0VxNVlGbDc?oc=5",
-          "pubDate": "Fri, 10 Apr 2026 20:33:46 GMT"
-        },
-        {
-          "headline": "월가는 변동성이 크지만, 나스닥은 기술주 덕분에 급등했다.",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5HaEpqY1VWQkpEeFBvM0FOQWhodGl2V19ydVpIYmIwSHhBYjdNb3RRU0dqdUMxTm1PajJITW9aZ0NTSW8wNnFoM01waXMxZ2dtZEVSQWZvclIyeGk3Q2JwaXRrWHZYMkZJdEdnaDYtaTgxNmJPY18wYUxNU043Zw?oc=5",
-          "pubDate": "Fri, 10 Apr 2026 23:51:25 GMT"
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82bnhPb2dwd05PWmxteDRCd2xKdHFRb1hfSmJNaGZXWVFnUlhoclZOT013VE1Gd1llMURyT2NzaFNvS3hSQTR2SWlpQmpWRFg2MnloZkRiNTFiQXNZZGR2YXdYa1V1NG8?oc=5",
+          "pubDate": "Fri, 10 Apr 2026 13:58:19 GMT"
         }
       ]
     },
@@ -353,10 +353,10 @@
           "pubDate": "Fri, 10 Apr 2026 12:40:00 GMT"
         },
         {
-          "headline": "코스피, 장중 6% 올라 5,800대 강세 지속…코스닥도 급등",
-          "source": "연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81Uzk2U010VG5FVkZ5TXNwNWtYMWdSd3JuX1ROazVwcS1zN21IbW81cmRYU0Fkb1Ffc1U2aDN3Y19NbGcxMnRkMGpza2J1LXFQb3gtb0lCTnB6M0HSAWBBVV95cUxNb3RKQzd2SWZ0cl9URHp4YnNFLUdta1ljTXhBRHhhNGkwN1h3SWota2FQa09WNy1YakFjQ2ZHZnR6bUQxTkxEdllQbjFEaU04eTFTNnZ2eEhCQmZJbUYtWHQ?oc=5",
-          "pubDate": "Wed, 08 Apr 2026 02:35:08 GMT"
+          "headline": "하반기엔 코스닥이 메인?… 연기금·국민성장펀드 등 자금 쏠린다",
+          "source": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51Z0NRX2JnR1dHc0xhcVVpNjJCaFVJT3Zfekh0Y2kxNEFuNjFILUNnYXlKeDNHLXhvX0dNQVliSmtIclE5aHlhUTVDQ19ZOXM?oc=5",
+          "pubDate": "Fri, 10 Apr 2026 12:06:16 GMT"
         }
       ]
     },
@@ -453,10 +453,10 @@
           "pubDate": "Mon, 06 Apr 2026 14:41:34 GMT"
         },
         {
-          "headline": "신제품 '맥북 네오' 흥행 돌풍…주가 강보합세",
+          "headline": "애플, 1Q 글로벌 스마트폰 점유율 1위…출하량 5% 증가",
           "source": "마켓인",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0yR3dSRHBXNVM3VFF3eUI5YnF1R0ZTSlNJMHVBRHEtU0U4el8yNWRNY09vdndVV2p2eG5aLXhRTDM3VWNwaTh2Ulc4TzM5SEFiRlZZLWJZZC1TTnpHVEl1Xy1VYi1vM0ZNcVMwaDZpdm5vR0k?oc=5",
-          "pubDate": "Fri, 10 Apr 2026 15:50:08 GMT"
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE90LWg3Y2NRX1pvR1hWaGRDTklEWXdCemw3UUEycTZrV0U5MTI2N2ZvRFpQbEF5U2gyd2Z5UEVyNUNkTnBET0QwSmN5bjNYZXZXYkkzUlFxWEVYZkRxNkRsaWZpLVZxWkowMlcyRV9USkxIQ0k?oc=5",
+          "pubDate": "Fri, 10 Apr 2026 10:32:28 GMT"
         },
         {
           "headline": "애플의 폴더블 아이폰, 엔지니어링 문제에 부딪혀 출하 지연 가능성 직면했다고 닛케이 아시아 보도했다",
@@ -632,7 +632,7 @@
           "headline": "TSLA|Tesla Inc|가격:348.950|Chg%:3.33",
           "source": "TradingKey",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ackVnOXEtckRacEYzZm5BYTJjRVplazJwaEVURmwwakdZZXBnMUxnSTQzdHhVVkp2b2pka19pdzByQ2otb2F1T3BybFVRX25GSFZHZ0tzSjJxcXNvLUJVMGhTVklGSGM?oc=5",
-          "pubDate": "Fri, 10 Apr 2026 19:07:36 GMT"
+          "pubDate": "Fri, 10 Apr 2026 20:05:56 GMT"
         },
         {
           "headline": "테슬라 주식: 올해 가장 중요한 촉매제는 이것",
