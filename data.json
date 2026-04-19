@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-19T13:41:21.392Z",
+  "updatedAt": "2026-04-19T14:28:54.218Z",
   "watchlist": [
     "005930.KS",
     "AAPL",
@@ -99,6 +99,12 @@
       "query": "미국 증시",
       "items": [
         {
+          "headline": "전쟁 끝나지도 않았는데 주식이 상승하는 이유",
+          "source": "네이버 프리미엄콘텐츠",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQM29xWDZMV25oeE5nQjRLODMtaE1TOUlmcWtuci03NUZlZUJjY0RqOGxfMzBFVmE1Z0pSSmVuaUFScXAwQ0hoWUJDVmVWS3I2WkFlOXVoNmRzRVl3ZVU1emppeEZzczRkSTktdFRuQUNjQV9SZVZsNklmZUwwM2NzZ2c5cTVFWW9COUxj?oc=5",
+          "pubDate": "Wed, 15 Apr 2026 13:20:00 GMT"
+        },
+        {
           "headline": "미국 증시, 연일 사상 최고치 경신…이란 ‘호르무즈 개방’ 효과",
           "source": "한겨레",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5OOWRUSWFLekJSOE9lR2JHaFVyWnc0VGRmR1R5NkxaYV8yZWJfVDF6WkVuVGJFQkM3cEpsYktVU0FXV1pEc1ZvVzlfU3lTUE1iOS1xZFEtb0d3RXllYmVTcDRoYjB4NkN5UGVsUk5UZWRwdw?oc=5",
@@ -111,22 +117,16 @@
           "pubDate": "Sun, 19 Apr 2026 03:58:07 GMT"
         },
         {
-          "headline": "美 증시 ‘안도 랠리’ 하루 만에 중동 리스크 재점화",
-          "source": "매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xTUM1S1Z4azlXZTNNUVV0QjZLMWdGX2RsN2NOcEFnQm5tU3pzWjhJYmRhLVhTYzMwbE5BYWFlS2Q3RWpKdlE3cDBQbXRKbDlQRFE?oc=5",
-          "pubDate": "Sun, 19 Apr 2026 05:53:50 GMT"
-        },
-        {
           "headline": "\"미 의원들, '중국 기업의 미국 증시 접근 규제' SEC에 촉구\"",
           "source": "한국무역협회-KITA.NET",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOUVJZUd0Z2xoM2w0X1hpSWItLUtZTHIyTVkzeDhUelZZd0ZFSlNDMHdFNGVoSW9ObVd3RXFnSHRnR0t3OGdicllEOTNYWm5JRE1wS09nOTZJSDNVa05ZY04waWhzWjlweTIxajdRbUdrT2xLd2hhVHpmaXAyOWcyQmpvSGJPaFdTMnl3Ng?oc=5",
           "pubDate": "Tue, 14 Apr 2026 18:17:06 GMT"
         },
         {
-          "headline": "[중국증시 주간 포인트] 미-이란 2주 휴전 만료, EU 고위급 회의, 4월 LPR, 중국 정치국 회의, 3.3조 딤섬본드 발행, 구글 클라우드 넥스트, 화웨이 신제품 발표 등",
-          "source": "네이버 프리미엄콘텐츠",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBzb2p6dG1OY0JfTWNvbTltbmFLVUpMVVRpWmxialVUME1Gb0VuSi0zY3pfdnlVVTdvd09zMGRTMFRLVnFCbFZndXBGTnZPVU1HeXFhZk1jQy1wb1BhNjg3ZnhaQjRNMlQ3TDJhcHJiLVJ6OUZRbWFxRGU3UQ?oc=5",
-          "pubDate": "Sun, 19 Apr 2026 13:28:00 GMT"
+          "headline": "美 증시 ‘안도 랠리’ 하루 만에 중동 리스크 재점화",
+          "source": "매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xTUM1S1Z4azlXZTNNUVV0QjZLMWdGX2RsN2NOcEFnQm5tU3pzWjhJYmRhLVhTYzMwbE5BYWFlS2Q3RWpKdlE3cDBQbXRKbDlQRFE?oc=5",
+          "pubDate": "Sun, 19 Apr 2026 05:53:50 GMT"
         },
         {
           "headline": "미국 증시↑…S&P 500·나스닥 최고치 경신",
@@ -205,10 +205,22 @@
       "query": "S&P 500",
       "items": [
         {
-          "headline": "호르무즈 통항허용에… 美S&P500·나스닥 사상최고치",
-          "source": "문화일보",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8zZTJJeFJNOTd1Q3ZoMlZfdzVwTGhIaFl2MDYyU3duMVRCTXJxME1GTGxMd2JjUGllZlpkbmpSbWEtVmQ0WU1WRjJVNUlCZUNZ?oc=5",
-          "pubDate": "Fri, 17 Apr 2026 22:48:20 GMT"
+          "headline": "S&P500 과격한 질주…\"최소 36년래 가장 가파른 속도\"",
+          "source": "연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WbVBqbHpiMzlGb1prMUlBRmtFcGtIckhXUTF2VDZwRlZTdlp6Y0NkU1FwaU11U2g0TzZkc3lBY2R0eGZZUHBOUEpxdml5Z3lrb2pIbnZmU2dhcHF0T0VrdFVVeWdXMmpwZDRSRGpmNzc?oc=5",
+          "pubDate": "Fri, 17 Apr 2026 22:27:16 GMT"
+        },
+        {
+          "headline": "호르무즈 열리자 급등…S&P500 '사상 첫 7100' 돌파 [뉴욕증시 브리핑]",
+          "source": "한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FMWY1ZUQzb2tzM2w3WTZCMGtFSVNUUUY5ZXkzQ1FVM1dGZW55OUVrSWpMWGtNTkpFQ3JVMHhUM2xKaEN2VWVkT3FQdkhsYV9leUpMSDE3VUpoZ9IBVEFVX3lxTE4tQ0ZRZEVaemJDMzBMbnV5eVNWX0t4Wmd2cnllWDNPeVd2UnJoX3RUX2JZVGlHQ0o3b1BTTWJiMmNQM3dSNzAwZ0szbUtjWEF2dm5QNQ?oc=5",
+          "pubDate": "Fri, 17 Apr 2026 22:27:04 GMT"
+        },
+        {
+          "headline": "美S&P500·나스닥, 호르무즈 통항허용 소식에 연일 사상최고치(종합)",
+          "source": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1raHpuN240QzJzWlJUVVpGU0VPY3M5TW9TZ09UYVRtVXNsX3luU1F3ckM0LWpSR0dMb0ZxbTE5LUVRbF9aZ1E?oc=5",
+          "pubDate": "Fri, 17 Apr 2026 20:47:22 GMT"
         },
         {
           "headline": "[4월 17일](미국 마감) 중동 리스크 소멸! S&P 7,100 시대의 개막",
@@ -217,40 +229,28 @@
           "pubDate": "Fri, 17 Apr 2026 22:41:51 GMT"
         },
         {
-          "headline": "[증시타임] 美 S&P 500, 3개월 만에 7,000선 돌파…사상 최고치 지속될까",
-          "source": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83M25lQkItSUN2Q0x4UHVrVnpURUlYTFVFM3VEem8zbVl0ZHVJTUh6cFpyTTV4dHl3ZjMxVzhWWGszY1UtXy1HTW1JZUFicWc?oc=5",
-          "pubDate": "Thu, 16 Apr 2026 01:25:13 GMT"
-        },
-        {
-          "headline": "미·이란 ‘종전’ 기대에 S&P 500·나스닥 사상 최고치 마감",
-          "source": "경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FX1NoNXJlaWlueGREMEFtR09RQlhZbEh6bHFZSDkzOVU3eVMyNWl0c0V6N1ZWYklaWHZDMm01UnVrOWVXV2tzLTNQSnpDSmhoWllkZnBaWno3Z9IBX0FVX3lxTE1WQmFoeEEyd29zS001dmJncFFud3dKX0t1ZlJ0NzYtcnhfYW1NYlpYaW5HcFJCaDQwdHlJQk42bFdEaVRPUlYtRjlBT0FHZGdzQ0VRSERXbF83VUMteGMw?oc=5",
-          "pubDate": "Wed, 15 Apr 2026 22:15:00 GMT"
-        },
-        {
-          "headline": "협상 기대감에 S&P 500·나스닥 최고치 경신...연준은 고유가 위험 경고",
+          "headline": "이란 해상 봉쇄 확대에 유가 4% 급등...S&P·나스닥, 이틀째 최고치",
           "source": "YTN 사이언스",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYXR0SWlwTXlPeURWQXhReUJIRzZnX0FIRHZWQV9MTU1ncVh3MEU4b1BxTG9pbHF6WDE3b0x0VFlDVFFjcC1ma2NDajI0MzAtaU9fOXRaNG9pZUE5dFJ1UXB2bWR5Z3kyMFhDaTJVdkwwNXFKUHpaOEQwMmszT1FzQnJIN0ZjNnJhUFI2bg?oc=5",
-          "pubDate": "Thu, 16 Apr 2026 00:00:00 GMT"
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbjRzeF9BNmpPdG5LTU54ZkFDdHc3TkpMOGJfY0ZMUVQtT2lMUzRpZC1hYUNkZDlMTWV0d0E0TmhvX3E0OVR0WmdGS1ZsOXpDZS1Id0lZb0x4WTJoUVZaNGZzTUhqOEVOcUdNSTRnY2k0M28tQmstWmJHT1pQNFJkSHR0TVdIeG5tZUpSTg?oc=5",
+          "pubDate": "Fri, 17 Apr 2026 00:00:00 GMT"
         },
         {
-          "headline": "뉴욕증시, S&P500·나스닥 이틀째 최고치 경신",
-          "source": "티제이비",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pWlRPSWhycTJjTENFMmwwYVhYcEJ3VHJZODNyeS1FV2xEU05OUll0UXBQV3Z1VF82ZjJmRk9rbklTYVBCMTc2T2RZZVY0Nm5uWE5ESmlYR3lRWDA?oc=5",
-          "pubDate": "Thu, 16 Apr 2026 22:54:21 GMT"
+          "headline": "미국 S&P 500·나스닥 이틀 연속 최고치 경신",
+          "source": "KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WbW1BWVhjOWhWV1FHWFBXT3d1QnpXeTNkTGRYbUpSYUs4RjVub05PMkNVRzNQMjFMQzhBUWFjbGpXR1VNVVZTRVpUR1FiWUxPaEN3aUNLZkZpeE0?oc=5",
+          "pubDate": "Thu, 16 Apr 2026 20:21:00 GMT"
         },
         {
-          "headline": "[2보] 종전 낙관론 지속에 S&P500·나스닥 지수 사상 최고치 마감",
-          "source": "연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RTTVIR0o4WjUxQzJaUUNBMC1Tb0hUdnB5ZGJpcnhZVFVpOHVLSFVVaC04THg1aDlZaGhNQk9zcG5oc1lJQ3JtZnVWSGRUV0JRaFFuWDIwM3FyN0HSAWBBVV95cUxNeG56M2FIRW1DZ244WnAxSk03WUZsVFVXZS1Dc3N6QnFyTlg1QjVpZk00SE13cVNKSHR2QnRQWHl3NzZDdGo3UFk2VDdneVNabk1fNWtIRTZLNzlEWHRDNkc?oc=5",
-          "pubDate": "Wed, 15 Apr 2026 20:21:18 GMT"
+          "headline": "S&P 500, 11일 만에 과매수 전환…역대 최고 수준",
+          "source": "Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBnTUJveFVGRWtfVEozZTlsWENCY0tDNWdKMnlFNzBBLWs0VGg5eHlQcVpILWQyQWhnSW9ydGVQMXZWakI4aEZOQWZTTjI0amVRaXk1YmZ1R2EyaFZfR1lySlRSYUJKWmJrWUxEbVhGRjZMZUZKUU5j?oc=5",
+          "pubDate": "Fri, 17 Apr 2026 10:31:00 GMT"
         },
         {
-          "headline": "JP모건 \"美증시에 돌아온 낙관론…S&P500지수, 7천선 돌파할 것\"",
-          "source": "연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1Q1FqS0JqcGVYNGlWNmg1aFNySVliSU81QkRWWkx4M3pSRFQwNUFZWk40M2F6S210MEVKT2dDQ1IyOGp5S0pBd0ZFNFQxNnFnZ3RvUEdLc0dvQ0pkMF9Hdm5TZjlLRW81RzNJY3c4czDSAXRBVV95cUxPbnVnck12cUhieDdGYm5Nd3VIYlV4RDVqbGJta3VSR3owaTZlY2VDY1B4dXVqQ0lmU01pbFVxMGc4dkhZYkJKNDd4Y2JzOHJfUHExa2xqUUZGdUZYZ3VhME9yMk0zMkNZX0lYMElUVGVPVTU2cw?oc=5",
-          "pubDate": "Thu, 09 Apr 2026 07:00:00 GMT"
+          "headline": "뉴욕증시 상승 마감…S&P 500 첫 7100 돌파",
+          "source": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYazExTTFneVpDNmNXdkhsOENlZk8yaDFxRmZqVndUNlJydmVmOTA0a2VJV0lYRVJaLThwazRZQktIM09LUjJwb0FjcnNlS0drdUNj?oc=5",
+          "pubDate": "Sat, 18 Apr 2026 01:57:00 GMT"
         }
       ]
     },
@@ -494,6 +494,12 @@
           "pubDate": "Thu, 16 Apr 2026 19:31:21 GMT"
         },
         {
+          "headline": "케링, 구글(GOOGL.O)과 협력…구찌 부활 카드로 '스마트 안경' 츌시한다",
+          "source": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5oVjRkaHV4NWJ4dlFKeHcyMUFkRERqY3JtUE9kOWRvVTdVeTRwMk9MdnRMNEdFcGk3ZmFucU9zUUJnUTBxUDNnWi11SlB1cm9sM0xCZVQxdHYtVkJSc1JSVnEtd2o2UTdpNGNwd3p0WUVnUHJTdjh0Ng?oc=5",
+          "pubDate": "Thu, 16 Apr 2026 22:55:00 GMT"
+        },
+        {
           "headline": "\"구글 속에 숨은 우주 거인\"···알파벳, 스페이스X 지분 6.11% 보유",
           "source": "Benzinga",
           "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNUkQ5R3VGVmNYa2JlbDhjdHBzOVpDM1p6OGozMVpOb3gwTmN1ZGI5NktHemR2WnRFT0tqQmRtM2tQWUR4RG0wNGp4YktLVGtaOHMyZDdRMHNwWl95a3dRYlFxRE9DZHQwR0pLaXRYQWZvLTdpc3VsRU9TMnh3a2JsY1BiQjQyUWFrTmFKQm0yNnhJaFk1N25JMGZfdjFCai1OS3p3eHdldlZiTk1pcVV1b2E2X3Y1b1c5a3prMk9IQWgzdEt1SFk2OWF3clZPS2tPQl8wbnBoUVdPeUh6ZkxQSENHa1hQU0RaY3NmZVM5U1BBRjJqMkI2M2FoWDZCTDVJQ09fMU4yeUlzTnhGYWdXYmZmU2UtRk9WRm56YUpIV3l0TTVCYXFlX2RNTHhBMm9mWFptdjViSXdib0ZlQ3BB?oc=5",
@@ -510,12 +516,6 @@
           "source": "TradingKey",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdVdoZGhMbkdobXJybnZ5SmtfaG1tSWhHVHR1NUZ4RWUxV1JPTzlNQi1tbV9MVWhyalM3SDd3T2RMNzM1anJleFFkRUtqSTdvdnFhQUw1MzdEMWxNN2JkTzkyTkxyTkpMcU1jMjluQ09rZVhFWGJ5bk9IZ19PQk5oemRpaWlsaENkWWZpT2M2bU8?oc=5",
           "pubDate": "Tue, 14 Apr 2026 16:16:30 GMT"
-        },
-        {
-          "headline": "GOOGL/USD Perpetual Futures (GOOGL/USD) 뉴스",
-          "source": "Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBZbEIxdEhLRUFhM0V1MlRtZlplWG0yUFFYQUdabkN2aHBTRy04bVczYXI0UlkzVHR6MW9VMElOdFlibVJENlQ1b0phMEk5SENjTENPdmhlaWRiTDZwYTQ2SmgxRlJpUVcxaDY4S1g3dnRvSk9jOFZZT2hR?oc=5",
-          "pubDate": "Fri, 17 Apr 2026 06:19:13 GMT"
         }
       ]
     },
