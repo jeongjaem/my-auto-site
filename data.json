@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-04T19:52:59.396Z",
+  "updatedAt": "2026-05-04T21:09:13.028Z",
   "watchlist": [
     "005930.KS",
     "AAPL",
@@ -28,12 +28,12 @@
       "symbol": "AAPL",
       "resolvedSymbol": "AAPL.US",
       "date": "2026-05-04",
-      "time": "21:37:51",
-      "close": "277.23",
+      "time": "22:00:21",
+      "close": "276.873",
       "open": "279.655",
       "high": "280.63",
       "low": "274.8601",
-      "volume": "23591319",
+      "volume": "26725780",
       "ok": true,
       "error": null
     },
@@ -42,12 +42,12 @@
       "symbol": "GOOGL",
       "resolvedSymbol": "GOOGL.US",
       "date": "2026-05-04",
-      "time": "21:37:51",
-      "close": "383.455",
+      "time": "22:00:19",
+      "close": "383.25",
       "open": "385.63",
       "high": "387.38",
       "low": "379.79",
-      "volume": "14262682",
+      "volume": "18809517",
       "ok": true,
       "error": null
     },
@@ -56,12 +56,12 @@
       "symbol": "MSFT",
       "resolvedSymbol": "MSFT.US",
       "date": "2026-05-04",
-      "time": "21:37:51",
-      "close": "412.965",
+      "time": "22:00:19",
+      "close": "413.69",
       "open": "411.54",
       "high": "420.78",
       "low": "410.8",
-      "volume": "15642649",
+      "volume": "17216449",
       "ok": true,
       "error": null
     },
@@ -70,12 +70,12 @@
       "symbol": "NVDA",
       "resolvedSymbol": "NVDA.US",
       "date": "2026-05-04",
-      "time": "21:37:51",
-      "close": "199.0015",
+      "time": "22:00:21",
+      "close": "198.543",
       "open": "199.5",
       "high": "201.73",
       "low": "194.74",
-      "volume": "80321240",
+      "volume": "85711680",
       "ok": true,
       "error": null
     },
@@ -84,12 +84,12 @@
       "symbol": "TSLA",
       "resolvedSymbol": "TSLA.US",
       "date": "2026-05-04",
-      "time": "21:37:51",
-      "close": "392.77",
+      "time": "22:00:21",
+      "close": "392.545",
       "open": "390.23",
       "high": "394.64",
       "low": "384.8004",
-      "volume": "36574584",
+      "volume": "38554183",
       "ok": true,
       "error": null
     }
@@ -117,10 +117,10 @@
           "pubDate": "Fri, 01 May 2026 16:15:50 GMT"
         },
         {
-          "headline": "뉴욕증시, 혼조세로 전환…나스닥 0.20%↑",
+          "headline": "뉴욕증시, 하락세로 마감…나스닥 0.19%↓",
           "source": "블루밍비트",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE44Uk1UZzR5UElJNUViVkJpeXhwVVJKVFNhOF8yZVVkZW1adXhaQW42Y0FTSnNhZ0d4V1RQdlpBQl96cUQ5R01FWjdqWnVSTUxm?oc=5",
-          "pubDate": "Mon, 04 May 2026 15:14:14 GMT"
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9zNThRMnI2R2lRMnJZaXVMdzJ4V0VQVGF3c2JmLTd5Y3ozVnY1Nl9sOW9lTTlqNGpQN3N5RlZKeVNrSmFHaEZtWXhITFJnU1dQ?oc=5",
+          "pubDate": "Mon, 04 May 2026 20:37:24 GMT"
         },
         {
           "headline": "미 증시 신고가, 4월 최대 상승폭",
@@ -141,10 +141,10 @@
           "pubDate": "Mon, 04 May 2026 10:06:19 GMT"
         },
         {
-          "headline": "SK하이닉스, 시총 1000조 돌파...미국개미가 왔다?",
-          "source": "스마트투데이",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZcnJITU9icFF1SlZwVkpPTkl2bUlBbGpfdnA4UHl5WHdFWHJpYXQ2LXE3MlVUcDRNRER0bVJ6RzFNZ25SQ1VlaVRWeWRYeDJFQzBTQmNYOXlIT2FRNTlJ?oc=5",
-          "pubDate": "Mon, 04 May 2026 03:46:00 GMT"
+          "headline": "서학개미 ′유턴′ 주춤…미국 주식 1.6조 순매수",
+          "source": "연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Wa2VYUmphQXRfX3AxTDN4eXlWN0Z3V1pWQUlzb3VnbmtKbEl0VXRQWEVTR1VWSzZPTTFKZkdMMXlEVmI5MjZNMl8xZ2R5eTVfdGRyN01EcWVJUU5QSzZvb1dEaV8?oc=5",
+          "pubDate": "Sun, 03 May 2026 01:37:50 GMT"
         }
       ]
     },
@@ -158,16 +158,22 @@
           "pubDate": "Fri, 01 May 2026 23:06:51 GMT"
         },
         {
+          "headline": "비저너리 홀딩스, 상장 폐지 통보 후 연체된 나스닥 상장 수수료 납부",
+          "source": "Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vcHFqa0pmWVY3aXhyeUFSN2cxV21QWjBSX0VFT3IwTVl0YXdRbXUta2VyOE94ZDAyWWNUcnZ3MjFMOTc3T1VqRFI1TGR6REZST2QtWjVvNkpOOUx0ZlpGbkN6SWQ4S2RPUjlVUDRXTXA?oc=5",
+          "pubDate": "Mon, 04 May 2026 20:06:00 GMT"
+        },
+        {
+          "headline": "뉴욕증시, 하락세로 마감…나스닥 0.19%↓",
+          "source": "블루밍비트",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9zNThRMnI2R2lRMnJZaXVMdzJ4V0VQVGF3c2JmLTd5Y3ozVnY1Nl9sOW9lTTlqNGpQN3N5RlZKeVNrSmFHaEZtWXhITFJnU1dQ?oc=5",
+          "pubDate": "Mon, 04 May 2026 20:37:24 GMT"
+        },
+        {
           "headline": "아야 골드 앤 실버, 나스닥 상장...티커 AYA",
           "source": "Investing.com 한국어",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yMWM3M1dEdDZHQUd4UDBSYjlwMkVXMlYySk5TeXpBdTFQMGlpd1NsdXFkYl9EWlF3LUFpOGdiRzdPREE0QlhCdFBOR0VjbFRFZDFqOS1Ma3BLaGxKbjcwakNTZ0JYRW1XR1dVa3RYSEU?oc=5",
           "pubDate": "Mon, 04 May 2026 15:06:00 GMT"
-        },
-        {
-          "headline": "뉴욕증시, 혼조세로 전환…나스닥 0.20%↑",
-          "source": "블루밍비트",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE44Uk1UZzR5UElJNUViVkJpeXhwVVJKVFNhOF8yZVVkZW1adXhaQW42Y0FTSnNhZ0d4V1RQdlpBQl96cUQ5R01FWjdqWnVSTUxm?oc=5",
-          "pubDate": "Mon, 04 May 2026 15:14:14 GMT"
         },
         {
           "headline": "민트, 나스닥 상장폐지 위기 속 긴급 주식 병합 단행",
@@ -176,28 +182,22 @@
           "pubDate": "Mon, 04 May 2026 17:21:06 GMT"
         },
         {
-          "headline": "뉴욕증시, 애플發 기술주 강세에 S&P500·나스닥 사상 최고치",
-          "source": "뉴스톱",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82c0drRWRCUXlIVkRacHozNWVlMkluZXJNdGxoNEk5N0RHUlplWDBQQktfR002UjFjUXdZVG9sZWEwNUhRUW5rUnZIYm1aQnh2NG9NWEhPX0puSnEySnBxZ0lLektkdXZ5dlJXZnByWQ?oc=5",
-          "pubDate": "Sun, 03 May 2026 23:45:44 GMT"
-        },
-        {
           "headline": "[속보] 나스닥 1% 급락 중, OpenAI 실적 쇼크.",
           "source": "네이버 프리미엄콘텐츠",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUUJmcEFSc3FtY0lBOHJESEhSVWt0ZzQzUW5QcW1hbXVRc3FIUUd4WHZtVjlZT2V2emFCYjR5emkwSlc5cjNVYUFiYTUySXptYkgtRDdGbUM1V25ISk9laTBOcFF0dndOV0Fxb0Q2dFNCS2pjTjlFRTlqRzIta25sWGVnTzRzMS1OempF?oc=5",
           "pubDate": "Tue, 28 Apr 2026 13:19:00 GMT"
         },
         {
+          "headline": "뉴욕증시, 애플發 기술주 강세에 S&P500·나스닥 사상 최고치",
+          "source": "뉴스톱",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82c0drRWRCUXlIVkRacHozNWVlMkluZXJNdGxoNEk5N0RHUlplWDBQQktfR002UjFjUXdZVG9sZWEwNUhRUW5rUnZIYm1aQnh2NG9NWEhPX0puSnEySnBxZ0lLektkdXZ5dlJXZnByWQ?oc=5",
+          "pubDate": "Sun, 03 May 2026 23:45:44 GMT"
+        },
+        {
           "headline": "이란전 공포 넘은 美 증시, S&P500·나스닥 사상 최고치 경신",
           "source": "조선일보",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLXRkdWI0dWNNZUY0MnZENzJSRGdEaW9QR0VGVndRWUM5aGxSbHU4V091TnYxNWVFakF1eTFXUk85ZVY3S2MxZDF3VUdqWUs1Y29HbkxKTUMtUHNQS1ZWMmt0TnRHeTBkMGtEVWRrY01UVnI2TGZlSVJXRzZKNHNNcTZLeVFOZldleGZPYWQ2UWVqSDBnaTBleVQwMUF2QQ?oc=5",
           "pubDate": "Thu, 30 Apr 2026 20:17:00 GMT"
-        },
-        {
-          "headline": "나스닥 사상 첫 '25,000선' 돌파…뉴욕증시 랠리 어디까지",
-          "source": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04ZGpyUjFudUY2cWFlcTVBN1lscDVJdU5TUlNyYkdodGlHOHVhaE1MdDdXY0FfV2pJLVgwQTRoTG9kbDU0dk1zMDRienVjSmM?oc=5",
-          "pubDate": "Fri, 01 May 2026 21:02:36 GMT"
         }
       ]
     },
@@ -209,6 +209,18 @@
           "source": "글로벌이코노믹",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSlNibWpvTGpfdmx0bTBCSE9BSXFCZHdaRUsybUFJS0xHVC1hUGd3Vjdvd280MmhWdlhOSlh0Q0FXbmVlRW1JbFZwa2FGQm94bjZLUU1nRWhqeWk4ZFBvWVQ2QXpPbXMyeGE2NGhuX2dDc2lRUGhYX2dvdGdDc2g2WmZoQUROblpl?oc=5",
           "pubDate": "Sat, 02 May 2026 23:23:40 GMT"
+        },
+        {
+          "headline": "뉴욕증시, 휴전 붕괴 우려에 일제 하락 마감…다우 1.13%↓",
+          "source": "뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56cGd6VEpydGtxZmNMM1pfZ3gtRU54c3J4M0ktLS1YQkdCbVVNSi05dzNYWU81QlNhMmVJMkhvVl9kQi1QTUZSalRyZ1h0Y2lBTEZKQ2hvazlHc3JhemhCX9IBeEFVX3lxTE9jZXpZZU1tX0xydk1JdmFNQTI3aUZpbVBGN1Q3cmdxcFVPQ2JxVklReWNmcndQT1hpRzl6Y3FPU0VVY3VmbW0xanlPZ2NZTmtKd09odk5uamVLd090ZUVqc3k4UDlCX05GT3c1RUIzYV9ZMUs5ZGU4bA?oc=5",
+          "pubDate": "Mon, 04 May 2026 20:43:20 GMT"
+        },
+        {
+          "headline": "다우 1% 급락…호르무즈 韓상선 폭발 피해, 유가 급등[뉴욕마감]",
+          "source": "뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5HTFZiWkI3bmJyTnZxcXN4clg3RkN0NUNnUDAzdVhvMFJYRm1hOUhUMWdNdkljT3pSWUhZQXFoNlBPNjJEZlBSdlpLTnpGaHhqaktpWmg5VnZhMlhRN0JPc3BnMUpoRTA?oc=5",
+          "pubDate": "Mon, 04 May 2026 20:28:11 GMT"
         },
         {
           "headline": "초대형 IPO 앞두고 S&P500 편입 문턱 낮춘다…특혜 논란도",
@@ -235,22 +247,10 @@
           "pubDate": "Sun, 03 May 2026 11:53:00 GMT"
         },
         {
-          "headline": "[개장] 뉴욕증시, 애플 호실적에 나스닥·S&P500 최고치…이란 협상안 주목",
-          "source": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE45MzZEN1lfUzh5LVl2Wkltbk9FMUxIRm1SVzhteWYtNlBtMlBBNXpTYVZrVldKS1hyNE1sdzgwcHFKVG4wOFZSMFRjYXc1cnVSZ0F3?oc=5",
-          "pubDate": "Sun, 03 May 2026 22:35:00 GMT"
-        },
-        {
-          "headline": "뉴욕증시, 호르무즈 긴장 속 혼조 출발…다우 0.15%↓",
-          "source": "뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HalBuT1hKclJTZkdoX0NVV1ROeDBvRnc5c1BxdzAzaGdCZWFrM21qdG9waHJyN1ZJejVqQ051SFZTc2txOV9qeVB4dDFqS3VqbjYzeFFoQjdkOWpuNzBjS9IBeEFVX3lxTE42bW5OaGRlZVIwVkRKYUdQdk9YdkZzR3phLTlwbWJZQWJmSzhKRnRrSWNYT0tqaEo1YmZhY3R5NHphWDBHUFpYMUE3X0hPRTJLb3dRWFJkMEN0SnpIUjlyWV9CMHVlRGFJY18tTmlSLS1NUndzSmNrdQ?oc=5",
-          "pubDate": "Mon, 04 May 2026 14:50:37 GMT"
-        },
-        {
-          "headline": "[뉴욕증시] 반도체 강세 속 이틀 연속 사상 최고…애플, 3.2% 급등",
-          "source": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8yTGR3cU8zaWhCVDB1aGs0a05UWDZ2V1lZdURSbmlxSHQ3SHBySUdaZlFFQmp2bzJ1V18zUVYweVJiRFAxZExBWUw5MTY1VEk?oc=5",
-          "pubDate": "Fri, 01 May 2026 20:32:35 GMT"
+          "headline": "美 기술주 호실적에 S&P500 연일최고치‥선물도 강보합",
+          "source": "MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RZVNrXzR6bDBxcHItSk40N0tweUJncjNfdFFvLTk1RTBEQzktWnpVWDBSTUdraXpQX2xxcTYwcDBuQUx2ZjUyMzU3S25DcG1pb3F1SlhOQUI4WkZxTG5HOHNXZGxRMFNwSFFlVVZJTXZwSHk4S3ZLZ9IBeEFVX3lxTE9Qa1JMa3h0X3Jicmo5bkpuVERnSHdVREJnZ3poQldFVDZwcFJlUVBzem04blBKaWZ5NENXdVktMDd5NGJhUDZqc2t2QmF6NDByY2VaYTZIRllBUlJiQ0t5Z2VGLUI5UlJZYkV6X2t3Sy1QbzBDQWk1SA?oc=5",
+          "pubDate": "Mon, 04 May 2026 08:04:11 GMT"
         }
       ]
     },
@@ -258,10 +258,10 @@
       "query": "KOSPI",
       "items": [
         {
-          "headline": "코스피, 5.12% 급등한 6936.99 마감…사상 최고치",
-          "source": "뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95Wm5td3o4UmVNNHp6eUYzX0FQMnV4Y2Vyck54dDFvMU5UU1NDdDJhSzRXeXl1VTk0TDY1dkUtcVNtcXl6X09mcWpETmN4a0h1S216dHR3dW9aNkM1WFRvTQ?oc=5",
-          "pubDate": "Mon, 04 May 2026 07:05:14 GMT"
+          "headline": "'코스피 7천' 곧 현실로…6936에 장 마감, 사상 최고치",
+          "source": "노컷뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZLXhxejlHYTJOREVQLTdJOS1BbUUzcWVBZmJNUDlWOEMxSHVhcDN0eFY4dWNKN1Axd0NPcG5HdVROQVBLbmdOQVp0SGhqemtHSHc?oc=5",
+          "pubDate": "Mon, 04 May 2026 06:56:00 GMT"
         },
         {
           "headline": "Only 63.1 points left to ‘7000-pi’… The ‘unstoppable’ KOSPI closes above 6,900 for the first time ever",
@@ -276,22 +276,16 @@
           "pubDate": "Mon, 04 May 2026 04:45:25 GMT"
         },
         {
+          "headline": "실적이 밀어준 코스피, 7000 문고리 잡았다",
+          "source": "중앙일보",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UV3pCYS1VVXBjNUJneWFXTnQyYlZYRDJIX1R5QnBCZVVscGtRcjk4RDRYbXlpZHo3NFcxeVUxTjl3Q1dGcF9PdmhSdUdjVjdXazdSaGd3?oc=5",
+          "pubDate": "Mon, 04 May 2026 15:01:00 GMT"
+        },
+        {
           "headline": "[포토] 장중 6900 돌파한 코스피",
           "source": "전자신문",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1vYk52R0MzNnJaaTJtTWNZXzlPTXc1c2h1SXN4N0pqbllKQUhzQjRQNnp6NW9lcG5hYUtGSTVfVnJMRDM4dXVKclY2M3lzQQ?oc=5",
           "pubDate": "Mon, 04 May 2026 05:19:53 GMT"
-        },
-        {
-          "headline": "코스피, 5%대 급등 사상 첫 6,900선 돌파…'7천피' 눈앞(종합)",
-          "source": "연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZenZqbWRKZ01WWU0ybWpISHlMamdPdjZ3QWh2Q05sQVBLekNxMkI5NmFLVGh6Z1d6Z283dlZaYVA0RUQzUzVScGpsRUVTR1pOUVJTRWtMcEV2WDNWMTE2R9IBYEFVX3lxTE5ZenZqbWRKZ01WWU0ybWpISHlMamdPdjZ3QWh2Q05sQVBLekNxMkI5NmFLVGh6Z1d6Z283dlZaYVA0RUQzUzVScGpsRUVTR1pOUVJTRWtMcEV2WDNWMTE2Rw?oc=5",
-          "pubDate": "Mon, 04 May 2026 07:16:17 GMT"
-        },
-        {
-          "headline": "코스피 또 사상 최고치…7,000선까지 단 70포인트",
-          "source": "연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0xbE94NjE4blp3azVEMjN6c0Z3bGNMX21aU3poTkhfU0FHZHZkaEJHSjF3WnRwN3h6amJwMnFIdE94bVBsTEZrNzJLVVRyV3dDZmR4V0pYcHVvdzE1TUIzWXdLMTA?oc=5",
-          "pubDate": "Mon, 04 May 2026 12:05:27 GMT"
         },
         {
           "headline": "코스피, 사상 첫 6900선 돌파 마감…5% 급등",
@@ -300,10 +294,16 @@
           "pubDate": "Mon, 04 May 2026 08:10:00 GMT"
         },
         {
-          "headline": "코스피, 5% 급등 6936.99 사상 최고치...삼성전자·SK하이닉스 '신고가'",
-          "source": "글로벌이코노믹",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY2pmWnN6SnFUTWhWWmlVa3pmeWNtd0hFYm1rQllTYm90V3F4MzBmcjQxa3B1V200M2dlZ3V4cWExZVY2MlhNMWR5eGRncXlvM3A5ak5EdlZFWFlaS0xUYmVKRm1ZQ21rU3JjYWVsUHdhcjFHWERpWnh1RmRFc3R6UzdabFJMMEY1?oc=5",
-          "pubDate": "Mon, 04 May 2026 07:44:44 GMT"
+          "headline": "코스피 또 사상 최고치…7,000선까지 단 70포인트",
+          "source": "연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0xbE94NjE4blp3azVEMjN6c0Z3bGNMX21aU3poTkhfU0FHZHZkaEJHSjF3WnRwN3h6amJwMnFIdE94bVBsTEZrNzJLVVRyV3dDZmR4V0pYcHVvdzE1TUIzWXdLMTA?oc=5",
+          "pubDate": "Mon, 04 May 2026 12:05:27 GMT"
+        },
+        {
+          "headline": "연휴서 돌아온 코스피, '4%대 급등' 6900선 도전…7천피 가시권",
+          "source": "연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UX256aW9FOTF5b0I3eHZ0SWM2REVJRjREV19TNlVMaWpzekJ6aDZ3OFZUVnNDeWRKVFJieXZVRndOcU9XaDB4ZUZKVW5aQkJULW9XYmNsNk9ZcTjSAWBBVV95cUxQejlQSm52dXhfREpCYW04N2Rwck1zS2QtODR4NE9YNTVHVms2RlJFU19GWmhFOEQ3QUJIM2huZF9zWjZoYkxTczRYbVQtclVScFFRZml2ZVVkVnYxWDdiNzU?oc=5",
+          "pubDate": "Mon, 04 May 2026 03:03:49 GMT"
         }
       ]
     },
@@ -329,16 +329,16 @@
           "pubDate": "Thu, 30 Apr 2026 06:35:01 GMT"
         },
         {
-          "headline": "[코스닥] 21.39p(1.79%) 오른 1,213.74(장종료)",
-          "source": "연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ra3NpVXh2b2hqa2hSY19rMWd0WGloRFVvaUFJb1BPTElvLTlQZEhsanJ6aFFnZnhWdkJfWmIxR2FoLW85U3RmdmppUFVxem5Kc2RWeGlUSzNvc2_SAWBBVV95cUxPSnBldjZVRnk5Ulg3RXdqSmFGbHJDYlk1RTc3TlRELUdHUFJvRzU1NXlKX2NGT293U2dFMXVielJWTGxQZF9aY2xIM2YwQy1UaFIxTnVRYVAyaDEzU3hLRlk?oc=5",
-          "pubDate": "Mon, 04 May 2026 06:31:34 GMT"
-        },
-        {
           "headline": "코스피, 338포인트↑·6930선 마감 7천피 목전…코스닥 1.79%↑",
           "source": "동양뉴스",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxMlRvcVBQSlNSNnZlNTN3akxsMEx3ajJkLWdYRzlzcHllZFBTZmpydFFuWTdmamVJVjRJQWNWcGowUl9MVl93SFpoblEzd1NUSEpSdWI4dWwzQUF6cms0LQ?oc=5",
           "pubDate": "Mon, 04 May 2026 07:53:17 GMT"
+        },
+        {
+          "headline": "[코스닥] 21.39p(1.79%) 오른 1,213.74(장종료)",
+          "source": "연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ra3NpVXh2b2hqa2hSY19rMWd0WGloRFVvaUFJb1BPTElvLTlQZEhsanJ6aFFnZnhWdkJfWmIxR2FoLW85U3RmdmppUFVxem5Kc2RWeGlUSzNvc2_SAWBBVV95cUxPSnBldjZVRnk5Ulg3RXdqSmFGbHJDYlk1RTc3TlRELUdHUFJvRzU1NXlKX2NGT293U2dFMXVielJWTGxQZF9aY2xIM2YwQy1UaFIxTnVRYVAyaDEzU3hLRlk?oc=5",
+          "pubDate": "Mon, 04 May 2026 06:31:34 GMT"
         },
         {
           "headline": "4월 코스피 +30%대 상승 마무리",
@@ -382,16 +382,16 @@
           "pubDate": "Sun, 25 Jan 2026 08:00:00 GMT"
         },
         {
+          "headline": "KKR의 8억2000만 달러 투자로 삼성그룹 주가 급등 By Investing.com",
+          "source": "Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBR01SaE92Wl9Say1BMXhkdXBCLXEwamNzeTN6Vlc5MzJzRkpVbG5RUHozem4zTVhoTWNBUm1HSEJSOWx6a2M0YmVTRWxMWHlYVm8xSlo1cC14YmxjbG5BNGw3SzJOenFydk83MkRDcUI?oc=5",
+          "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT"
+        },
+        {
           "headline": "TRT 한국어",
           "source": "한국의 뜨거운 여름, 에어컨 판매 급증 및 전력 수요 증가",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01NlJMZHNuWXdPMDZEZkVCSGdhWlpIcmx1NE45bzRkanZwNElyUVRPY1lIODRzZFpXLUFNUlNFcjhrRlJhb3A1VTZNUHhiRXlmWndiSkUwaXZmZw?oc=5",
           "pubDate": "Thu, 07 Aug 2025 07:00:00 GMT"
-        },
-        {
-          "headline": "삼성전자 HBM 매출, 4분기에 30% 감소 전망 – 번스타인 By Investing.com",
-          "source": "Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCdEh3aG9TUWF3elBCUnBlOVZsdlpZa0VaNk1WTlB4TUtmb3ZZeWF6NGlNOVlLdzRKUFQ3M19WZ0xaTndsRW5xbWd1WmY5WHRnQUVwRFp1U2Y1OWZ3NElfWXQ5eW54M2NIbDQ1bmcxTGc?oc=5",
-          "pubDate": "Thu, 20 Nov 2025 08:00:00 GMT"
         },
         {
           "headline": "[AI의 종목 이야기] \"애플, 작년 글로벌 스마트폰 시장점유율 1위\"",
@@ -417,13 +417,19 @@
       "query": "AAPL",
       "items": [
         {
+          "headline": "AAPL/USD Perpetual Futures 주식 구성요소",
+          "source": "Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9JMjVFem96ZXVkRTRWTWdVTWk1NDRIRFhibUg4WVZDdjd2bmxGTjRMRTItdW9JRHpnQnVxZDNOUGRwbjNFUEREXzg5Z0pMd0EyYmw4bmhrQzU2OHBycEpPOUloYzlma1VzMWplVXJ0aDlNN1l1X0ZqZ3VsQQ?oc=5",
+          "pubDate": "Mon, 04 May 2026 15:43:02 GMT"
+        },
+        {
           "headline": "지난 5년간의 강세 이후 애플(AAPL)을 고려하기에는 너무 늦은 걸까?",
           "source": "simplywall.st",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ3ZCalpnTV9ld1htZHVYdE5YNk5HSXZvOTFad2hNVjJ3Z1JHSHBsZlFPcEhwdU8tUlNLSWRiamtZUkhYcklER3R5NDAzbGdDZWl0SXJHdTd5OTFyXzNGN0l2ZGpDUVFsUmtxRUVrbmoxNFNQcGtWX2tHQ0pRNC12UlB3VHdEdHVtY2dn0gGLAUFVX3lxTFBndkJqWmdNX2V3WG1kdVh0Tlg2TkdJdm85MVp3aE1WMndnUkdIcGxmUU9wSHB1Ty1SU0tJZGJqa1lSSFhySURHdHk0MDNsZ0NlaXRJckd1N3k5MXJfM0Y3SXZkakNRUWxSa3FFRWtuajE0U1Bwa1Zfa0dDSlE0LXZSUHdUd0R0dW1jZ2c?oc=5",
           "pubDate": "Fri, 01 May 2026 19:49:08 GMT"
         },
         {
-          "headline": "AAPL|Apple Inc|가격:276.880|Chg%:-3.26",
+          "headline": "AAPL|Apple Inc|가격:276.660|Chg%:-3.48",
           "source": "TradingKey",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Za2pMaTZxNTJXN3pjTDhLZUhOdFloSHFUb0o2VG9aZFBSeDkyQmJ1OXVDMU9xNmJ2MVJoTkFZS3BkWVRQSlJLS3Nqb2RSczVvNGtZNlFpZE53QTJ4SGNOZHItSGxjbjQ?oc=5",
           "pubDate": "Fri, 01 May 2026 07:00:00 GMT"
@@ -435,10 +441,10 @@
           "pubDate": "Fri, 01 May 2026 15:08:17 GMT"
         },
         {
-          "headline": "AAPL/USD Perpetual Futures (AAPL/USD) 뉴스",
+          "headline": "AAPL/USD Perpetual Futures (AAPL/USD) 개요",
           "source": "Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBGM2lFVnBFckotenZFbFd5M25aWXNfeF82dVFVV2p4ZFFDc25hN2ZKcUlXLTNkd3FGeFFlZlZXaXNVLVFFcW1ZOGRfT1Jvd0U5N0dSRmlTT3p6Rk1zalFwaldlOG1tMURJdEN1RHNnbFR2OTFJRVdnMklR?oc=5",
-          "pubDate": "Fri, 01 May 2026 18:52:45 GMT"
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YMjNFY3M4bFRvOTdzdXhIU3VMQWotdmZfZmFZNkVrQ2F2ZG1nblNnVzFhc0ZLYTBMcVJRaktEX1BURXpMNmRCWVhBQk05UEVhYUtOWWZwSXdCWGc2TjZVWnBXNFBVaURBaHZhQURPQQ?oc=5",
+          "pubDate": "Mon, 04 May 2026 02:17:25 GMT"
         },
         {
           "headline": "UBS Raises Apple Stock Price Target Ahead of Earnings",
@@ -447,22 +453,16 @@
           "pubDate": "Wed, 29 Apr 2026 13:27:25 GMT"
         },
         {
-          "headline": "애플, 터너스 CEO 체제 현금 투자 전환",
-          "source": "데일리바이트(DAILY BYTE)",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xbG1FRnNhNVJxWWZrbFBjc2l5cXlaY0FhdlctU29pWEdEdklLLVpjbjZidGFVX3lxTVp6RFdjelROUE5JcWxOcGdXRmY2S3RhTXhaelo0NVYyYUxLX2FsNW53TzBjOWN3cHFV?oc=5",
-          "pubDate": "Sun, 03 May 2026 14:11:00 GMT"
-        },
-        {
-          "headline": "시간외 거래 주요 종목: AAPL, ROKU, RBLX, TEAM, SNDK, RDDT, TWLO, CLX, WDC By Investing.com",
-          "source": "Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GOHlCVEJ2aGNJdkRwYzBTbnJDZEhDbDhzd2pmcGhCSXJ5clhFMkpYanNWcC1kSlh4cUFyV2JYMTBpYkpvanA2emlLdS1ZYUhsM3M2aFhsVURNejFXWExROUhDaVBwOVdfVlFOZ2I0MWZ5YWcxLWZVbA?oc=5",
-          "pubDate": "Thu, 30 Apr 2026 20:51:00 GMT"
-        },
-        {
           "headline": "Apple 주가 전망: AAPL이 보합세를 보이며 $267.00 지지선이 작동 중",
           "source": "Traders Union",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWU5sRVp2TmtuanRQZGFTVk1sTTFhS0FQNVdROWhSUERLa2dIVEhzTTFmelJmTWpLR284VFRYeHJFZ01leGhLVDFSWmhpM010VHRUcjhYRXhCelJkTXk4dmtGMTJvb1RBOVQ4b0xuMUJVYjEtUEIxWWFZUGV5NjdCQnp2VnVXNl9pWkZzT294MnlpeEQ4WDFtWXFUSzl6MTg?oc=5",
           "pubDate": "Wed, 29 Apr 2026 15:07:50 GMT"
+        },
+        {
+          "headline": "AAPL/USD Perpetual Futures (AAPL/USD) 뉴스",
+          "source": "Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBGM2lFVnBFckotenZFbFd5M25aWXNfeF82dVFVV2p4ZFFDc25hN2ZKcUlXLTNkd3FGeFFlZlZXaXNVLVFFcW1ZOGRfT1Jvd0U5N0dSRmlTT3p6Rk1zalFwaldlOG1tMURJdEN1RHNnbFR2OTFJRVdnMklR?oc=5",
+          "pubDate": "Fri, 01 May 2026 18:52:45 GMT"
         }
       ]
     },
@@ -470,19 +470,19 @@
       "query": "GOOGL",
       "items": [
         {
-          "headline": "GOOGL/USD Perpetual Futures 주식 기술분석 (GOOGL/USD)",
-          "source": "Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0NHpUX0ZqRnc1R3BqeU1sMnlzdVp4d0p4Rmo1QzduQjREbWxXRnFBLXNnLTdVMFlPVkFqWFBJaDN1UjRQaEhGV3I2WDdEWjJBYVczazBLb1hzZXY4MzlpWXY0c1lyMEVVRFo5bUoxT3BTcEp5ZDZaX3NOTQ?oc=5",
-          "pubDate": "Mon, 04 May 2026 06:22:31 GMT"
-        },
-        {
           "headline": "알파벳 (GOOGL), AI 기반 1 분기 실적 및 배당금 증가 후 10.1 % 상승",
           "source": "변경된 사항",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYlNXYzBZdW9sRHpUYkp5NFJXTk9zNHc0al9ZbUNwWWctdDFLbmlwb0FkVzA5RDF2STFHTHZnOFEzM3hWVzFoWjJjS1ZpdTFWZHd5S3lMVUtSZFRRUWFLTjI1dVd0RDZqVEJzWkttaS11elhzSGNkcEVVNDRuOThtWDFlV0U0MGhvYTRidVdpWGpqZ9IBkgFBVV95cUxOYlNXYzBZdW9sRHpUYkp5NFJXTk9zNHc0al9ZbUNwWWctdDFLbmlwb0FkVzA5RDF2STFHTHZnOFEzM3hWVzFoWjJjS1ZpdTFWZHd5S3lMVUtSZFRRUWFLTjI1dVd0RDZqVEJzWkttaS11elhzSGNkcEVVNDRuOThtWDFlV0U0MGhvYTRidVdpWGpqZw?oc=5",
           "pubDate": "Mon, 04 May 2026 05:40:54 GMT"
         },
         {
-          "headline": "GOOGL|Alphabet Inc Class A|가격:382.810|Chg%:-2.88",
+          "headline": "미국, 구글 CEO와 AI 역량 및 컴퓨팅 부족 논의",
+          "source": "Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5US19EQVlZcFpSVk1sYlJMVW5YRXlfemVFdEhLcUVaTFR5OGtvQTRtd1ZZcmY3cXZhU2drU1BhUTBleFIxTkJUM1U4WlFBRjAzcm9PUmRkTkJnam5NWUhITUZMMTMyYVVZWTFNMHB0SjNVT2lYRHhv?oc=5",
+          "pubDate": "Mon, 04 May 2026 12:14:00 GMT"
+        },
+        {
+          "headline": "GOOGL|Alphabet Inc Class A|가격:383.240|Chg%:-2.45",
           "source": "TradingKey",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0LWNGQ2dpdVdvMVdNYWNZSFlJLUNRaUptRUtXTlkxeGxTS01mMlJhMVVKcUxpTlFOLVlNcng3VWR2a3dEWlAzTEV0bG5xUDdrV3FwM0RINDVzQnhmLUNBcnZMdlJZNjU4?oc=5",
           "pubDate": "Fri, 01 May 2026 07:00:00 GMT"
@@ -523,7 +523,7 @@
       "query": "MSFT",
       "items": [
         {
-          "headline": "MSFT|Microsoft Corp|가격:413.290|Chg%:-1.15",
+          "headline": "MSFT|Microsoft Corp|가격:413.700|Chg%:-0.74",
           "source": "TradingKey",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PbHZQdC1NZnB3dzBzZ2pVUnkyS2RmNU9UbXlEeHFGS0lrSVB3UEJCUk1yQk80UWxSVzhuRUt4SGdnbEtoUU5hV0FQTll2N0pRTkU3Wk1MbGI2bEl1MDQxSXBvRFlNS2M?oc=5",
           "pubDate": "Fri, 01 May 2026 07:00:00 GMT"
@@ -576,10 +576,10 @@
       "query": "NVDA",
       "items": [
         {
-          "headline": "NVDA|NVIDIA Corp|가격:198.190|Chg%:-0.26",
-          "source": "TradingKey",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jcXI1NHBVQjVpdk5xNzdVRFRuYzE0bTk5dFFQVW1UOUh6dnJXSWpYTkw3d0VWMm5DeXo5cEd2aGMxNFo4alFibTItNXc1d1hFek10RE5QU0VaMFZKM0RULV83NENYNmM?oc=5",
-          "pubDate": "Fri, 01 May 2026 07:00:00 GMT"
+          "headline": "Nvidia 주가 전망: NVDA 하락세 속 $190 지지선 주목",
+          "source": "Traders Union",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa01SdzM3c1puOTZUMXVZMzEwOXdzQkU1U0JZVnhOWnFxS0k0QmFmekxJNE8tcXdJOC1SME1jVXowQk1mYm52UWppTUlGX3RuRnFhTy1pbW9GOTY5dnpEX1JZSzBtNWZjeUpVUEtNVFhkWHZxQkVLUVVzdW1waWdZVDJ0bEVIMVhPd0NuMDJYNDN1VHVFbVRpNXE2eVU?oc=5",
+          "pubDate": "Mon, 04 May 2026 16:07:27 GMT"
         },
         {
           "headline": "최근 주가 변동 이후 엔비디아(NVDA)를 재평가할 때인가?",
@@ -588,22 +588,16 @@
           "pubDate": "Sun, 03 May 2026 17:06:25 GMT"
         },
         {
+          "headline": "NVDA|NVIDIA Corp|가격:198.560|Chg%:0.11",
+          "source": "TradingKey",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jcXI1NHBVQjVpdk5xNzdVRFRuYzE0bTk5dFFQVW1UOUh6dnJXSWpYTkw3d0VWMm5DeXo5cEd2aGMxNFo4alFibTItNXc1d1hFek10RE5QU0VaMFZKM0RULV83NENYNmM?oc=5",
+          "pubDate": "Fri, 01 May 2026 07:00:00 GMT"
+        },
+        {
           "headline": "2026년, 2027년, 2028~2030년 및 향후 엔비디아(NVDA) 주식 예측 및 주가 전망",
           "source": "LiteFinance",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Ya1FFeHZubkp5eS1HMVM2NUNkRFhQMnU1TEx3VmpOUFNoQk1FLTdJSWZFeU9KUHZDZEdBa19jaW5BWk9MUkxFWjhSQ2FYZDBDZF84emxINHhrQWpyams5V2QxdTRlWlBVWENBd0hFdkpqZXZzRUtIb2dBMkRQZw?oc=5",
           "pubDate": "Sat, 02 May 2026 19:03:59 GMT"
-        },
-        {
-          "headline": "NVDA/USD Perpetual Futures (NVDA/USD) 뉴스",
-          "source": "Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBZWHFFTHNNMFAzWFpJLWU5aDVJWEZ0dEJqdDNWMXdWOGRPb05LNG9NaHZXeVB0NklLSjBZZVJ3Q3AyenZjT3I1eVFvblhSS2gyb0J6TmFrUnVZSnB1elh4OUVBVVYxZlRCQVBQdHlzYjZIQi16S2NKU2d3?oc=5",
-          "pubDate": "Thu, 30 Apr 2026 19:48:46 GMT"
-        },
-        {
-          "headline": "Nvidia 주가 전망: NVDA 보합세 속 $196.00 지지선",
-          "source": "Traders Union",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNN2d0M0NhMEJteWJQa3g3UWljb3B6dk9ZdUVMeDdTbUszVTdJTjVfMmxPTlp1OXVLcE9EbElwWk55R28zckRTSWdmVzkyRlRqdC0tYkZDODlYaU4wcl9Lb29YUHNYbDhUeS13cFJkWUJBR0ZBYlM0S0FGa0pvdlNxVTJ1azJNVk1YVHFhN1FpNThLN1FsVkcwU1MyMFcxd19o?oc=5",
-          "pubDate": "Fri, 01 May 2026 14:08:35 GMT"
         },
         {
           "headline": "종목 진단",
@@ -622,6 +616,12 @@
           "source": "데일리바이트(DAILY BYTE)",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56dGp2WFR2TndpSWh6UE44ZWFqMlR5ZHg5VUxmUEp0YUtVOUNHSnJNTHVRaFBWMTc4b1ZIV21NSGpGcl9oZ2dqZ212VzFXY0d1SXhRMTVVczV3T2ttSGg3UVYtMjZHTkVPTWVZ?oc=5",
           "pubDate": "Sun, 03 May 2026 01:01:00 GMT"
+        },
+        {
+          "headline": "NVDA/USD Perpetual Futures (NVDA/USD) 개요",
+          "source": "Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0zVUNYWUhmZzlSZlJpSDhldWVuYmtobDA5TEVnWDFEelM4cjBOLWdqM0d6TUFIS2poc3NaRm52NHNneVdXV1BrQ29Wc0NaWl9GSl93Ujl2cHhjUUxNQzZEWHJDM2JSeEdDcVViVTU5NA?oc=5",
+          "pubDate": "Wed, 15 Apr 2026 19:14:44 GMT"
         }
       ]
     },
@@ -635,7 +635,7 @@
           "pubDate": "Mon, 04 May 2026 17:43:00 GMT"
         },
         {
-          "headline": "TSLA|Tesla Inc|가격:392.240|Chg%:1.42",
+          "headline": "TSLA|Tesla Inc|가격:391.600|Chg%:0.78",
           "source": "TradingKey",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ackVnOXEtckRacEYzZm5BYTJjRVplazJwaEVURmwwakdZZXBnMUxnSTQzdHhVVkp2b2pka19pdzByQ2otb2F1T3BybFVRX25GSFZHZ0tzSjJxcXNvLUJVMGhTVklGSGM?oc=5",
           "pubDate": "Fri, 01 May 2026 07:00:00 GMT"
