@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T20:39:19.581Z",
+  "updatedAt": "2026-07-16T21:45:23.856Z",
   "watchlist": [
     "005930.KS",
     "AAPL",
@@ -99,6 +99,12 @@
       "query": "미국 증시",
       "items": [
         {
+          "headline": "[뉴욕증시] 반도체에 호재가 없네…필리 4.3% 급락",
+          "source": "KB Think",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wblRvcDZrT3JISi1nd2JxUldYRWQ3aGpWVFFCQVdWWTRwb2R6SEJ1LTZtRU9fdTlUM0RpMS1WUmdaMUJNbzBEZEpuS0hoTTUxTXBEeDFtNUgyZ0QtMllMcHl0eS0xRW05czFCVUNfRjNTdw?oc=5",
+          "pubDate": "Thu, 16 Jul 2026 21:02:19 GMT"
+        },
+        {
           "headline": "뉴욕 증시 SK하이닉스 ADR 급락...연준 \"AI 투자는 일시적 물가 상승 요인\"",
           "source": "YTN",
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94QVloaEJ4aWtUYlJ4eEZ3cndRWDE1UjB6TEJDejhHUFZDR1EyMlVseTVEUVR4SlAzZnJVV1VEMjBobDZhc25vTnZlZTZ6Q29JYkxSVzFXV1pSS3FNb3c?oc=5",
@@ -129,22 +135,16 @@
           "pubDate": "Fri, 10 Jul 2026 06:27:58 GMT"
         },
         {
-          "headline": "미국증시, 국채금리·유가 상승에 나스닥 1%↓…반도체주 급락",
-          "source": "톱스타뉴스",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JdTdtbGlybEpXWTR1dmNqTGpBTE5JQVpCRFd6Q1VscUtSVnJKbWctWm9iSXRsTG5qLXNHUU4tdUtVa0VuS2FGWmVnZmdEa3VwaE9NX24xamlLY3I2Wmxhay1hdEVxRmVFR0I2M1kxZHFNUQ?oc=5",
-          "pubDate": "Thu, 16 Jul 2026 14:07:08 GMT"
+          "headline": "뉴욕증시, AI 반도체주 매도에 하락…나스닥 1.5%↓(종합)",
+          "source": "연합뉴스 한민족센터",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PeWF3YThzREVSSXlfUWtWMFdRYmhJUW52M1hrVlZGZy1nRFV6YXRYcXlJUzJuSlJjV3NLMWJqdktzNG9kVW8tNWJSQk1NR040YURUU0xYYmYtY3lBSG9Fbm1EY1didnJOdVdheXpvVXVsT3Bt?oc=5",
+          "pubDate": "Thu, 16 Jul 2026 21:21:31 GMT"
         },
         {
           "headline": "오늘 미국 증시: 인플레이션 우려 완화 속 S&P 500 선물 소폭 상승",
           "source": "simplywall.st",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcmFXTUdma292eDFGYXprTDUxSVA3VFRRdDRpZWdsU01RT0FTdXdDd3ZVYngya1YxajZLdFdjSGFibmNnckphLVE2NDUzM2lvNXQ1RXh3OF81RlM3OC03VEJWWEh0Zm5NdFFYQVVSa2w3MHdXNnZmOF92Qnl4RWd3UVRKMkFTNVVKWDlBbFFkZWs4REhXdmFEU1Nfb0lOVFpTNHhFQjRwT0d6VnfSAbABQVVfeXFMUFJGX3M5NWVzd1B1UGlsVTM3TGZfdmx5MmV6Q3hrcXRmYmo0WnlGUm9JS2ZvY1NITzNtU0I1bVVDcTRYUlRKcWxuOWQ2blEwd0VLS0t2elFyWnRkcERzVmN3clJoU2RVNGtzRWJKZk1yMnBVMm9HSHNXeXNRRlZNenFINjlESm1sTmJyVnd6NE5henFOYzNYcTRwb2ZWWE1iVkMyM3lGeXdWc0ZXYmhiVGE?oc=5",
           "pubDate": "Thu, 16 Jul 2026 08:41:05 GMT"
-        },
-        {
-          "headline": "[증시 코멘트] 미국 증시는 하나도 안 떨어졌습니다.",
-          "source": "네이버 프리미엄콘텐츠",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTFJJclVJQTVGby1hQzMxdl9lNC1zLVFOUVFBV0xNX3RzMi1tQ3l5clJEVXJxUEd1S1lHMHBtUXdTakNxQTBqRmRCWHo4ZVViNGFzaWx3TUFqNUdFZDNEcEFmU2ktOGJ2QV9zOUNrNlNMbUdLUThKeUgzLTNtTlY0ajFGQ3F2amM0ZkUwZ2M0SU8?oc=5",
-          "pubDate": "Thu, 16 Jul 2026 11:06:00 GMT"
         }
       ]
     },
@@ -152,22 +152,34 @@
       "query": "나스닥",
       "items": [
         {
+          "headline": "뉴욕증시, 도매물가 둔화·빅테크 강세에 상승…나스닥 0.6%↑(종합)",
+          "source": "연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UZ1FncDN0T3ZwNTBsTElDLVJ3SE5WVkNmTHRkTnlqOG9UUGlCa25WQzloMEJJSTNuU0VKNkt3eU1ObktjTmstQXlkWW1jNmZfTk11MU9WU3pJeWPSAWBBVV95cUxOTklSVTBUWktMTWhWelBQcVYyaHlWLWk2LUs5ODRjQkZra2VZRmpleEJUOHlvR3l6dTAyeWJGVVU2b1ZRSnhMTkhfX1pBcEU4N0dORzhwWUtJbXh4RU1xUDc?oc=5",
+          "pubDate": "Wed, 15 Jul 2026 20:59:40 GMT"
+        },
+        {
+          "headline": "[뉴욕증시] 도매물가도 둔화…빅테크 강세 속 나스닥 상승",
+          "source": "아시아경제",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TZXhlbzgwd2wyYkc1QXRibkxrTjhIUWpoVGdza3JHMWtleVNTU2VPQVlJWncydnQ0andWZUhHaS1pZndvNmdIdjBOb1dDc2Z6bWZscWRlWW5oMTFRNXRUUg?oc=5",
+          "pubDate": "Wed, 15 Jul 2026 21:48:13 GMT"
+        },
+        {
+          "headline": "뉴욕증시, AI 반도체주 매도에 하락…나스닥 1.5%↓",
+          "source": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOQzh4bTI3R1BVbS1nM2lSaVgzb1NNLUhwYUJwZThCM1had0xQeW82TDBPS09JM1EzbnZfSXdJcGFrSVRCZHZsYl9iUl92Tlk?oc=5",
+          "pubDate": "Thu, 16 Jul 2026 20:13:49 GMT"
+        },
+        {
           "headline": "SK하이닉스 ADR 다시 9% 후퇴…나스닥 상장 나흘간 널뛰기 장세",
           "source": "v.daum.net",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00US0ydkhPYjVsbDBLOUFQUnc5UWVHX1VvT29DeFlWS2Qxd1g0M3lnWUVyVkV1Tnp2Z1lrTXBfRDJ4UEdyTHdkQXZ4dWNlalU?oc=5",
           "pubDate": "Wed, 15 Jul 2026 20:54:48 GMT"
         },
         {
-          "headline": "뉴욕증시, 도매물가 둔화·빅테크 강세에 상승…나스닥 0.6%↑(종합)",
-          "source": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9SMXlLdFV0bWhxTmRhOGhSaEc0RXVvRjVCQVk4WGJuaW14RFF1UUVnZkR1a1NOVWhZMDJFMFRPSzI5MlBGMkE?oc=5",
-          "pubDate": "Tue, 14 Jul 2026 22:28:48 GMT"
-        },
-        {
-          "headline": "나스닥, 엠프로 그룹 주식 7월 27일부로 상장 폐지",
+          "headline": "셀리안 바이오테크놀로지, 나스닥 규정 준수 위해 180일 연장 확보",
           "source": "Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBscXpNc1YzX3ZuVFhrcEcyN2VjTUR6VThBMGlkYVZLOXhHRlNNMEV6Uk1YaVBsaXc1djVzZUtxZmJ3UUFiWWc1U0FRUzVhcEM3MDVhVmhYYU5lSWp1STZBVkVIS3lPak01cnBMNmpPTFE?oc=5",
-          "pubDate": "Thu, 16 Jul 2026 20:14:00 GMT"
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41ejlPbnR6dWQtcUxvMng1LTNkT0Vpc29Qc2YyZVpWNHhIb0ptVFV2Z1RhQldYVFlZcV96TUF0WGNGa0xVd0Z3eGRCb1dkYlhHNElJVEp1cjlwWThMc1RCcnhnQTVYbnROaGZlSUhSWUY?oc=5",
+          "pubDate": "Thu, 16 Jul 2026 20:38:00 GMT"
         },
         {
           "headline": "IC줌 그룹, 나스닥 재무보고 미준수 통보..180일 개선 기간 확보 가능",
@@ -182,22 +194,10 @@
           "pubDate": "Thu, 16 Jul 2026 01:00:00 GMT"
         },
         {
-          "headline": "[서울데이터랩]미국 증시, 기술주 강세 속 혼조 출발…S＆P500·나스닥 상승, 반도체주는 약세",
+          "headline": "[서울데이터랩] 미 증시, 기술주 약세에 혼조 마감…나스닥 1%대 하락",
           "source": "서울신문",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9lRjY2aHpGSi1KaUpTR2NTekFVR3lLSnZHSHFiSWtMRkpKaXpQU3VvTXM0TkdsaTlpczk4cDBiUEI5UGxXSlljTVhHMlh1U2tQUGN6aGk0ZWFYQlNsbGxvRWxid0RhN0pjdGhfR3RtZm9tT1FnMGVXTTYzNUpRUQ?oc=5",
-          "pubDate": "Wed, 15 Jul 2026 21:13:40 GMT"
-        },
-        {
-          "headline": "나스닥 다우 선물 지수 혼조세...실업수당 청구 '전망치 하회'",
-          "source": "gukjenews.com",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1S2IwOHpCTkRTZmRGVjUwaHNCTk9PTW9mNVdUM05EUlJVek9iWDFMRnoxWGR2RGJVbmROYzRRREFaUFZsalFDVG00aEt5Qzg2d1NTYkVTMmNaeEZwdWRFN0w2RVBRa2owT2ZUMGFB?oc=5",
-          "pubDate": "Thu, 16 Jul 2026 12:59:13 GMT"
-        },
-        {
-          "headline": "토스, 금융복합기업집단 첫 지정…나스닥 상장은?",
-          "source": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6QlhTc0JaUlNzc2FydXdkTTlOYXl0a1ZrdGZtU1kyeDR0UF93R3pMRGptcmpJU0d6TXVFX3FYMExDTGd4Z3ZBZGplTWItVk84UG5R?oc=5",
-          "pubDate": "Thu, 16 Jul 2026 03:37:00 GMT"
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3MERkWEM3VTlfbUx2c3NwZG04VFdwT3NvRVhRc0JuN0FRYTFfQ3RMM1FOdVBZS1o1bEpickNXdkdpb2FsVmF4NmNETUdDYVpLeEhQbHd5MUI3WDJjcHpaUjF1WFBycDUwR1pRTkcxVQ?oc=5",
+          "pubDate": "Thu, 16 Jul 2026 21:13:33 GMT"
         }
       ]
     },
@@ -276,16 +276,16 @@
           "pubDate": "Thu, 16 Jul 2026 06:54:13 GMT"
         },
         {
+          "headline": "“저보고 조울증 같대요” 코스피 변동성 못버틴 개미, 떠났다",
+          "source": "문화일보",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8tMU1kOHVSc19Qd05JWlp5SzRfT01TcWQ3cklFM00xUmFOekx5dThlclE4Y0xaczhoVzVNMkQ2RVEwWXN6U29EdWNqRWFDRHp6?oc=5",
+          "pubDate": "Thu, 16 Jul 2026 01:03:13 GMT"
+        },
+        {
           "headline": "‘미장 오르면 올랐는데’ 이제 S&P500과는 ‘남남’…코스피, 사실상 ‘반도체 지수’ 됐다 [투자360]",
           "source": "헤럴드경제",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nUEM1VFdnUXEzQUJldmVtN3l0UjFFWjYzOE12dEo3YVM2S3RtRHRsMnJ2a01SMEFvUTFOUklKR3lzQWNURkw0TjY5YS1JVXZ3dnJORUJn?oc=5",
           "pubDate": "Thu, 16 Jul 2026 09:30:00 GMT"
-        },
-        {
-          "headline": "[속보] 코스피 급락에 매도 사이드카 발동",
-          "source": "연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UbFBZdks1N2RfdGJwalc3aU9OMFk1TGZuM3AwQkExVmNDUl8wYzRNVGo3SkZIS2x2YXVia09mNGNNRVhXcUtHblpneS1Jb2o1MlFpUGpkZVNfOEVPUWFGYUNINWJ2T2s?oc=5",
-          "pubDate": "Thu, 16 Jul 2026 00:12:00 GMT"
         },
         {
           "headline": "하루걸러 급등락 '롤러코스터' 코스피, 6.4% 하락 마감",
@@ -365,9 +365,9 @@
       "items": [
         {
           "headline": "[미국 특징주] 마이크론, 퀄컴 등과 AI 차량용 반도체 부품 장기 공급계약 체결",
-          "source": "뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBUeElnc2FPUGVlTkw3NTRrcXhfYVViLTIwMmJndkVfbjlrVGozOWJIdURxcktwUS1URV9fMmhLWGZac1NXZXR0YVhIeU9zN3B3akRTQjNXWjNaaVoy?oc=5",
-          "pubDate": "Thu, 16 Jul 2026 18:25:00 GMT"
+          "source": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUcjBPREtTMU9iTmNmVDlFYkp6T0R2TkNKMmdicnpJM2JTb1BqT29QR0tjd2tIN1BHaEZQa0lJbkgzRGJJeE5mVG9aX1Ffal9udVFPOXdRTHpXZDhrNWlmTw?oc=5",
+          "pubDate": "Thu, 16 Jul 2026 18:26:00 GMT"
         },
         {
           "headline": "[중국 D램 CXMT 해부] ④메모리 3강 체제, 본격적 도전장 내밀다",
@@ -382,18 +382,6 @@
           "pubDate": "Fri, 19 Jun 2026 07:00:00 GMT"
         },
         {
-          "headline": "[중국 특징주] 삼성SK하이닉스 공급망 기업 '선저우반도체', 커촹반 IPO 추진",
-          "source": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1PZnhHelltQmUwRlNyRGZJWTdqUmxJTVY4YTFYc3MzNWdnYUhnT2MyZ2pKU2dGQjZrOVJCUkhzRllXTnEweFgzQThJajdpQVVEOENv?oc=5",
-          "pubDate": "Fri, 10 Jul 2026 00:19:00 GMT"
-        },
-        {
-          "headline": "삼성전자 주가 하락…유니온 파업 강행 방침 유지",
-          "source": "Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLRmdjN0wtTWxYZVhJQTcyQnI2cm03OUw5VjFWUG9XaTRCTmNhSXRRV0NFc1d1SjVNNW9XQlJkeXA4akhrSnFEckNYOWNjazdrdGRNTTdrRFdGY0g5QUhCZ2l6LUVJeGlRa3d0WnExRHY?oc=5",
-          "pubDate": "Fri, 15 May 2026 07:00:00 GMT"
-        },
-        {
           "headline": "AI가 뉴스 실시간 번역…전세계와 통한다",
           "source": "서울경제",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBVlRhQXpSRjY4eVliQldNNVdBbmt6WTM5NDBIT2JDRjFfdlVxQ1RnZjRtREsybld3VDRmbWp0QVVyTUlFQlhfWDd2ZHl0ekVLUHfSAVNBVV95cUxQS1BaUUxwaVdEWWN5bTdWTERkQWc3S3pFWlhic01uWXlVc1FPNXZXTTFTZks3bE14WkxlTlR2YlNIZkxVTkdnQ3BHQllONzVNVzNTWQ?oc=5",
@@ -406,10 +394,22 @@
           "pubDate": "Sun, 17 May 2026 07:00:00 GMT"
         },
         {
+          "headline": "[중국 특징주] 삼성SK하이닉스 공급망 기업 '선저우반도체', 커촹반 IPO 추진",
+          "source": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1PZnhHelltQmUwRlNyRGZJWTdqUmxJTVY4YTFYc3MzNWdnYUhnT2MyZ2pKU2dGQjZrOVJCUkhzRllXTnEweFgzQThJajdpQVVEOENv?oc=5",
+          "pubDate": "Fri, 10 Jul 2026 00:19:00 GMT"
+        },
+        {
           "headline": "30화 예측 불가능한 카오스 속에서 배우는 투자전략",
           "source": "브런치",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHd1hmc0pYSE5hTmZOQXA0OG5HZnNDUEdHVHZlZVk5djZYQzJqNU50djZoZWVOTGtHZUh0WlJEa1NzUG9qeHd6SkV2OTlyTUhYTzZn?oc=5",
           "pubDate": "Tue, 13 Jan 2026 08:00:00 GMT"
+        },
+        {
+          "headline": "TRT 한국어",
+          "source": "한국의 뜨거운 여름, 에어컨 판매 급증 및 전력 수요 증가",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01NlJMZHNuWXdPMDZEZkVCSGdhWlpIcmx1NE45bzRkanZwNElyUVRPY1lIODRzZFpXLUFNUlNFcjhrRlJhb3A1VTZNUHhiRXlmWndiSkUwaXZmZw?oc=5",
+          "pubDate": "Thu, 07 Aug 2025 11:25:57 GMT"
         }
       ]
     },
@@ -665,16 +665,16 @@
           "pubDate": "Thu, 16 Jul 2026 08:58:25 GMT"
         },
         {
-          "headline": "도이치은행이 테슬라 목표주가를 465달러로 본 이유는?",
-          "source": "코인리더스",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1oYW9aUDd6UnRDVW9GckNMREp1azRjeDBrMGVhN0t4V1F6WXhhcmRDUFNYSUh6bkZnRG1MTUFuV1hzNDdrUjZlMTN3?oc=5",
-          "pubDate": "Wed, 15 Jul 2026 22:34:00 GMT"
-        },
-        {
           "headline": "돈나무 언니, 테슬라 급락시 3천800만달러어치 추가 매수",
           "source": "KB Think",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5OWpsZ2VzeWZlTWcyMUxRMWFEV1VMalc5eVN2UEZiMElwdE0yNFpoYzRjbXhmTi02bGVHUElmR0p5LTdtY2ZkdExmTEVqUVljdUhkZWd2Vlo0VTNIam9wU1FsakhWTTFCNEV6QXBtRmZ1UQ?oc=5",
           "pubDate": "Mon, 06 Jul 2026 04:59:09 GMT"
+        },
+        {
+          "headline": "도이치은행이 테슬라 목표주가를 465달러로 본 이유는?",
+          "source": "코인리더스",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1oYW9aUDd6UnRDVW9GckNMREp1azRjeDBrMGVhN0t4V1F6WXhhcmRDUFNYSUh6bkZnRG1MTUFuV1hzNDdrUjZlMTN3?oc=5",
+          "pubDate": "Wed, 15 Jul 2026 22:34:00 GMT"
         }
       ]
     }
