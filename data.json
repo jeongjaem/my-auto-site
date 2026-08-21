@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T08:00:33.410Z",
+  "updatedAt": "2026-08-21T08:54:04.738Z",
   "watchlist": [
     "005930.KS",
     "AAPL",
@@ -135,16 +135,16 @@
           "pubDate": "Thu, 20 Aug 2026 15:00:00 GMT"
         },
         {
-          "headline": "“역시 반도체”…코스피, 美 ‘금리 악재’에도 분위기 반전",
-          "source": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ieDFkTGh6SVVRd2prdl9xVGNuVGVvN1Y3cUtzOExjUDhmOXlLYkdpQWFjMmJYWXRPZGhLaEdmaExVYnI4SFppa0F3czdodTA?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 02:56:10 GMT"
-        },
-        {
           "headline": "美 증시 약세에 국내 증시 하락…코스닥 급락에 매도 사이드카",
           "source": "전자신문",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxeHJHaGpEN2MxeHJ4UmdBaDluaWw5OFFEOThuRzZfNzBla3F6UXF4UnJ0ZVQyRnF4Y1diSDBpTUNaeHhwODRqeXh4Q09QZw?oc=5",
           "pubDate": "Fri, 21 Aug 2026 02:07:36 GMT"
+        },
+        {
+          "headline": "\"美증시 버블, 2027년말 전에 터진다\"…전 뉴욕연은 총재 경고",
+          "source": "뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5U1J5UTBJZ0RBaGlUZkFuTkpkMXJENnVFSHdPcFZfRm5SN2NuRkpFZFdrbU8yS3B4V1M3VUlCcGdLUHpCUEl2eE5nc2loYUZBbjZDWk9oSjM0V3V0?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 02:08:00 GMT"
         }
       ]
     },
@@ -184,7 +184,7 @@
         {
           "headline": "“중국판 나스닥 뜬다”…커촹반50, 中 대표지수 보다 30%P 더 뛰어",
           "source": "헤럴드경제",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBkUFdXXy1IQ3pXQlEwUDJyd2x2T3d4NUdxU0ROZ0pRTDB2dnRHVmRwNzN4bUV0clFoNlpIWEhUMEtkZGhkcEJVX2xEM3RvcG9VeG5nbWZkSQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NTVhXSV9rVmp5WklFOWFjbm5mUE0wSXNEUWExN0gzTUxDVE5UMWRoUDNsQkRSVno0S1RDdVNyS0xROHB1V05mQm1ackZNMjIyb0NhNGFB?oc=5",
           "pubDate": "Thu, 20 Aug 2026 14:00:00 GMT"
         },
         {
@@ -258,34 +258,28 @@
       "query": "KOSPI",
       "items": [
         {
-          "headline": "코스피, 1.35% 하락 출발…코스닥도 2% 내림세",
+          "headline": "코스피, 다시 불거진 美 국채 금리 부담에 하락 출발(종합)",
+          "source": "연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWZzZ2cUFHQjBaaUpfM29ZSE8tSnhxelY0ZE1IM0oybTRJMXVCVjVWeVRwMlpsT3BRcnl4Tk11UHkyQjZXaENMbWxBQk9VOHNPNDQ5S3JzR1Z0MmfSAWBBVV95cUxQclYzaENiTDJBWGphMjR4NmwzenVmUGtUNlBJNVJCdFhzTDRfdm9yLXRETmlqNWhTTkFrbmhUYVNfMWZieXdSS3NmSm1Xc25NUkxEZExBY19XUEhyekJ6bkM?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 00:22:42 GMT"
+        },
+        {
+          "headline": "코스피, 삼전 대규모 주주환원 기대에 상승…6,900선 회복(종합)",
+          "source": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9UUWZWVG1NeU83YXZta1AtMXdWV0pZZnBiR2UxOG5EVi1MZXJPYzBCSlN3NzAzUG9FdC1mZlR5SWZkSEJZWTRIYlhjM1d3WVU?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 07:09:50 GMT"
+        },
+        {
+          "headline": "'40조 주주환원' 하이닉스 13% 폭등...코스피 5.9%↑",
+          "source": "YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RSjlsS2MzeHMzRkxJV1IwZGs2cXBOMmFUMG1pbTB1VkxsS3Q5RUhkMnJGU3hpNE1wSXVkNWw1ODZDa0k0bGw2V01raXdKcGtlaVpJLUJOOVctM0wxY1E?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 15:39:00 GMT"
+        },
+        {
+          "headline": "[표] 코스피 지수선물·옵션 시세표(20일)-1",
           "source": "매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5MQWNkSTMxeXkzZTZwUzVZOUxVRzI0YnFncjZFR2FILTVndzRkN1ItaXhGU3J1UlpHRDZQbTBDZEpWaGk2UkRMdHktYUdsc0R3VkE?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 00:46:20 GMT"
-        },
-        {
-          "headline": "\"시장은 죄가 없다\"…고수가 꼽은 코스피 반등 조건",
-          "source": "한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lS1NRLWhLRUROUlRJdWhLVW5OaFhqR0FxWEU2WXl1NDFxOHRFMk1zcXR5aXRpaWRUNWZpX1RwSXctTlloNHZXM0hYQnk0NXhMM2VEWUctN2dmZw?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 06:10:48 GMT"
-        },
-        {
-          "headline": "“삼전 주주환원 기대된다”…6900선 되찾은 코스피, 전날보다 0.88%↑",
-          "source": "매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PUGgwZFBsNC1abmxFZ1F2QjNnV21pSFlSVFAxWkNDaThOcU5hcXpCNW1uYVVjeUpzLXBUNlhXbzN1T1lnYmNMT0xrT1NzbTIwbVE?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 07:20:18 GMT"
-        },
-        {
-          "headline": "코스피, 6900선 회복…코스닥은 4.6% 급락",
-          "source": "국제신문",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQk5Cb3R6bGNOUVZhR3o5RmI4YWRLalQ0ejB2YmxDMUNsSHpCMVZYem1LcTMtQ0tueHB5QnoyTm5DR3VrN3dHRndCVm8xX1VlSzRmc3diQmk3WlNvUVVnSGdoVzVXX3VHdV9oaFBBYW01RDljQTluUlhBLVlJQXZqZmJXOVJWa2lxcHIzU093?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 06:37:00 GMT"
-        },
-        {
-          "headline": "KOSPI jumps 5% on SK hynix mega shareholder return… 7,000 in sight",
-          "source": "경향신문",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVGs5Si05Uk1yNjBqdm1qRHNnNjcySHgwRGhoMDR6bWt2RldEWlZZSE8weGlxNWpoX2ZSZmp3MHBuYXUySHBCWnE5T3ptbGtZajFkb1FMNlBINlJqejd6aFNLZVJld0p0c2ljMWlqRGUxREtjQzBaaXNUcVpCb3dJSjBaSzNDd25MQTN4ekpSUHFRZFVqcF9Qb2VMWVNrOGpoYVUwSnowMkFfUjY0dFpUQw?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 08:21:00 GMT"
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDQnNTZVg4ZTQ0bHMyaVZSSEJLTmdxVzFEcUFLSEEyT2Y4aE9uemEteEZ6MlMtOVNfSjV2ZnB1ajNDcFpxbzZlYUFQR3RyNGIyclE?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 07:30:36 GMT"
         },
         {
           "headline": "'롤러코스피'에 지친 개미들, 피난길 떠났다…\"장투에 딱\" 1.7조 매수",
@@ -294,16 +288,22 @@
           "pubDate": "Thu, 20 Aug 2026 07:59:04 GMT"
         },
         {
-          "headline": "코스피, 개인 '사자'에 3%대 강세…반도체 저가 매수 유입",
-          "source": "연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GYTJEOFFQRVF6ZmN3cVh4UWx2aVl4bGpyUER2MEdHNVhCN295dEFrZDlsUlJLci15Z0FHcURUTDJ3NDRIdFlobmk1OTdkUTQzcjY2SUUzY1A2UnlQeHRlNkF3bE1idVp4emtVUV8zcEo?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 00:19:48 GMT"
+          "headline": "칠천피 문턱 코스피…안착은 여기에 달렸다는데",
+          "source": "아시아경제",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PS2FTbTBlQ3hxWUN2ckVtZXFSOUI2amRrRGhkUm5LRDhRRjd2bHFrWktybVhRQTdfVldUTkE2MUhyazJfSG8wZmdBUm1wR2xuWW1sVnJhSWsxd3JHSUdzcA?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 01:16:43 GMT"
         },
         {
-          "headline": "코스피, 장중 상승 전환…삼성전자 1%↑SK하이닉스 4%↑",
-          "source": "뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FWE5pME1iRklndTFHUnpMRmRMTDBpZnRMTXBLOG1NN2gtaEx4akkxci1OVlBiLVhrVFFCU2p2M2h2VkJPckxra1JWWF9BRzlwMkQ5cGpYOVAyTHRpVW1XSNIBeEFVX3lxTE52d1QxNnpVS3lVaFZka1gyUGtLWnhvUXFxRkpXVzY5c0pTSmhGNzQ3Zkw3UEpYRmN6SGJVS1FhdV9Yd3ZGSXZRSFlPMVZpcTRwMVFtNFVWa3dWODN1RXkyWXFURGZyZ0pkMXV0Z0NIZjZKYi1iTk9YWA?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 01:01:08 GMT"
+          "headline": "코스피 상승 마감",
+          "source": "뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Qc2dvS0NCb1l2dDNDd1E2T0UzekxfSjlUR3lFX194eW5uZE1OQjRfSDY1MXppSEw1MC1QeDhELUxjbmpJdWRlQ2Y1bw?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 07:11:50 GMT"
+        },
+        {
+          "headline": "[코스피] 92.63p(1.35%) 내린 6,759.95(개장)",
+          "source": "한국경제TV",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUWpIVmZ4akRFcVJjOGxRN0RmeTBWVzI1V2hodjZWZFRQRlhwYlBNQllxQm5EZXBMaDNmU3ZqQTZJdFBDM2I4czNsTXdVbFZsSnVnRXA0X2xXdGk5bzV3TU9zY0lGRlBGdDl6N3hhR3UwTTdQOXRqTjlHVmFWY0ROUA?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 00:01:00 GMT"
         }
       ]
     },
@@ -317,34 +317,10 @@
           "pubDate": "Fri, 21 Aug 2026 02:39:00 GMT"
         },
         {
-          "headline": "코스피, 6900선 회복…코스닥은 4.6% 급락",
-          "source": "아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44cXVkNGw5amFxdVE5R2tyNXJCaVI5QmtrRTJVZWFNVHlqZkNtSU01MlZ2aWY4cUo1OXByQVBPd3g5UGVfLW9WMFJNel9yMXZ1OWZqOVl6RWx6UE5tYTN2NQ?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 06:45:23 GMT"
-        },
-        {
-          "headline": "악재 뚫은 반도체에 코스피 방긋…코스닥은 또 4%대 급락",
-          "source": "노컷뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0c180R2xJRGdHd0tnOEZBRnhkWGZSREZsRS1udEtPSnVJMElFVDVaaVRoM2NhaFJVYlFvd0Nob25VeE1aWFlOTzA5UzkyaUxDSFE?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 07:43:00 GMT"
-        },
-        {
-          "headline": "코스피, 0.9% 올라 6900선 회복…코스닥 4.6% 급락",
-          "source": "한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50XzVHX2ttZXBhNWo4bzBvVzkwZV9kbjRxZktvWjkzU09oOVI5MFpqMFYxNWQ4Nmp5ZldDT2dJeUg4eWpUTTRYeHBveE5DX0F6WWN1QVV6eXFjUQ?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 06:36:55 GMT"
-        },
-        {
           "headline": "유캐스트 등 3사 코스닥 상장예심 통과…니어스랩은 신규상장",
           "source": "연합뉴스",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yQVN1enJ1QVZTZ2h4MlVfa3ZnSWV6YUdLOGd5bUJab3FqdVVXMXBsTkhxMlhHYkpVeUtWSlhoUXROTTVnbWdFV1BHNDNoNU1meVlNcl9kZXdjU0HSAWBBVV95cUxNMldRVkxFbFBKQlgydVBVMFh5czZTLTVWT09CTmJwUG9BWGxzc0ZxY2tTVjVXT3ZzaXRsR2RROTNsTGExN1VsZ0lOb0diWjJrU1NlenA5WVJaT0h5SXlwMVI?oc=5",
           "pubDate": "Thu, 20 Aug 2026 10:43:47 GMT"
-        },
-        {
-          "headline": "[그래픽] 코스피·코스닥 추이",
-          "source": "뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FVDF6MWY3T1oxVWJiMlEyS2d2U3BFbjkxOTJrWC1nZS1oT3BsUkR1cy1uOUMxTnY5ZWRIZ1BXUWwwQ19lQnU3c0JDVQ?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 06:37:47 GMT"
         },
         {
           "headline": "코스닥 800선 붕괴...코스피는 반도체 상승에 힘입어 6800선 회복",
@@ -353,10 +329,34 @@
           "pubDate": "Fri, 21 Aug 2026 02:13:09 GMT"
         },
         {
+          "headline": "[그래픽] 코스피·코스닥 추이",
+          "source": "뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FVDF6MWY3T1oxVWJiMlEyS2d2U3BFbjkxOTJrWC1nZS1oT3BsUkR1cy1uOUMxTnY5ZWRIZ1BXUWwwQ19lQnU3c0JDVQ?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 06:37:47 GMT"
+        },
+        {
           "headline": "[포토] 코스닥, 코스닥 동반 하락 출발",
           "source": "아시아경제",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVWkdheWdkWWY1c3hDUzNJVGctczVySkpPZ190NkVLVGs3SExXY0FMeTBfNHR5MlFoREhENzlfdlhONnhlQnl3d3VEYk5nU3d6Z2hiWGZNdWRTX2dpWFdLNw?oc=5",
           "pubDate": "Fri, 21 Aug 2026 00:27:32 GMT"
+        },
+        {
+          "headline": "코스닥 상승 마감",
+          "source": "뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mVWRSckpQSTNLQ1Y0RVZzWkUxUEhTeDJrdXlpc0QxTnZDdWwwa1M4RnRfRXJONlB2YzRYdnNjZzhPMGNSWjFrcFlHWHdxcWZ4NG9qXy1UeDkxbVRQRDRzT3hWUktKQQ?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 06:55:18 GMT"
+        },
+        {
+          "headline": "악재 뚫은 반도체에 코스피 방긋…코스닥은 또 4%대 급락",
+          "source": "노컷뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0c180R2xJRGdHd0tnOEZBRnhkWGZSREZsRS1udEtPSnVJMElFVDVaaVRoM2NhaFJVYlFvd0Nob25VeE1aWFlOTzA5UzkyaUxDSFE?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 07:43:00 GMT"
+        },
+        {
+          "headline": "코스피 6900선 회복…코스닥 800선 턱걸이 마감",
+          "source": "메트로신문",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnTDR6ZW5TSXp4Z1U4R2hsOTVaUEdvRTJsLTllazhSUWltbWRZVUNuY3FkVmllWUdCVzQ5R2d6dWRrVU1VdnRTX19VSWZ2bkpENGpvdWphVjlNcmtBZVRPaA?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 06:46:25 GMT"
         }
       ]
     },
@@ -419,8 +419,8 @@
         {
           "headline": "애플(AAPL), EU 앱스토어 수수료와 규정 전면 개편에 나선 이유",
           "source": "simplywall.st",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUTAyQnA1ak96UXU2Z0pRYy15blVsd1JmT2xreF9CUF9wSjVOZTFtU0pJbFF6SkVSaTRJVURyMURMZ29rdEx5RVZaQnhsRXpjSEJyOFVuV09fTU5fRWU0dnFja19sT3ZtV3JpZ3JwUnE4UXcwRXp5LXNMZVVTLWtFWmhYblZrd9IBiwFBVV95cUxNMGExejdlWGlmQTllUk1Bdkszay04Q2FTc0NFSVRFREV3Y2xSVVZ4LTVKRG1QRFVac3FXeFJCTkpkVk5Wa3hKUlBjVC1aQjhyWFdQbVNnNnJudG1HTU8wRE1iMlZ5WElTRnE4cm1MbGlrMmJoQmZ0MXRXMmlNa3A3a3p3NFd6RFZYazgw?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 03:22:30 GMT"
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMGExejdlWGlmQTllUk1Bdkszay04Q2FTc0NFSVRFREV3Y2xSVVZ4LTVKRG1QRFVac3FXeFJCTkpkVk5Wa3hKUlBjVC1aQjhyWFdQbVNnNnJudG1HTU8wRE1iMlZ5WElTRnE4cm1MbGlrMmJoQmZ0MXRXMmlNa3A3a3p3NFd6RFZYazgw0gGLAUFVX3lxTE0wYTF6N2VYaWZBOWVSTUF2SzNrLThDYVNzQ0VJVEVERXdjbFJVVngtNUpEbVBEVVpzcVd4UkJOSmRWTlZreEpSUGNULVpCOHJYV1BtU2c2cm50bUdNTzBETWIyVnlYSVNGcThybUxsaWsyYmhCZnQxdFcyaU1rcDdrenc0V3pEVlhrODA?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 02:41:51 GMT"
         },
         {
           "headline": "FT Vest AAPL & Target Income ETF | XVAP ETF",
@@ -579,13 +579,13 @@
           "headline": "NVDA|NVIDIA Corp|가격:216.850|Chg%:-0.710",
           "source": "TradingKey",
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXTkFCZkJobDNPc1Z3bG5WZVY2VlZjX2RqTGE3eTNBMEYzOHNVcUlBbWpNWmdLQ2pVdWJKam0zRnp1MWhPZjhjaVlXelN5RHdQWHFneVA5cHRzazJYU1E?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 02:51:31 GMT"
+          "pubDate": "Thu, 20 Aug 2026 20:49:56 GMT"
         },
         {
           "headline": "엔비디아(NVDA), 로봇과 물리 AI 생태계 중심으로 확장 중",
           "source": "simplywall.st",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPM0NSb3N4bHhOelpiWDcwUHpHbjQ2cEdfWHFDSnZ5WUNoSWtNYU4xSUJxTXNiWlBDTkZPRHpMZnJfTWhUdUlSSnVtVXRpam8zWHpsTDl0OGVxRnFrSnFON1l1OFJva3pmMHFxU1pCeGJVUzR4WUxfY1o5Ry1YYWN6YWlMbkFOMTBqU2RiYWltcXhia1ll0gGaAUFVX3lxTE90VXZXcXM5QXpPbEM0TDl5N2ZtaGhsbmtnN3IyckdBWWZKWU9vd1R2eTFBOW5DZG9Rbk9MbU9YQlZ6ZmNBM0NzY3cxXzZSbUlfdlp5WWRUUG5iTVdFeWtFdEFUdkJDNjduQ2R4S0dJN2RVa0ZGUExITFR0NUlwZ3dUa1J5TzdGWE1mZERlMWNqckttSC0xcGdPTmc?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 03:11:15 GMT"
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdFV2V3FzOUF6T2xDNEw5eTdmbWhobG5rZzdyMnJHQVlmSllPb3dUdnkxQTluQ2RvUW5PTG1PWEJWemZjQTNDc2N3MV82Um1JX3ZaeVlkVFBuYk1XRXlrRXRBVHZCQzY3bkNkeEtHSTdkVWtGRlBMSExUdDVJcGd3VGtSeU83RlhNZmREZTFjanJLbUgtMXBnT05n0gGaAUFVX3lxTE90VXZXcXM5QXpPbEM0TDl5N2ZtaGhsbmtnN3IyckdBWWZKWU9vd1R2eTFBOW5DZG9Rbk9MbU9YQlZ6ZmNBM0NzY3cxXzZSbUlfdlp5WWRUUG5iTVdFeWtFdEFUdkJDNjduQ2R4S0dJN2RVa0ZGUExITFR0NUlwZ3dUa1J5TzdGWE1mZERlMWNqckttSC0xcGdPTmc?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 02:39:04 GMT"
         },
         {
           "headline": "엔비디아(NVDA.O), '중국 전용 AI 칩 출시' 보도 부인…\"LPU 계획 없다\"",
