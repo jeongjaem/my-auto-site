@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T09:26:39.382Z",
+  "updatedAt": "2026-08-23T09:52:41.630Z",
   "watchlist": [
     "005930.KS",
     "AAPL",
@@ -135,16 +135,16 @@
           "pubDate": "Sun, 23 Aug 2026 05:11:11 GMT"
         },
         {
-          "headline": "이번주 뉴욕증시 ‘3대 분수령’…엔비디아·PCE·워시 잭슨홀",
-          "source": "경북매일",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFbHc3bElTNmZud2w5ZkpQVkdVM2t3dkV2RTNFTjRKXzNXX3NaMi1felZESENQSktRMWNieEo1NUxWeE4zRzFrT2FMSmpfVndMNERpRE9xNXJxQQ?oc=5",
-          "pubDate": "Sat, 22 Aug 2026 22:46:00 GMT"
-        },
-        {
           "headline": "국채 매입 ‘바이백’ 약발 고작 하루… 미국증시 일제 하락",
           "source": "문화일보",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1YbnFIS1NsTndab3dmVEhaWFNMMV9LeHYwLXY2NkZCOW1uUHpqTE15VTRmVWx1Q05Malp4d0Vwd0lLRFJiUjhDN19DYXprTEpN?oc=5",
           "pubDate": "Fri, 21 Aug 2026 02:41:37 GMT"
+        },
+        {
+          "headline": "이번주 뉴욕증시 ‘3대 분수령’…엔비디아·PCE·워시 잭슨홀",
+          "source": "경북매일",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFbHc3bElTNmZud2w5ZkpQVkdVM2t3dkV2RTNFTjRKXzNXX3NaMi1felZESENQSktRMWNieEo1NUxWeE4zRzFrT2FMSmpfVndMNERpRE9xNXJxQQ?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 22:46:00 GMT"
         }
       ]
     },
@@ -170,12 +170,6 @@
           "pubDate": "Thu, 20 Aug 2026 09:18:10 GMT"
         },
         {
-          "headline": "나스닥이 1% 내린 밤인데 저는 오히려 안심했습니다",
-          "source": "네이버 프리미엄콘텐츠",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOekF5eHktX3pWVVcyMThqSXMyZ1JfaDBrWjNETDUxaDhQN1hTQU96T2dKZktMRXBHcUVEN0YxSThmLVRSQS1oZGgyTTAxSGpZeHpmS2VIam56SmFXWE1qNGhGZXk1Ui1WMDFDd25TRUloN2hvQm45NkZHVTR2ZkMxSFl2clhraUU?oc=5",
-          "pubDate": "Thu, 20 Aug 2026 21:37:00 GMT"
-        },
-        {
           "headline": "[코툰] \"비트코인, 장기적으로 나스닥 수익률 상회할 것\"",
           "source": "코인리더스",
           "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBkdGNWelcyZzBWdWt2V3ZWVUs1aVJNXzRULXFHdGtTc1hVMkJTeE4tNC0zR2pXdTZPNnlUblZ5WUdOUHlsdkxja0hn?oc=5",
@@ -186,6 +180,12 @@
           "source": "네이트",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40R0JjcUl0enkyZkhjaVBWSXJ5VXM3c2xMak1RX29MaVN4cXlrSXJ4eUxfNjBIVm40MWt2ajhGU3FDVzR5UlhicGV0SmZoTmZuWk1iTUgtUGxiNlVibWFpVVJoQ1JRdnM3dDUyeDhsQml5dXZkcW5nbg?oc=5",
           "pubDate": "Fri, 21 Aug 2026 20:07:00 GMT"
+        },
+        {
+          "headline": "나스닥 -1.00%인데 SOXX +0.52%…금리 충격 속 AI 반도체의 다행스러운 반등세",
+          "source": "네이버 프리미엄콘텐츠",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQ1VKVE5MQ3JxYlNXRHZ0ak1wOEhQTmdQa0w3TWpBN0dCbWxzMnRwSENJRUxqNVNHczJjY2hrcHJQSXRxR0FIR0pPR09BNnRYdWdQUGhjVnZBbGpiN0xsVlBHSzU5N3B5RmV6RTJpekJoMXVnVlpabllYWXNRSGpfV3RB?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 00:22:00 GMT"
         },
         {
           "headline": "UDynamics, 나스닥 IPO 신청…560만 주를 주당 $5~$7에 공모",
@@ -258,18 +258,6 @@
       "query": "KOSPI",
       "items": [
         {
-          "headline": "코스피 30% 급락…\"‘빚투’ 후폭풍에 흔들린 증시 체질개선\"",
-          "source": "edaily.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdnk3ZmtVRlBrYkI1bXFyVnpRMF9BRXNfbjBkVERuRHpGTlJXTkZ5OUxFeG1GUEhrYjNaUXpBNW1XWVAyZFFTQ25WUDhwNGg0d09VRW9YSGpVaVN4VHc3NGIzMkZ3eUttZUtCcWoyZjZocGdIQlBqVkFHakt4N0NRQg?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 04:42:16 GMT"
-        },
-        {
-          "headline": "코스피, 삼전 대규모 주주환원 기대에 상승…6,900선 회복(종합)",
-          "source": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9UUWZWVG1NeU83YXZta1AtMXdWV0pZZnBiR2UxOG5EVi1MZXJPYzBCSlN3NzAzUG9FdC1mZlR5SWZkSEJZWTRIYlhjM1d3WVU?oc=5",
-          "pubDate": "Fri, 21 Aug 2026 07:09:50 GMT"
-        },
-        {
           "headline": "[주간증시전망] 코스피, AI 반도체 훈풍 타고 7000선 넘을까",
           "source": "브릿지경제",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WMjlzcmxCaVRBUGVEM2F4dnpyTV9xcXZCMjBZTkFMd2xjaURMdkxCcC12eFV4Ym5kWmgwWnF6YnBaWkxyOThyV1oya0NiTmF4UU9jVG9IYXVadw?oc=5",
@@ -288,10 +276,22 @@
           "pubDate": "Sun, 23 Aug 2026 05:00:00 GMT"
         },
         {
+          "headline": "코스피, 삼전 대규모 주주환원 기대에 상승…6,900선 회복(종합)",
+          "source": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9UUWZWVG1NeU83YXZta1AtMXdWV0pZZnBiR2UxOG5EVi1MZXJPYzBCSlN3NzAzUG9FdC1mZlR5SWZkSEJZWTRIYlhjM1d3WVU?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 07:09:50 GMT"
+        },
+        {
           "headline": "코스피 회전율 연중 최저…삼전닉스 자사주 매입이 증시 활력 반전 이끌까",
           "source": "뉴시스",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9obFU1WUd6OTJCWGlFOU94RmtwNVBwal9kX0l0eEt2RzYzdnBRVHlwUWRfaXFmNXQ2MEo5ZExleXBDMFZSaktYQkZnc1I3TmItMHhHTm5ha01hVFZHYWF0VNIBeEFVX3lxTE81MjJ6LW4xQWl1aERSeFlIMndNSzNpUmd3YlE5MV83SXpJUFpnOUIzbUVNVEF1VFlfeS1xbC1HeXZCZGw5NmhoalJlQTk0em9FTjVpbmZ4a1FiaXhaMUtqdVRxdjFjaVFDSGRtX0V0YkR4aUN6Tk00VA?oc=5",
           "pubDate": "Sun, 23 Aug 2026 01:29:30 GMT"
+        },
+        {
+          "headline": "\"코스피 빠져도 얘들은 간다\"…지금 눈여겨 볼 '알파' 6종목 [주末머니]",
+          "source": "아시아경제",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RU0toQXdiSTlqU3NJLTI2N0QwRUZQTmdnUUFHUHFFalI2SlBQeEF0UWhDaHJDYkFFc2laQUgwSzAtNE83WTBIX3RGZWNwSlVCUVV2cV9YRVlkUlZtRkc2Uw?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 23:53:00 GMT"
         },
         {
           "headline": "코스피 여전히 저평가?...대신證 “반도체가 지수 반등 이끌 것”",
@@ -606,12 +606,6 @@
           "pubDate": "Sat, 22 Aug 2026 14:20:44 GMT"
         },
         {
-          "headline": "엔비디아 NVDA",
-          "source": "데일리바이트(DAILY BYTE)",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kWGE4S29ZbVJMT2dTZE9Xci1oTUxPUi1WSmFEbGdmYWdRNWNLQVV2SkNGVzJHenhsYkhld2otZHpES2QyTW0zbGVmRmdRNnVWZVZ0ajBUWE0yV21xY2VpUDhiSDBTMmJ0OFBF?oc=5",
-          "pubDate": "Tue, 18 Aug 2026 17:00:51 GMT"
-        },
-        {
           "headline": "中, 엔비디아(NVDA.O) H200 소규모 반입 허용…바이트댄스·텐센트에 1만개씩 확보",
           "source": "알파경제",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBrU1Z3MU5FZ1hmM0RNeUIyNUxfWFVnaWtFZm1TT2RRYlBvTjlKOWl0Q2hpX25LTmdkTXdqeFNJdTdTdmhZS0RrTTZ1RFR2Sk5FeUNOS0x1NWNjaFdUUzI0YkRrM2wtVFJNV1Y3c1dn?oc=5",
@@ -622,6 +616,12 @@
           "source": "코인리더스",
           "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5SenAxeDc2SkVhRENoTkhzX0pxSWtCbHEwc2cybVBVdFpmR3RlUGptejhZZFhBYkNHcGlWeHYySDliYTZaV0NQdENR?oc=5",
           "pubDate": "Fri, 21 Aug 2026 01:10:00 GMT"
+        },
+        {
+          "headline": "엔비디아(NVDA), 로봇과 물리 AI 생태계 중심으로 확장 중",
+          "source": "simplywall.st",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdFV2V3FzOUF6T2xDNEw5eTdmbWhobG5rZzdyMnJHQVlmSllPb3dUdnkxQTluQ2RvUW5PTG1PWEJWemZjQTNDc2N3MV82Um1JX3ZaeVlkVFBuYk1XRXlrRXRBVHZCQzY3bkNkeEtHSTdkVWtGRlBMSExUdDVJcGd3VGtSeU83RlhNZmREZTFjanJLbUgtMXBnT05n0gGaAUFVX3lxTE90VXZXcXM5QXpPbEM0TDl5N2ZtaGhsbmtnN3IyckdBWWZKWU9vd1R2eTFBOW5DZG9Rbk9MbU9YQlZ6ZmNBM0NzY3cxXzZSbUlfdlp5WWRUUG5iTVdFeWtFdEFUdkJDNjduQ2R4S0dJN2RVa0ZGUExITFR0NUlwZ3dUa1J5TzdGWE1mZERlMWNqckttSC0xcGdPTmc?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 02:39:04 GMT"
         }
       ]
     },
